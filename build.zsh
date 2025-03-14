@@ -55,6 +55,7 @@ for cmd ( tojson tolatex topdf tobooklet ) {
   ${(@P)cmd}
 }
 
+cp -v ${src}/index.html ${out}/
 cp -v ${intermediates} ${out}/
 cp -v story.pdf ${out}/'Dungeons & Gardens.pdf'
 cp -v story_booklet.pdf ${out}/'Dungeons & Gardens (Booklet).pdf'
