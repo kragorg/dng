@@ -19,58 +19,11 @@ jobs:
         nix_path: nixpkgs=channel:nixos-unstable
     - name: Build with Flake
       run: nix build .
-    - name: Upload Build Result
-      uses: actions/upload-artifact@v4.6.1
-      with:
-        name: dng
-        path: result
-    - name: Create index.html
-      run: |
-        mkdir -p public
-        cp -r result/* public/ || true
-        echo '<!DOCTYPE html>
-        <html lang="en">
-        <head>
-          <meta charset="UTF-8">
-          <meta name="viewport" content="width=device-width, initial-scale=1.0">
-          <title>Dungeons and Gardens</title>
-          <style>
-            body { font-family: system-ui, -apple-system, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
-            h1 { color: #2c3e50; }
-            table { width: 100%; border-collapse: collapse; }
-            th, td { padding: 10px; text-align: left; border-bottom: 1px solid #ddd; }
-            th { background-color: #f2f2f2; }
-            tr:hover { background-color: #f5f5f5; }
-            a { color: #3498db; text-decoration: none; }
-            a:hover { text-decoration: underline; }
-          </style>
-        </head>
-        <body>
-          <h1>Dungeons and Gardens</h1>
-          <p>Table of Contents</p>
-          <table>
-            <tr>
-              <th>File</th>
-              <th>Last Modified</th>
-            </tr>' > public/index.html
-        
-        # List all files and add them to the index
-        find public -type f -not -name "index.html" | sort | while read file; do
-          filename=$(basename "$file")
-          relpath=${file#public/}
-          modified=$(date -r "$file" "+%Y-%m-%d %H:%M:%S")
-          echo "<tr><td><a href=\"$relpath\">$filename</a></td><td>$modified</td></tr>" >> public/index.html
-        done
-        
-        echo '
-          </table>
-        </body>
-        </html>' >> public/index.html
     - name: Deploy to GitHub Pages
       if: github.ref == 'refs/heads/main'
       uses: JamesIves/github-pages-deploy-action@v4
       with:
-        folder: public
+        folder: result
         git-config-name: Kragor Grimstride
         git-config-email: kragorg@github.com
         token: ${{ secrets.GITHUB_TOKEN }}
