@@ -5,8 +5,8 @@ export TEXMFHOME=${HOME}/texmf
 export LUA_PATH="${src}/?.lua;;"
 
 mkdir -p ${out}
-mkdir -p "$(kpsewhich -var-value TEXMFHOME)/tex/latex/"
-cp -r ${dndTemplate}/* ${TEXMFHOME}/tex/latex
+mkdir -p ${TEXMFHOME}/tex
+ln -s ${dndTemplate} ${TEXMFHOME}/tex/latex
 
 inputs=( ${(Q)${(z)markdown}} )
 inputs=( ${(oi)inputs} )
