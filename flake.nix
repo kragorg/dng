@@ -16,20 +16,28 @@
       system:
       let
         pkgs = nixpkgs.legacyPackages.${system};
-        dungeons-and-gardens = pkgs.callPackage ./package.nix { };
+        dndbook = pkgs.callPackage ./dndbook.nix { };
+        dndtex = pkgs.callPackage ./dndtex.nix { inherit dndbook; };
+        dungeons-and-gardens = pkgs.callPackage ./package.nix { inherit dndtex; };
       in
       rec {
         packages = {
-          inherit dungeons-and-gardens;
+          inherit dndbook dndtex dungeons-and-gardens;
           default = dungeons-and-gardens;
         };
         devShells = {
           default = pkgs.mkShell {
-            nativeBuildInputs = with pkgs; [
+            name = "dungeons-and-gardens-shell";
+            shellHook = ''
+              export src="$PWD";
+              export markdown="${dungeons-and-gardens.markdown}";
+            '';
+            packages = with pkgs; [
               nixfmt-rfc-style
               pandoc
               rclone
-              texliveFull
+              dndbook
+              dndtex
             ];
           };
         };
