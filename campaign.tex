@@ -1,0 +1,1323 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+  12pt,twoside,twocolumn,openany,nodeprecatedcode]{dndbook}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\newfontfamily\gillius{GilliusADFNo2}[NFSSFamily=GilliusADFNoTwo-LF]
+\geometry{footskip=40pt}
+\sloppy
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{}
+
+\begin{document}
+
+\chapter{Dungeons \& Gardens}\label{dungeons-gardens}
+
+\DndDropCapLine{T}{he salt spray stings your faces} as the longship
+grinds against the icy pier of Palebank Village. The groan of
+splintering ice mixes with the cries of gulls and the shouts of
+dockworkers bundled in furs. Palebank Villages greets you with a blast
+of frigid air, a stark contrast to the relative warmth of the southern
+seas you've left behind. The sky above is a perpetual grey, heavy with
+the promise of more snow.
+
+You've endured weeks at sea, braving treacherous currents and icy
+squalls aboard the \emph{Frostwind}, a sturdy, if somewhat cramped,
+longship captained by the weathered and taciturn Jarl Stonebeard. The
+journey itself proved more than just a test of sea legs; it was during
+those long, monotonous days and nights that your paths first crossed.
+Over shared meals of salted fish and hardtack, huddled around the meager
+warmth of the ship's brazier, you discovered a shared purpose beneath
+your disparate backgrounds. Perhaps it was a whispered conversation
+overheard in the galley, a chance encounter on deck under the pale
+moonlight, or a late-night debate in the cramped crew quarters, but you
+each realized you were drawn north by the same alluring whispers: the
+rediscovery of Aeorian ruins, remnants of a lost civilization swallowed
+by the Frostfell. Tales of lost cities and powerful artifacts have
+spread like wildfire, carried on the winds and traded in taverns from
+the Menagerie Coast to the shores of Wildemount. These stories have
+lured explorers, scholars, and fortune-seekers alike to this desolate
+land, and fate, or perhaps something more, has brought you together on
+this shared voyage.
+
+Palebank Village, a ramshackle collection of wooden buildings huddled
+against the harsh landscape, serves as the primary gateway to the frozen
+Island of Eiselcross to the North. Here, amidst the bustle of fur
+traders, fisherfolk, grizzled explorers, shady mercenaries and hopeful
+fortune-seekers, you disembark. The air is thick with anticipation, a
+palpable sense of excitement mixed with a healthy dose of apprehension.
+The promise of uncovering lost knowledge, powerful magic, and perhaps
+even unimaginable wealth hangs heavy in the air, a beacon in this frozen
+wilderness. But the frozen shores of Eiselcross hold many secrets, and
+the ruins of Aeor are guarded by more than just ice and snow. Ancient
+dangers stir beneath the frozen surface, and the secrets you seek may
+come at a terrible price. Your journey into the heart of Eiselcross
+begins now, the moment your boots touch the frozen ground.
+
+\chapter{Welcome to Palebank Village}\label{welcome-to-palebank-village}
+
+\DndDropCapLine{I}{n the frosty expanse of the} colder reaches of
+Wildemount, in the Greying Wildlands south of the Islands of Eiselcross,
+lay the haphazard cluster known as Palebank Village. It was a place more
+cobbled together than planned, with just over a hundred cabins and
+shacks pressed against the northern cliffs that rose a mere fifteen feet
+against the lapping rhythms of the icy harbor waves. The docks, busy
+with the absence of departing ships, whispered tales of neglect and
+wariness.
+
+On this frigid day, the village was subdued, gathered in mournful
+procession for the unfortunate Urgon, a dwarven adventurer whose final
+journey was to the graveyard west of the harbor. There, encased in a
+casket more suitable for a relic than a beloved friend, he lay suspended
+in a state of frozen eternity. Villagers whispered tales of his return
+from a year-long venture into Eiselcross, burdened with treasures and a
+chilling affliction. Despite countless efforts, Urgon could never find
+warmth. Eventually, blue streaks marred his pallor, snaking through his
+veins, until his entire being succumbed to the grip of frost.
+
+We followed the procession, taking note of the landscape dotted with
+quaint inns and supply shops. Amongst the mourners stood a weathered elf
+adorned with the insignia of a ``Glassblade''. Introducing himself as
+Elro, he shared that the usual voyages to Aeor had ceased; a silent
+testament to the mystery shrouding Urgon's demise. Elro sought our help
+in unveiling the source of this insidious curse, admitting that Urgon's
+home remained unexplored.
+
+Word reached us quickly that another villager named Tulgi was showing
+similar symptoms---her fate seemingly entwined with Urgon's.
+Fortuitously, their cabins stood in proximity.
+
+\section{Beer with the Locals}\label{beer-with-the-locals}
+
+In the heart of the village, a jovial dwarf Bortock tended bar at the
+local tavern. Elara, ever inquisitive, engaged Bortock in conversation
+about Urgon's recent exploits. A night's rest was negotiated---two rooms
+for eight silver pieces---before being served beer by the bucket and a
+meal of squid rolls.
+
+Bill, a stalwart Glassblade at one of the tavern tables, emphasized that
+due to the danger of the curse, all boats were being warned off from
+Palebank's docks. Meanwhile, we learned Tulgi was a solitary trapper,
+her life a mystery to most.
+
+\section{The Cabins of Urgon and
+Tulgi}\label{the-cabins-of-urgon-and-tulgi}
+
+With this knowledge, we ventured to Urgon's cabin where another Glass
+Blade vigilantly stood post. Halite led us inside, where chaos had left
+its mark. The mounted head of a snowy beast with grey horns seemed to
+have overseen the search. Books were strewn about, gear tossed aside as
+if someone had been desperately seeking something. Scarlet's keen eyes
+caught sight of a grappling hook, swiftly claiming it. Meanwhile, with a
+sharp mind for details, Halite, discovered a receipt within a book.
+Dated two months prior, it recorded the sale of Aeorian items at the
+local Pelc's Curiosities for a handsome sum of one thousand gold pieces.
+Among the items: a dagger, a scroll case, a jade statue, a quiver of
+arrows, a jasper-set silver ring, and two blue glass vials.
+
+Our eyes traced tracks leading to Tulgi Lutan's snow-burdened cabin. The
+warmth of a fierce fire belied the untouched exterior and shuttered
+windows. Scarlet's knock brought a curt response, followed by Elara's
+soft words which coaxed the door open. Tulgi's face, marked by the same
+blue streaks that had doomed Urgon, was a testament to her shared
+affliction. She admitted her illness, confessing she and her sister
+Hulil, newcomers from Shady Creek Run, were in league with a crime
+syndicate. They had been sent to pilfer Aeorian treasures. It was they
+who had ransacked Urgon's home, and Tulgi who now surrendered a finely
+wrought dagger into Kragor's keeping.
+
+She said that her sister Hulil held the remainder of the treasures in
+Croaker Cave, though Tulgi hadn't seen her in weeks.
+
+\section{Onward}\label{onward}
+
+With our next destination clear, we hiked to Pelc's Curiosities. We
+found the shop marked by a dragon-gilded ``P'' where the front door
+sagged invitingly open, beckoning us into the next chapter of this
+unfolding tale.
+
+\chapter{Pelc's Curiosities}\label{pelcs-curiosities}
+
+\DndDropCapLine{T}{he party stands outside Pelc’s} Curiosities, the door
+slightly ajar. Suspecting intruders, Whisper closes her eyes while
+softly purring ``Maior et Fortior''. The air around her shimmers
+momentarily as she draws on her inner ki in concentration. She then
+peers into the doors and the windows of the building. Despite her
+efforts, she cannot make out very much, though she hears enough rustling
+to make her hairs bristle. It sounds as though there are several inside
+ransacking the place. Scarlet joins Whisper's investigation, attempting
+to divine whether the noises might simply be animals, yet she senses no
+wildlife inside.
+
+Preparing for potential conflict, Kragor stands up straight and
+stretches out his arms as if to grasp a weapon. In a loud yet distant
+voice he exclaims ``Malleum Evoco''. Suddenly ethereal shadows stream in
+from all directions and coalesce into an obsidian black war hammer with
+an angular and brutal head. Its every surface is etched with subtle
+twisting runes. Kragor hefts the weapon with both hands, then widens his
+stance with feet planted firmly on the ground.
+
+The goliath Halite likewise readies himself, his massive frame towering
+above even Kragor. With deliberate, practiced movements, he adjusts his
+gleaming bronze shield, its surface etched with intricate clan markings.
+In one enormous hand he carefully grips his trident, its three wickedly
+barbed prongs designed not just to pierce, but to tear and rend flesh.
+The trident promises not just death, but a savage, lingering demise.
+
+\section{Surprise}\label{surprise}
+
+Inside Pelc's Curiosities lie the answers to the freezing curse. Anxious
+for action, Elara takes a deep breath, tapping into her well of magic.
+Her fingers trace the air, summoning the rhythm of a battle drum. Her
+magic ignites, sending an illusory racket echoing from within the shop's
+shadowed walls. Startled into silence, the adversaries within hold their
+breath, their schemes momentarily unraveled. As Whisper crouches beside
+her, he senses the tension mounting. Without warning, a crossbow bolt
+whistles past, narrowly missing him. Elara's calculated ruse works,
+urging their foes to react blindly. The door slams shut, a temporary
+barrier between them and danger.
+
+``So much for the element of surprise,'' mutters Kragor.
+
+Undeterred, Elara shoulders the door open again. Darkness seeped around
+her like ink in water, yet her keen eyes, accustomed to shadow,
+discerned the outlines of two startled bandits amid the cluttered ruins
+of the shop. Ancient relics lay strewn about like casualties of an
+invisible war; toppled bookshelves and shattered relics spoke of a
+hasty, chaotic search.
+
+The bandits, their nerves frayed by Elara's eerie magic, released their
+crossbow bolts in a jittery frenzy. The bolts missed their marks,
+striking harmlessly against worn brick and aged wood. Assessing the
+chaotic tableau before her, Elara hesitated; caution whispered in her
+ear, suggesting a withdrawal from direct assault into strategic retreat.
+
+\section{Inspiration and Fog}\label{inspiration-and-fog}
+
+She retreated to her waiting comrades, her mind spinning a fresh
+tapestry of strategy. Checking again her surroundings, Kragor meets her
+gaze with a blend of curiosity and gruff admiration. Her eyes locked
+with his, and in that silent exchange, understanding was born. Elara
+struck her hand drum, each beat a pulse of power transmitted through the
+air, wrapping around Kragor like a cloak of inspiration. The rhythmic
+symphony reignited his focus, sharpening his spirit for the clash ahead.
+
+But as this is happening, Scarlet quickly reacts. ``Voco Nubes!'' she
+bellows while raising her gnarled staff to the sky. Her eyes close in
+concentration as she summons nature's veil. Wisps of mist curl around
+her fingers before surging toward the building. The vapor seeps through
+cracks and under doorways, expanding rapidly into a dense, swirling fog
+that blankets the room. The once-clear space becomes an opaque, ethereal
+haze, obscuring vision and muffling sound. The druid smiles, knowing the
+shrouded interior will confound any occupants, granting her allies the
+advantage they seek within the murky cover of the fog cloud. She wastes
+no time taking advantage of it herself: she sneaks into the building and
+hugs the wall, moving to the right. She can hear others moving inside as
+well, but can make out nothing through the fog.
+
+\section{First Blood}\label{first-blood}
+
+Watching one of his allies attacked and another diving into the fog and
+what must certainly be mortal danger, Kragor strains to think. He feels
+like a sitting duck outside with obscured enemies inside, ready to make
+a pincushion out of him with their crossbow bolts. Taking a deep breath
+to overcome his fear, he too rushes through the doorway into the
+shrouding fog, gripping his massive conjured war hammer tightly. Unable
+to see, he positions himself protectively before where he believes
+Scarlet to be, straining to detect any threats hidden in the mist. A
+sudden noise to his left spurs him into action. He swings wildly, the
+war hammer arcing through the air, and feels a heavy impact followed by
+a muffled crunch. The enemy's body collapses to the ground with a
+lifeless thud.
+
+\section{The Roof}\label{the-roof}
+
+Outside, Whisper's sharp tabaxi senses are attuned to every movement
+around her. As her gaze sweeps upward, it catches upon an unexpected
+anomaly: a crouched form perched on the rooftop. Though the figure's
+features are obscured by distance, their posture is a tapestry of
+uncertainty, a riddle waiting to be unraveled. Without hesitation,
+Whisper draws upon her innate agility, launching herself up the
+building's facade, her movements a dance of precision and power. Within
+moments, she alights upon the roof beside the puzzled figure. As she
+closes in, a momentary clumsiness intrudes upon her fluid motion; her
+limbs entangle with the figure in a grapple that is awkward but
+surprisingly effective. Despite the ungraceful tangle of arms and legs,
+her determination holds fast, securing her quarry beneath the vast blue
+sky. The figure, now clearly a rogue based on their dark attire and
+tools of the trade hanging from their belt, desperately attempts to free
+themselves from Whisper's grasp, to no effect.
+
+\section{Counterattack}\label{counterattack}
+
+Halite now grasps the perilous choice the party has made in their
+recklessness. With a fierce resolve etched in the hard lines of his
+goliath visage, he charges through the fog-choked doorway, instinctively
+veering left to secure the flank opposite Scarlet and Kragor. The mist
+clings to him, a shroud of uncertainty, yet he moves with the confidence
+of one accustomed to the unseen. A bandit lunges at him, the attack a
+mere whisper of danger that dissolves into emptiness. Seizing the
+opportunity, Halite's fingers tighten around his trident, that harbinger
+of despair. With an expert thrust, the weapon slices through the fog,
+hungry for blood. It strikes true, embedding itself deep within the
+bandit with a sickening resistance, as though the weapon savored its
+work. Halite has to struggle to wrench it free from the bandit with raw
+power, the action accompanied by a dreadful noise that the fog quickly
+absorbs.
+
+While recovering his favored weapon, Halite hears the ``whoosh'' of a
+crossbow bolt. He flinches, but he is not the target. He hears Kragor
+cry out in desperate pain.
+
+The bolt had struck Kragor just below the collarbone, close to his
+heart. Blood flows unchecked, staining his leather armor.
+
+Seconds later, another bolt pierces Scarlet and a sharp pain flares
+beneath her ribs. Blood seeps into her cloak, mingling with the forest's
+earthy scent.
+
+\section{Rogue Fall}\label{rogue-fall}
+
+Whisper, poised at the edge of the rooftop's precipice, maintains a firm
+hold on the rogue. Despite the rogue's cunning and agility, he struggles
+to free an arm to launch a counterattack with his dagger. Nevertheless,
+Whisper's sharp claws and expert grip keep him securely restrained.
+Beneath her, the store's chaos swirls, a symphony of survival and
+sorcery; each cry, each clash a note struck sharp in the chord of battle
+below. Her decision solidifies with the clarity of ice forming,
+abandoning subtlety for swiftness. With a sudden, fluid ferocity, she
+thrusts the entangled rogue from the roof, the figure plummeting and
+landing with a sickening thud upon the hard earth. The world contracts
+around her as she vaults down, feline grace reclaiming momentum in
+mid-air, her heart a steady drumbeat beneath her silken fur. She lands
+silently, flowing through the doorway like a stream of midnight water
+into the tempest of friend and foe, ready once more to thread her
+prowess into the weaving of combat's fierce tapestry. The thrown rogue,
+battered and broken, lies forgotten amidst the rubble.
+
+Elara is startled by Whisper's sudden reappearance. Despite this, she
+remains focused on the building, her senses registering enough to grasp
+that her companions are in grave danger. She urgently calls out to
+Scarlet, telling her to dispel the fog cloud, which Scarlet promptly
+does. Without hesitation, Elara rushes to join her and Kragor inside.
+Whisper follows but pauses in the doorway, alert for threats inside or
+out.
+
+\section{Medic!}\label{medic}
+
+Surveying Scarlet and Kragor's injuries, she quickly assesses that
+Kragor's condition is more critical. She places her hands gently on the
+grievous puncture wound left by the crossbow bolt, her touch glowing
+with divine energy. The healing light rapidly closes the wound,
+restoring vitality to his mottled green-gray skin. Kragor, caught off
+guard yet deeply appreciative, meets Elara's kind gaze, and a silent
+bond is forged between the orc and the aasimar.
+
+\section{Final Blows}\label{final-blows}
+
+As Elara is tending to Kragor, Scarlet runs towards a nearby bandit that
+is just now orienting themselves after the fog dispersed. Eyes glowing
+with untamed magic, Scarlet calls upon nature's wrath. With a fierce,
+primal incantation, her fingertips elongate into razor-sharp claws,
+dripping with corrosive acid. In a swift motion, she lashes out, and her
+savage strike lands true. The bandit staggers back, pain etched across
+their face as the toxic claws rend through leather and flesh, leaving a
+searing wound. The druid's usually gentle demeanor is momentarily
+overshadowed by raw, feral power, as the bandit teeters on the brink of
+defeat, humbled by nature's unforgiving might.
+
+Halite steps forward with a grim determination, his massive form casting
+a foreboding shadow over the bandit struggling to stay upright from
+Scarlet's fierce attack. With a swift and fluid motion defying his
+immense size, Halite shifts his weight back, then lunges forward with an
+uppercut trajectory. It pierces through the air with a whistling sound,
+meeting the bandit's chest in a visceral collision. The force of the jab
+lifts the bandit off his feet momentarily, his final gasp cut short by
+the weapon's deadly embrace. Life flickers out of his eyes, and the limp
+body slides down the trident's length. Halite grimaces, more out of
+reflex than malice, as he shakes the bandit free with a swift, practiced
+motion, the lifeless form dropping to the ground with a thud.
+
+Now sufficiently recovered to rejoin the battle, Kragor focuses his
+attention on the bandit far across the room that he suspects of shooting
+him. Although he can't be sure of the bandit's guilt, he raises his war
+hammer toward his target and shouts, ``Te Exsecro!'' The air shimmers
+with malevolent energy as a cold, dark aura coils around the bandit like
+an invisible serpent. Without hesitation, Kragor follows with another
+spell, yelling ``Dolor,'' and unleashes a surge of eldritch energy from
+his war hammer that strikes the bandit square in the chest. The impact
+of the blast results in an ugly wound. Immediately, shadowy tendrils
+twist and curl over the shredded flesh causing it to blacken and
+crumble, leaving the bandit teetering on the brink of death.
+
+\section{Surrender}\label{surrender}
+
+Halite, his towering form casting an imposing shadow across the
+cluttered interior of the ransacked antique shop, moved with purpose
+toward Kragor's target: a bandit whose bravado had been seared away by
+the crackling energy of the orc warlock's magic. The air still shimmered
+with the fading traces of arcane power, and the bandit, already on the
+brink of collapse, could only watch as the goliath fighter closed the
+distance between them like an inexorable force of nature.
+
+The trident in Halite's grip gleamed with an unsettling menace, its
+barbed points promising a swift and painful end should it be called upon
+to deliver one. The bandit, a mere lithe elf in the presence of such
+formidable warriors, felt the weight of his own mortality for what
+seemed like the first time. His sword clattered to the wooden floor, a
+hollow sound that resonated through the shop, punctuating his surrender.
+
+``I yield,'' the bandit croaked, his voice strained with fear and
+desperation. He raised his hands, palms open and empty, a universal sign
+of capitulation. His eyes darted to his remaining comrade, wide with
+silent urging.
+
+The last standing bandit, who had watched the battle unfold with growing
+dread, knew the odds all too well. He had witnessed the fate of their
+fallen companions---three already dispatched with ruthless efficiency by
+the duo of Kragor and Halite. The decision was not a difficult one.
+
+He dropped his own weapon, a well-worn crossbow, to the floor and raised
+his hands above his head in submission. ``We don't want anymore
+trouble,'' he said, his voice carrying a tremor that matched the frantic
+beating of his heart.
+
+Kragor surveyed the scene, his eyes, glowing faintly with residual
+magical energy, meeting Halite's. An unspoken understanding passed
+between them---this victory, as hard-fought as it was, did not need to
+claim further lives.
+
+With the tension of combat beginning to ebb, the antique shop's air felt
+still, though the echoes of the skirmish lingered. Surrounded by
+overturned furniture and scattered relics of a bygone era, the bandits'
+surrender marked the end of the struggle, their lives spared by the
+mercy of those far mightier than they.
+
+Whisper, having ensured the rogue she tossed from the roof was no longer
+a threat, finally entered the antique shop and closed the door behind
+her. As she did, the rogue moved to a crouched position around the
+corner, relieved that his theatrics had been successful. Intending to
+enter the building when the coast was truly clear, he remained vigilant,
+pressing his ear to the cool glass of the window to eavesdrop on the
+victorious adventurers.
+
+\section{Interrogation}\label{interrogation}
+
+Elara and Scarlet eyed the bandits with intensity, their curiosity
+piqued by the confession of surrender. ``Who are you and what were you
+doing here?'' Elara demanded, her voice steady yet demanding answers.
+
+The first bandit, regaining a bit of composure but still visibly shaken,
+replied, ``We were sent by Hulil, a priestess of Tiamat. She instructed
+us to search this place. Two months ago, there was a robbery here, and
+now Hulil's got this strange freezing sickness. She hoped we might find
+a clue here in the shop. But we found nothing.''
+
+Scarlet's gaze remained firm as she pressed further, ``Then why did you
+attack us?''
+
+A hint of embarrassment colored the bandit's cheeks. ``We were spooked.
+We heard some weird noise, then you guys barged in. Especially that
+chick with a horn on her head,'' he gestured toward Elara. ``We
+panicked. We're not used to dealing with people like you.''
+
+In the meantime, the rogue outside, crouching below the window, absorbed
+the exchange, piecing together the dynamics at play.
+
+Scarlet produced a weathered receipt with notations about Aeorian
+artifacts and presented it to the bandits. ``Have you seen these
+items?''
+
+``They're with Hulil,'' the bandit admitted reluctantly, his eyes on the
+documentation with evident recognition. ``She's at Croaker's Cave,''
+confirming what the party had already learned from Hulil's sister,
+Tulgi.
+
+Satisfied with the information, Kragor dismissed the subdued bandits in
+no uncertain terms: ``Leave everything and get out.'' Seizing their
+chance, the bandits quickly discarded their weapons and coins before
+hurrying for the door, the rogue outside remaining concealed until the
+coast was truly clear.
+
+\section{Loot}\label{loot}
+
+After searching the bandits' leavings and their late compatriots'
+bodies, the party tallied the loot: 14 gold pieces, eight silver pieces,
+five crossbows, 30 bolts, five scimitars, and a dwarf-sized shirt
+blazoned with ``Scanlan Shorthalt --- The Meat Man Cometh''. (Elara
+judged this last item to be a rare find and might fetch as much as two
+gold pieces.)
+
+The party then turned to the antique shop, assessing the chaos that
+engulfed it. The room was in disarray, bookshelves overturned and
+trinkets strewn about. Amidst the disorder, they stumbled upon a
+chilling sight---a frozen elf lying lifeless in bed. It was Verla Pelc,
+and the grim discovery confirmed that the place had not seen tidiness
+for weeks.
+
+In a thorough inspection of both the shop and the dead bandits'
+belongings, they discovered two bows and various odds and ends. Deciding
+a respite was in order, they planned to rest before heading to Croaker
+Cave.
+
+\section{Who is this guy?}\label{who-is-this-guy}
+
+Unbeknownst to the adventurers, the rogue remained vigilant, listening
+to their intentions and preparing to bide his time until they left.
+
+\chapter{Secrets of Croaker Cave}\label{secrets-of-croaker-cave}
+
+\DndDropCapLine{T}{he party retraces their steps} to the \emph{Jolly
+Dwarf}, where warmth greets them like an old friend. As the tavern's
+door swings open, hearth light flickers along the walls, merging with
+murmurs and the clinking of mugs. After a day of skirmishes, they retire
+to modest rooms, voices still echoing with plans.
+
+Morning in Palebank Village dawns with a crisp, biting air. Frost clings
+to windows, and the adventurers rise at half-past seven. Below, a kettle
+hisses, and the aroma of breakfast fills the inn. Unusually quiet due to
+the port's closure, the inn has only one family--- a weary pair of men
+with twin tiefling girls--- depart, the door framing their retreat in
+the morning light.
+
+Bortock, the innkeeper, greets them cheerily. ``Elro was around last
+night, looking for you lot,'' he says, ``He'll be back soon for news.''
+
+As Halite asks about Croaker Cave, Bortock's expression shifts subtly to
+one of caution. ``Croaker Cave, you say? They call it that for good
+reason--- the croaks of giant ice frogs echo from there, a sound that'd
+chill your bones if the cold hadn't already. None of the village folk
+dare set foot inside. They know where to find it, sure, but it's an
+unspoken rule here: no one goes into that cave.''
+
+Taking a seat, the party enjoys breakfast--- warm bread, stew, and fish;
+a bargain at only five silver pieces--- while Kragor inquires about
+Hulil, Tulgi's sister. Bortock scratches his beard thoughtfully, his
+eyes narrowing as he sifts through what bits of information he
+possesses. ``Ah, Tulgi,'' he begins slowly, weighing his words. ``Can't
+say I knew she has a sister. These folks from Shadycreek Run--- always a
+tangled web with them. Their kin aren't exactly welcome in Palebank.
+Suspicion tends to follow their kind.''
+
+Ever the pragmatic, Kragor poses another question: ``What about healing
+potions? Do you know where we might procure some?''
+
+Bortock advises, ``Try the docks. There's an old elf woman, Gramini, she
+sells them. Pricey, but worth it.''
+
+As breakfast concludes, Elro joins them, concern in his eyes. Scarlet
+updates him on their findings: connections between Tulgi, Hulil, and the
+village's affliction, and the tragic fate of Verla from Pelc's
+Curiosities. Elro nods, confirming suspicions about the Shadycreek Run
+families. News of dispatched bandits lightens his demeanor. ``Less to
+worry about,'' he says, intending to send his men over to shop to clean
+up.
+
+Still curious about their next venture, Whisper inquires, ``What makes
+Croaker Cave particularly dangerous?'' Elro turns towards her, his gaze
+steady. ``It's the giant ice frogs. Those are the reason folks steer
+clear.''
+
+Scarlet, drawing from her vast trove of natural knowledge, leans
+forward. ``How large are these frogs?'' she asks.
+
+``About the size of a large wolf,'' Elro replies, conjuring a vivid
+image in their minds.
+
+Scarlet nods, familiar with their temperate climate counterparts. She
+addresses the party. ``I recall they aren't venomous, but they can
+certainly swallow a person whole. Their stomach acid dissolves their
+prey, and while they're smarter than regular frogs, they're not what you
+would call cunning. I knew a teacher once who kept one as a pet.''
+
+Before departing, Elro implores, ``Root out those Shadycreek folks. The
+village would owe you greatly.''
+
+The party, girded by Elro's trust and responsibility, reflects on the
+tapestry they are unraveling--- a tapestry that now leads them to the
+hidden depths of Croaker Cave and the shadows lurking within.
+
+\section{Adventuring is hard, let's go
+shopping}\label{adventuring-is-hard-lets-go-shopping}
+
+Braving the biting cold, our adventurers reach the docks--- a sprawling
+network of paths and shanties, each whispering tales of a bygone era.
+They navigate these lanes, finding the shack they seek: a dilapidated
+structure with an askew ``Goods for Sale'' sign dangling overhead.
+
+Elara steps forward as the negotiator. Halite opens the door, releasing
+the tinny clang of a bell. Inside, flickering firelight reveals shelves
+groaning under the weight of indescribable trinkets. Behind the counter
+emerges a wizened elf whose blue scarf and loose coat defy the chill
+that seeps through the shack's walls. Her eyes, sharp despite her age,
+study the newcomers with cautious curiosity.
+
+``Well, well, what's this? Adventurers, by the look of you.'' Her voice,
+both raspy and warm, mirrors the fire's flicker. ``What brings you here?
+Looking for trinkets, or is it something more substantial?''
+
+Elara approaches, broaching the need for potions. ``You must be Gramini.
+We seek anything to combat the freezing illness cursing this village.''
+
+The woman's expression shifts, a glint of sympathy mixing with
+practicality. ``Ah, if you mean Urgon's ailment, that mystery is beyond
+my humble potions. But I have supplies for those brave enough to venture
+to Eiselcross. Dangerous place, that is.''
+
+She presents four health potions. ``Usually 60 gold apiece, but business
+has been slow lately. I'll sell them for 50 each.''
+
+Seeing an opening, Elara leans in. ``Could you let them go for 30 each?
+The road ahead is perilous.''
+
+Gramini chuckles, a sound steeped in kindness and shrewdness. ``Below
+cost, Sweetie? But you've got charm, I'll give you that. Alright, 48
+each. A gesture of goodwill.''
+
+The negotiation leaves Elara hopeful. With business nearing conclusion,
+curiosity tickles her again. ``Heard any tales or warnings of late,
+Gramini?''
+
+Leaning back, the old elf sighs. ``Troubling times, indeed. The port's
+closed--- no ships. Palebank seems to hold its breath, waiting for a
+storm to pass.'' Her voice drops to a whisper, eyes locking with
+Elara's. ``That freezing disease, eating at the core. Aeor is where its
+dark magic likely thrives. Everything from that land carries a cost,
+mark my words.''
+
+Elara then suggests, ``We're short on coin\ldots{} Perhaps a barter?''
+
+Kragor, catching on, brandishes a shirt emblazoned with the name Scanlan
+Shorthalt. Gramini's eyes gleam with recognition. ``Him! I've seen him
+perform.'' Fond remembrance softens her demeanor.
+
+She proposes, ``I'll give you 15 gold off the potions for that.''
+
+Donning the bard's shirt with delight, Gramini is transformed into a
+giddy teenager for a few moments. ``Scanlan was so charming!'' Her
+laughter chimes like a song, sealing the deal.
+
+As the party exits, spirits buoyed, Gramini's unexpected joy lingers, a
+beacon against the looming shadows.
+
+\section{Doctor Pepe}\label{doctor-pepe}
+
+As the party approaches Croaker Cave, they note smoke spiraling upward
+from a natural chimney, etching the sky with its ashen tendrils. Despite
+the spectral warning, the front opening of the cave appears unguarded.
+
+Unbeknownst to them, the rogue that Whisper had previously encountered
+lies in wait, having shadowed the party from Palebank. As they draw
+nearer, he steps free of the forest's embrace, his presence a sudden
+ripple in the serene tableau.
+
+``Hail, Friends! I mean you no harm,'' he calls out, raising his hands
+in a gesture of peace. ``I have something I believe you need to know.''
+
+Scarlet and Whisper exchange glances before fixing their gazes upon the
+rogue. Recognition flickers in Whisper's eyes, a soft chuckle escaping
+her lips as she recalls their prior exchange on the rooftops of Pelc's
+Curiosities. Scarlet's expression is more guarded as she steps forward,
+her tone firm yet open. ``Who are you?'' she demands, her eyes narrowing
+with a blend of caution and curiosity. ``And what do you want?''
+
+The rogue spreads his arms in a gesture of openness. ``Let me introduce
+myself. I am called Doctor Pepe,'' he announces. ``I assure you, I was
+not a party to the bandits you encountered before. Like you, I've been
+drawn into the orbit of this mystery, investigating the source of this
+debilitating disease afflicting the village.''
+
+Kragor steps forward, his bearing equal parts caution and curiosity.
+``Well met, Doctor Pepe. What do you know of this cave?''
+
+``Just before daybreak, I witnessed three cloaked figures enter the
+cave--- a dwarf and two elves, if I'm not mistaken.'' Doctor Pepe's
+eyes, sharp and perceptive, scan the adventurers' faces, gauging their
+reaction. ``Whatever transpires within, it may well relate to the
+affliction that has beset Palebank.''
+
+The party exchanges thoughtful glances. After weighing their options,
+the adventurers come to a shared conclusion. Offering the rouge a nod of
+acceptance, Kragor extends the group's unspoken consensus. ``Then let us
+consider you an ally, Doctor Pepe. Together, we may better contend with
+whatever lies within the heart of Croaker Cave.''
+
+\section{Trepidation's threshold}\label{trepidations-threshold}
+
+As the party assesses the scene at the cave entrance, Elara's sharp eyes
+catch sight of myriad footprints--- heavy and light, large and small---
+tracing paths both in and out of the cavern's yawning mouth.
+
+Gathering in a tight circle, they weigh their options and decide on a
+reconnaissance mission. It is swiftly determined that Doctor Pepe, with
+his keen investigative insights, and Whisper, with her silent grace,
+will venture in to scout the darkness and report back to the group.
+
+To aid them in the shadowy depths, Elara steps forward and gently strums
+her harp, weaving magic through its strings. She sings, ``Sol
+invictus,'' and with her melody, a spare dagger that Doctor Pepe holds
+aloft begins to glow. The light emanating from the blade now serves as
+both a beacon and a ward against the shadows lurking within the cave.
+
+As Doctor Pepe and Whisper step cautiously into the cave, the world
+narrows around them to the soft glow of magical light. The air grows
+cooler, the dampness clinging to their skin like an insistent whisper.
+About ten feet in, they encounter a pool of water, its murky depths
+disturbed only by the occasional ripple from droplets falling from
+above.
+
+Whisper, pausing to scan the area, notes that the ceiling, though ten
+feet high, bristles with stalactites, reducing the navigable space to
+eight feet. The constant drip of water echoes in the chamber, joined
+intermittently by the deep croaks of unseen amphibians. These sounds
+seem to resonate with the very bones of the cave, sending a shiver
+across her fur.
+
+Doctor Pepe, moving with deliberate quiet, approaches the pool's edge to
+gain a better vantage. He squints across the still water, and on the far
+side, he discerns the tip of a wooden beam jutting slightly from the
+shadows. Suddenly he recalls that the three figures he saw entering the
+cave earlier were carrying a beam: this must be the way across.
+
+\section{Ambush}\label{ambush}
+
+Whisper's usual grace falters when she hits a jagged stalagmite,
+unleashing a sharp hiss that pierces the cave's silence. Instantly, the
+murky pool erupts, and two mastiff-sized blue frogs emerge, their slick
+bodies glinting ominously.
+
+One frog leaps at Doctor Pepe, its jaw snapping with ferocious hunger.
+His reflexes, sharp from experience, save him; he sidesteps as its maw
+closes on empty air. But the second frog's attention locks onto Whisper.
+With a sudden lurch, it fastens its jaws around her, seriously wounding
+her. Its coarse tongue feels rough against her fur as it pins her with a
+vice-like grip. Whisper's world constricts around the raw strength of
+the creature, her body momentarily immobilized by the force of its bite.
+
+Her once luxurious fur matted with blood and frost, her breath shallow
+and labored, Whisper summons her inner strength to claw free, leaving
+shallow crimson trails across the frog's blue skin in retaliation.
+
+Outside, Elara leads the party at the cave entrance. ``They're in
+trouble,'' she asserts, urgency lacing her voice. ``We need to move!''
+
+Within, the rhythmic echo of boots suggests more danger is approaching,
+but out of necessity, Doctor Pepe and Whisper remain focused on the
+immediate threat. Doctor Pepe turns his attention to the wounded frog.
+His shortsword pierces its slick flesh, and his dagger follows, sinking
+deep into its massive head. The creature shudders, momentarily stunned.
+
+Recovering quickly, the frog snaps at Doctor Pepe, its powerful jaws
+gripping him tightly. He grunts in pain, fighting against its hold.
+
+Meanwhile, the first frog retreats toward the water, and Whisper's
+retaliatory strike misses. Frustrated yet determined, she attempts to
+help Doctor Pepe, her claws slashing his assailant and drawing blood.
+Realizing she can't endure another attack, she makes a calculated
+retreat, slipping gracefully back to the cave's entrance, trusting that
+Doctor Pepe can handle the encroaching threat momentarily.
+
+\section{Reinforcements}\label{reinforcements}
+
+As Whisper emerges from the cave, Halite quickly gauges the peril, his
+resolve igniting. With swift strides, he charges inside, his trident a
+formidable comfort.
+
+He finds Doctor Pepe still struggling against the frog's relentless
+grip. Halite drives his trident into the creature's side, but its hold
+does not falter. Observing the struggle, Elara weaves a melody with her
+harp, instilling Pepe with courage. ``Remember your agility and
+cunning!'' she calls, the sound of her voice and the vibrations of her
+harp soothing. She then summons the power of the stars, launching a mote
+of radiant energy with precision. The frog releases a guttural croak,
+convulsing under the assault before it releases Doctor Pepe and
+collapses lifelessly into the pool.
+
+Grateful and relieved, Doctor Pepe quickly regains his composure.
+Meanwhile, Kragor taps into his ancestral power, muscles tensing with
+readiness. Yet danger lurks in the shadows. Suddenly, a crossbow bolt
+strikes Doctor Pepe, drawing a pained cry. Another bolt narrowly misses
+Halite, while a third strikes him, but only bruises his resilient skin.
+
+Halite spots the assailants: a dwarf and two elves across the pool,
+crossbows poised. Outside, Scarlet rushes to Whisper's aid, healing her
+with soothing energy. Renewed, Whisper re-enters the cave, her sling
+delivering a precise blow to one of the elves before she again retreats
+gracefully.
+
+Inside, Doctor Pepe, undeterred by pain, fires back with his crossbow
+but misses. Halite steps forward, throwing a javelin that fells the
+injured elf with precision. Elara, considering but deciding against
+leaping across the pool, channels more divine energy, striking the
+second elf squarely. Kragor whispers a curse, dark power seeping from
+his words, then unleashes tendrils of energy that knock the elf into the
+pool's depths.
+
+Frustrated and fearful, the remaining dwarf curses, raising his crossbow
+in desperation. He takes aim at Elara, embedding a bolt into her thigh.
+She gasps, momentarily swaying, her focus clouded by the sting.
+
+Retreating further into the cave's depths, the dwarf's footsteps echo
+and fade, leaving only the rhythmic drip of water and the murmur of
+unseen currents.
+
+\section{Crossing the pool}\label{crossing-the-pool}
+
+Faced with the challenge of pursuing a dwarf across a frigid pool, the
+party assesses their options. The wooden beam that seems to have been
+used by the bandits sits tantalizingly across the water.
+
+Scarlet throws her grappling hook, but it misses the beam, snagging
+something underwater instead. As she pulls, Halite steps in to help.
+Together, they haul up a mass: a dead bandit and a distressed, living
+frog!
+
+Kragor, sensing danger, hexes the frog and targets it with an eldritch
+blast. The frog disintegrates under the force of the blast.
+
+Elara, steadying herself, heals her thigh wound with divine magic.
+Scarlet mirrors her, healing Doctor Pepe with nature's energies.
+
+Their reprieve is brief. The dwarf reappears, firing a bolt that bounces
+off Halite's armor. ``Damn it,'' Doctor Pepe grumbles, frustration
+etched into his features. ``We need to see!'' He hurls his enchanted
+dagger, which thuds into the beam, revealing the far shore with its
+glow.
+
+Driven by urgency, Whisper leaps onto the wall, climbing swiftly and
+landing silently on the far side, her eyes finding the dwarf hidden in
+shadows.
+
+With a flick of his wrist, Halite throws the grappling hook, this time
+securing the beam. He pulls it towards him until it rests securely
+across the pool, then charges confidently across, joining Whisper.
+Kragor and the rest of the party follow, anticipation fueling each
+stride.
+
+Scarlet conjures a flame to illuminate their path. Doctor Pepe retrieves
+his glowing dagger, its light warding off the gloom, as he brings up the
+rear.
+
+Seeing them approach, the dwarf panics, firing wildly. The bolt clatters
+harmlessly off stone.
+
+\section{Interrogation in the Depths}\label{interrogation-in-the-depths}
+
+In the dim cave light, Whisper, poised and predatory, lunges at the
+dwarf, her speed a shadowy blur. Yet the dwarf's shield deflects her
+strike with a resonant thud that shakes the cavern. Halite follows
+swiftly, his javelin piercing the dwarf with deadly precision, bringing
+him to his knees.
+
+Elara arrives, agile and commanding, her voice sharp with authority.
+``Tell us the secrets of this place.''
+
+Despite his pain, the dwarf's eyes remain dull and silent. Kragor steps
+forward, his voice echoing with Elara's urgency. ``When a lady speaks,
+you damn well better listen.''
+
+``What family are you with?'' Halite's voice booms.
+
+``The Uttolot family,'' the dwarf finally admits, defiance lacing his
+words.
+
+Halite's massive frame looms over him. ``And what are you doing in this
+cave?''
+
+The dwarf swallows hard. ``We\ldots{} we feed the frogs,'' the dwarf
+confesses. ``I work here. For Hulil. Train them to carry us. They used
+to eat more--- whatever Hulil wanted.''
+
+Scarlet's eyebrow arches. ``More what?'' The dwarf squirms. ``Bats,
+small game, even people. Hulil trained them.''
+
+Halite's gaze darkens. ``Tell us about Hulil.'' The dwarf blanches.
+``She's sick. Sent several of us to town for a clue to the disease---
+but none returned. She plans to sell Tulgi's loot in Shadycreek Run.
+Hoping for a cure.''
+
+Whisper leans in. ``Are there traps here? Tell us what you know.''
+
+The dwarf nods toward the sleeping quarters. ``A pit, covered by a
+bedroll.''
+
+Halite growls, ``You'll live. For now.'' The dwarf's resigned eyes hint
+at fear of what's to come.
+
+Doctor Pepe notices a bucket\ldots{} on closer examination, it is full
+of dead bats. ``Interesting. These bats could distract the frogs--- a
+tactical edge.''
+
+Doctor Pepe binds the dwarf with rope from his pack. Halite stands
+guard, an imposing sentinel.
+
+The others turn their attention to the grim task of searching their
+fallen adversaries. Kragor retrieves a crossbow. ``Still serviceable,''
+he notes.
+
+Scarlet counts out coins from a waterlogged purse. ``Seven gold, ten
+silver,'' she reports, the metal catching the dim light with a dull
+gleam. ``Not exactly a king's ransom.''
+
+\section{Dungeon crawl}\label{dungeon-crawl}
+
+In the cave, the prisoner shuffles under Halite's stern watch, boots
+scraping the stone floor. They reach a makeshift camp, a fire pit in the
+center. Whisper conjures a flame with a soft ``Lux naturae,''
+illuminating the scene.
+
+Doctor Pepe's keen eyes catch a bedroll lying suspiciously flat. ``It's
+the pit trap of which the dwarf spoke,'' he warns, pointing to the
+hidden danger.
+
+Scarlet uncovers an unopened bottle amongst the camp supplies. ``Bald
+Dwarf whiskey,'' she notes, smirking. ``Made by elves.''
+
+``Elves making dwarf whiskey? A fine tale,'' Kragor chuckles.
+
+``Nice. That might fetch as much as 25 gold pieces,'' Doctor Pepe notes,
+his rogue's mind already calculating potential value.
+
+The party's attention shifts to two corridors leading away from the
+campsite. Halite suggests exploring one, with Doctor Pepe following. The
+corridor gradually widens, opening into a larger cavern. As their eyes
+adjust to the dim light, they realize they are surrounded by hanging
+bats.
+
+Suddenly, the bats stir. Their collective movement creates a rustle of
+wings that fills the cavern with an ominous sound. Halite, startled,
+begins stabbing wildly with his trident. The weapon misses the bats
+entirely, instead striking a nearby stalagmite with a sharp crack.
+
+``We need to go!'' Doctor Pepe insists.
+
+The two of them retreat, joining the others who are exploring the second
+corridor. ``Bats,'' Halite explains simply.
+
+\section{Old Croaker}\label{old-croaker}
+
+Kragor is the first to notice the expansive underground pool, its dark
+waters stretching beyond the reach of their light. The cavern seems to
+breathe with subterranean stillness, broken only by the occasional drip
+of water from unseen stalactites.
+
+``What's across there?'' Kragor demands, turning to the wounded dwarf.
+``How do we get over?''
+
+The dwarf's eyes dart nervously across the water. ``Well,'' he says, his
+voice trembling slightly, ``Old Croaker ferries people across.''
+
+Before anyone can ask who or what Old Croaker is, a massive shape begins
+to emerge from the murky depths. Even among giant frogs, this creature
+is truly enormous--- easily the size of a small boat, its skin a mottled
+green and blue, eyes like dark pools of ancient malevolence.
+
+Scarlet steps forward, her movements calm and deliberate. In her hand,
+she holds one of the dead bats from their earlier discovery. ``Easy
+now,'' she murmurs, her voice a soothing melody of nature's own
+language.
+
+With extraordinary skill, Scarlet reaches out with her hand, gently
+stroking its massive head. To everyone's amazement, the creature seems
+to relax under her touch, its previous menace transforming into
+something almost docile. ``We need to cross,'' she tells it softly. Old
+Croaker, understanding, moves to the pool's edge.
+
+``Well,'' Elara says, stepping forward with a mixture of excitement and
+trepidation, ``I'll go first.'' She carefully climbs onto the frog's
+broad back, her movements careful but confident. Old Croaker begins to
+swim across the underground pool, Elara perched atop it like an unlikely
+queen of this subterranean realm.
+
+\section{Tiamat's priestess}\label{tiamats-priestess}
+
+Elara clings to Old Croaker's back as they glide across the underground
+pool. Dismounting with practiced grace, her sharp eyes survey the
+cavern. An enormous fire illuminates a scene of unsettling
+drama---shadows dance across stone, cast by two robed figures kneeling
+before a tapestry depicting a fearsome multi-headed dragon.
+
+The robes of the dwarf woman and the male elf match the tapestry's hues.
+The dwarf's blued skin betrays the creeping freezing disease.
+
+Pressing against the cavern wall, Elara watches as Old Croaker swims
+back for her companions: Halite, Doctor Pepe, Kragor, and Scarlet.
+Whisper stays behind, guarding their captured dwarf informant.
+
+When the party finally joins Elara on the far shore, Scarlet studies the
+tapestry with a scholar's precision. ``Tiamat,'' she murmurs, more to
+herself than to her companions. ``The scaled tyrant. Embodiment of
+greed. One of the betrayer gods, sworn enemy of Bahamut, the Platinum
+Dragon.''
+
+``A betrayer god?!,'' exclaims Elara.
+
+Startled, the robed figures turn. Their fire-cast shadows loom
+monstrously. The dwarf is unmistakably Hulil Lutan, Tiamat's priestess.
+
+``Halt!'' Hulil barks, her voice crackling with authority. Her diseased
+skin gleams with those telltale blue streaks. ``Who dares approach our
+sacred space? Drop your weapons and explain yourselves!''
+
+Elara steps forward, her diplomatic mask sliding into place. ``We are
+sent by the dragons,'' she says smoothly, ``to understand the origin of
+this disease.''
+
+Elara's deception falls flat, and Hulil lets out a sharp, mirthless
+laugh. ``Lies! You're nothing but intruders!''
+
+Kragor responds, a sickening glow crackling as he hexes the elf. From
+his outstretched hand a purple shock of darkness blasts forward but
+misses and strikes stone harmlessly.
+
+Scarlet charges, swinging her quarterstaff fueled by druidic power, but
+misses the elf by inches. On the other hand, Doctor Pepe's crossbow bolt
+finds the elf's neck, silencing him forever.
+
+Halite throws his javelin with horrifying force and it pierces Hulil's
+hip, pain twisting her features. ``Flee!'' she commands in response,
+magical compulsion threading her words. But Halite's will remains
+unbroken.
+
+A spectral sword materializes, its pommel shaped like a dragon's claw.
+It swings at Halite, missing him by a hairsbreadth.
+
+Elara's shortbow sings, her arrow finding Hulil's shoulder. The dwarf
+winces but remains standing.
+
+Kragor now turns his hex on Hulil, firing another eldritch blast that
+goes wildly off-target.
+
+Doctor Pepe's next shot is solid, sinking deep into Hulil's shoulder and
+driving her back momentarily.
+
+Hulil's hand summons a sickly green, jagged blade. She swings it at
+Halite, but his armor deflects the strike. Then, with practiced motion,
+she pulls out a potion and drinks. Instantly, her wounds begin to heal.
+
+In the dimly lit cavern, Elara's fingers dance over her shimmering harp.
+Hulil pauses as the chilling notes paint vivid fears across her mind,
+yet, fortified by sheer willpower, she resists the full force of the
+arcane assault.
+
+With a gesture imbued with ancient malevolence, Kragor again unleashes
+his eldritch blast, a tendril of otherworldly light that tears through
+the fabric of reality, wrapped in the chill embrace of necrotic
+energies. This time the blast impacts Hulil, and it seethes with the
+whispers of forgotten realms, unraveling her very essence beneath a
+suffocating miasma of decay. The force spreads like a dark plague,
+methodically consuming vitality and sowing despair in its wake, leaving
+naught but a hollow echo of cosmic dread.
+
+Allowing no time for Hulil to recover, Scarlet channels natural energy
+through her quarterstaff, its wood shimmering with an ethereal glow. As
+the staff connects with the Hulil's jaw, Scarlet's druidic power
+amplifies the force of the strike, delivering a bone-jarring impact that
+crackles with mystical energy.
+
+Hulil staggers to her feet, fury and agony blazing in her eyes like twin
+infernos. Doctor Pepe, with ice-cold precision, discharges another bolt,
+tearing into the dwarf priestess's abdomen.
+
+Nearby, Halite hears a splash behind him but remains steadfast. With a
+swift motion, he plunges his javelin into Hulil's heart. Her eyes wide,
+the fire within them slowly extinguishing as she collapses, she rasps a
+final curse: ``May you be consumed by endless desire\ldots{} let your
+victories sow only tyranny and ruin\ldots{} may all\ldots{} you
+covet\ldots{} turn to ash in your grasp.''
+
+\section{Beast gonna feast}\label{beast-gonna-feast}
+
+Meanwhile, hearing the sounds of battle echoing across the cavern,
+Whisper knocks out the bound dwarf. Determined to join the fray, she
+attempts to scamper across the cave wall. Instead, she slips and falls
+with a splash into the water.
+
+Old Croaker startles at the sudden disturbance. The massive frog's head
+snaps toward Whisper, jaws wide, but miraculously misses. Whisper swims
+away from the predatory amphibian and begins climbing the wall again.
+
+Old Croaker leaps at Whisper but cannot quite reach her, its massive
+form creating waves in the underground pool.
+
+Elara attempts to calm the massive frog. ``O magnificent amphibian, if
+you take us back across,'' she offers, ``we'll give you more food.'' But
+Old Croaker has other ideas. ``Kitten sandwich,'' the frog seems to
+communicate, eyeing Whisper with hungry intent.
+
+Kragor hexes the frog and attempts to blast it with eldritch energy.
+``Damn it!'' he curses as the blast goes wide.
+
+Doctor Pepe also shoots wildly into the darkness, his bolt disappearing
+without effect.
+
+``Who needs enemies with friends like these,'' Elara sighs.
+
+Whisper manages to scramble away into the main cavern, and drops to the
+floor. ``Fucking frog!'' she mutters.
+
+Halite surveys the aftermath of battle, a grim idea forming. With raw,
+brutal strength, he reaches down to the fallen elf and--- with a
+sickening tear--- removes a hand from the corpse. He tosses it to Elara,
+who catches it with a mixture of horror and fascination.
+
+Old Croaker lurches toward Elara, its massive form seeking a meal. The
+frog's jaws snap, but miraculously miss her. Elara, her stomach turning,
+holds out the elf's hand. The massive amphibian sits back, mouth opening
+like an oversized baby bird expecting a treat.
+
+``Lovely,'' she mutters. She tosses the hand into the frog's waiting
+maw. Old Croaker catches it with frightening efficiency, then silently
+slips back into the pool, leaving nothing but ripples in its wake.
+
+\section{What lies within}\label{what-lies-within}
+
+The party scans the room. Beyond the bodies and the imposing altar, a
+single chest sits conspicuously against the cavern wall. The massive
+Tiamat tapestry looms overhead, its multi-headed dragon seeming to watch
+their every move.
+
+A quick search of the bodies yields eight gold pieces and five silver
+pieces, but no keys.
+
+Doctor Pepe approaches the chest, his rogue's eye immediately drawn to
+its unusual lock. Shaped like a dragon's head, the lock bristles with
+intrigue. Small pin holes pepper its surface, each filled with a fine
+blue powder. ``Interesting,'' he mutters, carefully examining the
+mechanism.
+
+Using a leather pouch to protect his hand, he begins to extract the blue
+powder. It's abundant, but his practiced fingers manage to contain most
+of it within the pouch.
+
+Scarlet steps forward to examine the chest. She closes her eyes and
+murmurs, ``Revela nocuit et morbus.'' As the words weave through the
+air, a soft luminous aura emanates from her hands, casting an ethereal
+glow.
+
+``There's magical contagion in the pouch,'' she warns. ``And in the
+chest itself.'' She pauses, her gaze shifting. ``Oh, and Old Croaker?
+Definitely venomous.''
+
+Working together with Elara, Doctor Pepe carefully picks the lock. The
+chest opens with a soft click, revealing its treasures: a gilded scroll
+case, a jade statuette of a storm giant, a quiver with six clearly
+magical arrows, a silver ring set with a jasper stone, 800--900 coins,
+and an old notebook.
+
+``These,'' Doctor Pepe says, ``match the items on Urgon's receipt.
+Except the two blue vials are missing.''
+
+Doctor Pepe beckons the others closer. With meticulous care, he removes
+the chest's contents, ensuring no blue powder is disturbed. He begins to
+count the coins, his fingers moving methodically. ``Let's see,'' he
+mutters. ``415 copper pieces, 234 silver pieces, 43 electrum pieces, and
+112 gold pieces.''
+
+Halite takes the notebook, his massive hands carefully turning the
+pages. His eyes narrow as he reads Hulil's journal. ``This is
+interesting,'' he says. ``Hulil was trying to collect funds to purchase
+a cure for her disease. She sold one of the blue vials to someone named
+Irven Liel.''
+
+The party exchanges knowing glances, the weight of their discovery
+hanging in the air like a promise of deeper mysteries yet to be
+unraveled.
+
+With nothing more to explore, and exhausted from the morning's events,
+they decide to leave. They coax Old Croaker once more with bat treats,
+using the massive frog to ferry them back across the underground pool.
+Retracing their steps, they exit the cavern.
+
+As they step outside, they find the sun high in the sky, its warm light
+a stark contrast to the damp, dark world they've just left behind.
+
+Whisper looks back at the cave entrance. ``Fucking frog,'' she mutters
+under her breath.
+
+\chapter{Party Inventory}\label{party-inventory}
+
+\begin{DndTable}[header=Currency]{rX}
+\textbf{Count} & \textbf{Coin} \\
+156 & gold pieces \\
+43 & electrum pieces \\
+249 & silver pieces \\
+415 & copper pieces
+\end{DndTable}
+
+\begin{DndTable}[header=Equipment]{rX}
+\textbf{Count} & \textbf{Item} \\
+1 & Aeorian Dagger \\
+1 & Bottle of Bald Dwarf \\
+1 & Gilded Scroll Case \\
+1 & Jade Statuette of a Storm Giant \\
+1 & Silver Ring \\
+1 & Hulil’s Journal \\
+6 & Arrows +1 \\
+1 & grappling hook \\
+6 & crossbows \\
+30 & bolts \\
+5 & scimitars
+\end{DndTable}
+
+\DndItemHeader{Arrows, +1}{Weapon, uncommon}
+
+You have a +1 bonus to attack and damage rolls made with this piece of
+magic ammunition. Once it hits a target, the ammunition is no longer
+magical.
+
+\DndItemHeader{Aeorian Dagger}{Weapon}
+
+A finely wrought dagger previously sold to Pelc's Curiosities, pilfered
+by Tulgi Lutan, and surrendered by same to Kragor Grimstride.
+
+\DndItemHeader{Bald Dwarf Whisky}{Consumable, uncommon}
+
+An Uthodurnian specialty spirit, with an estimated value of 25 gp.
+
+\DndItemHeader{Gilded Scroll Case}{Gear}
+
+A finely crafted mahogany container adorned with gold filigree and
+inlaid gemstones, providing both beauty and protection for the scrolls
+inside. It features runes that offer magical safeguarding against
+damage, making it ideal for keeping valuable parchments secure.
+
+\DndItemHeader{Jade Statuette of a Storm Giant}{Miscellaneous}
+
+A meticulously carved figurine, standing approximately eight inches
+tall, depicting a storm giant in mid-roar, with intricate details
+capturing the raw power and majesty of its kind. The deep green jade
+shimmers with veins of gold, suggesting latent magical energies, and
+when held during a lightning storm, the statuette seems to vibrate
+softly, as if resonating with the storm's fury. Ancient runes inscribed
+at the base suggest it could be used in rituals to commune with primal
+forces of nature, potentially granting temporary insight or power
+related to storms.
+
+\DndItemHeader{Silver Ring}{Jewelry}
+
+A silver ring with an inset jasper stone.
+
+\DndItemHeader{Hulil’s Journal}{Book, common}
+
+Hulil Lutan's journal, mentioning that she sold a vial of blue powder to
+Irven Liel.
+
+\chapter{Appendix B --- Dramatis
+Personae}\label{appendix-b-dramatis-personae}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \textbf{Bandits}: Guild members working for Hulil, they break into
+  Pelc's Curiosities searching for clues about the curse and engage in
+  combat with the adventurers before surrendering.
+\item
+  \textbf{Bill}: A Glassblade seated in the tavern, warning of the
+  dangers associated with the curse impacting Urgon and Tulgi.
+\item
+  \textbf{Bortock}: A jovial dwarf who tends bar in the local tavern,
+  interacting with the adventurers and providing them with refreshments
+  and lodging information.
+\item
+  \textbf{Elara}: An inquisitive member of the party, likely with
+  magical abilities, as she performs spells and aids Kragor with
+  healing.
+\item
+  \textbf{Elro}: A weathered elf adorned with the insignia of a
+  ``Glassblade.'' He introduces himself to the adventurers at Urgon's
+  funeral and seeks their help in determining the cause of the curse.
+\item
+  \textbf{Halite}: A towering goliath fighter, characterized by his
+  immense size and strength. His weapon of choice is a massive trident,
+  and he acts with determination and strategy during conflicts.
+\item
+  \textbf{Hulil Lutan}: Tulgi's sister, a priestess of Tiamat, and the
+  mastermind behind the search for clues related to the freezing
+  sickness. She has the remainder of stolen treasures at Croaker Cave.
+\item
+  \textbf{Jarl Stonebeard}: The weathered and taciturn captain of the
+  longship \emph{Frostwind} that brought the adventurers to Palebank
+  Village. His demeanor is quiet, and he is experienced with sailing
+  through icy waters.
+\item
+  \textbf{Kragor}: An orc warlock, wielding dark magic and an ethereal
+  war hammer. He's strategically minded and capable of casting eldritch
+  spells to protect his allies and subdue enemies.
+\item
+  \textbf{Rogue}: A thief initially grappled by Whisper on the roof.
+  Though he seems defeated, he stealthily listens to the adventurers'
+  plans, suggesting future intrigue.
+\item
+  \textbf{Scarlet}: A druid with access to nature magic, demonstrated by
+  her ability to summon mist and turn her fingertips into toxic claws
+  during combat.
+\item
+  \textbf{Tulgi Lutan}: A solitary trapper and one of the afflicted with
+  the same symptoms as Urgon. She, along with her sister Hulil, were
+  involved in stealing Aeorian treasures as part of a crime syndicate.
+\item
+  \textbf{Urgon}: A deceased dwarven adventurer who returned from
+  Eiselcross with treasures and a chilling affliction. His demise is a
+  centerpiece of the story, leading the adventurers to investigate the
+  source of his mysterious curse.
+\item
+  \textbf{Verla Pelc}: The owner of Pelc's Curiosities, discovered
+  frozen and lifeless in the shop by the adventurers, indicating the
+  seriousness of the ongoing curse.
+\item
+  \textbf{Whisper}: A tabaxi with sharp senses and agility, capable of
+  moving swiftly and silently, proving her skills when grappling with a
+  rogue on the rooftop.
+\end{enumerate}
+
+\end{document}
