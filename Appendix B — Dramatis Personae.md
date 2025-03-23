@@ -1,31 +1,39 @@
 # Appendix B — Dramatis Personae
 
-1. **Bandits**: Guild members working for Hulil, they break into Pelc’s Curiosities searching for clues about the curse and engage in combat with the adventurers before surrendering.
+1. **Adventurers**: The primary group consisting of Elara, Halite, Kragor, Scarlet, Whisper, and Doctor Pepe. Brought together by the shared quest to unravel the mystery of a curse tied to Aeorian artifacts.
 
-2. **Bill**: A Glassblade seated in the tavern, warning of the dangers associated with the curse impacting Urgon and Tulgi.
+2. **Bandits (Pelc’s Curiosities)**: Followers of Hulil, breaking into Pelc’s Curiosities searching for clues about the curse. They engage with the adventurers in combat but surrender after defeat.
 
-3. **Bortock**: A jovial dwarf who tends bar in the local tavern, interacting with the adventurers and providing them with refreshments and lodging information.
+3. **Bandits (Croaker Cave)**: Another group working under Hulil, tasked with defending the cave. They confront the adventurers as they delve deeper into the cave’s secrets.
 
-4. **Elara**: An inquisitive member of the party, likely with magical abilities, as she performs spells and aids Kragor with healing.
+4. **Bill**: A Glassblade, providing warnings at the tavern about the dangers associated with the curse impacting Urgon and Tulgi.
 
-5. **Elro**: A weathered elf adorned with the insignia of a "Glassblade." He introduces himself to the adventurers at Urgon’s funeral and seeks their help in determining the cause of the curse.
+5. **Bortock**: A jovial dwarf who tends bar in the local tavern and interacts with the adventurers, providing them with refreshments and useful local insights.
 
-6. **Halite**: A towering goliath fighter, characterized by his immense size and strength. His weapon of choice is a massive trident, and he acts with determination and strategy during conflicts.
+6. **Doctor Pepe**: Originally a rogue observing the adventurers stealthily, he reveals his true intent and aligns with them, contributing with his investigative prowess.
 
-7. **Hulil Lutan**: Tulgi’s sister, a priestess of Tiamat, and the mastermind behind the search for clues related to the freezing sickness. She has the remainder of stolen treasures at Croaker Cave.
+7. **Elara**: An aasimar bard whose musical talents and spellcasting abilities support and enhance the party’s efforts in healing and strategic planning.
 
-8. **Jarl Stonebeard**: The weathered and taciturn captain of the longship *Frostwind* that brought the adventurers to Palebank Village. His demeanor is quiet, and he is experienced with sailing through icy waters.
+8. **Elro**: A Glassblade leader who introduces the adventurers to the cursed mysteries of Palebank Village, enlisting their help to find the root cause.
 
-9. **Kragor**: An orc warlock, wielding dark magic and an ethereal war hammer. He’s strategically minded and capable of casting eldritch spells to protect his allies and subdue enemies.
+9. **Gramini**: An elderly elf woman trading potions at the village docks, her wares and tales offer resources and clues to the adventurers.
 
-10. **Rogue**: A thief initially grappled by Whisper on the roof. Though he seems defeated, he stealthily listens to the adventurers’ plans, suggesting future intrigue.
+10. **Halite**: The goliath fighter wielding a mighty trident, known for his strength and tactical astuteness during encounters, especially in Croaker Cave.
 
-11. **Scarlet**: A druid with access to nature magic, demonstrated by her ability to summon mist and turn her fingertips into toxic claws during combat.
+11. **Hulil Lutan**: The dwarf priestess of Tiamat involved in the curse’s mystery. She commands operations and holds stolen artifacts at Croaker Cave, seeking a cure for her ailment.
 
-12. **Tulgi Lutan**: A solitary trapper and one of the afflicted with the same symptoms as Urgon. She, along with her sister Hulil, were involved in stealing Aeorian treasures as part of a crime syndicate.
+12. **Jarl Stonebeard**: The seasoned captain of the *Frostwind*, who ferries the adventurers through dangerous seas to Palebank Village.
 
-13. **Urgon**: A deceased dwarven adventurer who returned from Eiselcross with treasures and a chilling affliction. His demise is a centerpiece of the story, leading the adventurers to investigate the source of his mysterious curse.
+13. **Kragor**: An orc warlock, casting dark magic to strategically aid his allies and subdue enemies using curses and powerful eldritch blasts.
 
-14. **Verla Pelc**: The owner of Pelc’s Curiosities, discovered frozen and lifeless in the shop by the adventurers, indicating the seriousness of the ongoing curse.
+14. **Old Croaker**: A massive ice frog inhabiting Croaker Cave, it aids the adventurers across a subterranean pool, motivated by treats provided by Scarlet.
 
-15. **Whisper**: A tabaxi with sharp senses and agility, capable of moving swiftly and silently, proving her skills when grappling with a rogue on the rooftop.
+15. **Scarlet**: A druid attuned to nature’s magic. She protects and guides her comrades using her connection to the natural world and magical arts.
+
+16. **Tulgi Lutan**: A solitary trapper cursed with the same affliction as Urgon. She’s entangled in the theft of Aeorian treasures amidst her ties to a Shadycreek Run syndicate.
+
+17. **Urgon**: A dwarven adventurer whose return from Eiselcross with treasures and subsequent icy demise sparks the central mystery of the story.
+
+18. **Verla Pelc**: The owner of Pelc’s Curiosities, found frozen lifeless in her shop by the adventurers, indicating the curse’s lethal reach.
+
+19. **Whisper**: A tabaxi with exceptional agility and stealth, she often takes on scouting roles, using her skills to navigate tense situations and inform party strategy.
