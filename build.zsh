@@ -1,6 +1,7 @@
 #! /usr/bin/env zsh
 setopt errexit pipefail
 : ${src:=${PWD}} ${out:=outputs/out}
+: ${background:=full}
 
 # Dependencies.
 path[1,0]=( ${tex}/bin ${pandoc}/bin ${coreutils}/bin )
@@ -37,6 +38,7 @@ pandoc_latex=(
   --to=latex
   -V documentclass=dndbook
   -V classoption="12pt,twoside,twocolumn,openany,nodeprecatedcode"
+  -V classoption="bg=${background}"
   --lua-filter=${src}/dnd.lua
   --output=${outtex}
   ${inputs}

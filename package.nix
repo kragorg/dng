@@ -8,15 +8,16 @@
   pkgs,
   stdenv,
   zsh,
+  background ? null,
 }:
 let
   pname = "dungeons-and-gardens";
-  version = "1.1";
+  version = "1.2";
   build.zsh = ./build.zsh;
 in
 stdenv.mkDerivation rec {
   inherit pname version;
-  inherit coreutils pandoc;
+  inherit background coreutils pandoc;
 
   tex = dndtex;
 
