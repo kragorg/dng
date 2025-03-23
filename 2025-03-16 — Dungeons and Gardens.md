@@ -102,11 +102,11 @@ Her once luxurious fur matted with blood and frost, her breath shallow and labor
 
 Outside, Elara leads the party at the cave entrance. “They’re in trouble,” she asserts, urgency lacing her voice. “We need to move!”
 
-Within, the rhythmic echo of boots suggests more danger is approaching, but out of necessity, Doctor Pepe and Whisper remain focused on the immediate threat. Doctor Pepe turns his attention to the wounded frog. His shortsword pierces its slick flesh, and his dagger follows, sinking deep into its massive head. The creature shudders, momentarily stunned.
+Within, the rhythmic echo of boots suggests more danger is approaching, but out of necessity, Doctor Pepe and Whisper remain focused on the immediate threat. Doctor Pepe turns his attention to the wounded frog threatening Whisper. His shortsword pierces its slick flesh, and his dagger follows, sinking deep into its massive head. The creature shudders, momentarily stunned. It recovers but has had enough, and slinks back into the pool, dodging a strike from Whisper’s claws.
 
-Recovering quickly, the frog snaps at Doctor Pepe, its powerful jaws gripping him tightly. He grunts in pain, fighting against its hold.
+The second giant ice frog snaps at Doctor Pepe, its powerful jaws gripping him tightly. He grunts in pain, fighting against its hold.
 
-Meanwhile, the first frog retreats toward the water, and Whisper’s retaliatory strike misses. Frustrated yet determined, she attempts to help Doctor Pepe, her claws slashing his assailant and drawing blood. Realizing she can’t endure another attack, she makes a calculated retreat, slipping gracefully back to the cave’s entrance, trusting that Doctor Pepe can handle the encroaching threat momentarily.
+Fighting through the pain of her wounds, Whisper turns to help Doctor Pepe, her claws slashing his assailant and drawing blood. Realizing she can’t endure another attack, she makes a calculated retreat, slipping gracefully back to the cave’s entrance, trusting that Doctor Pepe can handle the encroaching threat momentarily.
 
 ## Reinforcements
 
