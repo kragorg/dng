@@ -19,11 +19,16 @@
         dndbook = pkgs.callPackage ./dndbook.nix { };
         dndtex = pkgs.callPackage ./dndtex.nix { inherit dndbook; };
         dungeons-and-gardens = pkgs.callPackage ./package.nix { inherit dndtex; };
+        dungeons-and-gardens-print = pkgs.callPackage ./package.nix {
+          inherit dndtex;
+          background = "print";
+        };
       in
       rec {
         packages = {
           inherit dndbook dndtex dungeons-and-gardens;
           default = dungeons-and-gardens;
+          print = dungeons-and-gardens-print;
         };
         devShells = {
           default = pkgs.mkShell {
