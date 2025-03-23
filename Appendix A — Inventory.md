@@ -20,6 +20,7 @@ Table: Equipment
 | 1     | Silver Ring                     |
 | 1     | Hulil’s Journal                 |
 | 6     | Arrows +1                       |
+| 2     | Potions of Healing              |
 | 1     | grappling hook                  |
 | 6     | crossbows                       |
 | 30    | bolts                           |
