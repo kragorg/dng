@@ -38,7 +38,7 @@ pandoc_latex=(
   --to=latex
   -V documentclass=dndbook
   -V classoption="12pt,twoside,twocolumn,openany,nodeprecatedcode"
-  -V classoption="bg=${background}"
+  -V classoption="letterpaper,bg=${background}"
   --lua-filter=${src}/dnd.lua
   --output=${outtex}
   ${inputs}
