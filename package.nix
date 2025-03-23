@@ -3,12 +3,12 @@
   dndtex,
   fetchFromGitHub,
   glibcLocales,
+  gnused,
   lib,
   pandoc,
   pkgs,
   stdenv,
   zsh,
-  background ? null,
 }:
 let
   pname = "dungeons-and-gardens";
@@ -17,7 +17,7 @@ let
 in
 stdenv.mkDerivation rec {
   inherit pname version;
-  inherit background coreutils pandoc;
+  inherit coreutils gnused pandoc;
 
   tex = dndtex;
 
@@ -39,6 +39,7 @@ stdenv.mkDerivation rec {
     coreutils
     dndtex
     glibcLocales
+    gnused
     pandoc
     zsh
   ];
