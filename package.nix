@@ -12,7 +12,7 @@
 }:
 let
   pname = "dungeons-and-gardens";
-  version = "1.2";
+  version = "1.3";
   build.zsh = ./build.zsh;
 in
 stdenv.mkDerivation rec {
