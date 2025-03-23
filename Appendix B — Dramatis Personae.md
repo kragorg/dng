@@ -22,18 +22,20 @@
 
 11. **Hulil Lutan**: The dwarf priestess of Tiamat involved in the curse’s mystery. She commands operations and holds stolen artifacts at Croaker Cave, seeking a cure for her ailment.
 
-12. **Jarl Stonebeard**: The seasoned captain of the *Frostwind*, who ferries the adventurers through dangerous seas to Palebank Village.
+12. **Irven Liel**: Nothing known other than that they purchased a vial of blue powder from Hulil.
 
-13. **Kragor**: An orc warlock, casting dark magic to strategically aid his allies and subdue enemies using curses and powerful eldritch blasts.
+13. **Jarl Stonebeard**: The seasoned captain of the *Frostwind*, who ferries the adventurers through dangerous seas to Palebank Village.
 
-14. **Old Croaker**: A massive ice frog inhabiting Croaker Cave, it aids the adventurers across a subterranean pool, motivated by treats provided by Scarlet.
+14. **Kragor**: An orc warlock, casting dark magic to strategically aid his allies and subdue enemies using curses and powerful eldritch blasts.
 
-15. **Scarlet**: A druid attuned to nature’s magic. She protects and guides her comrades using her connection to the natural world and magical arts.
+15. **Old Croaker**: A massive ice frog inhabiting Croaker Cave, it aids the adventurers across a subterranean pool, motivated by treats provided by Scarlet.
 
-16. **Tulgi Lutan**: A solitary trapper cursed with the same affliction as Urgon. She’s entangled in the theft of Aeorian treasures amidst her ties to a Shadycreek Run syndicate.
+16. **Scarlet**: A druid attuned to nature’s magic. She protects and guides her comrades using her connection to the natural world and magical arts.
 
-17. **Urgon**: A dwarven adventurer whose return from Eiselcross with treasures and subsequent icy demise sparks the central mystery of the story.
+17. **Tulgi Lutan**: A solitary trapper cursed with the same affliction as Urgon. She’s entangled in the theft of Aeorian treasures amidst her ties to a Shadycreek Run syndicate.
 
-18. **Verla Pelc**: The owner of Pelc’s Curiosities, found frozen lifeless in her shop by the adventurers, indicating the curse’s lethal reach.
+18. **Urgon**: A dwarven adventurer whose return from Eiselcross with treasures and subsequent icy demise sparks the central mystery of the story.
 
-19. **Whisper**: A tabaxi with exceptional agility and stealth, she often takes on scouting roles, using her skills to navigate tense situations and inform party strategy.
+19. **Verla Pelc**: The owner of Pelc’s Curiosities, found frozen lifeless in her shop by the adventurers, indicating the curse’s lethal reach.
+
+20. **Whisper**: A tabaxi with exceptional agility and stealth, she often takes on scouting roles, using her skills to navigate tense situations and inform party strategy.
