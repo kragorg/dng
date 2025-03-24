@@ -15,10 +15,11 @@
     utils.lib.eachDefaultSystem (
       system:
       let
+        src = ./.;
         pkgs = nixpkgs.legacyPackages.${system};
-        dndbook = pkgs.callPackage ./dndbook.nix { };
-        dndtex = pkgs.callPackage ./dndtex.nix { inherit dndbook; };
-        dungeons-and-gardens = pkgs.callPackage ./package.nix { inherit dndtex; };
+        dndbook = pkgs.callPackage ./lib/dndbook.nix { };
+        dndtex = pkgs.callPackage ./lib/dndtex.nix { inherit dndbook; };
+        dungeons-and-gardens = pkgs.callPackage ./lib/package.nix { inherit dndtex src; };
       in
       rec {
         packages = {

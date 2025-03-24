@@ -7,32 +7,28 @@
   lib,
   pandoc,
   pkgs,
+  src,
   stdenv,
   zsh,
 }:
 let
   pname = "dungeons-and-gardens";
   version = "1.3";
-  build.zsh = ./build.zsh;
+  markdown = lib.escapeShellArgs (
+    builtins.filter (filename: builtins.match ".*\\.md$" filename != null) (
+      builtins.attrNames (builtins.readDir src)
+    )
+  );
 in
 stdenv.mkDerivation rec {
   inherit pname version;
-  inherit coreutils gnused pandoc;
-
-  tex = dndtex;
-
-  src = ./.;
-  markdown = lib.escapeShellArgs (
-    builtins.filter (filename: builtins.match ".*\\.md$" filename != null) (
-      builtins.attrNames (builtins.readDir ./.)
-    )
-  );
+  inherit src markdown;
 
   phases = [ "buildPhase" ];
   buildPhase = ''
     runHook preBuild
     export LC_ALL="en_US.UTF-8"
-    ${zsh}/bin/zsh ${build.zsh}
+    ${zsh}/bin/zsh -df ${./build.zsh}
     runHook postBuild
   '';
   nativeBuildInputs = [
