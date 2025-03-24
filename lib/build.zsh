@@ -1,9 +1,6 @@
-#! /usr/bin/env zsh
+#! /usr/bin/env zsh -df
 setopt errexit pipefail
 : ${src:=${PWD}} ${out:=outputs/out}
-
-# Dependencies.
-path[1,0]=( ${tex}/bin ${pandoc}/bin ${gnused}/bin ${coreutils}/bin )
 
 # We need a writable home directory for luaotfload’s font cache.
 export HOME="$PWD"
@@ -27,7 +24,7 @@ cmd=(
   --standalone
   --from=markdown
   --top-level-division=chapter
-  --include-in-header=${src}/include.tex
+  --include-in-header=${src}/lib/include.tex
 )
 pandoc_latex=(
   ${cmd}
@@ -35,20 +32,18 @@ pandoc_latex=(
   -V documentclass=dndbook
   -V classoption="letterpaper,12pt,twoside,twocolumn,openany"
   -V classoption="nodeprecatedcode,bg=full"
-  --lua-filter=${src}/dnd.lua
+  --lua-filter=${src}/lib/dnd.lua
   --output=${texbase}
   ${inputs}
+)
+sed_for_print=(
+  sed -E -e
+  's/,bg=full\b/,bg=print/'
 )
 fonts=(
   luaotfload-tool
   --formats=otf
   --update
-)
-latex=(
-  lualatex
-  --interaction=batchmode
-  --halt-on-error
-  --output-format=pdf
 )
 booklet=(
   pdfjam
@@ -72,6 +67,42 @@ install=(
   ${pdfbooklet}
 )
 
+function dolatex {
+  zparseopts -K -D -a opts -A values -job:
+  if (( ${#argv} != 1 )) {
+    print -Pru2 -- "%F{red}Error: ${0} requires exactly one argument%f"
+    exit 2
+  }
+  # `jobname` is an undocumented special parameter. avoid it.
+  local input=${argv[1]}
+  local job=${values[--job]}
+  : ${job:=${input:t:r}}
+
+  local latex=(
+    lualatex
+    --interaction=batchmode
+    --halt-on-error
+    --output-format=pdf
+    --jobname=${job}
+    ${input}
+  )
+
+  # Re-run to resolve cross-references et cetera, at most five times
+  local cur=''
+  local prev='unset'
+  local rc=0
+  repeat 5 {
+    print -Pru2 -- "%F{cyan}${(q@)latex}%f"
+    ${latex} || {
+      rc=$?
+      cat ${job:t:r}.log >&2
+      exit ${rc}
+    }
+    [[ ${cur::="$(cksum ${job:t:r}.aux 2>&- || true)"} == ${prev} ]] && break
+    prev=${cur}
+  }
+}
+
 function run {
   # q: Quote arguments.
   # @: Expand into separate words.
@@ -84,33 +115,13 @@ function run {
   print -Pru2 -- '%F{green}'$'\u2714'" ${argv[1]}%f"
 }
 
-function latex {
-  local cur=''
-  local prev='unset'
-  local rc=0
-  local jobname=$1
-  local input=$2
-
-  # Re-run to resolve cross-references, at most five times
-  prev='unset'
-  repeat 5 {
-    run ${latex} --jobname=${jobname} ${input} || {
-      rc=$?
-      cat ${pdfbase:r}.log
-      exit ${rc}
-    }
-    [[ ${cur::="$(cksum ${texbase:r}.aux 2>&- || true)"} == ${prev} ]] && break
-    prev=${cur}
-  }
-}
-
 print -Pru2 -- "%F{magenta}Building ${pdfbase:r}%f"
 run ${pandoc_latex}
-run sed -E -e 's/,bg=full\]/,bg=print]/' ${texbase} > ${texprint}
+run ${sed_for_print} ${texbase} > ${texprint}
 
 run ${fonts}
-latex ${pdfbase:r} ${texbase}
-latex ${pdfprint:r} ${texprint}
+run dolatex --job ${pdfbase:r} ${texbase}
+run dolatex --job ${pdfprint:r} ${texprint}
 
 run ${booklet}
 run ${install}
