@@ -2,7 +2,7 @@
 
 <span class="dropcap">The party retraces their steps</span> to the *Jolly Dwarf*, where warmth greets them like an old friend. As the tavern’s door swings open, hearth light flickers along the walls, merging with murmurs and the clinking of mugs. After a day of skirmishes, they retire to modest rooms, voices still echoing with plans.
 
-Morning in Palebank Village dawns with a crisp, biting air. Frost clings to windows, and the adventurers rise at half-past seven. Below, a kettle hisses, and the aroma of breakfast fills the inn. Unusually quiet due to the port’s closure, the inn has only one family—  a weary pair of men with twin tiefling girls—  depart, the door framing their retreat in the morning light.
+Morning in Palebank Village dawns with a crisp, biting air. Frost clings to windows, and the adventurers rise at half-past seven. Below, a kettle hisses, and the aroma of breakfast fills the inn. Unusually quiet due to the port’s closure, the inn hosts only one other group— a family, a weary pair of men with twin tiefling girls. And even they soon depart, the door framing their retreat in the morning light.
 
 Bortock, the innkeeper, greets them cheerily. “Elro was around last night, looking for you lot,” he says, “He’ll be back soon for news.”
 
