@@ -14,7 +14,7 @@ Ever the pragmatic, Kragor poses another question: “What about healing potions
 
 Bortock advises, “Try the docks. There’s an old elf woman, Gramini, she sells them. Pricey, but worth it.”
 
-As breakfast concludes, Elro joins them, concern in his eyes. Scarlet updates him on their findings: connections between Tulgi, Hulil, and the village’s affliction, and the tragic fate of Verla from Pelc’s Curiosities. Elro nods, confirming suspicions about the Shadycreek Run families. News of dispatched bandits lightens his demeanor. “Less to worry about,” he says, intending to send his men over to shop to clean up.
+As breakfast concludes, Elro joins them, concern in his eyes. Scarlet updates him on their findings: connections between Tulgi, Hulil, and the village’s affliction, and the tragic fate of Verla from Pelc’s Curiosities. Elro nods, confirming suspicions about the Shadycreek Run families. News of dispatched bandits lightens his demeanor. “Less to worry about,” he says, intending to send his men over to the shop to clean up.
 
 Still curious about their next venture, Whisper inquires, “What makes Croaker Cave particularly dangerous?” Elro turns towards her, his gaze steady. “It’s the giant ice frogs. Those are the reason folks steer clear.”
 
@@ -76,7 +76,7 @@ Kragor steps forward, his bearing equal parts caution and curiosity. “Well met
 
 “Just before daybreak, I witnessed three cloaked figures enter the cave— a dwarf and two elves, if I’m not mistaken.” Doctor Pepe’s eyes, sharp and perceptive, scan the adventurers’ faces, gauging their reaction. “Whatever transpires within, it may well relate to the affliction that has beset Palebank.”
 
-The party exchanges thoughtful glances. After weighing their options, the adventurers come to a shared conclusion. Offering the rouge a nod of acceptance, Kragor extends the group’s unspoken consensus. “Then let us consider you an ally, Doctor Pepe. Together, we may better contend with whatever lies within the heart of Croaker Cave.”
+The party exchanges thoughtful glances. After weighing their options, the adventurers come to a shared conclusion. Offering the rogue a nod of acceptance, Kragor extends the group’s unspoken consensus. “Then let us consider you an ally, Doctor Pepe. Together, we may better contend with whatever lies within the heart of Croaker Cave.”
 
 ## Trepidation’s threshold
 
@@ -112,7 +112,7 @@ Fighting through the pain of her wounds, Whisper turns to help Doctor Pepe, her 
 
 As Whisper emerges from the cave, Halite quickly gauges the peril, his resolve igniting. With swift strides, he charges inside, his trident a formidable comfort.
 
-He finds Doctor Pepe still struggling against the frog’s relentless grip. Halite drives his trident into the creature’s side, but its hold does not falter. Observing the struggle, Elara weaves a melody with her harp, instilling Pepe with courage. “Remember your agility and cunning!” she calls, the sound of her voice and the vibrations of her harp soothing. She then summons the power of the stars, launching a mote of radiant energy with precision. The frog releases a guttural croak, convulsing under the assault before it releases Doctor Pepe and collapses lifelessly into the pool.
+He finds Doctor Pepe still struggling against the frog’s relentless grip. Halite drives his trident into the creature’s side, but its hold does not falter. Observing the struggle, Elara weaves a melody with her harp, instilling Doctor Pepe with courage. “Remember your agility and cunning!” she calls, the sound of her voice and the vibrations of her harp soothing. She then summons the power of the stars, launching a mote of radiant energy with precision. The frog releases a guttural croak, convulsing under the assault before it releases Doctor Pepe and collapses lifelessly into the pool.
 
 Grateful and relieved, Doctor Pepe quickly regains his composure. Meanwhile, Kragor taps into his ancestral power, muscles tensing with readiness. Yet danger lurks in the shadows. Suddenly, a crossbow bolt strikes Doctor Pepe, drawing a pained cry. Another bolt narrowly misses Halite, while a third strikes him, but only bruises his resilient skin.
 
@@ -254,7 +254,7 @@ In the dimly lit cavern, Elara’s fingers dance over her shimmering harp. Hulil
 
 With a gesture imbued with ancient malevolence, Kragor again unleashes his eldritch blast, a tendril of otherworldly light that tears through the fabric of reality, wrapped in the chill embrace of necrotic energies. This time the blast impacts Hulil, and it seethes with the whispers of forgotten realms, unraveling her very essence beneath a suffocating miasma of decay. The force spreads like a dark plague, methodically consuming vitality and sowing despair in its wake, leaving naught but a hollow echo of cosmic dread.
 
-Allowing no time for Hulil to recover, Scarlet channels natural energy through her quarterstaff, its wood shimmering with an ethereal glow. As the staff connects with the Hulil’s jaw, Scarlet’s druidic power amplifies the force of the strike, delivering a bone-jarring impact that crackles with mystical energy.
+Allowing no time for Hulil to recover, Scarlet channels natural energy through her quarterstaff, its wood shimmering with an ethereal glow. As the staff connects with Hulil’s jaw, Scarlet’s druidic power amplifies the force of the strike, delivering a bone-jarring impact that crackles with mystical energy.
 
 Hulil staggers to her feet, fury and agony blazing in her eyes like twin infernos. Doctor Pepe, with ice-cold precision, discharges another bolt, tearing into the dwarf priestess’s abdomen.
 
