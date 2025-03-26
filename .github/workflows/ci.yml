@@ -18,7 +18,7 @@ jobs:
       with:
         nix_path: nixpkgs=channel:nixos-unstable
     - name: Build with Flake
-      run: nix build .
+      run: nix build -L
     - name: Deploy to GitHub Pages
       if: github.ref == 'refs/heads/main'
       uses: JamesIves/github-pages-deploy-action@6c2d9db40f9296374acc17b90404b6e8864128c8  # v4.7.3
