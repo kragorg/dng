@@ -6,9 +6,9 @@ Morning in Palebank Village dawns with a crisp, biting air. Frost clings to wind
 
 Bortock, the innkeeper, greets them cheerily. “Elro was around last night, looking for you lot,” he says, “He’ll be back soon for news.”
 
-As Halite asks about Croaker Cave, Bortock’s expression shifts subtly to one of caution. “Croaker Cave, you say? They call it that for good reason—  the croaks of giant ice frogs echo from there, a sound that’d chill your bones if the cold hadn’t already. None of the village folk dare set foot inside. They know where to find it, sure, but it’s an unspoken rule here: no one goes into that cave.”
+As Halite asks about Croaker Cave, Bortock’s expression shifts subtly to one of caution. “Croaker Cave, you say? They call it that for good reason— the croaks of giant ice frogs echo from there, a sound that’d chill your bones if the cold hadn’t already. None of the village folk dare set foot inside. They know where to find it, sure, but it’s an unspoken rule here: no one goes into that cave.”
 
-Taking a seat, the party enjoys breakfast—  warm bread, stew, and fish; a bargain at only five silver pieces—  while Kragor inquires about Hulil, Tulgi’s sister. Bortock scratches his beard thoughtfully, his eyes narrowing as he sifts through what bits of information he possesses. “Ah, Tulgi,” he begins slowly, weighing his words. “Can’t say I knew she has a sister. These folks from Shadycreek Run—  always a tangled web with them. Their kin aren’t exactly welcome in Palebank. Suspicion tends to follow their kind.”
+Taking a seat, the party enjoys breakfast— warm bread, stew, and fish; a bargain at only five silver pieces— while Kragor inquires about Hulil, Tulgi’s sister. Bortock scratches his beard thoughtfully, his eyes narrowing as he sifts through what bits of information he possesses. “Ah, Tulgi,” he begins slowly, weighing his words. “Can’t say I knew she has a sister. These folks from Shadycreek Run— always a tangled web with them. Their kin aren’t exactly welcome in Palebank. Suspicion tends to follow their kind.”
 
 Ever the pragmatic, Kragor poses another question: “What about healing potions? Do you know where we might procure some?”
 
@@ -26,7 +26,7 @@ Scarlet nods, familiar with their temperate climate counterparts. She addresses 
 
 Before departing, Elro implores, “Root out those Shadycreek folks. The village would owe you greatly.”
 
-The party, girded by Elro’s trust and responsibility, reflects on the tapestry they are unraveling—  a tapestry that now leads them to the hidden depths of Croaker Cave and the shadows lurking within.
+The party, girded by Elro’s trust and responsibility, reflects on the tapestry they are unraveling— a tapestry that now leads them to the hidden depths of Croaker Cave and the shadows lurking within.
 
 ## Adventuring is hard, let’s go shopping
 
@@ -204,7 +204,7 @@ Kragor is the first to notice the expansive underground pool, its dark waters st
 
 The dwarf’s eyes dart nervously across the water. “Well,” he says, his voice trembling slightly, “Old Croaker ferries people across.”
 
-Before anyone can ask who or what Old Croaker is, a massive shape begins to emerge from the murky depths. Even among giant frogs, this creature is truly enormous—   easily the size of a small boat, its skin a mottled green and blue, eyes like dark pools of ancient malevolence.
+Before anyone can ask who or what Old Croaker is, a massive shape begins to emerge from the murky depths. Even among giant frogs, this creature is truly enormous— easily the size of a small boat, its skin a mottled green and blue, eyes like dark pools of ancient malevolence.
 
 Scarlet steps forward, her movements calm and deliberate. In her hand, she holds one of the dead bats from their earlier discovery. “Easy now,” she murmurs, her voice a soothing melody of nature’s own language.
 
@@ -214,7 +214,7 @@ With extraordinary skill, Scarlet reaches out with her hand, gently stroking its
 
 ## Tiamat’s priestess
 
-Elara clings to Old Croaker’s back as they glide across the underground pool. Dismounting with practiced grace, her sharp eyes survey the cavern. An enormous fire illuminates a scene of unsettling drama—shadows dance across stone, cast by two robed figures kneeling before a tapestry depicting a fearsome multi-headed dragon.
+Elara clings to Old Croaker’s back as they glide across the underground pool. Dismounting with practiced grace, her sharp eyes survey the cavern. An enormous fire illuminates a scene of unsettling drama— shadows dance across stone, cast by two robed figures kneeling before a tapestry depicting a fearsome multi-headed dragon.
 
 The robes of the dwarf woman and the male elf match the tapestry’s hues. The dwarf’s blued skin betrays the creeping freezing disease.
 
