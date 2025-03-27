@@ -118,7 +118,7 @@ Grateful and relieved, Doctor Pepe quickly regains his composure. Meanwhile, Kra
 
 Halite spots the assailants: a dwarf and two elves across the pool, crossbows poised. Outside, Scarlet rushes to Whisper’s aid, healing her with soothing energy. Renewed, Whisper re-enters the cave, her sling delivering a precise blow to one of the elves before she again retreats gracefully.
 
-Inside, Doctor Pepe, undeterred by pain, fires back with his crossbow but misses. Halite steps forward, throwing a javelin that fells the injured elf with precision. Elara, considering but deciding against leaping across the pool, channels more divine energy, striking the second elf squarely. Kragor whispers a curse, dark power seeping from his words, then unleashes tendrils of energy that knock the elf into the pool’s depths.
+Inside, Doctor Pepe, undeterred by pain, fires back with his crossbow but misses. Halite steps forward, throwing a javelin that fells the injured elf with precision. Elara, considering but deciding against leaping across the pool, channels more divine energy, striking the second elf squarely. Kragor whispers a curse, dark power seeping from his words, then unleashes tendrils of energy that knock the remaining life out of the elf. The body plunges into the pool’s depths.
 
 Frustrated and fearful, the remaining dwarf curses, raising his crossbow in desperation. He takes aim at Elara, embedding a bolt into her thigh. She gasps, momentarily swaying, her focus clouded by the sting.
 
@@ -128,17 +128,17 @@ Retreating further into the cave’s depths, the dwarf’s footsteps echo and fa
 
 Faced with the challenge of pursuing a dwarf across a frigid pool, the party assesses their options. The wooden beam that seems to have been used by the bandits sits tantalizingly across the water.
 
-Scarlet throws her grappling hook, but it misses the beam, snagging something underwater instead. As she pulls, Halite steps in to help. Together, they haul up a mass: a dead bandit and a distressed, living frog!
+Scarlet throws the grappling hook she found at Pelc’s in an attempt to catch the beam, but misses. As she draws the hook back in for another throw, it snags something underwater. Halite steps in to help, and together they haul up a mass: a dead bandit and a distressed but living frog!
 
 Kragor, sensing danger, hexes the frog and targets it with an eldritch blast. The frog disintegrates under the force of the blast.
 
 Elara, steadying herself, heals her thigh wound with divine magic. Scarlet mirrors her, healing Doctor Pepe with nature’s energies.
 
-Their reprieve is brief. The dwarf reappears, firing a bolt that bounces off Halite’s armor. “Damn it,” Doctor Pepe grumbles, frustration etched into his features. “We need to see!” He hurls his enchanted dagger, which thuds into the beam, revealing the far shore with its glow.
+Their reprieve is brief. The dwarf reappears, firing a bolt that bounces off Halite’s armor. “Damn it,” Doctor Pepe grumbles, frustration etched into his features. “We need to see!” He hurls his enchanted dagger, and it thuds into the beam, revealing the far shore with its glow.
 
 Driven by urgency, Whisper leaps onto the wall, climbing swiftly and landing silently on the far side, her eyes finding the dwarf hidden in shadows.
 
-With a flick of his wrist, Halite throws the grappling hook, this time securing the beam. He pulls it towards him until it rests securely across the pool, then  charges confidently across, joining Whisper. Kragor and the rest of the party follow, anticipation fueling each stride.
+With a flick of his wrist, Halite takes a turn throwing the grappling hook, and this time it secures the beam. He pulls it towards him until it rests fully across the pool, then charges confidently across, joining Whisper. Kragor and the rest of the party follow, anticipation fueling each stride.
 
 Scarlet conjures a flame to illuminate their path. Doctor Pepe retrieves his glowing dagger, its light warding off the gloom, as he brings up the rear.
 
@@ -162,17 +162,15 @@ The dwarf swallows hard. “We… we feed the frogs,” the dwarf confesses. “
 
 Scarlet’s eyebrow arches. “More what?” The dwarf squirms. “Bats, small game, even people. Hulil trained them.”
 
+Doctor Pepe notices a bucket… on closer examination, it is full of dead bats. “Interesting. These bats could distract the frogs— a tactical edge.”
+
 Halite’s gaze darkens. “Tell us about Hulil.” The dwarf blanches. “She’s sick. Sent several of us to town for a clue to the disease— but none returned. She plans to sell Tulgi’s loot in Shadycreek Run. Hoping for a cure.”
 
 Whisper leans in. “Are there traps here? Tell us what you know.”
 
 The dwarf nods toward the sleeping quarters. “A pit, covered by a bedroll.”
 
-Halite growls, “You’ll live. For now.” The dwarf’s resigned eyes hint at fear of what’s to come.
-
-Doctor Pepe notices a bucket… on closer examination, it is full of dead bats. “Interesting. These bats could distract the frogs— a tactical edge.”
-
-Doctor Pepe binds the dwarf with rope from his pack. Halite stands guard, an imposing sentinel.
+Halite growls, “You’ll live. For now.” The dwarf’s resigned eyes hint at fear of what’s to come. Doctor Pepe binds the dwarf with rope from his pack. Halite stands guard, an imposing sentinel.
 
 The others turn their attention to the grim task of searching their fallen adversaries. Kragor retrieves a crossbow. “Still serviceable,” he notes.
 
@@ -226,7 +224,7 @@ When the party finally joins Elara on the far shore, Scarlet studies the tapestr
 
 “A betrayer god?!,” exclaims Elara.
 
-Startled, the robed figures turn. Their fire-cast shadows loom monstrously. The dwarf is unmistakably Hulil Lutan, Tiamat’s priestess.
+Startled, the robed figures turn. Their fire-cast shadows loom monstrously. The dwarf is undoubtedly Hulil Lutan, Tiamat’s priestess.
 
 “Halt!” Hulil barks, her voice crackling with authority. Her diseased skin gleams with those telltale blue streaks. “Who dares approach our sacred space? Drop your weapons and explain yourselves!”
 
