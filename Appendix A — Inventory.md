@@ -11,20 +11,20 @@ Table: Currency
 
 Table: Equipment
 
-| Count | Item                            |
-| -:    | :-                              |
-| 1     | Aeorian Dagger                  |
-| 1     | Bottle of Bald Dwarf            |
-| 1     | Gilded Scroll Case              |
-| 1     | Jade Statuette of a Storm Giant |
-| 1     | Silver Ring                     |
-| 1     | Hulil’s Journal                 |
-| 6     | Arrows +1                       |
-| 2     | Potions of Healing              |
-| 1     | grappling hook                  |
-| 6     | crossbows                       |
-| 30    | bolts                           |
-| 5     | scimitars                       |
+| Count | Item                            | Carried by |
+| -:    | :-                              | :-         |
+| 1     | Aeorian Dagger                  | Kragor     |
+| 1     | Bottle of Bald Dwarf            |            |
+| 1     | Gilded Scroll Case              |            |
+| 1     | Jade Statuette of a Storm Giant |            |
+| 1     | Silver Ring                     |            |
+| 1     | Hulil’s Journal                 | Halil      |
+| 6     | Arrows +1                       |            |
+| 2     | Potions of Healing              |            |
+| 1     | grappling hook                  | Scarlet    |
+| 6     | crossbows                       |            |
+| 30    | bolts                           |            |
+| 5     | scimitars                       |            |
 
 ### Arrows, +1 {#arrows .item}
 <span class="item-type">_Weapon, uncommon_</span>
