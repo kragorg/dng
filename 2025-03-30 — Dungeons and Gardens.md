@@ -111,9 +111,7 @@ When we walk in he is noting inventory.
 
 Elara introduces us.
 
-Kragor requests: war hammer, armor, incense.
-Gets an old dwarven war hammer for 15 gp.
-No studded leather armor.
+Kragor requests: armor? No studded leather armor.
 Elara says do you have any armor to fit my figure?
 Mathias is impressed and has elven leather armor only.
 Whisper asks for a quarterstaff (2 sp). Mathias rips the head off a spear and offers that.
@@ -161,8 +159,6 @@ another wizard who came from there told me that it looked like an Aeorian experi
 scarlet inquires about golden vials and milky white liquid? well i have heard of that but that is all i know.
 
 whisper asks about potions for sale. mathias shows one bottle that looks pretty gross. it is a potion of hill giant strength for 500 gp.
-
-kragor requests incense. buy three incense for 30 gp (kragor’s personal stash).
 
 doctor pepe pulls the gnome aside. uses 5 gp to identify a red garnet behind the party’s back.
 

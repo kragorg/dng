@@ -7,7 +7,7 @@ Table: Purses
 | Doctor Pepe | 147 |  3 | 50 | 72 |
 | Elara       | 141 |  3 | 51 | 72 |
 | Halite      | 304 |  3 | 26 | 72 |
-| Kragor      |  74 |  3 | 41 | 72 |
+| Kragor      | 119 |  3 | 41 | 72 |
 | Scarlet     | 148 |  3 | 41 | 72 |
 | Whisper     | 145 |  3 | 47 | 76 |
 
@@ -26,8 +26,6 @@ Table: Inventory Adjustments
 | Halite      | Crystal arcane focus item |
 | Halite      | Journal of Hulil Lutan    |
 | Halite      | Cooking utensils          |
-| Kragor      | War hammer                |
-| Kragor      | 3 bundles of incense      |
 | Kragor      | Brass oil lamp (~ 1sp)    |
 | Kragor      | Cooking utensils          |
 | Whisper     | Quarterstaff              |
