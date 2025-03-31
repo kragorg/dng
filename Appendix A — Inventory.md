@@ -1,40 +1,59 @@
 # Party Inventory
 
-Table: Currency
+Table: Purses
 
-| Count | Coin            |
-| -:    | :-              |
-| 156   | gold pieces     |
-| 43    | electrum pieces |
-| 249   | silver pieces   |
-| 415   | copper pieces   |
+| Who         |  GP | EP | SP | CP |
+|-------------|----:|---:|---:|---:|
+| Doctor Pepe | 147 |  3 | 50 | 72 |
+| Elara       | 141 |  3 | 51 | 72 |
+| Halite      | 304 |  3 | 26 | 72 |
+| Kragor      |  74 |  3 | 41 | 72 |
+| Scarlet     | 148 |  3 | 41 | 72 |
+| Whisper     | 145 |  3 | 47 | 76 |
+
+Table: Inventory Adjustments
+
+| Who         | What                      |
+| :-          | :-                        |
+| Doctor Pepe | Scimitar                  |
+| Doctor Pepe | Olive drab deerstalker    |
+| Doctor Pepe | 130 crossbow bolts        |
+| Doctor Pepe | +1 Aeorian dagger         |
+| Doctor Pepe | Cook’s utensils           |
+| Elara       | 100 arrows                |
+| Elara       | 30 +1 arrows              |
+| Halite      | 3 javelins                |
+| Halite      | Crystal arcane focus item |
+| Halite      | Journal of Hulil Lutan    |
+| Halite      | Cooking utensils          |
+| Kragor      | War hammer                |
+| Kragor      | 3 bundles of incense      |
+| Kragor      | Brass oil lamp (~ 1sp)    |
+| Kragor      | Cooking utensils          |
+| Whisper     | Quarterstaff              |
+| Scarlet     | Scimitar                  |
+| Scarlet     | Grappling hook            |
 
 Table: Equipment
 
-| Count | Item                            | Carried by |
-| -:    | :-                              | :-         |
-| 1     | Aeorian Dagger                  | Kragor     |
-| 1     | Bottle of Bald Dwarf            |            |
-| 1     | Gilded Scroll Case              |            |
-| 1     | Jade Statuette of a Storm Giant |            |
-| 1     | Silver Ring                     |            |
-| 1     | Hulil’s Journal                 | Halil      |
-| 6     | Arrows +1                       |            |
-| 2     | Potions of Healing              |            |
-| 1     | grappling hook                  | Scarlet    |
-| 6     | crossbows                       |            |
-| 30    | bolts                           |            |
-| 5     | scimitars                       |            |
+| Count | Item                            |
+| -:    | :-                              |
+| 1     | Bottle of Bald Dwarf            |
+| 1     | Gilded Scroll Case              |
+| 1     | Jade Statuette of a Storm Giant |
+| 1     | Silver Ring (~ 50gp)            |
+| 2     | Potions of Healing              |
+| 1     | month of provisions             |
 
 ### Arrows, +1 {#arrows .item}
 <span class="item-type">_Weapon, uncommon_</span>
 
 You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.
 
-### Aeorian Dagger {#dagger .item}
-<span class="item-type">_Weapon_</span>
+### Aeorian +1 Dagger {#dagger .item}
+<span class="item-type">_Weapon, uncommon_</span>
 
-A finely wrought dagger previously sold to Pelc’s Curiosities, pilfered by Tulgi Lutan, and surrendered by same to Kragor Grimstride.
+A finely wrought dagger previously sold to Pelc’s Curiosities, pilfered by Tulgi Lutan, and surrendered by same to Kragor Grimstride. With the rest of the party’s blessing, Kragor ultimately gifted the dagger to Doctor Pepe.
 
 ### Bald Dwarf Whisky {#whisky .item}
 <span class="item-type">_Consumable, uncommon_</span>
