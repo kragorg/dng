@@ -4,15 +4,15 @@
 
 Morning in Palebank Village dawns with a crisp, biting air. Frost clings to windows, and the adventurers rise at half-past seven. Below, a kettle hisses, and the aroma of breakfast fills the inn. Unusually quiet due to the port’s closure, the inn hosts only one other group— a family, a weary pair of men with twin tiefling girls. And even they soon depart, the door framing their retreat in the morning light.
 
-Bortock, the innkeeper, greets them cheerily. “Elro was around last night, looking for you lot,” he says, “He’ll be back soon for news.”
+Arl, the innkeeper, greets them cheerily. “Elro was around last night, looking for you lot,” he says, “He’ll be back soon for news.”
 
-As Halite asks about Croaker Cave, Bortock’s expression shifts subtly to one of caution. “Croaker Cave, you say? They call it that for good reason— the croaks of giant ice frogs echo from there, a sound that’d chill your bones if the cold hadn’t already. None of the village folk dare set foot inside. They know where to find it, sure, but it’s an unspoken rule here: no one goes into that cave.”
+As Halite asks about Croaker Cave, Arl’s expression shifts subtly to one of caution. “Croaker Cave, you say? They call it that for good reason— the croaks of giant ice frogs echo from there, a sound that’d chill your bones if the cold hadn’t already. None of the village folk dare set foot inside. They know where to find it, sure, but it’s an unspoken rule here: no one goes into that cave.”
 
-Taking a seat, the party enjoys breakfast— warm bread, stew, and fish; a bargain at only five silver pieces— while Kragor inquires about Hulil, Tulgi’s sister. Bortock scratches his beard thoughtfully, his eyes narrowing as he sifts through what bits of information he possesses. “Ah, Tulgi,” he begins slowly, weighing his words. “Can’t say I knew she has a sister. These folks from Shadycreek Run— always a tangled web with them. Their kin aren’t exactly welcome in Palebank. Suspicion tends to follow their kind.”
+Taking a seat, the party enjoys breakfast— warm bread, stew, and fish; a bargain at only five silver pieces— while Kragor inquires about Hulil, Tulgi’s sister. Arl scratches his beard thoughtfully, his eyes narrowing as he sifts through what bits of information he possesses. “Ah, Tulgi,” he begins slowly, weighing his words. “Can’t say I knew she has a sister. These folks from Shadycreek Run— always a tangled web with them. Their kin aren’t exactly welcome in Palebank. Suspicion tends to follow their kind.”
 
 Ever the pragmatic, Kragor poses another question: “What about healing potions? Do you know where we might procure some?”
 
-Bortock advises, “Try the docks. There’s an old elf woman, Gramini, she sells them. Pricey, but worth it.”
+Arl advises, “Try the docks. There’s an old elf woman, Gramini, she sells them. Pricey, but worth it.”
 
 As breakfast concludes, Elro joins them, concern in his eyes. Scarlet updates him on their findings: connections between Tulgi, Hulil, and the village’s affliction, and the tragic fate of Verla from Pelc’s Curiosities. Elro nods, confirming suspicions about the Shadycreek Run families. News of dispatched bandits lightens his demeanor. “Less to worry about,” he says, intending to send his men over to the shop to clean up.
 
