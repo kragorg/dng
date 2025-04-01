@@ -15,7 +15,7 @@ pdfbooklet="${pdfbase:r} (Booklet).pdf"
 
 # `markdown` contains the names of the source files, each of which may
 # be shell-quoted.
-inputs=( ${(Q)${(z)markdown}} )  # z: Split into words using shell parsing. Q: Remove quoting.
+inputs=( ${argv} )
 inputs=( ${(i)inputs} )          # i: Sort case-insensitively.
 inputs=( ${src}/${^inputs} )     # ^: RC_EXPAND_PARAM.
 
