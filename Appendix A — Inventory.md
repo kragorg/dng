@@ -18,10 +18,10 @@ Table: Inventory Adjustments
 | Doctor Pepe | Scimitar                  |
 | Doctor Pepe | Olive drab deerstalker    |
 | Doctor Pepe | 130 crossbow bolts        |
-| Doctor Pepe | +1 Aeorian dagger         |
+| Doctor Pepe | Aeorian Dagger, +1        |
 | Doctor Pepe | Cook’s utensils           |
 | Elara       | 100 arrows                |
-| Elara       | 30 +1 arrows              |
+| Elara       | 30 Arrows, +1             |
 | Halite      | 3 javelins                |
 | Halite      | Crystal arcane focus item |
 | Halite      | Journal of Hulil Lutan    |
@@ -48,10 +48,16 @@ Table: Equipment
 
 You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.
 
-### Aeorian +1 Dagger {#dagger .item}
+### Aeorian Dagger, +1 {#dagger .item}
 <span class="item-type">_Weapon, uncommon_</span>
 
 A finely wrought dagger previously sold to Pelc’s Curiosities, pilfered by Tulgi Lutan, and surrendered by same to Kragor Grimstride. With the rest of the party’s blessing, Kragor ultimately gifted the dagger to Doctor Pepe.
+
+You have a +1 bonus to attack and damage rolls made with this magic weapon.
+
+This weapon has the following mastery property. To use this property, you must have a feature that lets you use it.
+
+**Nick.** When you make the extra attack of the **Light** property, you can make it as part of the Attack action instead of as a Bonus Action. You can make this extra attack only once per turn.
 
 ### Bald Dwarf Whisky {#whisky .item}
 <span class="item-type">_Consumable, uncommon_</span>
