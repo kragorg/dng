@@ -8,7 +8,7 @@
 
 4. **Bill**: A Glassblade, providing warnings at the tavern about the dangers associated with the curse impacting Urgon and Tulgi.
 
-5. **Bortock**: A jovial dwarf who tends bar in the local tavern and interacts with the adventurers, providing them with refreshments and useful local insights.
+5. **Arl Bortock**: A jovial dwarf who tends bar in the local tavern and interacts with the adventurers, providing them with refreshments and useful local insights.
 
 6. **Doctor Pepe**: Originally a rogue observing the adventurers stealthily, he reveals his true intent and aligns with them, contributing with his investigative prowess.
 
