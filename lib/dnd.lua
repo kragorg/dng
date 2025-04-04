@@ -1,6 +1,7 @@
 traverse = 'topdown'
 
 local pendingItem = nil
+local pendingComment = nil
 
 function Span(el)
   if not el.classes then
@@ -19,12 +20,28 @@ function Span(el)
   return el
 end
 
+function BlockQuote(el)
+  local content = pandoc.write(pandoc.Pandoc(el.content), "latex")
+  local text = ""
+  if pendingComment then
+    text = pendingComment
+    pendingComment = nil
+  end
+  local comment = "\\begin{DndComment}{" .. text .. "}\n" ..
+    content .. "\n" ..
+    "\\end{DndComment}"
+  return pandoc.RawBlock("latex", comment)
+end
+
 function Header(el)
   pendingItem = nil
   if not el.classes then
     return el
   elseif el.classes:includes("item") then
     pendingItem = "\\DndItemHeader{" .. pandoc.utils.stringify(el.content) .. "}"
+    return {}
+  elseif el.classes:includes("comment") then
+    pendingComment = pandoc.utils.stringify(el.content)
     return {}
   end
   return el
