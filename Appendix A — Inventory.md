@@ -1,4 +1,4 @@
-# Party Inventory
+# Appendix A — Party Inventory
 
 Table: Purses
 
