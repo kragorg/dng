@@ -5,7 +5,7 @@ As the sun sets over Palebank Village, casting a warm glow, the adventurers retu
 On the way back to the Jolly Dwarf, the party encounters Elro. “Hail, my friends. What news do you bring?” he asks.
 
 Elara explains all that has happened in the cavern: the bandits, the frogs— especially Old Croaker, and Hulil’s role as the leader.
-Elro responds, “That explains the deranged dwarf our Glass Blades caught running by town with his hands bound. He’s now in jail. I thank you for ridding our village of the scum. There was a bounty on that gang: 75 gold pieces. You’ve earned it.”
+Elro responds, “That explains the deranged dwarf our Glassblades caught running by town with his hands bound. He’s now in jail. I thank you for ridding our village of the scum. There was a bounty on that gang: 75 gold pieces. You’ve earned it.”
 
 Kragor blurts out, “Have you heard the name Irven Liel?”
 
@@ -25,9 +25,9 @@ Arl scratches his beard. “Oh, them? That’s the Liel-Tethwicks. Irven there i
 
 Halite perks up at the mention of books. “A bookseller? Fancy myself a reader,” he comments, a hint of enthusiasm in his voice.
 
-Irven Liel, overhearing, turns to them with a friendly wave. “Indeed, we are booksellers,” he confirms. “Irven Liel, at your service. We take orders and ship to stores from here to Uthodurn— I’m a wholesaler. Even Gramini is planning to stock some of our best sellers.”
+Irven Liel, overhearing, turns to them with a friendly wave. “Indeed, we are booksellers,” he confirms. “Irven Liel, at your service. This is my dearest husband, Fenton Tethwick; and our two lovely daughters, Honor & Magic. We take orders and ship to stores from here to Uthodurn— wholesalers. Even Gramini is planning to stock some of our best sellers.”
 
-Recognizing the name from Hulil’s journal, Whisper, ever the blunt one, asks outright, "How about vials?”
+Recognizing the name “Irven Liel” from Hulil’s journal, Whisper, ever the blunt one, asks outright, "How about vials?”
 
 Irven’s expression briefly turns guarded. “Uh, who have you been talking to? I don’t know about any vials.”
 
@@ -51,11 +51,9 @@ Whisper, sensing the urgency of the situation, interjects gently, “Perhaps you
 
 Irven nods hesitantly, his anxiety clear. “My whole family has touched this…” he confesses, fear evident in his eyes.
 
-Scarlet focuses, fetching something from her pouch and murmuring an incantation under her breath. A soft glow emanates from her hands as she confirms, “It’s the same magical contagion, just like in the chest we found.”
+Scarlet focuses, fetching something from her pouch and murmuring an incantation under her breath. A soft glow emanates from her hands as she confirms, “It’s the same magical contagion, just like in the chest we found.” She gives Irven a serious look. “I think you should spend some quality time with your children,” she advises. Irven blanches.
 
 Irven’s shoulders slump, his fear for his family’s safety evident in his eyes. Taking the fragile vial into his pouch with extreme care, Doctor Pepe remarks, “Best not to touch this further.”
-
-Scarlet gives Irven a serious look. “I think you should spend some quality time with your children,” she advises. Irven blanches.
 
 Halite adds, “Anyone in the family showing any symptoms? Blue streaks of the skin? Inner chill? Slowed movements?” Irven shakes his head, his relief tempered by worry.
 
@@ -75,7 +73,7 @@ Arl nods, though his brow remains furrowed with concern. “Right, right. I’m 
 
 ## The cause and the cure
 
-The lingering warmth of the Jolly Dwarf fades as the adventurers step into the chill evening air, the glow of lamps casting long shadows across the path. They gird themselves for another trek in the icy wilderness, but promise of knowledge drawing them toward the dwelling of the wizard Westeroff.
+The lingering warmth of the Jolly Dwarf fades as the adventurers step into the chill evening air, the glow of lamps casting long shadows across the path. They gird themselves for another trek in the icy wilderness, but the promise of knowledge draws them toward the dwelling of the wizard Westeroff.
 
 Just as they’re about to depart, Elro approaches with hurried steps, his breath visible in the cold as he greets them. “Ah, just in time,” he says, voice laced with urgency. “I’ve received word from my contacts. They’ve confirmed some crucial details about this disease— called the Frigid Woe.”
 
@@ -137,7 +135,7 @@ His strategic mind sharpens, foreseeing paths to success even in uncertainty, ch
 
 ### Kragor’s arcane resonance
 
-The wind howls as Kragor sits alone, tracing patterns in the frosty air. He recalls the night before— a restless night as if he had nightmares he could not recall. Upon waking he’d found his fingernails cracked and caked with mud, despite recalling his fastidious evening routine. Lost in these thoughts, an arcane potential vibrates in the air unnoticed.
+The wind howls as Kragor sits alone, tracing patterns in the frosty air. He dwells on the night before— a restless night as if he had nightmares he could not remember. Upon waking he’d found his fingernails cracked and caked with mud, despite recalling his fastidious evening routine. Lost in these thoughts, an arcane potential vibrates in the air unnoticed.
 
 As he absent-mindedly mutters an incantation, the cosmic swirl of his thoughts unlocks a hidden door. An esoteric rite unfolds, and to his astonishment, a warm surge of magic fills him, restoring some of the energy he expended earlier— a tether to a newfound reservoir of power.
 
@@ -151,19 +149,19 @@ In the dancing shadows, Doctor Pepe reclines near the hearth, his mind whirring 
 
 Sipping spiced cider, an internal shift sharpens his senses. Every sound— the clink of tankards, the creak of floorboards— crystalizes into focus. He realizes time yields to his will, revealing an ability to exploit the lulls between heartbeats.
 
-Grinning, he tests this newfound quickness, running a stealthy route between tables up to the rooms, completely undetected. Each moment forms with crystal clarity, readying him to weave through shadows, more agile than swirling snow.
+Grinning, he tests this newfound quickness, running a stealthy route between tables up to the rooms, completely undetected. Each moment forms with unclouded insight, readying him to weave through shadows, more agile than swirling snow.
 
 As night deepens, each adventurer, transformed by their experiences within the Jolly Dwarf, readies for the unknowns awaiting in Eiselcross. Outside, whispers of snow and secrecy abound, but with increasing potential, each one braces for the stories and trials of tomorrow.
 
 ## Prepare for departure
 
-Morning light filters softly through the frost-touched windows of the Jolly Dwarf, casting dancing patterns over the adventurers as they awaken, well-rested and invigorated. The warmth of the inn lingers like an inviting blanket, fortifying them against the chill that awaits outside. After a hearty breakfast and a few shared laughs, their eyes are set on the tasks ahead.
+The next morning, the adventurers awake well-rested and invigorated. The warmth of the inn lingers like an inviting blanket, fortifying them against the chill that awaits outside. After a hearty breakfast and a few shared laughs, their eyes are set on the tasks ahead.
 
 Their path leads first to Mathias’s Stuffs, an establishment with all the disarrayed charm of a barn filled with a collector’s treasures. There the party quickly trades with the harried elf proprietor Mathias to procure equipment and provisions for their expedition: a quarterstaff for Whisper, a few javelins for Halite, bolts and arrows for Doctor Pepe and Elara, a unique two-billed olive drab hat for Doctor Pepe, and a month’s provisions. They more than offset their purchases by selling the scimitars and crossbows they acquired from the defeated bandits.
 
 Thanks to Kragor’s curiosity, they also learn a useful tidbit about Eiselcross from Mathias. The lands are inhabited by “wild folk” who largely keep to themselves, except for one group among them: a violent group whose members have black streaks across their faces.
 
-Anxious to discover as much as they might of the Aeorian artifacts Urgon found, they make their next stop the home of Westeroff, the retired wizard mentioned by Gramini. But, they learn little to help them: Westeroff is not a fan of music; a spellcasting costing them five gold reveals the dagger is magical; and that the remaining items are mundane although valuable.
+Anxious to discover as much as they might of the Aeorian artifacts Urgon found, they make their next stop the home of Westeroff, the retired wizard mentioned by Gramini. But, they learn little to help them: Westeroff is not a fan of music; a spellcasting costing them five gold reveals the dagger is magical; and the remaining items are mundane although valuable.
 
 During the discussions, Halite eyes a crystal appropriate for arcane focus. He is taken by it, although he is no spellcaster himself, and agrees to pay ten gold for it from his own stash.
 
@@ -191,7 +189,7 @@ Even as they talk of weather patterns and navigation routes, Stonebeard’s deme
 
 However, the moment the Remorhaz pushes past the harbor’s mouth and Palebank diminishes into a mere silhouette against the frosty horizon, a discernible shift occurs, like the release of a drawn bowstring.
 
-Captain Stonebeard’s genial facade melts away, replaced by the steely visage of a seasoned mariner. “Alright, enough pandering,” he declares brusquely, rolling his shoulders as if shedding a constrictive garment. “This ship won’t sail itself, and there’s work to be done.”
+Captain Stonebeard’s genial façade melts away, replaced by the steely visage of a seasoned mariner. “Alright, enough pandering,” he declares brusquely, rolling his shoulders as if shedding a constrictive garment. “This ship won’t sail itself, and there’s work to be done.”
 
 The party exchanges looks of mild surprise, prompting Stonebeard to offer a half-smile. “Don’t look so shocked,” he rumbles. “Out here, we run a tight ship, which means everybody pitches in.”
 
@@ -247,11 +245,11 @@ At the helm is Mera, the usually stern navigator, now smiling widely, her eyes t
 
 “You,” Mera announces, “are the liveliest group we’ve ever shared this deck with!”
 
-Amidst this spellbound camaraderie, sea and sky blur, the ship an island of revelry on endless waters.
+Amidst this spellbound camaraderie, sea and sky blur, the ship an island of revelry on endless waters. The adventurers and crew retire well-fed, sleep coming easily… for most.
 
 ## A flumph fever dream
 
-Scarlet drifts into a fevered dream, where she transforms into a flumph in a surreal Underdark kitchen. Her human form dissolves, and her senses morph— colors become emotions, and telepathic whispers surround her.
+Scarlet drifts into a fevered dream, where she transforms into a flumph in a surreal Underdark kitchen. Her halfling form dissolves, and her senses morph— colors become emotions, and telepathic whispers surround her.
 
 As a flumph, Scarlet floats through this otherworldly kitchen, propelled by gentle bursts of gas that emit soft notes harmonizing with her thoughts. Her new perspective reveals the flavors of the Underdark: savory spores from glowing mushrooms, earthy cave lichens, and the briny essence of an underground spring.
 
@@ -263,15 +261,15 @@ As the fever dream weaves its finale, Scarlet’s consciousness begins to ebb ba
 
 ## Iron Chef
 
-The day dawns dull and gray, with flurries meeting the sea’s gentle waves. Below deck on the Remorhaz, Whisper and Haldor bond against the ship’s soft creaks. “I’ve never known a day without snow,” Haldor admits, his fingers tracing the ropes.
+The day dawns dull and gray, with flurries meeting the sea’s gentle waves. High above the decks on the Remorhaz, Whisper and Haldor bond against the ship’s soft creaks. “I’ve never known a day without snow,” Haldor admits, his fingers tracing the ropes.
 
 “Truly? Not once?” Whisper asks, intrigued.
 
-“Born in it,” he replies. “Though fishing runs in my veins. Glass Blades pay well, but the peace of fishing is unmatched. Everyone should learn to fish.”
+“Born in it,” he replies. “Though fishing runs in my veins. Glassblades pay well, but the peace of fishing is unmatched. Everyone should learn to fish.”
 
 Whisper nods, recalling her warm southern seas where the sun dances lazily on the waves. “The water there welcomes you like an old friend,” she says.
 
-Haldor listens, enchanted by the idea of warm seas and … swimming! “Sounds wonderful,” he says longingly. “I must learn of these waters.” He shows Whisper how to tackle stubborn ice, his fingers deft from life in icy lands.
+Haldor listens, enchanted by the idea of warm seas and … swimming! “Sounds wonderful,” he says longingly. “I must learn of these waters.” He shows Whisper how to tackle stubborn ice frozen into the ropes, his fingers deft from life in icy lands.
 
 Kragor steps onto the deck, shivering but focused, and casts his net into the sea. As he hauls it back, he’s caught by surprise— not just fish but a barnacle-crusted brass oil lamp lands in his hand. “There’s something to polish,” he murmurs, weighing it in his palm, assessing the worth— a silver’s gain, perhaps.
 
@@ -279,27 +277,29 @@ Elara joins the hunt as well, casting her net into the swirling depths. But it i
 
 Halite’s and Scarlet’s efforts pay off as their nets bring up a writhing mass of fish, including an iridescent marlin, tuna, and musk flounder, making quite an impression with the crew.
 
-With the day’s catch secured, the adventurers gathered in the ship’s warm galley. Chef Ingrid, eyes bright with pride, welcomed them with a smile.
+With the day’s catch secured, the adventurers gather in the ship’s warm galley. Chef Ingrid, eyes bright with pride, welcomes them with a smile.
 
-“Gather ’round, friends! The sea has blessed us, and I invite you to craft a feast worthy of our journey,” she announced, gesturing to the array of fresh fish. “I’ll share the secrets of a meal so fine, even the gods would envy us.”
+“Gather ’round, friends! The sea has blessed us, and I invite you to craft a feast worthy of our journey,” she announces, gesturing to the array of fresh fish. “I’ll share the secrets of a meal so fine, even the gods would envy us.”
 
-The galley buzzed as the adventurers gathered around Ingrid, each busy with chopping and seasoning under her watchful eye. Three particularly adept students caught her attention: Kragor, Halite, and Doctor Pepe.
+The galley buzzes as the adventurers gather around Ingrid, each busy with chopping and seasoning under her watchful eye. Three particularly adept students catch her attention: Kragor, Halite, and Doctor Pepe.
 
-Kragor, with surprising delicacy, carefully filleted a fish. “Didn’t know I’d be good at anything more than swinging a war hammer,” he mused.
+Kragor, with surprising delicacy, carefully fillets a fish. “Didn’t know I’d be good at anything more than swinging a war hammer,” he mused.
 
-Ingrid nodded, adjusting his grip. “Precision is key, Kragor, whether in the kitchen or on the battlefield.”
+Ingrid nods, adjusting his grip. “Precision is key, Kragor, whether in the kitchen or on the battlefield.”
 
-Halite, assessing spices for his rub, observed, “It’s like a strategic battle plan. Each seasoning has its purpose.”
+Halite, assessing spices for his rub, observes, “It’s like a strategic battle plan. Each seasoning has its purpose.”
 
-“Well said, Halite,” Ingrid replied, admiring his work. “Strategy is both simple and bold, in combat and flavor.”
+“Well said, Halite,” Ingrid replies, admiring his work. “Strategy is both simple and bold, in combat and flavor.”
 
-Nearby, Doctor Pepe peeled vegetables with the finesse of a master thief. “Cooking is like planning a perfect heist,” he joked. “But the treasure’s tastier.”
+Nearby, Doctor Pepe peels vegetables with the finesse of a master thief. “Cooking is like planning a perfect heist,” he jokes. “But the treasure’s tastier.”
 
-Ingrid chuckled. "You’ve certainly stolen the show, Doctor Pepe."
+Ingrid chuckles. "You’ve certainly stolen the show, Doctor Pepe."
 
-As the meal’s aroma filled the galley, Ingrid gathered them around the table. “Feast your eyes and senses,” she declared. “This is more than food— it’s the fruit of your labor.”
+As the meal’s aroma fills the galley, Ingrid gathers them around the table. “Feast your eyes and senses,” she declars. “This is more than food— it’s the fruit of your labor.”
 
-Each adventurer beams with satisfaction, knowing they have not only fed their bellies but enriched their skills and camaraderie.
+Each adventurer basks in a warm glow of satisfaction. Their hearts are as full as their bellies; the bonds between them strengthen with shared laughter and the subtle symphony of clinking plates. Chef Ingrid, her eyes twinkling with a mixture of pride and mischief, approaches Kragor, Halite, and Doctor Pepe. With a flourish as grand as any mage’s spell, she unfurls a satchel of gleaming cooking utensils before them.
+
+“Behold,” she declares, her voice a melodic lilt that dances on the evening breeze, “for you have not merely consumed a feast of meals, but of knowledge. You have stirred the cauldron of curiosity, seasoned your souls, and now, you too are alchemists of flavor. May these tools guide your hands as you concoct dishes that rival the nectar of the gods themselves.”
 
 As he admires their handiwork and their instructor, Kragor’s curiosity is piqued by the amulet dangling from Chef Ingrid’s neck. It is a grand silver talisman of a crescent moon alongside an array of arcane runes. His deep voice gruff yet oddly gentle, he asks “Chef Ingrid, what is that shiny thing around your neck? Looks... important.”
 
@@ -307,7 +307,7 @@ Ingrid replies, her gaze distant, anchored yet free. “Ah, a trifle,” she mur
 
 Kragor nodded slowly, satisfied with the simple explanation. “Ah, nice. Moon is... nice.”
 
-Ingrid chuckled softly, her eyes momentarily distant as if recalling secrets long kept. But with Kragor content and unlikely to probe further, the moment passed.
+Ingrid chuckls softly, her eyes momentarily distant as if recalling secrets long kept. But with Kragor content and unlikely to probe further, the moment passes.
 
 ## The Crick Queen’s Call
 
@@ -321,7 +321,7 @@ Players gather, each contributing a silver piece to the pot. Mera’s eyes gleam
 
 Elara, Doctor Pepe, and Halite accept the challenge, sliding their tokens forward. The game is a tapestry of glances, strategies, and the jangle of coins.
 
-Scarlet leans back, watching the tides of fortune. “Some hands aren’t worth playing,” she says, folding but remaining engaged.
+Scarlet leans back, watching the tides of fortune. “Some hands aren’t worth playing,” she says, folding.
 
 Elara, graceful as in her musical performances, reveals “The Even Hand,” drawing groans and applause. “I hope you’re not always this lucky,” Kragor grumbles, amused.
 
