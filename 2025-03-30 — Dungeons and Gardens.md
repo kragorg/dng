@@ -9,7 +9,7 @@ Elro responds, “That explains the deranged dwarf our Glassblades caught runnin
 
 Kragor blurts out, “Have you heard the name Irven Liel?”
 
-“No,” respods Elro. “Should I have?”
+“No,” responds Elro. “Should I have?”
 
 “I don’t know. But we found a journal of Hulil’s, and it recorded that she sold an Aeorian artifact— a blue vial— to one Irven Liel. We believe this vial is connected to the sickness.” Kragor goes on to explain Hulil’s condition, the blue powder seen in the chest, and the vials.
 
@@ -51,9 +51,7 @@ Whisper, sensing the urgency of the situation, interjects gently, “Perhaps you
 
 Irven nods hesitantly, his anxiety clear. “My whole family has touched this…” he confesses, fear evident in his eyes.
 
-Scarlet focuses, fetching something from her pouch and murmuring an incantation under her breath. A soft glow emanates from her hands as she confirms, “It’s the same magical contagion, just like in the chest we found.” She gives Irven a serious look. “I think you should spend some quality time with your children,” she advises. Irven blanches.
-
-Irven’s shoulders slump, his fear for his family’s safety evident in his eyes. Taking the fragile vial into his pouch with extreme care, Doctor Pepe remarks, “Best not to touch this further.”
+Scarlet focuses, fetching something from her pouch and murmuring an incantation under her breath. A soft glow emanates from her hands as she confirms, “It’s the same magical contagion, just like in the chest we found.” She gives Irven a serious look. “I think you should spend some quality time with your children,” she advises. Irven blanches. His shoulders slump, his fear for his family’s safety evident in his eyes. Doctor Pepe takes the fragile vial into his pouch with extreme care, remarking, “Best not to touch this further.”
 
 Halite adds, “Anyone in the family showing any symptoms? Blue streaks of the skin? Inner chill? Slowed movements?” Irven shakes his head, his relief tempered by worry.
 
@@ -79,7 +77,7 @@ Just as they’re about to depart, Elro approaches with hurried steps, his breat
 
 The party gathers closer, attentive. “Frigid Woe?” Elara echoes, eyes wide.
 
-“Yes,” Elro affirms, nodding gravely. “It is a weapon that originates from Aeor, and it is familiar to the folks of Eiselcross. But there is hope— a cure exists, stored in golden vials by the Aeorians— a milky white liquid. Wherever Urgon found those vials, that might be our best hope of finding a cure.”
+“Yes,” Elro affirms, nodding gravely. “It is a weapon that originates from Aeor, and it is familiar to the folks of Eiselcross. But there is hope— a cure exists, stored in golden vials by the Aeorians— a milky white liquid. Wherever Urgon found the blue vials, that might be our best hope of finding a cure.”
 
 Kragor scratches his chin thoughtfully. “And you believe the Aeorians created this… to fight the gods?”
 
@@ -87,13 +85,13 @@ Elro nods. “Precisely. They despised the gods, and Frigid Woe might have been 
 
 Before anyone can respond, he inquires, “Have you accounted for all of the powder?”
 
-Doctor Pepe steps forward, quick to respond. “We’ve managed to gather all we could, from both of the vials that Urgon found.”
+Doctor Pepe steps forward, “We’ve managed to gather all we could, from both of the vials that Urgon found.”
 
 Elro continues, “I want to hire you to travel to Eiselcross and retrieve this cure. There’s a ship, the Remorhaz, that will take you there. Find the cure, use of it what you need, but the rest… At Syrinlya, you’ll find an elf, an Uthordurnian, that goes by the moniker ‘The Buyer’. Give the cure to him, and he can teleport it back here to Palebank. Do this, and you will be rewarded 200 gold.”
 
 Elara, ever the bargain hunter, stirs the conversation. “Considering the journey’s danger, perhaps we require a bit more compensation for our troubles…”
 
-Elro gives her an appraising look, recognizing the negotiation for what it is. “I’ll tell you what— securing these blue vials is vital. We can’t risk any more exposure. I’ll give you 200 gold for both of them.”
+Elro gives her an appraising look, recognizing the negotiation for what it is. “I’ll tell you what— securing these blue vials is vital. We can’t risk any more exposure. I’ll give you 200 gold now for the both of them.”
 
 Satisfied with the transaction, Elara turns to less mercantile matters. “What about Irven’s family, Elro? They’ve handled the powder.”
 
