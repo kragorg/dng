@@ -8,7 +8,7 @@ The goliath Halite likewise readies himself, his massive frame towering above ev
 
 ## Surprise
 
-Inside Pelc’s Curiosities lie the answers to the freezing curse. Anxious for action, Elara takes a deep breath, tapping into her well of magic. Her fingers trace the air, summoning the rhythm of a battle drum. Her magic ignites, sending an illusory racket echoing from within the shop’s shadowed walls. Startled into silence, the adversaries within hold their breath, their schemes momentarily unraveled. As Whisper crouches beside her, he senses the tension mounting. Without warning, a crossbow bolt whistles past, narrowly missing him. Elara’s calculated ruse works, urging their foes to react blindly. The door slams shut, a temporary barrier between them and danger.
+Inside Pelc’s Curiosities lie the answers to the freezing curse. Anxious for action, Elara takes a deep breath, tapping into her well of magic. Her fingers trace the air, summoning the rhythm of a battle drum. Her magic ignites, sending an illusory racket echoing from within the shop’s shadowed walls. Startled into silence, the adversaries within hold their breath, their schemes momentarily unraveled. As Whisper crouches beside her, she senses the tension mounting. Without warning, a crossbow bolt whistles past, narrowly missing her. Elara’s calculated ruse works, urging their foes to react blindly. The door slams shut, a temporary barrier between them and danger.
 
 “So much for the element of surprise,” mutters Kragor.
 
