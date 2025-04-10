@@ -33,12 +33,9 @@
               export src="$PWD";
               export markdown="${dungeons-and-gardens.markdown}";
             '';
-            packages = with pkgs; [
-              nixfmt-rfc-style
-              pandoc
-              rclone
-              dndbook
-              dndtex
+            packages = dungeons-and-gardens.nativeBuildInputs ++ [
+              pkgs.nixfmt-rfc-style
+              pkgs.rclone
             ];
           };
         };
