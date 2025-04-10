@@ -14,11 +14,12 @@
 let
   pname = "dungeons-and-gardens";
   version = "1.3";
-  markdown = lib.escapeShellArgs (
-    builtins.filter (filename: builtins.match ".*\\.md$" filename != null) (
-      builtins.attrNames (builtins.readDir src)
-    )
-  );
+  sort = l: lib.sort (a: b: a < b) l;
+  listFiles =
+    dir: map (f: "${dir}/${f}") (sort (builtins.attrNames (builtins.readDir "${src}/${dir}")));
+  sessions = listFiles "sessions";
+  appendices = listFiles "appendices";
+  markdown = lib.escapeShellArgs (sessions ++ appendices);
 in
 stdenv.mkDerivation rec {
   inherit pname version;
