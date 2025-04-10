@@ -29,7 +29,7 @@ stdenv.mkDerivation rec {
   buildPhase = ''
     runHook preBuild
     export LC_ALL="en_US.UTF-8"
-    ${zsh}/bin/zsh -df ${./build.zsh} ${markdown}
+    ${zsh}/bin/zsh -df ${./build.zsh}
     runHook postBuild
   '';
   nativeBuildInputs = [

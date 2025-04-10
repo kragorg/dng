@@ -13,9 +13,16 @@ texprint=${texbase:r}-print.tex
 pdfprint="${pdfbase:r} (Print).pdf"
 pdfbooklet="${pdfbase:r} (Booklet).pdf"
 
-# `markdown` contains the names of the source files, each of which may
-# be shell-quoted.
-inputs=( ${src}/${^argv} )  # ^: RC_EXPAND_PARAM.
+# If the source file names are given on the command line, we use that.
+# Otherwise we expect them to be specified in the environment variable
+# `markdown`, shell-quoted. The file names are relative to the `src`
+# directory.
+if (( ${#argv} > 0 )) {
+  inputs=( ${argv} )
+} else {
+  inputs=( ${(Q)${(z)markdown}} )  # z: Split into words using shell parsing. Q: Remove quoting.
+}
+inputs=( ${src}/${^inputs} )       # ^: RC_EXPAND_PARAM.
 
 cmd=(
   pandoc
