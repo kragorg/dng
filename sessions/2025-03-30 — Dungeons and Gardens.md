@@ -1,6 +1,6 @@
 # Frigid Woe
 
-As the sun sets over Palebank Village, casting a warm glow, the adventurers return to Gramini’s shop. Seeking answers about the mysterious blue powder, they notice a familiar sight— their own traded t-shirt featuring Scanlan Shorthalt, now framed above a lipstick-stained autographed card, and priced at 500 gold pieces. Unfortunately, Gramini has no insight to offer, but does recommend speaking to Elro and to a retired wizard named Westeroff.
+<span class="dropcap">As the sun sets over Palebank</span> Village, casting a warm glow, the adventurers return to Gramini’s shop. Seeking answers about the mysterious blue powder, they notice a familiar sight— their own traded t-shirt featuring Scanlan Shorthalt, now framed above a lipstick-stained autographed card, and priced at 500 gold pieces. Unfortunately, Gramini has no insight to offer, but does recommend speaking to Elro and to a retired wizard named Westeroff.
 
 On the way back to the Jolly Dwarf, the party encounters Elro. “Hail, my friends. What news do you bring?” he asks.
 
