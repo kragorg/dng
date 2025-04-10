@@ -15,9 +15,7 @@ pdfbooklet="${pdfbase:r} (Booklet).pdf"
 
 # `markdown` contains the names of the source files, each of which may
 # be shell-quoted.
-inputs=( ${argv} )
-inputs=( ${(i)inputs} )          # i: Sort case-insensitively.
-inputs=( ${src}/${^inputs} )     # ^: RC_EXPAND_PARAM.
+inputs=( ${src}/${^argv} )  # ^: RC_EXPAND_PARAM.
 
 cmd=(
   pandoc
