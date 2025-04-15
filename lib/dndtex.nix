@@ -5,6 +5,7 @@ texliveSmall.withPackages (
     bookman
     cfr-initials
     contour
+    dblfloatfix
     enumitem
     fontaxes
     gensymb

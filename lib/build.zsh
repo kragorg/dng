@@ -29,7 +29,8 @@ cmd=(
   --standalone
   --from=markdown
   --top-level-division=chapter
-  --include-in-header=${src}/lib/include.tex
+  --dpi 300
+  --include-in-header=${includetex}
 )
 pandoc_latex=(
   ${cmd}

@@ -17,9 +17,19 @@
       let
         src = ./.;
         pkgs = nixpkgs.legacyPackages.${system};
+        includetex = pkgs.writeText "include.tex" ''
+          \usepackage[english]{babel}
+          \usepackage[utf8]{inputenc}
+          \usepackage{dblfloatfix}
+          \newfontfamily\gillius{GilliusADFNo2}[NFSSFamily=GilliusADFNoTwo-LF]
+          \sloppy
+          \graphicspath{ {${./sessions}/} }
+        '';
         dndbook = pkgs.callPackage ./lib/dndbook.nix { };
         dndtex = pkgs.callPackage ./lib/dndtex.nix { inherit dndbook; };
-        dungeons-and-gardens = pkgs.callPackage ./lib/package.nix { inherit dndtex src; };
+        dungeons-and-gardens = pkgs.callPackage ./lib/package.nix {
+          inherit dndtex includetex src;
+        };
       in
       rec {
         packages = {
@@ -30,8 +40,9 @@
           default = pkgs.mkShell {
             name = "dungeons-and-gardens-shell";
             shellHook = ''
-              export src="$PWD";
-              export markdown="${dungeons-and-gardens.markdown}";
+              export src="$PWD"
+              export markdown="${dungeons-and-gardens.markdown}"
+              export includetex="${includetex}"
             '';
             packages = dungeons-and-gardens.nativeBuildInputs ++ [
               pkgs.nixfmt-rfc-style

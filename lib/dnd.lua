@@ -121,3 +121,15 @@ function Table(el)
 
   return pandoc.RawBlock("latex", latex)
 end
+
+function Para(elem)
+  local image = elem.content and elem.content[1]
+  if not (image.t == "Image") then
+    return nil
+  end
+  return pandoc.Para {
+    pandoc.RawInline("latex", "\\begin{figure*}[b]\n"),
+    image,
+    pandoc.RawInline("latex", "\n\\end{figure*}\n"),
+  }
+end

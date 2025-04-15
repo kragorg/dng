@@ -4,6 +4,7 @@
   fetchFromGitHub,
   glibcLocales,
   gnused,
+  includetex,
   lib,
   pandoc,
   pkgs,
@@ -17,7 +18,7 @@ let
   sort = l: lib.sort (a: b: a < b) l;
   listFiles =
     dir: map (f: "${dir}/${f}") (sort (builtins.attrNames (builtins.readDir "${src}/${dir}")));
-  sessions = listFiles "sessions";
+  sessions = builtins.filter (filename: builtins.match ".*\\.md$" filename != null) (listFiles "sessions");
   appendices = listFiles "appendices";
   markdown = lib.escapeShellArgs ([ "summary.md" ] ++ sessions ++ appendices);
 in
@@ -29,6 +30,7 @@ stdenv.mkDerivation rec {
   buildPhase = ''
     runHook preBuild
     export LC_ALL="en_US.UTF-8"
+    export includetex="${includetex}"
     ${zsh}/bin/zsh -df ${./build.zsh}
     runHook postBuild
   '';
