@@ -2,11 +2,15 @@
 
 ## Tool Proficiencies
 
-_Source: Xanathar’s Guide to Everything_
+_Sources: Players Handbook and Xanathar’s Guide to Everything_
 
 ### Cartographer’s Tools
 
 Using cartographer’s tools, you can create accurate maps to make travel easier for yourself and those who come after you. These maps can range from large-scale depictions of mountain ranges to diagrams that show the layout of a dungeon level.
+
+**Ability:** Wisdom.
+
+**Crafting:** Map.
 
 **Components.** Cartographer’s tools consist of a quill, ink, parchment, a pair of compasses, calipers, and a ruler.
 
@@ -21,6 +25,7 @@ Using cartographer’s tools, you can create accurate maps to make travel easier
 | Activity                                      | DC  |
 | :-                                            | :-: |
 | Determine a map’s age and origin              | 10  |
+| Draft a map of a small area                   | 15  |
 | Estimate direction and distance to a landmark | 15  |
 | Discern that a map is fake                    | 15  |
 | Fill in a missing part of a map               | 20  |
@@ -28,6 +33,10 @@ Using cartographer’s tools, you can create accurate maps to make travel easier
 ### Carpenter’s Tools
 
 Skill at carpentry enables a character to construct wooden structures. A carpenter can build a house, a shack, a wooden cabinet, or similar items.
+
+**Ability:** Wisdom.
+
+**Crafting:** Club, Greatclub, Quarterstaff, Barrel, Chest, Ladder, Pole, Portable Ram, Torch.
 
 **Components.** Carpenter’s tools include a saw, a hammer, nails, a hatchet, a square, a ruler, an adze, a plane, and a chisel.
 
@@ -43,16 +52,20 @@ Skill at carpentry enables a character to construct wooden structures. A carpent
 
 **Temporary Shelter.** As part of a long rest, you can construct a lean-to or a similar shelter to keep your group dry and in the shade for the duration of the rest. Because it was fashioned quickly from whatever wood was available, the shelter collapses 1d3 days after being assembled.
 
-| Activity                           | DC  |
-| :-                                 | :-: |
-| Build a simple wooden structure    | 10  |
-| Design a complex wooden structure  | 15  |
-| Find a weak point in a wooden wall | 15  |
-| Pry apart a door                   | 20  |
+| Activity                             | DC  |
+| :-                                   | :-: |
+| Build a simple wooden structure      | 10  |
+| Design a complex wooden structure    | 15  |
+| Find a weak point in a wooden wall   | 15  |
+| Seal or pry open a door or container | 20  |
 
 ### Cook’s Utensils
 
 Adventuring is a hard life. With a cook along on the journey, your meals will be much better than the typical mix of hardtack and dried fruit.
+
+**Ability:** Wisdom.
+
+**Crafting:** Rations.
 
 **Components.** Cook’s utensils include a metal pot, knives, forks, a stirring spoon, and a ladle.
 
@@ -68,12 +81,15 @@ Adventuring is a hard life. With a cook along on the journey, your meals will be
 | :-                                | :-: |
 | Create a typical meal             | 10  |
 | Duplicate a meal                  | 10  |
+| Improve food’s flavor             | 10  |
 | Spot poison or impurities in food | 15  |
 | Create a gourmet meal             | 15  |
 
 ### Gaming Set
 
 Proficiency with a gaming set applies to one type of game, such as Three-Dragon Ante or games of chance that use dice.
+
+**Ability:** Wisdom.
 
 **Components.** A gaming set has all the pieces needed to play a specific game or type of game, such as a complete deck of cards or a board and tokens.
 
@@ -85,12 +101,17 @@ Proficiency with a gaming set applies to one type of game, such as Three-Dragon 
 
 | Activity                                    | DC  |
 | :-                                          | :-: |
-| Catch a player cheating                     | 15  |
+| Discern whether someone is cheating         | 10  |
 | Gain insight into an opponent’s personality | 15  |
+| Win the game                                | 20  |
 
 ### Herbalism Kit
 
 Proficiency with an herbalism kit allows you to identify plants and safely collect their useful elements.
+
+**Ability:** Intelligence.
+
+**Crafting:** Antitoxin, Candle, Healer’s Kit, Potion of Healing.
 
 **Components.** An herbalism kit includes pouches to store herbs, clippers and leather gloves for collecting plants, a mortar and pestle, and several glass jars.
 
@@ -104,14 +125,17 @@ Proficiency with an herbalism kit allows you to identify plants and safely colle
 
 **Identify Plants.** You can identify most plants with a quick inspection of their appearance and smell.
 
-| Activity        | DC  |
-| :-              | :-: |
-| Find plants     | 15  |
-| Identify poison | 20  |
+| Activity         | DC  |
+| :-               | :-: |
+| Identify a plant | 10  |
+| Find plants      | 15  |
+| Identify poison  | 20  |
 
 ### Musical Instruments
 
 Proficiency with a musical instrument indicates you are familiar with the techniques used to play it. You also have knowledge of some songs commonly performed with that instrument.
+
+**Ability:** Charisma.
 
 **History.** Your expertise aids you in recalling lore related to your instrument.
 
@@ -119,14 +143,17 @@ Proficiency with a musical instrument indicates you are familiar with the techni
 
 **Compose a Tune.** As part of a long rest, you can compose a new tune and lyrics for your instrument. You might use this ability to impress a noble or spread scandalous rumors with a catchy tune.
 
-| Activity         | DC  |
-| :-               | :-: |
-| Identify a tune  | 10  |
-| Improvise a tune | 20  |
+| Activity          | DC  |
+| :-                | :-: |
+| Play a known tune | 10  |
+| Identify a tune   | 10  |
+| Improvise a song  | 15  |
 
 ### Navigator’s Tools
 
 Proficiency with navigator’s tools helps you determine a true course based on observing the stars. It also grants you insight into charts and maps while developing your sense of direction.
+
+**Ability:** Wisdom.
 
 **Components.** Navigator’s tools include a sextant, a compass, calipers, a ruler, parchment, ink, and a quill.
 
@@ -138,6 +165,7 @@ Proficiency with navigator’s tools helps you determine a true course based on 
 | :-                                         | :-: |
 | Plot a course                              | 10  |
 | Discover your position on a nautical chart | 15  |
+| Determine position by stargazing           | 15  |
 
 ### Thieves’ Tools
 
