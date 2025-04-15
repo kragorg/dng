@@ -47,3 +47,9 @@
 23. **Westeroff**: A retired wizard living in Palebank Village, offering limited assistance to the adventurers, providing insight into some magical artifacts.
 
 24. **Whisper**: A tabaxi with exceptional agility and stealth, she often takes on scouting roles, using her skills to navigate tense situations and inform party strategy, now with an enhanced ability to heal herself.
+
+**Mera**: Navigator of the Remorhaz.
+
+**Haldor**: Deck hand on the Remorhaz.
+
+**Ironfist**: First mate of the Remorhaz.
