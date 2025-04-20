@@ -1,55 +1,73 @@
 # Appendix B — Dramatis Personae
 
-1. **Adventurers**: The primary group consisting of Elara, Halite, Kragor, Scarlet, Whisper, and Doctor Pepe. Brought together by the shared quest to unravel the mystery of a curse tied to Aeorian artifacts.
+1.  **Adventurers**: The primary group consisting of Elara, Halite, Kragor, Scarlet, Whisper,Doctor Pepe, and— more recently— Gehard. Brought together by the shared quest to unravel the mystery of the Frigid Woe, they have journeyed from Palebank Village to the icy shores of Eiselcross aboard the *Remorhaz*. Each member is undergoing personal growth, honing their unique skills and deepening their bonds through shared adversity and unexpected moments of camaraderie (and cooking lessons).
 
-2. **Arl Bortock**: A jovial dwarf who tends bar in the local tavern and interacts with the adventurers, providing them with refreshments and useful local insights.
+2.  **Arl Bortock**: A jovial dwarf who tends bar at the *Jolly Dwarf* in Palebank Village. He provides the adventurers with lodging, refreshments, local insights, and identifies the Liel-Tethwick family. He later promises a thorough cleaning of his inn upon learning of potential contamination.
 
-3. **Bandits (Croaker Cave)**: Another group working under Hulil, tasked with defending the cave. They confront the adventurers as they delve deeper into the cave’s secrets.
+3.  **Bandits (Croaker Cave)**: Followers of Hulil Lutan, tasked with defending her operations within Croaker Cave. They battled the adventurers, resulting in casualties and one captured dwarf (associated with the Uttolot family) who provided intelligence before being knocked out.
 
-4. **Bandits (Pelc’s Curiosities)**: Followers of Hulil, breaking into Pelc’s Curiosities searching for clues about the curse. They engage with the adventurers in combat but surrender after defeat.
+4.  **Bandits (Pelc’s Curiosities)**: Followers of Hulil Lutan, encountered ransacking the shop searching for clues to cure Hulil’s Frigid Woe. They engaged the adventurers in combat but surrendered after several were defeated, revealing Hulil’s location and affliction.
 
-5. **Bill**: A Glassblade, providing warnings at the tavern about the dangers associated with the curse impacting Urgon and Tulgi.
+5.  **Bill**: A Glassblade in Palebank Village, encountered at the *Jolly Dwarf*, providing warnings about the dangers of the Frigid Woe and the port closure.
 
-6. **Doctor Pepe**: Originally a rogue observing the adventurers stealthily, he reveals his true intent and aligns with them, contributing with his investigative prowess.
+6.  **Bret**: A human wizard and member of the Cerberus Assembly, rescued by the *Remorhaz* the *Frostfang*, on which he had purchased passage, was destroyed by a giant squid. He was travelling as a passenger under Captain Gerhard Eisner and seeks urgent passage to Icehaven in Eiselcross, carrying vital news about Aeorian constructs encountered in the wastes. Captain Stonebeard has denied his request for diversion.
 
-7. **Elara**: An aasimar bard whose musical talents and spellcasting abilities support and enhance the party’s efforts in healing and strategic planning.
+7.  **Doctor Pepe**: Initially a mysterious rogue observing the adventurers, he formally joined their quest at Croaker Cave. He contributes sharp investigative skills, stealth, crossbow proficiency, and lock-picking abilities. He is proving adept at fishing and cooking, receiving special utensils from Chef Ingrid, and has shown skill at cards.
 
-8. **Elro**: A Glassblade leader who introduces the adventurers to the cursed mysteries of Palebank Village, enlisting their help to find the root cause.
+8.  **Elara**: An aasimar bard whose musical talents and spellcasting bolster the party. She excels at negotiation, inspiration, healing, and illusions. She discovered the Scanlan Shorthalt shirt, negotiated potion prices with Gramini, interrogated bandits, attempted diplomacy with Hulil, fed Old Croaker, identified Irven Liel, interacted with Javel over *Tusk Love*, performed enchantingly aboard the *Remorhaz*, played cards skillfully, and subdued the wolf-form Ingrid with the amulet. She is mastering new melodies and enchantments, enhancing her performance and persuasion. Fell asleep briefly during her watch after the squid attack.
 
-9. **Fenton Tethwick**: Irven Liel’s husband, part of the Liel-Tethwicks family traveling with Irven, ensuring the well-being of their twin tiefling daughters amidst the dangers of their journey.
+9.  **Elro**: A Glassblade leader in Palebank Village. He introduces the adventurers to the Frigid Woe mystery, confirms the disease’s name and Aeorian origins, explains the cure (milky liquid in golden vials), hires the party to retrieve the cure from Eiselcross, provides payment and bounty, arranges passage on the *Remorhaz*, and identifies Orvo Mustave and “The Buyer” as contacts in Syrinlya.
 
-10. **Gramini**: An elderly elf woman trading potions at the village docks, her wares and tales offer resources and clues to the adventurers.
+10. **Fenton Tethwick**: Irven Liel’s husband, traveling with Irven and their twin tiefling daughters (Honor & Magic). He helps care for the children while Irven discusses sensitive matters.
 
-11. **Halite**: The goliath fighter wielding a mighty trident, known for his strength and tactical astuteness during encounters. He has a newfound interest in cooking.
+11. **Gerhard Eisner**: The former captain of the *Frostfang*, rescued alongside his crewman Rorik and passenger Bret. Hails from Icehaven, from a family of fishermen who recently began ferrying passengers. He possesses a magical ring allowing him to walk on water. Deeply affected by the loss of his ship, he is travelling with the party for now, seeking rest and direction. He carries ship insurance procured from an Empire contact.
 
-12. **Hulil Lutan**: The defeated dwarf priestess of Tiamat involved in the curse’s mystery. She commanded operations and held stolen artifacts at Croaker Cave, seeking a cure for her ailment.
+12. **Giant Squid**: A colossal cephalopod encountered in the fog-laden Frigid Depths. It destroyed the *Frostfang* and attacked the *Remorhaz* before being slain by the combined efforts of the adventurers and crew. Sparky reported its remains smelled like farts.
 
-13. **Ingrid**: A chef aboard the *Remorhaz* with a deep connection to the moon, marked by lycanthropy, she unexpectedly teaches the adventurers cooking secrets that bridge magic and gastronomy.
+13. **Gramini**: An elderly elf potion vendor at the Palebank Village docks. She sells the party healing potions, trades for a Scanlan Shorthalt shirt (which she frames and prices highly), and offers initial advice about Westeroff.
 
-14. **Irven Liel**: A bookseller traveling with his family, entwined in the tale due to his purchase of a blue powder vial, the catalyst for the ongoing curse mystery.
+14. **Haldor**: A deck hand on the *Remorhaz*, born and raised in snowy lands but with a love for fishing. He confronts the winter wolf in the kitchen with Ironfist and later bonds with Whisper while working the rigging, sharing stories of their respective homes.
 
-15. **Jarl Stonebeard**: The seasoned captain of the *Frostwind* and the *Remorhaz*, who ferries the adventurers through dangerous seas to Palebank Village and on to Syrinlya, maintaining a professional yet relaxed demeanor with an eye for managing both his ship and crew.
+15. **Halite**: A goliath fighter known for his strength, tactical mind, and mastery of the trident and javelin. He actively participates in interrogations and combat strategy. He has discovered a surprising aptitude and interest in cooking under Chef Ingrid’s tutelage, receiving special utensils. He acquired an arcane crystal focus from Westeroff and a miner’s pick in Syrinlya.
 
-16. **Kragor**: An orc warlock, casting dark magic to strategically aid his allies and subdue enemies using curses and powerful eldritch blasts, now further empowered by new arcane discoveries.
+16. **Hulil Lutan**: A dwarf priestess of Tiamat and sister of Tulgi. Afflicted with Frigid Woe, she led criminal operations from Croaker Cave, seeking Aeorian artifacts and a cure. Defeated by the party, her journal revealed the sale of a blue vial to Irven Liel.
 
-17. **The Liel-Tethwicks**: A traveling family known in the story for their association with a blue powder vial. Includes Irven Liel, Fenton Tethwick (Irven’s husband), and their twin tiefling daughters.
+17. **Ingrid**: The skilled, if gruff, dwarven chef aboard the *Remorhaz*. She is revealed to be a lycanthrope (winter wolf), her transformation tied to a moon-and-rune amulet. She mentors several party members in cooking, gifting utensils to Kragor, Halite, and Doctor Pepe in recognition of their talent. She apologized to Whisper for biting her while transformed.
 
-18. **Old Croaker**: A massive ice frog inhabiting Croaker Cave, it aids the adventurers across a subterranean pool, motivated by treats provided by the bandits and the adventurers.
+18. **Ironfist**: The First Mate of the *Remorhaz*. He confronts the winter wolf in the kitchen with Haldor and participates actively in the battle against the giant squid, manning a ballista.
 
-19. **Scarlet**: A druid attuned to nature’s magic. She protects and guides her comrades using her connection to the natural world and magical arts, recently exploring greater communion with nature’s forms.
+19. **Irven Liel**: A traveling bookseller heading to Uthodurn with his husband Fenton and their twin tiefling daughters. He purchased a cracked blue vial containing Frigid Woe contagion from Hulil Lutan as an investment. He cooperates with the party, allowing Scarlet to confirm the danger, and now relies on them finding the cure for him and his entire family.
 
-20. **Tulgi Lutan**: A solitary trapper cursed with the same affliction as Urgon. She’s entangled in the theft of Aeorian treasures amidst her ties to a Shadycreek Run syndicate.
+20. **Jarl Stonebeard**: The seasoned captain of the *Remorhaz*. Initially deferential to Elro, he reveals a pragmatic, no-nonsense command style once at sea. He oversees ship operations, directs the crew during crises (the lycanthropy incident and the squid attack), interacts with the rescued survivors, and safely navigates to Syrinlya.
 
-21. **Urgon**: A dwarven adventurer whose return from Eiselcross with treasures and subsequent icy demise sparks the central mystery of the story.
+21. **Javel**: An ancient, coughing dwarf trader operating out of a yurt in Syrinlya. He sells the party snowshoes and ice hammers, bonding with Elara over a shared appreciation for the novel *Tusk Love* and gifting her a bottle of Sandkeg’s High whiskey. He warns them about Yetis.
 
-22. **Verla Pelc**: The owner of Pelc’s Curiosities, found frozen lifeless in her shop by the adventurers, indicating the curse’s lethal reach.
+22. **Kragor**: An orc warlock from Bladegarden wielding eldritch power and a conjured war hammer. He actively uses hexes and blasts in combat, interrogates prisoners, and provides tactical spellcasting. He has discovered a talent for cooking under Chef Ingrid’s tutelage, receiving special utensils. He questioned Bret about his mission and Ingrid about her amulet. His arcane abilities are growing, allowing him to recover energy and enhance his eldritch blasts.
 
-23. **Westeroff**: A retired wizard living in Palebank Village, offering limited assistance to the adventurers, providing insight into some magical artifacts.
+23. **The Liel-Tethwicks**: The traveling family consisting of Irven Liel, his husband Fenton Tethwick, and their twin tiefling daughters, Honor and Magic. They become entangled in the Frigid Woe mystery due to Irven’s purchase of a contaminated vial.
 
-24. **Whisper**: A tabaxi with exceptional agility and stealth, she often takes on scouting roles, using her skills to navigate tense situations and inform party strategy, now with an enhanced ability to heal herself.
+24. **Mathias**: The harried elf proprietor of “Mathias’s Stuffs” in Palebank Village, where the party buys supplies and sells bandit gear. He provides a warning about violent “wild folk” with black streaks on their faces in Eiselcross.
 
-**Mera**: Navigator of the Remorhaz.
+25. **Mera**: The skilled navigator of the *Remorhaz*. She participates in the card game, expertly pilots the ship through fog and during the squid attack, and calculates their position and arrival time in Syrinlya.
 
-**Haldor**: Deck hand on the Remorhaz.
+26. **Morgo Delwur**: A stout, weathered dwarf woman acting as an informal guide or contact in Syrinlya. She directs the party to Orvo and The Buyer, offers them the yurt of a deceased elf lordling, and mentions local dangers like sabre-tooth tigers before heading off on her own expedition.
 
-**Ironfist**: First mate of the Remorhaz.
+27. **Old Croaker**: A giant ice frog of unusual size dwelling in Croaker Cave. Used by Hulil’s bandits (and later the party) for transport across an underground pool, motivated by treats (bats, elf hands). It attacked Whisper when startled. Scarlet confirmed it is venomous.
+
+28. **Orvo Mustave**: A dwarf adventurer in Syrinlya and friend of the deceased Urgon, identified by a distinctive three-line scar on his cheek. He accompanied Urgon on the expedition where the blue vials were found in the Salsvault ruins (located in the Thin Sheets region). He provides the party with directions, details about the ruin’s dangers (Ice Mephits, animated armor), confirms he sold his share of artifacts to The Buyer, and directs them to Javel for snowshoes. He is saddened and angered by Urgon’s death.
+
+29. **Rorik**: A young human crewman from the *Frostfang*, rescued alongside Captain Gerhard Eisner and Bret. He seems loyal to Gerhard.
+
+30. **Scarlet**: A halfling druid deeply connected to nature. She uses her knowledge, healing magic, and combat spells to aid the party. She identified Verla Pelc’s cause of death, tested the blue vial for contagion, identified Old Croaker’s venom, and diagnosed Ingrid’s lycanthropy. She has gained an owl companion (“Sparky”) used for scouting and has shown skill with the ballista. She acquired blood-stained snowshoes from Javel.
+
+31. **The Buyer**: An enigmatic figure residing in a large, well-maintained yurt in Syrinlya. Elro has instructed the party to deliver the Frigid Woe cure to this individual for teleportation back to Palebank Village. Orvo Mustave sold his share of the Salsvault artifacts to this person.
+
+32. **Tulgi Lutan**: A solitary trapper in Palebank Village and sister of Hulil. Afflicted with Frigid Woe, she confessed her and Hulil’s criminal activities and theft from Urgon, revealing Hulil’s location in Croaker Cave.
+
+33. **Urgon**: A dwarven adventurer whose return from Eiselcross afflicted with Frigid Woe and subsequent death sparked the story’s central mystery. He recovered Aeorian artifacts, including the blue vials containing the contagion, from the Salsvault ruins alongside Orvo Mustave.
+
+34. **Verla Pelc**: The owner of Pelc’s Curiosities in Palebank Village. Found frozen dead in her shop by the adventurers, a victim of the Frigid Woe after purchasing the blue vials from Urgon and handling them.
+
+35. **Westeroff**: A retired wizard in Palebank Village. He provides limited magical identification services, confirms Urgon’s dagger is magical, sells Halite a crystal focus, and identifies a garnet for Doctor Pepe.
+
+36. **Whisper**: A tabaxi rogue known for exceptional agility, stealth, and scouting. She often takes point, gathers information, and utilizes her claws and thrown weapons in combat. She survived being partially swallowed by an ice frog and later bitten by Ingrid in wolf form. She has enhanced resilience and self-healing capabilities. She worked the rigging aboard the *Remorhaz*, bonded with Haldor, and excelled in the squid battle.
