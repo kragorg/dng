@@ -26,9 +26,7 @@ Wreckage begins floating past—splintered wood, broken timbers. A massive mast 
 
 And rising from the depths, a nightmare incarnate: a giant squid, tentacles reaching hungrily toward the survivors.
 
-The Frigid Depths have claimed another ship as victim—and the Remorhaz stands between potential salvation and certain doom.
-
-## Calamari, anyone?
+The Frigid Depths have claimed another ship as victim— and the Remorhaz stands between potential salvation and certain doom.
 
 The battlefield erupts in a symphony of magical and martial action, each crew member responding to the giant squid’s threat with their unique talents.
 
@@ -52,7 +50,7 @@ Benefiting from the inspiration Elara granted earlier, Halite unleashes the ball
 
 Whisper descends from the rigging to join the others on deck, then throwing her javelin with deadly precision. The creature writhes under the assault but doesn’t slow.
 
-“Two in the water!” Ironfist shouts, attempting to throw a rescue rope to the figure strangely running across the water’s surface with another slung over his shoulder. The rope falls pathetically short, landing uselessly in the churning waves. Nonetheless, the water walking sailor closes the distance, and he and the companion he was carrying clambor up the rope onto the deck. As soon as he steadies himself, his eyes narrow, fixing on the squid with predatory intensity. A crimson thread of arcane energy faintly traces a trail to his chosen prey, marking it with an ethereal brand that he knows will make his every subsequent strike deadly.
+“Two in the water!” Ironfist shouts, attempting to throw a rescue rope to the figure strangely running across the water’s surface with another slung over his shoulder. The rope falls pathetically short, landing uselessly in the churning waves. Nonetheless, the water-walking sailor closes the distance, and he and the companion he was carrying clambor up the rope onto the deck. As soon as he steadies himself, his eyes narrow, fixing on the squid with predatory intensity. A crimson thread of arcane energy faintly traces a trail to his chosen prey, marking it with an ethereal brand that he knows will make his every subsequent strike deadly.
 
 Another human suddenly materializes on deck, adding to the chaotic battle… the third survivor of the shipwreck. By his garb, he is clearly a wizard. “By the gods, I’m glad you showed up!” he shouts to the crew. He reaches into his robes and pulls out a small dart along with something slimy looking. He rubs them together and suddenly a sickly shimmering green arrow streaks towards the squid. It lands just short of the mark, yet it splashes and the squid flinches as its skin sizzles where the corrosive magic touches.
 
@@ -80,253 +78,215 @@ The crew methodically surveys the damage. The squid’s beak has carved a gaping
 
 Whisper, nimble even in the lingering fear, takes to the rigging, aiding in the salvage operation. She peers into the depths, her vision unnervingly clear, but the fog obscures the scene.
 
-The captain’s voice then rings clear over the ship’s hushed atmosphere. “We navigate dangerous waters, both seen and unseen,” he intones. “Keep your wits sharp and hearts steadfast.” The Remorhaz still sails, a floating island of survival amidst the chaos.
+“Keep wits sharp and hearts steadfast,” the captain’s voice cuts through the hush aboard the Remorhaz, a floating island of survival. On decks slick with salt and battle-scraps, weary heroes meet the newcomers: Gerhard, former captain of the lost Frostfang; Rorik, his young crewman; and Bret, a passenger.
 
-The decks, still slick with salt and remnants of battle, host a contrasting medley of weary heroes and newcomers. Quick introductions are made all around. The three survivors are Gerhard, former captain of the Frostfang; Rorik, former crew member; and Bret, former passenger.
+“Well met,” Halite says, his voice crisp. “What brings you so far out?”
 
-Halite asks, “Well met. I am called Halite. What were you doing out here in the first place?”
+Gerhard, weathered and mid-thirties, steps forward, brown eyes reflecting relief and deep caution. “Thank you,” he breathes, voice tight with gratitude and disbelief. “The Frostfang... gone. That squid! I thought I was dead. Ran across the water, carrying Rorik. This family heirloom saved me.” He gestures wildly. “And that aasimar… almost killed! What the hell!”
 
-Gerhard— a weathered, mid-thirties human with unkempt brown hair and a burgeoning beard— steps forward, his brown eyes reflecting both the hard-won relief and underlying caution of a sailor who has seen enough of these treacherous waters. “Thank you for being here,” he declares, voice edged with both gratitude and disbelief. “My family’s boat, Frostfang, I can’t believe it’s gone. This is crazy— That squid! I was going to die. And then … I ran across the water, carrying Rorik here. This family heirloom saved me. And that aasimar … she almost got killed! What the hell!”
+Rorik, barely seventeen, watches his captain, wide-eyed. Halite, however, stands rigid, scrutinizing Gerhard. Suspicion cuts sharper than the chill air; Halite knows survivors don’t always bear honest scars.
 
-A pair of younger eyes fix on him— his crew member, barely seventeen, whose wide gaze betrays both admiration and trepidation. Meanwhile Halite stands rigid, scrutinizing every syllable for traces of deceit. Halite’s suspicion cuts sharper than the chill in the air; he’s navigated enough peril to know that not all survivors bear honest scars. Clearly this sailor is not as unfamiliar with danger as he is letting on.
+At the rail, a robed figure steps forward. Kragor recognizes the sigils: a symbolic design of three inward-pointing diamond shapes with eight curling spires underneath. This wizard is a member of the Cerberus Assembly, a powerful conclave of mages in the Dwendalian Empire. The wizard nods solemnly to Gerhard. “The sea tests us all,” Bret intones, tone measured. “Perhaps misfortune portends a greater journey—one that may yet lead us to Eiselcross.”
 
-At the rail, a robed figure steps quietly forward. Kragor recognizes the sigils on his robe, a symbolic design of three inward-pointing diamond shapes with eight curling spires underneath. This wizard is a member of the Cerberus Assembly, a powerful conclave of mages in the Dwendalian Empire. He nods solemnly to Gerhard. “The sea tests us all,” he intones, his tone measured as though reciting an incantation. “Perhaps your misfortune portends a greater journey— one that may yet lead us to Eiselcross.”
+Halite’s gaze narrows on Gerhard, pressing. “Specifically, what were you doing out here?”
 
-Halite eyes Gerhard with suspicion. He knows the sea hides many secrets, and not all survivors tell the whole truth. He presses Gerhard for an explanation, wanting to know *exactly* what they were doing out here.
+Gerhard’s breath clouds the frigid air. “My kin have always plied these waters. Fishing… crabbing, mostly.” He falters, eyes darting across the ravaged deck. “But we found a new means. Ferrying passengers.” He gestures toward Bret. “That mage offered a fortune in gold for his transport.”
 
-Gerhard’s breath hitched, a visible cloud in the frigid air. “My kin have plied these waters for generations. We serve, offering passage to those of import, and when the season allows, we draw our sustenance from the cold depths. Fishing… that was our life. For a time, aye, a long time. Just now, we were fishing for crab, when…” He faltered, his eyes darting across the ravaged deck as if seeking some solace in the wreckage. “We found a new means of securing our future: ferrying passengers.” He gestured toward the wizard, Bret. “That mage, the one you see there, offered a fortune in gold for his transport.”
+Bret stands nearby, clearly agitated, his words laced with a demanding edge. “I require passage to Icehaven, Captain,” he declares, his voice tight with urgency. “I bear tidings of utmost import. Our vessel is lost; I must deliver my news without delay. I will provide recompense for diverting your ship.”
 
+Stonebeard remains unmoved. “Such a course is impossible,” he rumbles, his voice a deep echo of the sea. “My obligations lie with the Glassblades; my route must be followed. You may remain aboard. After completing our appointed rounds, we shall deposit you at Palebank Village. Another vessel can convey you to Icehaven from there. I am heartened we rescued you, fortunate you remain living. But expect no more than offered.” His gaze fixes upon the traveler with steely resolve. “Assist cleaning the foredeck. There is work to be done.”
 
-Bret, indeed, is standing nearby, clearly agitated, his words laced with a demanding edge. “I require passage to Icehaven, Captain,” Bret declared, his voice tight with urgency. “I bear tidings of utmost import. The vessel we sailed upon is lost, and I must deliver my news without delay. I will provide recompense for the diversion of your ship.”
+The afternoon fog clings suffocatingly to the Remorhaz, smothering the sea and reducing the ship to a cautious crawl. In this soup, dead reckoning is Mera’s only guide. Scarlet summons Sparky, her owl companion, a flash of gold against the gray. “Fly up, Sparky,” she commands, voice tight. “Find the sun. Tell me how long it takes. And look for land.”
 
-Stonebeard remained unmoved by the man’s pleas. His beard barely twitched as he surveyed the situation. “Such a course is impossible,” he rumbled, his voice a deep echo of the sea itself. “My obligations lie with the Glassblades, and my route must be followed. You may remain aboard, and upon completing our appointed rounds, we shall deposit you at Palebank Village. From there, another vessel can convey you to Icehaven. I am heartened that we were able to rescue you, and it is fortunate that you remain among the living. But do not expect more than what is offered.” He paused, a flicker of fatigue crossing his face. Then, his gaze fixed upon the traveler with steely resolve, he uttered a simple command: “Assist with the cleaning of the foredeck. There is work to be done.”
+Sparky beats upward, swallowed instantly by the milky expanse. The crew watches, hope and anxiety warring on their faces. Three minutes pass. Four. The wingbeats fade into silence. Five minutes stretch into six, then seven, then eight.
 
+Suddenly, a spectral shape wheels out of the gray. Sparky circles, settling onto Scarlet’s shoulder. The connection flares, and she sees through the owl’s eyes. “Took a while to break through,” Scarlet reports, her voice hushed, barely carrying over the creak of timbers. “Up there… just clouds. A sea of gray, stretching forever. No land.”
 
+A small, wry chuckle escapes her. “They did mention seeing tentacles in the water, though. Said they smelled bad… like farts.”
 
-The afternoon fog still clings to the Remorhaz, a suffocating embrace that smothers the sea. The ship creeps onward, its pace reduced to a cautious crawl. Dead reckoning is the only option in this soup, and Mera navigates by the slimmest of margins.
+A collective sigh escapes the crew, a shared breath of weary disappointment. Hope is a fragile commodity here. The Remorhaz creeps onward, the search continuing within the fog’s suffocating embrace.
 
-Scarlet calls for Sparky, her owl companion. Sparky blinks, a flash of gold against the gray, and then takes flight. “Fly up, Sparky,” she commands, “and find the sun. Tell me how long it takes and look for land.”
+The galley bustles with activity, Chef Ingrid surveying the recent damage, her moon-and-rune amulet glinting in the lamplight. Despite the chaos, a sense of camaraderie pulses through the ship as the crew gathers— survivors and newcomers alike.
 
-Sparky beats its wings, rising rapidly, and disappears into the milky expanse. The crew watches, their faces etched with a mixture of hope and anxiety, waiting in anticipation for the owl’s return.
+Kragor, brow furrowed, leans towards the wizard Bret, peppering him with questions. Bret, clearly burdened by secrets, folds his hands cautiously. “I am bound by oaths,” he states, his tone careful, “to maintain discretion regarding my objectives within Eiselcross.” His eyes dart around the galley.
 
-Three minutes pass. Then four. The rhythmic clap of the owl’s wings grows fainter, then vanishes. Silence descends once more.
+Kragor persists. “But passage to Icehaven? You mentioned tidings of utmost import. Surely, some details?”
 
-Five minutes.
+Bret sighs, shoulders slumping. “We uncovered valuable information and encountered… Aeorian constructs in the wastes. My destination is vital. I require passage there.”
 
-Six.
+“Seen any gold vials?” Kragor pushes, relentless.
 
-Seven.
+Bret’s face remains impassive. “The antidote for the Frigid Woe? No. Fortunately, we did not encounter that dreadful affliction.”
 
-Eight.
+Sensing the rising tension, Elara raises her glass with a bright smile. “To new beginnings,” she declares, her voice ringing with cheer, “and to surviving giant squids!”
 
-Then, as if on cue, Sparky reappears, a spectral shape against the fog. It circles and settles on Scarlet’s shoulder. The connection is reestablished, and Scarlet sees through Sparky’s eyes.
+Laughter erupts, instantly easing the weight of suspicion. The crew celebrates, reveling in their shared survival. Though fog still clings thick to the Remorhaz outside, a warmth begins to bloom within the ship, where adventurers share a meal among friends.
 
-“It took them a while to get above the clouds,” Scarlet reports, her voice hushed. “And when they were up there… just clouds.”
+Below decks, Ingrid’s promised feast wafts upwards— smoked fish and steaming bread, a comforting aroma cutting through the lingering brine and stench left by their monstrous assailant. The three survivors— Gerhard, Rorik, and Bret— are formally integrated into the temporary community forged by shared peril. Gerhard still looks stunned, his eyes periodically flicking towards the deck as if expecting the shattered Frostfang to reappear from the mist. Rorik, barely a man, sticks close, while Bret, the wizard, observes the adventurers with guarded curiosity.
 
-She describes what she saw through her owl’s eyes: a sea of gray, stretching as far as the eye can see, with no visible land.
+Scarlet approaches Gerhard, her expression sympathetic but gaze direct. “Gerhard, you said your family sailed these waters long? Your family name?”
 
-“They said there were tentacles in the water that smelled bad, like farts,” Scarlet chuckles.
+He pulls his attention from the grey void beyond the porthole. “Eisner,” he replies, rubbing a hand over his burgeoning beard. “Of Icehaven. Fishermen for generations. Crabs, mostly. That boat… she was everything.” He gestures vaguely towards Rorik. “My life, his livelihood… gone.” He sighs, a plume of condensation in the cool air. “We’d only recently started ferrying passengers. Trying a new way. Bret here offered good coin.”
 
-The crew sighs, a collective exhalation of disappointment and a shared understanding of the bleak situation. The search continues, and hope is a fragile thing in the embrace of the fog.
+“Is there somewhere… we might rest?” Gerhard asks, looking towards Captain Stonebeard, who surveys the gathered company, his face grim but resolute.
 
-The galley teems with activity. Chef Ingrid surveys the damage with a critical eye, her moon-and-rune amulet glinting in the flickering lamplight. Despite the recent chaos, a sense of camaraderie still pulses throughout the ship.
+“Aye,” Stonebeard nods curtly. “Bunks enough. You earned your place.”
 
-The evening unfolds, and the crew gathers, a melting pot of survivors and newcomers alike. Kragor, his brow furrowed in concentration, leans in, beginning to pepper the wizard Bret with questions, a relentless barrage of inquiries.
+As the survivors find spots at the galley table, laden with Ingrid’s platters, conversation turns to the adventurers’ quest. Halite, Kragor, and Elara briefly explain their mission: the Frigid Woe spreading from Palebank Village, stolen Aeorian artifacts, Hulil’s desperation, and their current journey to Eiselcross seeking the cure Elro described— the milky liquid in golden vials. Gerhard and Rorik listen intently, their own recent brush with death making the tale resonate deeply. Bret listens too, his face impassive, betraying nothing.
 
-Bret, a man burdened by his own secrets, offers cautious replies. He folds his hands, his fingers interlaced, his tone careful. “I am bound by oaths to maintain discretion regarding my objectives within Eiselcross.” The wizard’s eyes dart around the galley, a telltale sign of his evasiveness.
+Mera, the navigator, consults her charts, brow furrowed. “With this fog and the delay… we lost time,” she announces. “But if the weather holds, we should reach Syrinlya by tomorrow afternoon.”
 
-Kragor remains undeterred, pressing his point. “But you were seeking passage to Icehaven, correct? And you mentioned…tidings of utmost import. Surely, some details can be shared.”
+A collective sigh ripples through the crew. Landfall is close.
 
-Bret sighs, his shoulders slumping slightly. “I can only say that we have uncovered valuable information within the frozen wastes and encountered some… Aeorian constructs. But my destination is of utmost importance. I require passage there.”
+Dinner is subdued, a recounting of the battle punctuated by shared relief. Later, mugs refilled, Elara retrieves her harp. Small against the vast, fog-bound sea, the instrument sings under her fingers, a melody of quiet longing and resilient hope filling the galley. The notes hang, fragile beauty against their harsh reality. Even Bret seems softened, gaze distant. When the song ends, respectful silence yields to appreciative murmurs.
 
-“Have you seen any gold vials by chance?” Kragor presses on.
+Evening deepens, the ship’s routine returns. Watches assigned: Scarlet first, senses alert to wind and timber, Sparky a silent, feathered presence beside her. Whisper follows, melting into deck shadows, eyes piercing the gloom. Gerhard takes the third watch, grateful for the normalcy. Captain Stonebeard joins him near the helm, leaning on the rail, fog swirling like ghosts.
 
-Bret looks at him, his face devoid of emotion. “I assume you mean the antidote for the Frigid Woe? No. Fortunately, we did not come across that dreadful affliction.”
+“Sorry about your vessel, Gerhard,” Stonebeard says, voice low. “Hard thing, losing your ship.”
 
-Elara, sensing the tension, attempts to lighten the mood. She raises her glass, a smile gracing her lips. “To new beginnings, and to surviving giant squids!” she declares, her voice ringing with cheer.
-
-Laughter erupts, easing the weight of suspicion and intrigue. The crew celebrates, reveling in the camaraderie that defines their shared survival. The fog still clings to the Remorhaz, but within the confines of the ship, a warmth begins to bloom. The adventurers have a meal to eat and a ship full of friends.
-
-Below decks, the scent of Ingrid’s promised feast begins to waft upwards, a strangely comforting aroma amidst the lingering scent of brine and something vaguely ammoniac left by their monstrous assailant. Sandwiches, it seems, are off the menu, replaced by the heartier fare promised earlier.
-
-As the crew gathers in the galley, the three survivors—  Gerhard, Rorik, and Bret— are formally integrated into the temporary community forged by shared peril. Gerhard still looks stunned, his eyes periodically flicking towards the deck as if expecting to see the shattered remains of his life reappear from the mist. Rorik, barely a man, sticks close to Gerhard, while Bret, the wizard, maintains an air of detachment, observing the adventurers with guarded curiosity.
-
-Scarlet approaches Gerhard, her expression sympathetic but her gaze direct. “Gerhard, you said your family has sailed these waters long? What is your family name, if you don’t mind my asking?”
-
-Gerhard pulls his attention back from the grey void outside the porthole. “Eisner,” he replies, rubbing a hand over his burgeoning beard. “The Eisners of Icehaven. We’ve been fishing these parts for generations. Crabs, mostly. That boat… the Frostfang… she was everything.” He gestures vaguely towards the young Rorik. “My life, his livelihood… gone.” He sighs, a plume of condensation in the cool air. “We’d only recently started ferrying passengers. Trying to find a new way, you know? Bret here offered good coin for passage.”
-
-“Is there somewhere… somewhere we might rest?” Gerhard asks, looking towards Captain Stonebeard, who stands surveying the gathered company, his face grim but resolute.
-
-“Aye,” Stonebeard nods curtly. “We’ve bunks enough. You earned your place.”
-
-As the survivors find spots at the galley table, laden now with Ingrid’s platters of smoked fish and steaming bread, the conversation naturally turns to the adventurers’ own quest. Halite, Kragor, and Elara briefly explain their mission: the Frigid Woe spreading from Palebank, the stolen Aeorian artifacts, Hulil’s desperation, and their current journey to Eiselcross seeking the cure Elro described— the milky liquid in golden vials. Gerhard and Rorik listen intently, their own recent brush with death making the tale of a magical freezing plague resonate deeply. Bret listens too, though his face remains impassive, betraying nothing.
-
-Mera, the navigator, consults her charts, her brow furrowed in concentration. “With this fog and the delay… we lost time,” she announces to the room. “But if the weather holds after this lifts, we should reach Syrinlya by tomorrow afternoon.”
-
-A collective sigh of relief ripples through the crew. Landfall is close.
-
-Dinner is a subdued affair, punctuated by the recounting of the battle and the shared relief of survival. Later, as mugs are refilled and the warmth of the food settles in, Elara retrieves her harp. The instrument seems small against the backdrop of the vast, fog-bound sea, yet as her fingers touch the strings, a melody fills the galley, weaving a spell of quiet longing and resilient hope.
-
-The notes hang in the air, a moment of fragile beauty against the harsh reality of their journey. Even Bret seems momentarily softened, his gaze distant. When the song ends, a respectful silence holds for a moment before dissolving into appreciative murmurs.
-
-As the evening deepens, the routine of the ship reasserts itself. Watches are assigned. Scarlet takes the first, her senses attuned to the sighing wind and the groan of the timbers, Sparky a silent, feathered presence beside her. Whisper follows, melting into the shadows of the deck, her movements economical, her eyes piercing the gloom.
-
-Gerhard takes the third watch, grateful for the task, a semblance of normalcy in a world turned upside down. Captain Stonebeard joins him near the helm, leaning against the railing, the fog swirling around them like ghosts.
-
-“I am sorry about your vessel, Gerhard,” Stonebeard says, his voice low. “It’s a hard thing, losing your ship.”
-
-Gerhard nods, staring into the white abyss. “Aye. She was a good boat. Fast. The boat I grew up on. My dad taught me how to fish on her.” He pauses. “Good thing I have good insurance.”
+Gerhard nods, staring into the white abyss. “Aye. Good boat. Fast. Grew up on her. Dad taught me fishing there.” He pauses. “Good thing I have insurance.”
 
 Stonebeard raises an eyebrow. “Insurance?”
 
-“Aye. You’ve never found a wizard willing to take a few gold a month against the value of your hull? Got a good rate from a fellow in the Empire. Says if she sinks, he’ll buy me a new one. My family’s been doing it a long time.” He shrugs. “Still… devastating. But at least we’re not bankrupt.”
+“Aye. You’ve never found a wizard willing to take a few gold a month against the value of your hull? Got a good rate from an Empire fellow. If she sinks, he buys me a new one. Family’s done it a long time.” He shrugs. “Still… devastating. But we’re not bankrupt.”
 
-Stonebeard grunts, filing the information away. “Boats are indeed expensive. Taken many voyages on vessels like yours myself.” He shifts his weight. “Given the circumstances, saving your lives and all, there’ll be no charge for your passage to Palebank.”
+Stonebeard grunts, filing the information away. “Boats are expensive. Taken many voyages myself.” He shifts his weight. “Given the circumstances, saving your lives, there’s no charge for passage to Palebank.”
 
-Gerhard turns, a flicker of surprise, perhaps even offense, in his eyes. “No charge? Captain, with respect, that should be a given. Naval etiquette. Rescued souls aren’t passengers for fare.”
+Gerhard turns, surprise, perhaps offense, flickering in his eyes. “No charge? Captain, with respect, that’s naval etiquette. Rescued souls aren’t passengers for fare.”
 
-Stonebeard meets his gaze steadily. “My apologies. You are correct, of course. Force of habit.” He sighs, the sound weary. “Been a long few days.” He gestures vaguely towards the spot where Bret presumably sleeps below. “That squid… seemed focused. Almost like it was going after your passenger.”
+Stonebeard meets his gaze steadily. “My apologies. Correct, of course. Force of habit.” He sighs wearily. “Long few days.” He gestures vaguely below deck towards where Bret presumably sleeps. “That squid… seemed focused. Like it was after your passenger.”
 
-Gerhard shivers, though perhaps not entirely from the cold. “Never seen the like. Thirty years I’ve sailed these waters, man and boy. Seen krakens, sure. But never seen one go after a ship, after *someone*, like that. Not even for a hold full of my crabs.”
+Gerhard shivers, though perhaps not entirely from the cold. “Never seen the like. Thirty years sailing these waters. Seen krakens, sure. But never one going after a ship, after someone, like that. Not even for a hold full of my crabs.”
 
-The two captains stand in silence for a time, two solitary figures keeping vigil against the vast, uncaring sea and the spectral fog.
+The two captains stand silent awhile, solitary figures keeping vigil against the vast, uncaring sea and spectral fog.
 
-Elara takes the fourth watch, relieving Gerhard. She settles near the bow, harp resting beside her, determined to stay alert. The battle, the song, the weight of the journey… it all presses down. The rhythmic slap of waves against the hull becomes a lullaby. Her eyelids grow heavy. One moment she is scanning the impenetrable white wall ahead, the next…
+Elara takes the fourth watch, relieving Gerhard. Settling near the bow, harp resting beside her, she resolves to stay alert, but the battle, the song, the journey’s weight… it all presses down. The rhythmic slap of waves against the hull becomes a lullaby. Her eyelids grow heavy. One moment she scans the impenetrable white wall ahead; the next…
 
-She jerks awake with a start. Grey light filters through the thinning fog. Dawn. Guilt washes over her— she slept. How long? She scrambles to her feet, heart pounding, scanning the deck, the sea. Nothing. No alarms, no disturbances. The Remorhaz sails on, undisturbed. Relief mixes with embarrassment. Apparently, the Frigid Depths granted her a moment’s unguarded peace.
+She jerks awake with a start. Grey dawn light filters through thinning fog. Guilt floods her— she slept. Heart pounding, she scrambles up, frantically scanning the deck, the sea. Nothing. No alarms, no disturbances. The Remorhaz sails on, undisturbed. Relief wars with embarrassment; apparently, the Frigid Depths granted her unguarded peace.
 
-As the morning progresses, the sun, a pale disc overhead, begins its work. Around ten o’clock, the dense fog starts to dissipate, burning off in patches, revealing glimpses of a choppy, grey-green sea under a brightening sky. By noon, the transformation is complete. Visibility stretches for ten miles or more across sun-dappled waves.
+As the morning progresses, the pale sun burns away the fog. By noon, visibility stretches for ten miles across choppy, grey-green waves under a brightening sky. And there, rising from the sea to the south, is the unmistakable shape of land— jagged, snow-dusted peaks against the horizon.
 
-And there, rising from the sea to the south, is the unmistakable shape of land— jagged, snow-dusted peaks against the horizon.
+A shout goes up from the crow’s nest, echoed by murmurs on deck. Captain Stonebeard strides to the railing, squinting. A rare grin splits his beard. “Ah, Kaltsel to the south! Mera puts us two hours out from Syrinlya!” He turns, voice booming across the deck, energized by the sight. “Alright, you lot! Look alive! Pack your gear and prepare for landfall! The Frigid Depths haven’t beaten us yet!”
 
-A shout goes up from the crow’s nest, echoed by murmurs of relief and anticipation on deck.
-
-Captain Stonebeard strides to the railing, squinting towards the island. A rare grin splits his beard. “Ah, we have sighted Kaltsel to the south. Mera puts us two hours out from Syrinlya!” He turns, his voice booming across the deck, energized by the sight of their destination. “Alright, you lot! Look alive! Pack your gear and prepare for landfall! The Frigid Depths haven’t beaten us yet!”
-
-
-The salt spray freezes almost instantly upon hitting the deck now. Since leaving Palebank Village, the world has steadily bled color and warmth, surrendering to an encroaching reign of ice. The air bites with a ferocity that makes the fog-chilled waters of the Frigid Depths seem almost temperate by comparison. Under the finally clear, brittle sky, the Remorhaz glides towards a coastline that looks like the jagged teeth of some immense, frost-covered beast. Peaks claw at the sky, draped in perpetual snow.
+The salt spray now freezes almost instantly upon hitting the deck. Since leaving Palebank Village, the world has steadily bled color and warmth, surrendering to an encroaching reign of ice. The air bites with a ferocity that makes the fog-chilled waters seem almost temperate by comparison. Under the finally clear, brittle sky, the Remorhaz glides towards a coastline that looks like the jagged teeth of some immense, frost-covered beast, its peaks clawing at the sky.
 
 Mera’s calculations prove precise. As the sun begins its slow descent, casting long, pale shadows across the waves, the ramshackle outpost of Syrinlya comes into view. It’s less a town and more a temporary scar upon the landscape— a sprawling camp of fur-lined yurts huddled against the relentless wind, smoke whipping horizontally from their capped peaks. Figures bundled against the cold— mostly dwarves and elves, judging by their builds— move between the structures.
 
-Captain Stonebeard brings the Remorhaz expertly alongside a crude dock fashioned from timber and ice. “Alright, Syrinlya!” he bellows, his voice carrying over the wind’s howl. “We’ll unload cargo, and then take on whatever’s heading back south. We depart for Palebank Village in three days. Plenty of time for you lot to find your contact.” He gives a curt nod to the adventurers. “Mind the ice.”
+Stonebeard brings the Remorhaz expertly alongside a crude dock fashioned from timber and ice. “Alright, Syrinlya!” he bellows, his voice carrying over the wind’s howl. “We’ll unload cargo, then take on whatever’s heading back south. We depart for Palebank Village in three days. Plenty of time for you lot to find your contact.” He gives a curt nod to the adventurers. “Mind the ice.”
 
-As the party steps onto the frozen ground, the wind immediately assaults them, driving needles of snow into any exposed skin. Kragor pulls his cloak tighter, muttering something about unnatural cold. A dwarf woman, stout and weathered, with a wild mane of shaggy grey hair framing a face etched by wind and time, approaches them, stamping her heavily booted feet.
+The wind assaults the party as they step onto frozen ground, driving needles of snow into exposed skin. Kragor pulls his cloak tighter, muttering about unnatural cold. A stout, weathered dwarf woman with a wild mane of shaggy grey hair approaches, stamping heavily booted feet.
 
-“Morgo Delwur, at yer service!” she declares, her voice raspy but strong enough to cut through the gale. “Got word you were comin’. Heard you are lookin’ for Orvo Mustave?” She gestures vaguely inland with a mittened hand. “His yurt’s over that way. Nice setup. And the Buyer?” She points towards a particularly large, well-maintained yurt slightly apart from the others. “That’s his place. Can’t miss it. Fancy.”
+“Morgo Delwur, at yer service!” she declares, her voice rasping through the gale. “Heard you were comin’. Lookin’ for Orvo Mustave?” She gestures vaguely inland. “His yurt’s over there. And the Buyer?” She points to a larger, well-maintained yurt. “That’s his place. Fancy.”
 
-She sweeps her arm around, indicating the disparate groups of adventurers milling about, checking gear, consulting maps, or simply huddling near sputtering campfires. “Everyone’s here for the same thing, eh? Aeorian treasure. Big risks, big rewards… or just frozen toes.”
+She sweeps an arm around the disparate groups of adventurers milling about near sputtering fires. “Everyone’s here for the same thing, eh? Aeorian treasure. Big risks, big rewards… or just frozen toes.”
 
 Halite asks, “Can you point us towards provisions? Snowshoes, perhaps?”
 
-Morgo nods. “Aye, plenty o’ folk lookin’ to sell you gear. Some make more coin tradin’ than diggin’. Follow me.” She leads them away from the immediate bustle of the dock, weaving through the camp. She stops before another large, fur-lined yurt. “You can bunk here. Belonged to some rich elf lordling. Came lookin’ for adventure, poor sod. Got himself eaten by a sabre-tooth tiger his first day out.”
+Morgo nods. “Aye, plenty o’ folk lookin’ to sell you gear. Some make more coin tradin’ than diggin’. Follow me.” She leads them through the camp to another large, fur-lined yurt. “You can bunk here. Belonged to some rich elf lordling. Came lookin’ for adventure, poor sod. Got himself eaten by a sabre-tooth tiger his first day out.”
 
 Scarlet’s eyes widen. “In the yurt?!”
 
-Morgo lets out a bark of laughter. “Gods, no, lass! We don’t let the big cats wander camp! Nah, he went out on his first expedition, didn’t listen to his guides. They found his boots and… well, not much else. His loss, your gain. Place is empty now.”
+“Gods, no, lass!” Morgo barks a laugh. “We don’t let the big cats wander camp! Nah, he went out, didn’t listen to his guides. They found his boots and… well, not much else. His loss, your gain.”
 
-Inside, the yurt is surprisingly spacious and, shielded from the wind, noticeably less frigid. A stone-lined fire pit sits in the center. Hammocks hang from sturdy internal poles, lined with thick furs. “Right then,” Scarlet says, stepping towards the pit. She whispers a quiet incantation, and a small, controlled flame springs to life, instantly beginning to push back the chill. Simple, but effective.
+Inside, the yurt is surprisingly spacious and less frigid. A stone fire pit sits centrally; thick, fur-lined hammocks hang from sturdy poles. “Right then,” Scarlet steps to the pit, whispers an incantation. A small flame springs to life, instantly pushing back the chill.
 
-Gerhard, who has followed the group silently, looking utterly lost and overwhelmed, drifts towards the edge of the space, away from the nascent fire. He stares blankly at the fur-lined wall. Halite notes his distress. Elara, catching Halite’s glance, approaches the bereaved captain.
+Gerhard, utterly lost and overwhelmed, drifts away from the nascent fire Halite builds, staring blankly at a fur-lined wall. Elara, catching Halite’s glance, approaches the bereaved captain. “Gerhard,” she says softly, her voice warm despite the chill. “It’s… a lot to take in. But you’re safe now.”
 
-“Gerhard,” she says softly, her voice warm despite the cold surroundings. “It’s… a lot to take in. But you’re safe now. We’re glad you’re here.”
+Scarlet steps closer to the crackling flames. “She’s right. You survived something terrible. You’re stronger than you think. And you’re welcome here.”
 
-Scarlet adds, stepping away from the now crackling fire, “She’s right. You survived something terrible. You’re stronger than you think. And you’re welcome here.”
+He manages a weak, haunted smile. “Thank you… my boat… everything…” Rubbing his face, he trails off. “I… I think I need rest.” He finds an unoccupied hammock and climbs in, pulling a fur blanket over himself.
 
-Gerhard manages a weak smile, though his eyes remain haunted. “Thank you. It’s just… my boat… everything…” He trails off, rubbing his face. “I… I think I need to rest.” He finds an unoccupied hammock and climbs in, pulling a fur blanket over himself.
+While Gerhard settles, Kragor spots an open wooden crate. Curiosity piqued, he investigates. Inside lies a trove: weeks of trail rations, fifty feet of fine silk rope, a thick woolen blanket, another grappling hook, a sturdy miner’s pick, and, tucked beneath it all, a small, leather-bound book.
 
-While Gerhard settles, Kragor notices an open wooden crate pushed against one wall. Curiosity piqued, he investigates. Inside, he finds a trove of supplies left behind by the unfortunate elf: enough trail rations to sustain the party for weeks, fifty feet of surprisingly fine silk rope, a thick woolen blanket, another grappling hook, a sturdy miner’s pick, and, tucked beneath it all, a small, leather-bound book.
+Kragor picks it up. The gold-leaf title reads: “Adventure Sexy: Impress Potential Lovers with Great Deeds”, by Scanlan Shorthalt.
 
-Kragor picks up the book. The title, embossed in gold leaf, reads: “Adventure Sexy: Impress Potential Lovers with Great Deeds”. The author’s name is printed below: “Scanlan Shorthalt”.
+He grunts, holding it aloft. “Looks like our elf wasn’t just after treasure.”
 
-Kragor grunts, holding it up. “Looks like our elf wasn’t just after treasure.”
+Elara peers at it. “Oh, Scanlan again. So popular… I’ll have a following like that someday.” She winks.
 
-Elara peers at it. “Oh, Scanlan again. So popular in these parts… I’ll have a following like that some day.” She winks.
-
-Whisper sniffs disdainfully. “More useful than poetry, perhaps.” She eyes the silk rope with interest.
+Whisper sniffs disdainfully. “More useful than poetry, perhaps,” she eyes the silk rope with interest.
 
 “Miner’s pick?” Halite rumbles, taking the tool from the crate and testing its weight. “Could be useful.”
 
-Morgo, who has been observing them, nods approvingly at the fire. “Right then. You’ve got shelter. Provisions are sold in the cluster of yurts near The Buyer’s place. Anything else I can help with? I’m heading out meself in the morning. Expedition going west, lookin’ for a rumored excavation site.” She cracks her knuckles. “Got any more questions before I leave you to settle in?”
+Morgo nods at the fire. “Right then. Shelter’s sorted. Provisions are sold near The Buyer’s place. Expedition west for me tomorrow.” She cracks her knuckles. “Any final questions?”
 
-“Thank you for your hospitality, Morgo,” Halite says, offering a respectful nod.
+“Thank you for your hospitality, Morgo,” Halite says with a respectful nod.
 
-“Aye, thanks for the yurt,” Kragor adds, tossing the Scanlan Shorthalt book back into the crate with a dismissive air, though Elara quickly retrieves it with a thoughtful hum.
+“Aye, thanks for the yurt,” Kragor adds, tossing the Scanlan Shorthalt book dismissively into its crate. Elara quickly retrieves it with a thoughtful hum.
 
-Morgo gives them a final nod. “Stay warm. Stay sharp. Don’t get eaten.” With that parting advice, she turns and disappears back into the swirling snow outside.
+Morgo gives them a final nod. “Stay warm. Stay sharp. Don’t get eaten.” She turns and vanishes into the swirling snow.
 
-The party stands in the relative warmth of the yurt. The fire crackles merrily. Outside, the wind howls its mournful Eiselcross song. It is late afternoon on their fifth day since leaving Palebank. Syrinlya is cold, harsh, and potentially deadly. But they have shelter, supplies, and a lead.
+Inside the yurt, the fire crackles against the wind’s mournful Eiselcross howl. It’s late afternoon, their fifth day since leaving Palebank Village. Syrinlya is harsh, potentially deadly, but they have shelter, supplies, and a lead.
 
-“Alright,” Halite says, hefting the miner’s pick. “Let’s find this Orvo Mustave. Then we’ll see about those snowshoes, and other provisions.”
+“Alright,” Halite says, hefting the miner’s pick. “Let’s find this Orvo Mustave. Then we’ll see about snowshoes and other provisions.”
 
-Whisper interjects, “It’s getting late. Let’s split up: some of us will get provisions, while the others speak with Orvo.”
+Whisper interjects, “It’s getting late. Best split up: some get supplies, others find Orvo.”
 
-The adventurers decide to divide their immediate efforts. Whisper, Scarlet, and Doctor Pepe head towards the cluster of yurts near The Buyer’s large dwelling, the area Morgo indicated as the likeliest place to acquire provisions and gear. The biting wind tugs at their cloaks as they navigate the haphazard paths between the snow-dusted structures.
+They agree. Whisper, Scarlet, and Doctor Pepe head for the provision yurts near The Buyer’s large dwelling, the spot Morgo indicated. Wind tugs their cloaks as they navigate snow-dusted paths between structures.
 
-Meanwhile, Kragor, Halite, Elara, and a still-subdued Gerhard make their way towards the location Morgo described for Orvo Mustave. They find it slightly apart from the main cluster, a smaller yurt than the one they claimed, with a plume of smoke rising bravely against the grey sky. Before it, a modest campfire struggles against the cold. A young dwarf sits beside the flames, a shortsword resting across his lap. His beard, still dark and relatively short by dwarven standards, frames a face marked by a prominent scar— a ragged trio of lines like the trace of some large claw dragged across his cheek. He looks up as they approach, warming his hands over the flickering fire.
+Meanwhile, Kragor, Halite, Elara, and a subdued Gerhard seek Orvo Mustave’s yurt. They find it slightly apart, smaller than theirs, smoke rising bravely against the grey sky. Before it, a modest campfire struggles against the cold. A young dwarf sits beside the flames, shortsword across his lap. His dark, relatively short beard frames a face marked by a prominent scar— three ragged lines, like a claw mark dragged across his cheek. He looks up as they approach, warming his hands.
 
 “Oh, hey,” he calls out, his voice rough but friendly enough. “How y’all doing?”
 
-Halite steps forward, his bulk casting a long shadow in the afternoon light. “Well met. We were told we might find Orvo Mustave here. Sent by Elro of the Glassblades in Palebank Village.”
+Halite steps forward, his bulk casting a long shadow in the afternoon light. “Well met. We seek Orvo Mustave. Elro of the Glassblades sent us from Palebank Village.”
 
-The dwarf nods, pushing himself up slightly. “I’m Orvo. Elro sent word you’d be coming. Heard you came up on the Remorhaz.” He squints at the diverse group. “Quite the collection. Where are you folks from?”
+The dwarf nods, pushing himself up slightly from his resting spot. “I’m Orvo. Elro sent word you’d be coming. Heard you came with the Remorhaz.” He squints at the disparate group before him. “Quite the collection. Where are you folks from?”
 
-Kragor pulls his cloak tighter. “I hail from Bladegarden.”
+Kragor pulls his cloak tighter against the wind whipping off the ice. “Bladegarden.”
 
-Orvo whistles softly. “Bladegarden? Long way from home. You’re caught between the Empire and the Dynasty there, eh?”
+Orvo whistles softly. “Bladegarden? Long way. Caught between the Empire and the Dynasty there, eh?”
 
 Halite gestures vaguely south. “The Menagerie Coast is my home.”
 
-“Ah, the Menagerie,” Orvo nods. “Heard it’s warmer there.” He turns his gaze to Elara, who beams, her celestial heritage almost palpable even bundled in furs.
+“Ah, the Menagerie,” Orvo nods. “Heard it’s warmer.” He turns his gaze to Elara, who beams, her celestial heritage almost palpable even bundled in furs. “And you, lass?”
 
-“And you, lass?”
+Elara steps forward, eyes sparkling like distant stars. “Me? Oh, I’m from the stars! Just landed here recently.”
 
-Elara steps forward, her eyes sparkling. “Me? Oh, I’m from the stars. Just landed here recently.”
+Orvo blinks, then chuckles, a low rumble in his chest. “From the stars, eh? Okay then. That’s… different. Welcome to Syrinlya, Star-Lass.” His gaze shifts to Gerhard, who seems braced for the attention.
 
-Orvo blinks, then chuckles. “From the stars, eh? Okay then. That’s… different. Well, welcome to Syrinlya, Star-Lass.” His gaze shifts to Gerhard, who seems to notice the attention.
+Gerhard clears his throat, his voice quiet, almost rough from disuse or emotion. “Gerhard Eisner. My family… we’re from the Greying Wildlands, north of the Empire. We… fished these waters. Generations of us.” He gestures vaguely out towards the frozen sea, his expression momentarily shadowed by unspoken loss.
 
-Gerhard clears his throat, his voice quiet, almost rough from disuse or emotion. “Gerhard Eisner. My family… we’re from the Greying Wildlands, up north of the Empire. We… fished these waters. Generations of us, between the coast there and… and here.” He gestures vaguely out towards the frozen sea, his expression momentarily shadowed by loss.
+Orvo nods slowly, his expression softening with understanding. “Greying Wildlands? Know the coast. Tough folk live up there. And fishing these waters… takes grit.” Sensing Gerhard’s recent hardship, he doesn’t press, turning back to the group. “Well, welcome to Syrinlya. You all came a long way. What can I do for you? Elro’s message just said you were looking for something.”
 
-Orvo nods slowly, his expression softening slightly with understanding. “Greying Wildlands? Know the coast. Tough folk live up there. And fishing these waters… takes grit. Hard life.” He seems to sense Gerhard’s recent hardship and doesn’t press further. He turns back to the group as a whole. “Well, welcome to Syrinlya. You all came a long way. What can I do for you? Elro’s message didn’t say much, just that you were looking for something.”
+Elara clasps her hands together. “We are on a quest! A most urgent one. We seek… a cure! A milky liquid, held within vials of gold. Have you seen such wonders?”
 
-Elara clasps her hands together. “We are on a quest! A most urgent one. We seek… well, we seek a cure. A milky liquid, held within vials of gold. Have you seen such wonders?”
+Orvo scratches his scarred cheek, looking genuinely puzzled. “Gold vials? Milky liquid? Can’t say I have. Sounds fancy.”
 
-Orvo scratches his scarred cheek, looking puzzled. “Gold vials? Milky liquid? Can’t say I have. Sounds fancy.”
+“Familiar with the Frigid Woe?” Halite asks directly, his tone sharp. “The freezing sickness?”
 
-Halite clarifies, his tone direct. “Are you familiar with the Frigid Woe? The freezing sickness?”
+Orvo’s expression darkens. “Aye. Nasty business. Came across the… source material… out with Urgon.” He pauses, brow furrowed. “Wait, you know Urgon? My buddy?”
 
-Orvo’s expression darkens slightly. “Aye. We see it sometimes. Nasty business. Came across some of the… source material… on my last trip out with Urgon.” He pauses. “Wait, you know Urgon? My buddy?”
-
-Kragor steps forward, switching tongue to Dwarvish, his voice low and somber. “Orvo… I’m afraid we have bad news about Urgon.”
+Kragor steps forward, switching smoothly to Dwarvish, his voice low and somber. “Orvo… we have bad news about Urgon.”
 
 Orvo’s eyes widen slightly. “Bad news? What… what happened?”
 
-“He contracted the Frigid Woe,” Kragor states plainly. “From one of the blue vials you recovered. He… did not survive. He died back in Palebank Village.”
+“He contracted the Frigid Woe,” Kragor states plainly. “From one of the blue vials you recovered. He… did not survive. Died back in Palebank Village.”
 
-The dwarf stares at Kragor, then his gaze drops to the struggling fire. He kicks absently at a chunk of ice near his boot. “Ah, hells. Urgon…” He shakes his head slowly. “Damn it. I knew that stuff was dangerous. He… he could be a real jerk sometimes, but… he was my mate.” He looks up, his eyes clouded with grief and anger. He then says in Common, “That bloody sickness. Did… did you handle those blue vials yourselves?”
+The dwarf stares, comprehension dawning slowly. His gaze drops to the struggling fire; he kicks absently at a chunk of ice near his boot. “Ah, hells. Urgon…” He shakes his head, the movement sluggish with disbelief. “Damn it. Knew that stuff was dangerous. He… could be a real jerk, but… he was my mate.” Looking up, grief and anger cloud his eyes. He switches back to Common, his voice thick. “That bloody sickness. Did… did you handle those blue vials?”
 
-“We secured the ones Hulil Lutan had,” Halite confirms. “She obtained them from Urgon, it seems. Did you keep any?”
+“We secured the ones Hulil Lutan had,” Halite confirms. “She got them from Urgon, it seems. Did you keep any?”
 
-Orvo shakes his head again. “Nah. When we got back from the dig, I sold my share to The Buyer. Needed the coin. Told Urgon to be careful with his.” He sighs heavily. “So the cure… that must be the gold vials you’re looking for… you think they’re out where we found the blue ones?”
+Orvo shakes his head again. “Nah. Sold my share to The Buyer right after the dig. Needed coin. Told Urgon to be careful.” He sighs, a ragged sound. “So the cure… the gold vials you’re after… you think they’re out where we found the blue ones?”
 
-“That’s what Elro believes,” Elara confirms. “Where did you find them, Orvo? We need to get there. People are still sick back in Palebank Village.”
+“Elro believes so,” Elara confirms urgently. “Where did you find them, Orvo? People are still sick back in Palebank Village.”
 
-“Right, right.” Orvo seems to pull himself together, focusing on the task. “The place… it is called Salsvault.” He gestures vaguely northwest. “It’s about two hundred miles that way. Out in a region folks call the Thin Sheets. Ice gets treacherous there, shifting. The ruin itself is… odd. Better shape than most. Like somethin’s holdin’ it together, maybe magic from when the city fell.”
+“Right, right.” Orvo gathers his thoughts. “The place is called Salsvault.” He gestures northwest. “About two hundred miles that way, in the Thin Sheets. The ice there gets treacherous, shifting. The ruin itself is… odd. Better shape than most. Feels like something’s holding it together, maybe magic from the city’s fall.”
 
-“Two hundred miles?” Kragor face shows the strain as he attempts to calculate. “How long does that take?”
+“Two hundred miles?” Kragor’s brow creases as he calculates. “How long does that take?”
 
-“Depends how you travel,” Orvo says. “Normal pace, maybe eight, nine days? Twenty-four miles a day, give or take. Could push faster, make thirty, but you risk exhaustion. Or go slower, safer, maybe eighteen miles a day, easier to spot trouble.” He rubs his hands together near the fire again. “Trouble like the things drawn to the magic there. Ice Mephits. Little elemental pests. Seem drawn to whatever energy is keepin’ the place intact.”
+“Depends on your pace,” Orvo replies. “Normal speed, maybe eight or nine days— twenty-four miles a day, give or take. Push it to thirty, but you risk exhaustion. Or slow it down, safer at eighteen miles a day, easier to spot trouble.” He rubs his hands near the fire. “Trouble like the Ice Mephits. Elemental pests drawn to the magic keeping the place intact.”
 
-“Mephits?” Elara asks. “Are they aggressive?”
+“Mephits?” Elara asks, intrigued. “Are they aggressive?”
 
-“Oh aye,” Orvo nods grimly. “Saw a few skulking around outside. We managed to sneak past ’em. Thought we were clever.” He spits onto the snow. “Turns out the real problem was inside. Place looked like some kind of laboratory. We only got into the third chamber when these… suits of armor… came alive and chased us out. Animated. Big as humans.” He glances at Halite. “Not as big as you, goliath, but big enough. Saw two, maybe three, before we booked it. Grabbed what we could from that first room— the vials and a few other bits— and didn’t look back.”
+“Oh aye,” Orvo nods grimly. “Saw a few lurking outside. We thought we were clever sneaking past them. The real trouble was inside. Looked like a lab. We barely made it into the third chamber before these animated suits of armor came alive and chased us out. Not as big as you, goliath, but still big enough. We snatched what we could— the vials and a few other bits— and didn’t look back.”
 
 “So you didn’t find any gold vials?” Halite presses.
 
-“Nah. Didn’t even know what was in the blue ones then, not really. Just knew they looked valuable.” Orvo sighs again, the sound heavy with regret. “Poor Urgon. If I’d known…”
+“Nah. Didn’t know what the blue ones held then, just that they seemed valuable.” Orvo sighs, regret heavy in his voice. “Poor Urgon. If I’d known…”
 
-“Is there a faster way to get to Salsvault?” Kragor asks. “Horses? Sled dogs?”
+“Is there a faster way to Salsvault?” Kragor asks. “Horses? Sled dogs?”
 
-Orvo snorts. “Horses? Out here? They’d freeze or break a leg in the first hour. Dogs, maybe, if you can find someone with a trained team willing to risk the Thin Sheets. Most folk stick to snowshoes. Best bet, really.”
+Orvo snorts. “Horses? They’d freeze or break a leg in an hour. Dogs, maybe, if you find a trained team willing to risk it. Most folks stick to snowshoes. Best bet, really.”
 
 “Where can we acquire those?” Halite asks.
 
@@ -343,78 +303,74 @@ Doctor Pepe eyes the bag. “Are they gluten-free?”
 Orvo looks between the two groups, then back towards the bleak, frozen wilderness stretching away to the northwest. “Right then. Looks like you’re all set to talk gear. Salsvault ain’t goin’ anywhere. But those suits of armor… watch yourselves. They freaked me right out.” He gives them a final, weary nod. “Good luck. Hope you find what you’re lookin’ for. For Urgon’s sake, too.”
 
 
-
-
-The wind howls a dirge through Syrinlya’s haphazard sprawl of yurts as the reunited party stands outside Orvo Mustave’s modest dwelling. The dwarf offers a final, weary nod before retreating towards the relative warmth of his fire, leaving the adventurers alone with the biting cold. Snow swirls around their boots, stinging exposed cheeks.
+The wind howls a dirge through Syrinlya’s haphazard sprawl of yurts as the reunited party stands outside Orvo Mustave’s modest dwelling. The dwarf offers a weary nod before retreating to the warmth of his fire, leaving the adventurers to the biting cold. Snow swirls around their boots, stinging exposed cheeks.
 
 “Right,” Halite rumbles. “Snowshoes. Orvo mentioned a trader named Javel, three yurts over from The Buyer’s place.”
 
 Whisper nods, her tail twitching beneath her cloak. “Near the ice cliffs. Let’s not waste time.”
 
-They trudge through the deepening snow, the crunch of their boots muffled by the wind. They pass other bundled figures, faces obscured by scarves and hoods, gazes cast downwards against the elements. The air smells sharp, metallic, relentlessly cold. Gerhard follows silently, a ghost haunted by the phantom outline of his lost ship.
+They trudge through the deepening snow, the crunch of their boots muffled by the wind. Bundled figures pass by, faces obscured by scarves, gazes cast downward against the elements. The air smells sharp and cold. Gerhard follows silently, haunted by memories of his lost ship.
 
-Following Orvo’s directions, they locate the specified yurt. It’s slightly larger than Orvo’s, smoke curling from its central vent, though the plume seems weaker, punctuated by fits and starts. A rough-hewn sign, barely legible under a crust of ice, hangs beside the fur-lined entrance flap, depicting a crossed pickaxe and snowshoe.
+Following Orvo’s directions, they locate the specified yurt—a larger structure with smoke curling from its central vent. A rough-hewn sign hangs beside the entrance, depicting a crossed pickaxe and snowshoe.
 
-Elara, ever the diplomat, pushes the heavy flap aside and steps inside, the others following close behind. The immediate change is palpable; the wind’s roar diminishes to a muted whistle, and the air, while still cold, lacks the vicious bite of the outdoors. The interior is cluttered but organized, filled with stacks of furs, ropes, tools, and various pieces of adventuring gear. In the center, near a sputtering, smoky fire pit, sits a dwarf so ancient his braided beard seems to pool around his feet like spilled silver. He looks up, watery eyes blinking in the gloom, and lets out a series of rattling coughs that shake his small frame.
+Elara, ever the diplomat, pushes the flap aside and steps inside, the others close behind. The immediate change is palpable; the wind’s roar diminishes, and though the air is cold, it lacks the vicious bite of outside. The interior is cluttered yet organized, filled with furs, ropes, and adventuring gear. Near a sputtering fire pit sits a dwarf so ancient his braided beard pools around his feet. He looks up, watery eyes blinking in the gloom, and lets out a series of rattling coughs.
 
-“Oh, hey there,” Elara chirps, her voice incongruously bright in the dim, smoky yurt. She steps forward, radiating warmth despite the chill. The old dwarf squints, peering intently at her.
+“Oh, hey there,” Elara chirps, her voice bright in the dim, smoky yurt. She steps forward, radiating warmth despite the chill. The old dwarf squints at her.
 
-“Eh? What’s this now?” His voice is a dry rasp. “Well now… yer a sight. What in the Nine Hells are ya? Is that… is that a horn on yer head?”
+“Eh? What’s this now?” he rasps. “Well now… yer a sight. What in the Nine Hells are ya? Is that… a horn on yer head?”
 
 Elara smiles, a dimple appearing in her cheek. “Some say it’s horny.”
 
-The dwarf lets out another wheezing cough, which might be a chuckle. “Heh. What can I do for ya?”
+The dwarf lets out a wheezing cough that could be a chuckle. “Heh. What can I do for ya?”
 
-“We’re new here,” Elara continues, pulling a small, slightly worn leather-bound book from her pack. “And hoping you might be able to help us. Your cough sounds dreadful, by the way. I don’t have any herbs, unfortunately, but I find this helps when one needs… downtime.” She offers the book. Kragor recognizes the title instantly: “Tusk Love”.
+“We’re new here,” Elara says, pulling a small, worn leather-bound book from her pack. “Hoping you might help us. By the way, your cough sounds dreadful. I don’t have any herbs, but I find this book helps during… downtime.” She offers it to him. Kragor recognizes the title immediately: “Tusk Love.”
 
-The old dwarf’s eyes widen almost imperceptibly. He takes the book with a trembling hand, turning it over reverently. “*Tusk Love*? Gods… have ya read Chapter Three?”
+The dwarf’s eyes widen slightly as he takes the book with a trembling hand. “Tusk Love? Gods… have ya read Chapter Three?”
 
-“Oh, it was *so* good,” Elara gushes, clasping her hands together. “The size of those hands! And the tentacles! My horn was horny when I read that chapter!”
+“Oh, it was so good,” Elara gushes, clasping her hands. “The size of those hands! And the tentacles! My horn was horny when I read that chapter!”
 
-“Aye!” The dwarf nods vigorously, another cough rattling him. “Best thing to read when you’re laid up. Just lay back and read Tusk Love.” He carefully places the book beside him. “A fine gift, lass. A fine gift.” He pulls out a long pipe and tamps something into the bowl. “A woman after me own heart.” He regards the assembled group. “So, what brings this fine company to ol’ Javel’s Emporium? Me guess is… it’s either me boyish good looks, or yer lookin’ for gear.”
+“Aye!” The dwarf nods vigorously, another cough rattling him. “Best thing to read when yer laid up. Just lay back and read Tusk Love.” He sets the book aside and pulls out a long pipe, tamping something into the bowl. “A woman after me own heart. So, what brings this fine company to ol’ Javel’s Emporium? I’d guess me boyish good looks, or yer lookin’ for gear.”
 
-“Well,” Elara says, leaning in conspiratorially, “we *definitely* noticed the boyish good looks.”
+“Well,” Elara leans in conspiratorially, “we definitely noticed the boyish good looks.”
 
-“Ho ho!” Javel chuckles, the sound like rocks tumbling down a hill. “Yer not wrong there! But I suspect gear’s the main order o’ business. What is it ye need? Snowshoes?”
+“Ho ho!” Javel chuckles, a sound like rocks tumbling. “Yer not wrong there! But I suspect gear’s the main order o’ business. What do ye need? Snowshoes?”
 
-“Indeed,” Halite confirms. “Seven pairs. We’re on an urgent mission. Trying to stop a… popsicle sickness.”
+“Indeed,” Halite confirms. “Seven pairs. We’re on an urgent mission—to stop a… popsicle sickness.”
 
-Javel raises a bushy eyebrow. “Popsicle sickness? Ah, the Frigid Woe. Nasty business. Seen it take a few good folk. And yer lookin’ to stop it? Commendable.” He nods slowly. “Right then. Seven pairs.” He eyes the party members, assessing sizes. “Goliath, Tabaxi, Orc… you lot come in all shapes, eh? Let me see what I got.” He pushes himself to his feet with a groan, his beard trailing on the packed-earth floor, and disappears into the shadowy recesses of the yurt.
+Javel raises an eyebrow. “Popsicle sickness? Ah, the Frigid Woe. Nasty business. Commendable you want to stop it.” He studies the party. “Goliath, Tabaxi, Orc… you lot come in all shapes, eh? Let me see what I got.” With a groan, he rises, his beard trailing the packed-earth floor, and disappears into the shadows of the yurt.
 
-They hear him muttering, coughing, and the unmistakable sound of gear being shifted, occasionally punctuated by a clatter and a dwarven curse. Halite shifts his weight, his gaze sweeping the yurt’s contents, taking inventory. He finds his thoughts drifting, not just to the immediate dangers of Salsvault, but further. Eiselcross, Aeor… ancient magic, lost knowledge. Perhaps… perhaps there are secrets here beyond just a cure. Secrets of power, of the Weave itself, things his own people on the Menagerie Coast, content with sun and sea, have never dreamed of. A seed of ambition takes root: survive this, find the cure, yes… but also learn. Bring something more than just stories back home.
+They hear him muttering, coughing, and the unmistakable shuffle of gear, occasionally interrupted by a clatter and a dwarven curse. Halite shifts his weight, scanning the yurt’s contents. His thoughts drift beyond the immediate dangers of Salsvault— Eiselcross, Aeor… ancient magic, lost knowledge. Perhaps there are secrets here beyond just a cure. A seed of ambition takes root: survive this, find the cure, yes, but also learn. Bring back more than just stories.
 
-Javel reappears, dragging several pairs of snowshoes behind him. “Right then. Got yer sizes, I reckon.” He sorts through them. “Goliath… these’ll do.” He tosses a large pair towards Halite. “Orc, Tabaxi…” He continues distributing them. He pauses, holding up a pair whose webbing is stained a distinct, dark red. He glances at Scarlet. “Yours… ah… well, they’re red. Ignore that.”
+Javel reappears, dragging several pairs of snowshoes. “Right then. Got yer sizes, I reckon.” He sorts through them. “Goliath… these’ll do.” He tosses a large pair towards Halite. “Orc, Tabaxi…” He pauses, holding up a pair stained dark red. He glances at Scarlet. “Yours… uh… well, they’re red. Ignore that.”
 
-He piles the seven pairs together. “Normally, fifteen gold for the lot. But… I like yer horn, lass. And yer taste in literature.” He winks a watery eye at Elara. “Tell ya what. Twelve gold pieces for the lot. That’s like gettin’ three pairs free, considerin’ the goliath tax.”
+He piles the seven pairs together. “Normally, fifteen gold for the lot. But… I like yer horn, lass. And yer taste in literature.” He winks at Elara. “Twelve gold pieces for the lot. That’s like getting three pairs free, considerin’ the goliath tax.”
 
-“How about ten?” Elara counters smoothly. “You know, Chapter Eight was also quite illuminating. Those pixies! Glitter me, that’s all I have to say.”
+“How about ten?” Elara counters smoothly. “Chapter Eight was quite illuminating. Those pixies! Glitter me, that’s all I have to say.”
 
-Javel strokes his beard, considering. Elara beams hopefully. He shakes his head. “Twelve’s fair. But… seein’ as yer on a noble quest an’ all…” He rummages behind a pile of furs. “Tell ya what. I’ll throw in these four ice hammers.” He produces four sturdy climbing hammers with sharp picks. “Whole lot— seven pairs o’ shoes, four hammers— thirteen gold pieces. Final offer. Won’t find better in Syrinlya, guaranteed.”
+Javel strokes his beard, considering. Elara beams hopefully. He shakes his head. “Twelve’s fair. But… seein’ as yer on a noble quest…” He rummages behind a pile of furs. “I’ll throw in these four ice hammers.” He produces sturdy climbing hammers. “Whole lot—seven pairs o’ shoes, four hammers—thirteen gold pieces. Final offer. Won’t find better in Syrinlya, guaranteed.”
 
-Scarlet steps closer, examining the red snowshoes Javel set aside for her. Speaking quietly in Dwarvish, she addresses the old trader. “Why did you mention that these are red?”
+Scarlet steps closer, eyeing the red snowshoes Javel set aside. In Dwarvish, she asks, “Why are they red?”
 
-Javel leans closer, lowering his voice conspiratorially, also in Dwarvish. “Ah. Pre-owned, ye see. Prime condition, structurally speakin’, but… belonged to a halfling fellow.”
+Javel leans in, lowering his voice. “Ah. Pre-owned, ye see. Prime condition, but… belonged to a halfling.”
 
-“And the color?” Kragor asks, joining the Dwarvish conversation.
+“And the color?” Kragor interjects.
 
-“Well, let’s just say this,” Javel replies, glancing towards the yurt flap as if checking for eavesdroppers. “Keep yer eyes open for Yeti out there.”
+Javel glances at the yurt flap, conspiratorial. “Keep yer eyes open for Yetis out there.”
 
 “Are they partial to halflings?” Scarlet asks dryly.
 
 “Depends how hungry they are,” Javel grunts. “But the red… aye. That’s bloodstain. Couldn’t quite scrub it all out.”
 
-Gerhard, who has been standing silently nearby, catches the gist despite the language barrier. He murmurs to Halite, “Sounds like a Yeti ate the last owner.”
+Nearby, Gerhard catches the gist despite the language barrier and murmurs to Halite, “Sounds like a Yeti ate the last owner.”
 
-Scarlet inspects the red snowshoes more closely. Years spent reading nature’s signs allow her to identify the stains with chilling certainty. It’s old blood, soaked deep into the hide webbing. She wrinkles her nose but nods slowly. “They’ll do.” She looks back at Javel. “We accept your offer. Thirteen gold.”
+Scarlet inspects the snowshoes more closely. Years of reading nature’s signs allow her to identify the stains with chilling certainty. It’s old blood, soaked deep into the hide. She wrinkles her nose but nods. “They’ll do. Thirteen gold.”
 
-There’s a brief moment of shuffling as the party members pool their coins. Javel accepts the payment with a satisfied grunt, tucking the gold into a deep pouch within his tunic.
+As the party pools their coins, Javel grunts with satisfaction, tucking the gold into a pouch. “Pleasure doin’ business with ya.” He reaches under some furs and pulls out a dusty bottle of amber liquid. “And before ye go… welcome to Syrinlya.” He hands it to Elara. “On the house. Sandkeg’s High. Not the fancy stuff, but it’ll warm yer bones.”
 
-“Pleasure doin’ business with ya,” he rasps. He reaches under a pile of furs again and pulls out a dusty, cork-stoppered bottle filled with amber liquid. “And before ye go… welcome to Syrinlya.” He presses the bottle into Elara’s hands. “On the house. Sandkeg’s High. Not the fancy stuff, but it’ll warm yer bones.”
+“Why thank you, generous soul!” Elara replies, taking the whiskey.
 
-“Why thank you, you generous soul!” Elara says, accepting the whiskey.
+“Right then,” Kragor says, eyeing the bottle. “After fighting a giant squid and learning we’re facing an eight-day trek through Yeti territory, I think a drink’s in order.”
 
-“Right then,” Kragor says, eyeing the bottle. “After fighting a giant squid and finding out we have an eight-day walk through Yeti territory, I think a drink is in order.”
+“Agreed,” Halite nods. “Let’s head back to the yurt. We need to plan.”
 
-“Agreed,” Halite nods. “Let’s head back to the yurt. We need to plan our journey.”
-
-They thank Javel again and step back out into the relentless wind, clutching their newly acquired snowshoes and ice hammers. The sky darkens towards evening, the cold deepening. The prospect of an eight-day trek across the frozen wastes looms large. Back in the relative shelter of the elf-lord’s abandoned yurt, with Gerhard huddled miserably in a hammock and the whiskey bottle making the rounds, they face the stark reality of Eiselcross. They have gear, they have a destination, but the path ahead is long, cold, and fraught with unknown perils.
+They thank Javel and step out into the relentless wind, clutching their new gear. The evening sky darkens, the cold deepening as the prospect of their journey looms large. Back at the elf-lord’s abandoned yurt, with Gerhard huddled miserably in a hammock and the whiskey making the rounds, they face the stark reality of Eiselcross. They have gear and a destination, but the path ahead is long, cold, and fraught with unknown perils.
