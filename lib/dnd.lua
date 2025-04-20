@@ -12,6 +12,8 @@ function Span(el)
     local rest = text:sub(2)
     return pandoc.RawInline("latex",
         "\\DndDropCapLine{" .. first .. "}{" .. rest .. "}")
+  elseif el.classes:includes("break") then
+    return pandoc.RawInline("latex", "\\vfill\\break\n")
   elseif el.classes:includes("item-type") and pendingItem then
     local inline = pendingItem .. "{" .. pandoc.utils.stringify(el.content) .. "}"
     pendingItem = nil
