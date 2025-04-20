@@ -131,6 +131,28 @@ Proficiency with an herbalism kit allows you to identify plants and safely colle
 | Find plants      | 15  |
 | Identify poison  | 20  |
 
+### Leatherworker’s Tools
+
+Knowledge of leatherworking extends to lore concerning animal hides and their properties. It also confers knowledge of leather armor and similar goods.
+
+**Ability:** Dexterity
+
+**Crafting:** Sling, Whip, Hide Armor, Leather Armor, Studded Leather Armor, Backpack, Crossbow Bolt Case, Map or Scroll Case, Parchment, Pouch, Quiver, Waterskin
+
+**Components.** Leatherworker’s tools include a knife, a small mallet, an edger, a hole punch, thread, and leather scraps.
+
+**Arcana.** Your expertise in working with leather grants you added insight when you inspect magic items crafted from leather, such as boots and some cloaks.
+
+**Investigation.** You gain added insight when studying leather items or clues related to them, as you draw on your knowledge of leather to pick out details that others would overlook.
+
+**Identify Hides.** When looking at a hide or a leather item, you can determine the source of the leather and any special techniques used to treat it. For example, you can spot the difference between leather crafted using dwarven methods and leather crafted using half­ling methods.
+
+| Activity                           | DC  |
+| :-                                 | :-: |
+| Add a design to a leather item     | 10  |
+| Modify a leather item’s appearance | 10  |
+| Determine a leather item’s history | 20  |
+
 ### Musical Instruments
 
 Proficiency with a musical instrument indicates you are familiar with the techniques used to play it. You also have knowledge of some songs commonly performed with that instrument.
@@ -202,3 +224,21 @@ _Transmutation Cantrip_
 You channel primal magic to cause your teeth or fingernails to sharpen, ready to deliver a corrosive attack. Make a melee spell attack against one creature within 5 feet of you. On a hit, the target takes 1d10 acid damage. After you make the attack, your teeth or fingernails return to normal.
 
 The spell’s damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
+
+#### Zephyr Strike
+
+_Source: Xanathar’s Guide to Everything_
+
+_Transmutation 1_
+
+**Casting Time:** 1 Bonus Action\
+**Range/Area:** Self\
+**Components:** V\
+**Duration:** Concentration, up to 1 minute\
+**Attack/Save:** Melee\
+**Damage/Effect:** Buff
+
+You move like the wind. Until the spell ends, your movement doesn’t provoke opportunity attacks.
+
+Once before the spell ends, you can give yourself advantage on one weapon attack roll on your turn. That attack deals an extra 1d8 force damage on a hit. Whether you hit or miss, your walking speed increases by 30 feet until the end of that turn.
+
