@@ -56,11 +56,11 @@ Benefiting from the inspiration Elara granted earlier, Halite fires the ballista
 
 Whisper descends from the rigging to join the others on deck, and throws her javelin with deadly precision. The creature writhes under the assault but doesn’t slow.
 
-“Two in the water!” Ironfist shouts, attempting to throw a rescue rope to the figure strangely running across the water’s surface with another slung over his shoulder. The rope falls pathetically short, landing uselessly in the churning waves. Nonetheless, the water-walking sailor closes the distance, and he and the companion he was carrying clambor up the rope onto the deck. As soon as he steadies himself, his eyes narrow, fixing on the squid with predatory intensity. A crimson thread of arcane energy faintly traces a trail to his chosen prey, marking it with an ethereal brand that he knows will make his every subsequent strike deadly.
+“Two in the water!” Ironfist shouts, attempting to throw a rescue rope to the figure strangely running across the water’s surface with another slung over his shoulder. The rope falls pathetically short, landing uselessly in the churning waves. Nonetheless, the water-walking sailor closes the distance, and he and the companion he was carrying clamber up the rope onto the deck. As soon as he steadies himself, his eyes narrow, fixing on the squid with predatory intensity. A crimson thread of arcane energy faintly traces a trail to his chosen prey, marking it with an ethereal brand that he knows will make his every subsequent strike deadly.
 
 Another human suddenly materializes on deck, adding to the chaotic battle… the third survivor of the shipwreck. By his garb, he is clearly a wizard. “By the gods, I’m glad you showed up!” he shouts to the crew. He reaches into his robes and pulls out a small dart along with something slimy looking. He rubs them together and suddenly a sickly shimmering green arrow streaks towards the squid. It lands just short of the mark, yet it splashes and the squid flinches as its skin sizzles where it is touched by the corrosive magic.
 
-Kragor stands firm upon the wooden deck, veins throbbing with dark energy. Sinister tendrils of unearthly mist coil and writhe from his fingers, weaving through the air like serpents drawn to their prey. An invisible curse ensnares the colossal squid, making its gaze falter, its monstrous tentacles flinch with an unseen dread. “Dolor!” screams Kragor, as a pulsating orb of crackling energy leaps from his warhammer, tearing through the air with a piercing whistle. It collides with the massive squid’s hide, the impact causing the creature to recoil, its tentacles thrashing violently as the energy sizzles and singes them.
+Kragor stands firm upon the wooden deck, veins throbbing with dark energy. Sinister tendrils of unearthly mist coil and writhe from his fingers, weaving through the air like serpents drawn to their prey. An invisible curse ensnares the colossal squid, making its gaze falter, its monstrous tentacles flinch with an unseen dread. “Dolor!” screams Kragor, as a pulsating orb of crackling energy leaps from his war hammer, tearing through the air with a piercing whistle. It collides with the massive squid’s hide, the impact causing the creature to recoil, its tentacles thrashing violently as the energy sizzles and singes them.
 
 Mera maneuvers the ship into a better firing position. Scarlet’s slender fingers trace intricate patterns in the air, drawing forth a mote of pure elemental fire that dances and trembles above her open palm— a spark of primal energy, bright and hungry. With a fluid motion born of wilderness training, she hurls the flame toward the squid’s writhing mass, the blazing projectile arcing through salt-laden wind before striking the creature’s membranous hide, erupting into a consuming conflagration that sears and blisters its pallid flesh.
 
@@ -68,7 +68,7 @@ Mera maneuvers the ship into a better firing position. Scarlet’s slender finge
 
 “Get ready to aim and fire!” Captain Stonebeard bellows as he rapidly reloads the ballista. In that fleeting moment, Doctor Pepe emerges like a phantom, his crossbow bolt striking true into the squid’s vulnerable flank. The beast roars in pain, its thick, dark flesh quivering from the impact.
 
-Enraged and wounded, the colossal squid reacts with malignant fury. Its writhing tentacles thrash through the salt-laden air, and one particularly vicious limb finds its mark on Elara, ensaring her. Her hands clutch at the slick, unyielding surface of the creature. The harp at her side falls silent as she struggles, caught in the squid’s vice-like grip.
+Enraged and wounded, the colossal squid reacts with malignant fury. Its writhing tentacles thrash through the salt-laden air, and one particularly vicious limb finds its mark on Elara, ensnaring her. Her hands clutch at the slick, unyielding surface of the creature. The harp at her side falls silent as she struggles, caught in the squid’s vice-like grip.
 
 Another abrupt strike from the squid’s beak leaves a gaping wound in the ship’s hull. Thick splinters and dislodged timbers bear silent witness to the beast’s brutal might. Amid the clamor of battle, Ingrid’s voice wafts upward from below, barely registering over the cacophony of combat: “Are you sure you wouldn’t like a sandwich?”
 
@@ -376,7 +376,7 @@ Javel glances at the yurt flap, conspiratorial. “Keep yer eyes open for Yetis 
 
 “Depends how hungry they are,” Javel grunts. “But the red… aye. That’s bloodstain. Couldn’t quite scrub it all out.”
 
-Nearby, Gerhard catches the gist despite the language barrier and murmurs to Halite, “Sounds like a Yeti ate the last owner.”
+Nearby, Gerhard listens in on the Dwarvish conversation, and summarizes for Halite in a murmur, “Sounds like a Yeti ate the last owner.”
 
 Scarlet inspects the snowshoes more closely. Years of reading nature’s signs allow her to identify the stains with chilling certainty. It’s old blood, soaked deep into the hide. She wrinkles her nose but nods. “They’ll do. Thirteen gold.”
 
