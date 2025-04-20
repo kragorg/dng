@@ -1,36 +1,36 @@
 # Appendix A — Party Inventory
 
-Table: Purses
+Table: Purse
 
-| Who         |  GP | EP | SP | CP |
-|-------------|----:|---:|---:|---:|
-| Doctor Pepe | 147 |  3 | 50 | 72 |
-| Elara       | 141 |  3 | 51 | 72 |
-| Halite      | 304 |  3 | 26 | 72 |
-| Kragor      | 119 |  3 | 41 | 72 |
-| Scarlet     | 148 |  3 | 41 | 72 |
-| Whisper     | 145 |  3 | 47 | 76 |
+| Currency | Amount |
+| :-       | -:     |
+| Gold     | 1,004  |
+| Electrum | 18     |
+| Silver   | 166    |
+| Copper   |  36    |
 
 Table: Inventory Adjustments
 
-| Who         | What                      |
-| :-          | :-                        |
-| Doctor Pepe | Scimitar                  |
-| Doctor Pepe | Olive drab deerstalker    |
-| Doctor Pepe | 130 crossbow bolts        |
-| Doctor Pepe | Aeorian Dagger, +1        |
-| Doctor Pepe | Cook’s utensils           |
-| Elara       | 100 arrows                |
-| Elara       | 30 Arrows, +1             |
-| Halite      | 3 javelins                |
-| Halite      | Crystal arcane focus item |
-| Halite      | Journal of Hulil Lutan    |
-| Halite      | Cooking utensils          |
-| Kragor      | Brass oil lamp (~ 1sp)    |
-| Kragor      | Cooking utensils          |
-| Whisper     | Quarterstaff              |
-| Scarlet     | Scimitar                  |
-| Scarlet     | Grappling hook            |
+| Who         | What                                  |
+| :-          | :-                                    |
+| Doctor Pepe | 130 crossbow bolts                    |
+| Doctor Pepe | Aeorian Dagger, +1                    |
+| Doctor Pepe | Cook’s utensils                       |
+| Doctor Pepe | Grappling hook                        |
+| Doctor Pepe | Ice hammer                            |
+| Doctor Pepe | Olive drab deerstalker                |
+| Doctor Pepe | Snowshoes                             |
+| Gerhard     | Ice hammer                            |
+| Gerhard     | Snowshoes                             |
+| Halite      | Cook’s utensils                       |
+| Halite      | Miner’s Pick                          |
+| Halite      | Snowshoes                             |
+| Halite      | one javelin lost while fighting squid |
+| Scarlet     | Snowshoes                             |
+| Whisper     | 50 feet of silk rope                  |
+| Whisper     | Ice hammer                            |
+| Whisper     | Snowshoes                             |
+| Whisper     | one javelin lost while fighting squid |
 
 Table: Equipment
 
@@ -39,14 +39,19 @@ Table: Equipment
 | 1     | Bottle of Bald Dwarf            |
 | 1     | Gilded Scroll Case              |
 | 1     | Jade Statuette of a Storm Giant |
-| 1     | Silver Ring (~ 50gp)            |
+| 1     | Journal of Hulil Lutan          |
+| 1     | Silver Ring (50gp)              |
 | 2     | Potions of Healing              |
-| 1     | month of provisions             |
+| 3     | months of provisions            |
 
-### Arrows, +1 {#arrows .item}
-<span class="item-type">_Weapon, uncommon_</span>
+<span class="break"></span>
 
-You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.
+### Adventure Sexy {#adventure-sexy .item}
+<span class="item-type">_Book, uncommon_</span>
+
+Penned by the illustrious, if not always entirely humble, bard Scanlan Shorthalt, this exquisite leather-bound tome with its full title “Adventure Sexy: Impress Potential Lovers with Great Deeds” emblazoned in glittering gold leaf is less a guide to genuine heroism and more a compendium of dramatically (and often exaggerated) retold exploits, carefully curated for maximum romantic appeal.
+
+While it contains questionable advice on actual adventuring, “Adventure Sexy” is filled with Scanlan’s unique brand of bravado, wit, and selective memory, offering numerous examples of how to creatively (and sometimes stretching the truth) present one’s deeds to potential romantic interests. It’s more a testament to Scanlan’s ego and showmanship than a source of arcane power.
 
 ### Aeorian Dagger, +1 {#dagger .item}
 <span class="item-type">_Weapon, uncommon_</span>
@@ -59,6 +64,11 @@ This weapon has the following mastery property. To use this property, you must h
 
 **Nick.** When you make the extra attack of the **Light** property, you can make it as part of the Attack action instead of as a Bonus Action. You can make this extra attack only once per turn.
 
+### Arrows, +1 {#arrows .item}
+<span class="item-type">_Weapon, uncommon_</span>
+
+You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.
+
 ### Bald Dwarf Whisky {#whisky .item}
 <span class="item-type">_Consumable, uncommon_</span>
 
@@ -69,6 +79,18 @@ An Uthodurnian specialty spirit, with an estimated value of 25 gp.
 
 A finely crafted mahogany container adorned with gold filigree and inlaid gemstones, providing both beauty and protection for the scrolls inside. It features runes that offer magical safeguarding against damage, making it ideal for keeping valuable parchments secure.
 
+### Ice Hammer {#ice-hammer .item}
+<span class="item-type">_Gear_</span>
+
+A specialized tool for navigating treacherous icy and snowy environments, an ice hammer features a sharp pick on one side of its head and a hammer on the other, mounted on a sturdy haft, with a looped cord for securing to the wrist. It is primarily used for cutting into ice to create handholds or anchor points, and for balance.
+
+**Climbing.** When you are climbing on ice or snow and are using an ice hammer in one or both hands, you can use your reaction when you would fall to attempt a DC 10 Strength (Athletics) check to stop your fall. On a success, your fall is arrested, and you remain clinging to the surface.
+
+An ice hammer provides advantage on Strength (Athletics) checks made to climb surfaces of ice or packed snow that offer suitable purchase for the pick.
+
+**Ice breaking.** An ice hammer can also be used to break through thin ice. You can use an action to strike a surface of ice. For every inch of ice thickness, this requires a successful DC 10 Strength check. On a success, you break through up to 1 inch of ice.
+
+
 ### Jade Statuette of a Storm Giant {#statuette .item}
 <span class="item-type">_Miscellaneous_</span>
 
@@ -77,7 +99,16 @@ A meticulously carved figurine, standing approximately eight inches tall, depict
 ### Silver Ring {#ring .item}
 <span class="item-type">_Jewelry_</span>
 
-A silver ring with an inset jasper stone.
+A silver ring with an inset jasper stone, valued at 50 gold pieces.
+
+### Snowshoes {#snowshoes .item}
+<span class="item-type">_Gear_</span>
+
+These sturdy snowshoes are constructed with a wooden frame, strung with durable babiche (rawhide lacing) for the webbing. Animal hide straps and bindings secure them firmly to your boots. The underside features a series of sharp, durable metal spikes and edges (crampons) to bite into icy surfaces. They are designed to withstand the harsh, cold environment and provide reliable, non-magical assistance on the ice and snow. They are specifically adapted for the varied and often treacherous conditions of the Thin Sheets, though they require careful handling.
+
+**Speed.** While wearing these snowshoes, you ignore difficult terrain caused by deep snow and non-slippery ice. Your speed is reduced by 10 feed when not moving on ice or snow.
+
+**Distributed weight.** The snowshoes’ design helps to distribute your weight slightly. When moving across thin ice, you gain a +2 bonus to the DC of any check to see if the ice breaks under you.
 
 ### Hulil’s Journal {#journal .item}
 <span class="item-type">_Book, common_</span>
