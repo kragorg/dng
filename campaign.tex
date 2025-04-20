@@ -37,14 +37,29 @@
   \KOMAoptions{parskip=half}}
 \makeatother
 \usepackage{xcolor}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
 \setlength{\emergencystretch}{3em} % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{-\maxdimen} % remove section numbering
 \usepackage[english]{babel}
 \usepackage[utf8]{inputenc}
+\usepackage{dblfloatfix}
 \newfontfamily\gillius{GilliusADFNo2}[NFSSFamily=GilliusADFNoTwo-LF]
 \sloppy
+\graphicspath{ {/nix/store/hgjwckgqh8l2w37zil33kpfbm280ihz5-sessions/} }
 \ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
@@ -67,126 +82,156 @@ A brief recap of the sessions so far. The full story, beginning with the
 Prequel, can be found on the following pages.
 \end{DndComment}
 
-\DndDropCapLine{O}{ur story begins in Palebank} Village, a ramshackle
-settlement in the Greying Wildlands of Wildemount, where our party
-disembarks after weeks at sea aboard the \emph{Frostwind}. Drawn by
-rumors of Aeorian ruins and artifacts in the frozen expanses of
-Eiselcross, they've arrived at the gateway to this mysterious land,
-their paths crossing during the voyage.
+\DndDropCapLine{O}{ur story unfolds in the} desolate Greying Wildlands
+of Wildemount, within the frost-rimed confines of Palebank Village.
+Here, a disparate group of adventurers--- the aasimar bard Elara,
+goliath fighter Halite, orc warlock Kragor, halfling druid Scarlet,
+tabaxi rogue Whisper, and the enigmatic rogue Doctor Pepe--- find their
+paths converging. Arriving aboard the \emph{Frostwind}, drawn by
+whispers of Aeorian ruins scattered across the perilous northern islands
+of Eiselcross, they disembark into a village shrouded in mourning.
+Urgon, a dwarven explorer, has succumbed to a mysterious freezing
+affliction after returning laden with treasures from Eiselcross. This
+chilling illness, marked by creeping blue veins and an unshakeable
+internal frost, has halted all expeditions north. Elro, a stoic elven
+Glassblade tasked with protecting the village, implores the newcomers to
+investigate, revealing that another villager, the reclusive trapper
+Tulgi, suffers from the same malady.
 
-Upon arrival, the village is in mourning for Urgon, a dwarven adventurer
-who returned from Eiselcross with treasures but afflicted with a strange
-freezing illness that eventually claimed his life. Elro, an elven
-Glassblade (village protector), informs the party that expeditions to
-Eiselcross have been suspended due to this mysterious illness. He seeks
-their help in investigating the cause, particularly since another
-villager named Tulgi shows similar symptoms.
+Lodging is secured at the Jolly Dwarf tavern, courtesy of the jovial
+proprietor Arl Bortock. Information is scarce, but Tulgi's solitary
+nature is noted. The adventurers proceed to Urgon's ransacked cabin.
+Amidst the disarray, Halite discovers a crucial receipt from Pelc's
+Curiosities, detailing Urgon's sale of several Aeorian artifacts for a
+thousand gold pieces: a dagger, scroll case, jade statue, quiver of
+arrows, a jasper-set silver ring, and two blue glass vials containing a
+fine powder. Tracks lead them to Tulgi's cabin. Confronted, the
+afflicted trapper confesses. She and her sister, Hulil, are criminals
+from Shadycreek Run, hired to steal Aeorian artifacts. They raided
+Urgon's cabin; Hulil now possesses the remaining treasures and is hiding
+in Croaker Cave, though Tulgi hasn't seen her in weeks. She surrenders
+Urgon's dagger to Kragor.
 
-At the Jolly Dwarf tavern, the party meets Arl Bortock, the jovial
-dwarven innkeeper, who provides them with lodging and information. They
-learn that Urgon had recently explored Aeor, and Tulgi is a solitary
-local trapper.
+Their investigation takes them to Pelc's Curiosities, where they
+interrupt a burglary in progress. Bandits, later revealed to be Hulil's
+underlings, are tearing the shop apart. From the rooftop, the observant
+Doctor Pepe watches the unfolding chaos. A fierce battle erupts within
+the shop, complicated by Scarlet casting a dense fog cloud. Kragor fells
+one bandit in the mist, while Halite skewers another. Whisper confronts
+the rooftop observer, grappling him awkwardly before shoving him to the
+ground, where he feigns injury before slipping away. Elara heals the
+wounded Kragor and inspires Halite, who dispatches another bandit. The
+remaining two surrender, confirming they work for Hulil, a priestess of
+Tiamat now suffering from the same freezing sickness. She sent them to
+find clues about a cure, believing Pelc's shop might hold answers. They
+reveal Hulil has the artifacts in Croaker Cave. The party also makes the
+grim discovery of Verla Pelc, the shop owner, frozen dead in her bed.
+Searching the bandits yields meager coin and a peculiar Scanlan
+Shorthalt t-shirt, which Elara deems potentially valuable.
 
-Investigating Urgon's cabin, they find it ransacked. Among the scattered
-possessions, they discover a receipt from Pelc's Curiosities detailing
-the sale of Aeorian items: a dagger, scroll case, jade statue, quiver of
-arrows, jasper-set silver ring, and two blue glass vials. Following
-tracks to Tulgi's cabin, they find her suffering from the same
-blue-streaked affliction as Urgon. She confesses that she and her sister
-Hulil are criminals from Shady Creek Run sent to steal Aeorian
-treasures. Tulgi reveals that Hulil possesses the remaining artifacts in
-Croaker Cave.
+Before venturing to Croaker Cave, the party visits Gramini, an elderly
+elf potion seller at the docks. They negotiate the purchase of healing
+potions, partially funding the transaction by trading the Scanlan
+Shorthalt shirt, much to Gramini's nostalgic delight. As they approach
+the cave, the mysterious rogue reappears, introducing himself as Doctor
+Pepe and offering his assistance, claiming a shared interest in the
+disease. Inside Croaker Cave, they face immediate peril from giant ice
+frogs lurking in a murky pool, one managing to severely wound Whisper.
+Reinforcements arrive in the form of more bandits loyal to Hulil,
+positioned across the water. A chaotic battle ensues, involving crossbow
+fire, javelins, eldritch blasts, and divine magic. The party prevails,
+capturing one dwarf bandit who reveals Hulil uses the frogs for
+transport and has trained a particularly large one, ``Old Croaker,'' to
+ferry people across a deeper underground lake. He also warns of a pit
+trap near their sleeping quarters.
 
-At Pelc's Curiosities, the party encounters bandits ransacking the shop.
-A fierce battle ensues, during which a mysterious rogue (later known as
-Doctor Pepe) observes from the rooftop. The party defeats the bandits
-and discovers the frozen body of Verla Pelc, the shop owner, another
-victim of the freezing sickness.
+Using the captured dwarf's knowledge and bat carcasses found nearby as
+bait, the party crosses the underground lake astride Old Croaker. On the
+far side, they confront Hulil, her skin marred by the blue streaks of
+the affliction, and her last remaining follower. Another intense fight
+concludes with Hulil's defeat, her final words a chilling curse upon
+Halite. They find a chest containing the stolen Aeorian artifacts listed
+on Urgon's receipt--- all except the two blue glass vials. Hulil's
+journal reveals she sold one cracked vial to a traveling bookseller
+named Irven Liel, hoping to fund her search for a cure.
 
-The surviving bandits reveal they were sent by Hulil, a priestess of
-Tiamat who has contracted the freezing sickness and is searching for a
-cure. They confirm that Hulil possesses the Aeorian artifacts and is
-hiding in Croaker Cave.
+Returning to Palebank Village, they encounter Elro again. After hearing
+the adventurers' story, he is able to identify the disease as ``Frigid
+Woe,'' an ancient Aeorian magical contagion. Crucially, he reveals a
+cure exists: a milky white liquid stored in golden vials, likely found
+near the source of the blue vials. Elro pays the party for dealing with
+Hulil and hires them to travel to Eiselcross, find the cure, and send it
+back via a contact in the outpost of Syrinlya known as ``The Buyer''. He
+also offers a substantial reward for the remaining blue vial.
 
-Seeking information about the mysterious blue powder associated with the
-disease, the party visits Gramini, an elderly elf who sells healing
-potions. They purchase potions at a negotiated price, partly trading a
-Scanlan Shorthalt shirt they found in Urgon's cabin.
+The party tracks down Irven Liel at the Jolly Dwarf. He is traveling
+with his husband Fenton and their twin tiefling daughters. Irven admits
+to buying the cracked blue vial from Hulil as an investment. Scarlet
+confirms it contains the Frigid Woe contagion. The party warns the
+family they may be infected and secures the vial, receiving Elro's
+promised payment. Before departing, they visit Westeroff, a retired
+wizard who identifies the dagger as magical but offers little else.
+Halite purchases an arcane crystal focus from him.
 
-The party then journeys to Croaker Cave, where they encounter Doctor
-Pepe, who formally introduces himself and offers to help. Inside the
-cave, they battle giant ice frogs (including one that practically
-swallows Whisper) and bandits loyal to Hulil. They learn that the
-massive frog known as ``Old Croaker'' serves as transportation across an
-underground pool.
+Prior to the voyage, each party member undergoes subtle growth: Elara
+hones her persuasive magic and performance, Whisper enhances her agility
+and resilience, Scarlet deepens her bond with nature (gaining an owl
+familiar, Sparky), Halite sharpens his tactical mind and culinary
+skills, Kragor unlocks new eldritch power, and Doctor Pepe refines his
+stealth and dexterity.
 
-Deep in the cave, they confront Hulil, a dwarf priestess of Tiamat
-afflicted with the freezing sickness. After defeating her and her
-remaining follower, they discover a chest containing the stolen Aeorian
-artifacts, though the two blue vials mentioned in Urgon's receipt are
-missing. From Hulil's journal, they learn she sold one vial to someone
-named Irven Liel.
+The adventurers board the \emph{Remorhaz}, captained by the seasoned
+Jarl Stonebeard, bound for Syrinlya. Once at sea, Stonebeard drops his
+deferential act, running a pragmatic ship where all must contribute.
+Kragor hauls up an ancient anchor from the legendary privateer ship, the
+\emph{Snowy Plover}. Whisper assists with rigging, Scarlet and Halite
+learn cooking from the gruff chef Ingrid, Kragor discovers a knack for
+filleting fish, and Doctor Pepe proves an adept fisherman. Ingrid,
+recognizing talent, gifts cooking utensils to Kragor, Halite, and Doctor
+Pepe. Evenings bring camaraderie through card games and Elara's
+enchanting musical performances.
 
-Returning to Palebank Village, they meet Elro, who informs them the
-disease is called ``Frigid Woe,'' a weapon created by ancient Aeorians
-that can be cured with a milky white liquid stored in golden vials. Elro
-offers them payment to recover the artifacts and hires them to travel to
-Eiselcross to find the cure.
+A disturbance erupts one night: a winter wolf is found in the galley.
+Kragor spots Ingrid's distinctive moon-and-rune amulet discarded nearby.
+After Whisper is injured attempting to retrieve it, Halite nets the
+beast, and Elara manages to place the amulet around its neck. The wolf
+transforms back into Chef Ingrid, revealing her lycanthropy, a secret
+seemingly unknown to Captain Stonebeard, who orders everyone away while
+confronting her privately.
 
-The party tracks down Irven Liel, a traveling bookseller staying at the
-Jolly Dwarf with his husband Fenton and their twin tiefling daughters.
-Irven reveals he purchased a cracked blue vial from Hulil as an
-investment. The party confirms it contains the same magical contagion
-and warns the family they may be infected.
+Their journey continues into thick fog. The ship comes across wreckage
+in the gloom, and the crew spots survivors clinging to debris while a
+giant squid attacks them. The party, alongside the crew and the rescued
+survivors--- Gerhard (former captain of the lost ship \emph{Frostfang}),
+his young crewman Rorik, and a passenger, Bret (a wizard revealed to be
+of the Cerberus Assembly)--- fight off the colossal creature. Bret
+demands passage to Icehaven, but Stonebeard refuses to deviate from his
+course to Syrinlya.
 
-Preparing for their journey to Eiselcross, the party acquires supplies
-and visits Westeroff, a retired wizard who helps identify some of their
-magical items. They board the Remorhaz, a ship captained by Stonebeard,
-who instructs them to find Orvo Mustave upon reaching Syrinlya in
-Eiselcross.
+Finally, after four days at sea, the fog lifts, revealing the desolate,
+frozen shores of Eiselcross. The \emph{Remorhaz} docks at Syrinlya, a
+rough outpost of yurts huddled against the biting wind. They are met by
+Morgo Delwur, a local guide who directs them to find Orvo Mustave,
+Urgon's former adventuring companion, and provides them lodging in an
+abandoned, well-appointed yurt. Inside, they find supplies left by the
+previous occupant, including rations, rope, a pickaxe, and a copy of
+Scanlan Shorthalt's \emph{Adventure Sexy}.
 
-The party embarks on their journey to Eiselcross aboard the Remorhaz.
-Once beyond Palebank's harbor, Captain Stonebeard drops his deferential
-façade and runs a more practical ship, insisting everyone contribute.
-The adventurers take on various tasks --- Whisper helps with rigging,
-Scarlet and Halite assist in the kitchen, while others fish.
-
-During their fishing efforts, Kragor pulls up an ancient anchor from
-``The Snowy Plover,'' a legendary privateer ship. This discovery
-delights the crew, who see it as a good omen. Doctor Pepe proves
-particularly adept at fishing, bringing in an impressive haul.
-
-Below deck, Chef Ingrid, a dwarf wearing a distinctive moon-and-rune
-amulet, teaches several party members to cook. Under her guidance, they
-prepare a feast that amazes everyone aboard. Ingrid recognizes the
-special talents of Kragor, Halite, and Doctor Pepe, gifting them cooking
-utensils in recognition of their aptitude.
-
-Evening entertainment includes a card game called ``The Crick Queen's
-Call,'' with Elara and Doctor Pepe displaying particular skill. Later,
-Elara delivers a captivating musical performance that enchants the
-entire crew, creating a night of celebration and camaraderie.
-
-During the night, chaos erupts when a winter wolf is discovered in the
-kitchen, confronted by First Mate Ironfist and crewman Haldor. The party
-notices Ingrid's amulet discarded nearby. After Whisper is injured
-trying to retrieve the amulet, Halite entangles the wolf in a net, and
-Elara manages to place the amulet around its neck.
-
-The wolf transforms back into Chef Ingrid, revealing her lycanthropy.
-Captain Stonebeard, apparently unaware of her condition, orders everyone
-back to bed while privately confronting Ingrid about her secret.
-
-Throughout their journey, each party member experiences personal growth.
-Elara masters new melodies and enchantments; Whisper develops greater
-agility and resilience; Scarlet deepens her connection with nature and
-gains an owl companion; Halite hones his tactical abilities; Kragor
-discovers new arcane powers; and Doctor Pepe refines his already
-formidable stealth and dexterity.
-
-As the session ends, the party continues their voyage to Eiselcross, now
-with stronger bonds and abilities, preparing to face whatever challenges
-await them in their quest to find the cure for Frigid Woe.
+They locate Orvo, who is devastated to learn of Urgon's fate. He
+confirms they found the blue vials at a ruin called Salsvault, roughly
+an eight-day trek northwest across treacherous ice fields known as the
+Thin Sheets. He warns them of Ice Mephits and animated armor guarding
+the ruin, admitting they fled after encountering the constructs in the
+third chamber. Of the golden vials, he knew nothing. For supplies, Orvo
+directs them to Javel, an ancient dwarf trader. The party negotiates
+with the eccentric Javel, acquiring seven pairs of snowshoes (including
+a pair ominously stained red, hinted to be from a Yeti victim) and
+climbing hammers, sealing the deal partly through a shared appreciation
+for the raunchy novel \emph{Tusk Love} (which Elara trades for a
+discount) and receiving a bottle of Sandkeg's High whiskey as a parting
+gift. Equipped and informed, the adventurers brace themselves in their
+borrowed yurt, planning their perilous overland journey to Salsvault in
+search of the cure for the Frigid Woe.
 
 \chapter{Prequel}\label{prequel}
 
@@ -200,22 +245,21 @@ the promise of more snow.
 
 You've endured weeks at sea, braving treacherous currents and icy
 squalls aboard the \emph{Frostwind}, a sturdy, if somewhat cramped,
-longship captained by the weathered and taciturn Jarl Stonebeard. The
-journey itself proved more than just a test of sea legs; it was during
-those long, monotonous days and nights that your paths first crossed.
-Over shared meals of salted fish and hardtack, huddled around the meager
-warmth of the ship's brazier, you discovered a shared purpose beneath
-your disparate backgrounds. Perhaps it was a whispered conversation
-overheard in the galley, a chance encounter on deck under the pale
-moonlight, or a late-night debate in the cramped crew quarters, but you
-each realized you were drawn north by the same alluring whispers: the
-rediscovery of Aeorian ruins, remnants of a lost civilization swallowed
-by the Frostfell. Tales of lost cities and powerful artifacts have
-spread like wildfire, carried on the winds and traded in taverns from
-the Menagerie Coast to the shores of Wildemount. These stories have
-lured explorers, scholars, and fortune-seekers alike to this desolate
-land, and fate, or perhaps something more, has brought you together on
-this shared voyage.
+longship captained by a weathered and taciturn dwarf. The journey itself
+proved more than just a test of sea legs; it was during those long,
+monotonous days and nights that your paths first crossed. Over shared
+meals of salted fish and hardtack, huddled around the meager warmth of
+the ship's brazier, you discovered a shared purpose beneath your
+disparate backgrounds. Perhaps it was a whispered conversation overheard
+in the galley, a chance encounter on deck under the pale moonlight, or a
+late-night debate in the cramped crew quarters, but you each realized
+you were drawn north by the same alluring whispers: the rediscovery of
+Aeorian ruins, remnants of a lost civilization swallowed by the
+Frostfell. Tales of lost cities and powerful artifacts have spread like
+wildfire, carried on the winds and traded in taverns from the Menagerie
+Coast to the shores of Wildemount. These stories have lured explorers,
+scholars, and fortune-seekers alike to this desolate land, and fate, or
+perhaps something more, has brought you together on this shared voyage.
 
 Palebank Village, a ramshackle collection of wooden buildings huddled
 against the harsh landscape, serves as the primary gateway to the frozen
@@ -2137,37 +2181,931 @@ As the adventurers retreat upstairs, faintly echoing behind them is the
 Captain's low voice, tinged with inevitable frustration, ``Well why the
 hells didn't you tell me before??''
 
+\chapter{Journey to Eiselcross}\label{journey-to-eiselcross}
+
+\DndDropCapLine{D}{awn breaks on the fourth} day of the adventurer's
+journey across the Frigid Depths. A thick fog stretches endlessly before
+the Remorhaz, reducing the world to a spectral canvas of grays and
+whites. Visibility collapses to a mere fifty feet, transforming the sea
+into a claustrophobic realm where sound becomes more reliable than
+sight.
+
+Chef Ingrid prepares a feast of gratitude. Massive platters of smoked
+fish, hearty breads, and steaming porridge cover the galley table, a
+culinary apology wrapped in steam and seasoning.
+
+Pulling Whisper aside, Ingrid's voice is soft, almost apologetic.
+``Sorry about the little nip,'' she murmurs. ``In that form, control
+is\ldots{} challenging. I just like to chase cats.'' A plate of poke
+appears, raw fish marinated in vibrant seasonings, offered as both peace
+offering and cultural delicacy.
+
+Captain Stonebeard's voice cuts through the morning calm. ``We need all
+eyes on deck!'' The ship's bell rings, a sonic marker declaring their
+position to potential listeners in this spectral seascape.
+``Passengers,'' he commands, ``keep your eyes over the rail. Raise the
+alarm if you spot anything that could lead to collision!''
+
+Whisper and Haldor ascend to the crow's nest, their keen eyes scanning
+the milk-white horizon. Distant sounds tantalize but remain uncertain,
+ghosts of noise within the fog.
+
+The Remorhaz tracks southwest, meticulously avoiding island channels.
+Mera's navigation is a dance of caution, each movement calculated to
+preserve their safety.
+
+By noon, the crew strains to discern waves against distant shorelines,
+sound becoming their primary navigation tool. Stonebeard's call for
+ballista expertise finds Halite ready, positioning himself with two
+other crew members, prepared for any potential threats.
+
+They reduce speed, approaching with heightened vigilance. Then---a bell,
+clear and sharp at first, then suddenly silenced.
+
+Screams follow. Yelling. Shouted commands.
+
+Sounds of crunching. Of cracking.
+
+``Everyone! Eyes open!'' Stonebeard roars.
+
+Wreckage begins floating past---splintered wood, broken timbers. A
+massive mast segment drifts into view, three desperate souls clinging to
+its bulk.
+
+And rising from the depths, a nightmare incarnate: a giant squid,
+tentacles reaching hungrily toward the survivors.
+
+The Frigid Depths have claimed another ship as victim--- and the
+Remorhaz stands between potential salvation and certain doom.
+
+The battlefield erupts in a symphony of magical and martial action, each
+crew member responding to the giant squid's threat with their unique
+talents.
+
+Kragor chants arcane words, ``Mactē virtutē''. As the last word is
+uttered, a sudden chill surges through the air. A shimmering, icy aura
+begins to emanate from his form, enveloping him in a protective shell of
+frost. He then moves quickly to the ballista, grabs a large bolt, and
+loads it. Scarlet then springs to the weapon, her aim sharp and focused
+on the writhing tentacled horror.
+
+While Scarlet tries to get a bead on the beat, a miraculous scene
+unfolds near the wreckage: one of the shipwrecked survivors lifts his
+companion, a ring sparkling eerily on his finger before he inexplicably
+sprints across the water's surface, defying natural law.
+
+Elara, quick-witted and creative, strums her harp to conjure a minor
+illusion--- a tantalizing, hopefully seductive squid-form designed to
+confuse their monstrous attacker. As the form fully materializes, her
+harp strings continue to vibrate with an inspiring melody, empowering
+Halite with courage and skill.
+
+``Shoot the bastard!'' bellows Captain Stonebeard, commanding the crew.
+He raises his crossbow, but his shot goes wildly wide, sailing
+harmlessly into the fog.
+
+Doctor Pepe, steadier of hand, takes aim and strikes true. His bolt
+finds purchase, drawing first blood and scoring a solid hit against the
+creature.
+
+``I'll bring us broadside!'' Mera shouts, maneuvering the ship to
+attempt a rescue.
+
+From below, Ingrid's voice drifts up incongruously: ``Anyone want a
+sandwich?''
+
+The squid, momentarily confused by Elara's illusion, probes it with a
+tentative appendage. Confused, it swings a large tentacle, but the
+attack passes right through the squid-that-is-not-there. Finally
+realizing the deception, it shifts focus and savagely attacks the boat,
+its powerful beak tearing into the hull with devastating force.
+
+Benefiting from the inspiration Elara granted earlier, Halite fires the
+ballista, a devastating shot that tears into the squid's massive form.
+The bolt rips through its flesh, but the creature remains terrifyingly
+active.
+
+Whisper descends from the rigging to join the others on deck, and throws
+her javelin with deadly precision. The creature writhes under the
+assault but doesn't slow.
+
+``Two in the water!'' Ironfist shouts, attempting to throw a rescue rope
+to the figure strangely running across the water's surface with another
+slung over his shoulder. The rope falls pathetically short, landing
+uselessly in the churning waves. Nonetheless, the water-walking sailor
+closes the distance, and he and the companion he was carrying clambor up
+the rope onto the deck. As soon as he steadies himself, his eyes narrow,
+fixing on the squid with predatory intensity. A crimson thread of arcane
+energy faintly traces a trail to his chosen prey, marking it with an
+ethereal brand that he knows will make his every subsequent strike
+deadly.
+
+Another human suddenly materializes on deck, adding to the chaotic
+battle\ldots{} the third survivor of the shipwreck. By his garb, he is
+clearly a wizard. ``By the gods, I'm glad you showed up!'' he shouts to
+the crew. He reaches into his robes and pulls out a small dart along
+with something slimy looking. He rubs them together and suddenly a
+sickly shimmering green arrow streaks towards the squid. It lands just
+short of the mark, yet it splashes and the squid flinches as its skin
+sizzles where it is touched by the corrosive magic.
+
+Kragor stands firm upon the wooden deck, veins throbbing with dark
+energy. Sinister tendrils of unearthly mist coil and writhe from his
+fingers, weaving through the air like serpents drawn to their prey. An
+invisible curse ensnares the colossal squid, making its gaze falter, its
+monstrous tentacles flinch with an unseen dread. ``Dolor!'' screams
+Kragor, as a pulsating orb of crackling energy leaps from his warhammer,
+tearing through the air with a piercing whistle. It collides with the
+massive squid's hide, the impact causing the creature to recoil, its
+tentacles thrashing violently as the energy sizzles and singes them.
+
+Mera maneuvers the ship into a better firing position. Scarlet's slender
+fingers trace intricate patterns in the air, drawing forth a mote of
+pure elemental fire that dances and trembles above her open palm--- a
+spark of primal energy, bright and hungry. With a fluid motion born of
+wilderness training, she hurls the flame toward the squid's writhing
+mass, the blazing projectile arcing through salt-laden wind before
+striking the creature's membranous hide, erupting into a consuming
+conflagration that sears and blisters its pallid flesh.
+
+\begin{figure*}[b]
+\includegraphics{remorhaz_route.png}
+\end{figure*}
+
+``Get ready to aim and fire!'' Captain Stonebeard bellows as he rapidly
+reloads the ballista. In that fleeting moment, Doctor Pepe emerges like
+a phantom, his crossbow bolt striking true into the squid's vulnerable
+flank. The beast roars in pain, its thick, dark flesh quivering from the
+impact.
+
+Enraged and wounded, the colossal squid reacts with malignant fury. Its
+writhing tentacles thrash through the salt-laden air, and one
+particularly vicious limb finds its mark on Elara, ensaring her. Her
+hands clutch at the slick, unyielding surface of the creature. The harp
+at her side falls silent as she struggles, caught in the squid's
+vice-like grip.
+
+Another abrupt strike from the squid's beak leaves a gaping wound in the
+ship's hull. Thick splinters and dislodged timbers bear silent witness
+to the beast's brutal might. Amid the clamor of battle, Ingrid's voice
+wafts upward from below, barely registering over the cacophony of
+combat: ``Are you sure you wouldn't like a sandwich?''
+
+Halite's broad arm hurls a javelin that whistles through the frigid air,
+colliding with one of the squid's thick tentacles. The impact
+reverberates--- a flash of victory as the creature recoils, wounded by
+the force of his strike. At the same moment, Whisper dashes to Elara's
+aid. With feline agility, she slashes at the slimy appendage
+constricting her, her claws raking into its flesh. A burst of raw
+determination follows as she unleashes a flurry of attacks that loosen
+the tentacle's grip enough for Elara to breathe, but not enough for her
+to escape.
+
+Across the chaotic deck, Ironfist steadies himself and lines up the
+ballista, the massive weapon creaking as he aims it squarely at the
+disordered beast. Not far away, the wiry wizard, face alight with fervor
+and exhaustion, summons a bolt of shimmering blue energy. The air
+crackles with ozone as a sustained electric arc connects with the squid,
+sapping its monstrous vitality.
+
+Kragor charges, hammer raised high in a wild swing, but his blow misses,
+clanging uselessly against the ship's railing. Scarlet seizes the
+moment: she maneuvers nimble fingers over the ballista's trigger, and
+its bolt flies ahead, striking home into the beast's pulsating flesh
+with a resounding crash. Gerhard then finds his focus. His longbow sings
+as an arrow arcs through the gloom, finding its target in one of the
+squid's unblinking eyes.
+
+Under the relentless assault, the colossal creature falters, its
+thrashing slowing until it releases Elara and finally sinks into the
+inky depths. After a gasp of relief, Elara calls out over the din to
+Ingrid below deck, her voice lilting and defiant, ``Sandwiches for
+everyone!'' A surreal endnote to the turmoil--- a promise of warmth and
+camaraderie amid the unforgiving cold.
+
+\section{Gerhard}\label{gerhard}
+
+The crew methodically surveys the damage. The squid's beak has carved a
+gaping maw in the ship's hull, and the task of repair falls heavily on
+the remaining hands.
+
+Whisper, nimble even in the lingering fear, takes to the rigging, aiding
+in the salvage operation. She peers into the depths, her vision
+unnervingly clear, but the fog obscures the scene.
+
+``Keep wits sharp and hearts steadfast,'' the captain's voice cuts
+through the hush aboard the Remorhaz, a floating island of survival. On
+decks slick with salt and battle-scraps, weary heroes meet the
+newcomers: Gerhard, former captain of the lost ship; Rorik, his young
+crewman; and Bret, a passenger.
+
+``Well met,'' Halite says, his voice crisp. ``What brings you so far
+out?''
+
+Gerhard, weathered and mid-thirties, steps forward, brown eyes
+reflecting relief and deep caution. ``Thank you,'' he breathes, voice
+tight with gratitude and disbelief. ``The Frostfang\ldots{} my
+ship\ldots{} gone. That squid! I thought I was dead. Ran across the
+water, carrying Rorik. This family heirloom saved me.'' He gestures
+wildly. ``And that aasimar\ldots{} almost killed! What the hell!''
+
+Rorik, barely seventeen, watches his captain, wide-eyed. Halite,
+however, stands rigid, scrutinizing Gerhard. Suspicion cuts sharper than
+the chill air; Halite knows survivors don't always bear honest scars.
+
+At the rail, Bret's robed figure steps forward. Kragor recognizes the
+sigils: a symbolic design of three inward-pointing diamond shapes with
+eight curling spires underneath. This wizard is a member of the Cerberus
+Assembly, a powerful conclave of mages in the Dwendalian Empire. The
+wizard nods solemnly to Gerhard. ``The sea tests us all,'' Bret intones,
+tone measured. ``Perhaps misfortune portends a greater journey---one
+that may yet lead us to Eiselcross.''
+
+Halite's gaze narrows on Gerhard, pressing. ``Specifically, what were
+you doing out here?''
+
+Gerhard's breath clouds the frigid air. ``My kin have always plied these
+waters. Fishing\ldots{} crabbing, mostly.'' He falters, eyes darting
+across the ravaged deck. ``But we found a new source of income. Ferrying
+passengers, mostly one way to Eiselcross.'' He gestures toward Bret.
+``That mage offered a fortune in gold for his transport.''
+
+Bret stands nearby, clearly agitated, his words laced with a demanding
+edge. ``I require passage to Icehaven, Captain,'' he declares, his voice
+tight with urgency. ``I bear tidings of utmost import. Our vessel is
+lost; I must deliver my news without delay. I will provide recompense
+for diverting your ship.''
+
+Stonebeard remains unmoved. ``Such a course is impossible,'' he rumbles,
+his voice a deep echo of the sea. ``My obligations lie with the
+Glassblades; my route must be followed. You may remain aboard. After
+completing our appointed rounds, we shall deposit you at Palebank
+Village. Another vessel can convey you to Icehaven from there. I am
+heartened we rescued you, fortunate you remain living. But expect no
+more than offered.'' His gaze fixes upon the traveler with steely
+resolve. ``Assist cleaning the foredeck. There is work to be done.''
+
+\section{Land ho}\label{land-ho}
+
+The afternoon fog clings suffocatingly to the Remorhaz, smothering the
+sea and reducing the ship to a cautious crawl. In this soup, dead
+reckoning is Mera's only guide. Scarlet summons Sparky, her owl
+companion, a flash of gold against the gray. ``Fly up, Sparky,'' she
+commands, voice tight. ``Find the sun. Tell me how long it takes. And
+look for land.''
+
+Sparky beats upward, swallowed instantly by the milky expanse. The crew
+watches, hope and anxiety warring on their faces. Three minutes pass.
+Four. The wingbeats fade into silence. Five minutes stretch into six,
+then seven, then eight.
+
+Suddenly, a spectral shape wheels out of the gray. Sparky circles,
+settling onto Scarlet's shoulder. The connection flares, and she sees
+through the owl's eyes. ``Took a while to break through,'' Scarlet
+reports, her voice hushed, barely carrying over the creak of timbers.
+``Up there\ldots{} just clouds. A sea of gray, stretching forever. No
+land.''
+
+A small, wry chuckle escapes her. ``Sparky did mention seeing tentacles
+in the water, though. Said they smelled bad\ldots{} like farts.''
+
+A collective sigh escapes the crew, a shared breath of weary
+disappointment. Hope is a fragile commodity here. The Remorhaz creeps
+onward, the search continuing within the fog's suffocating embrace.
+
+The galley bustles with activity, Chef Ingrid impressed with our tale of
+the giant squid, her moon-and-rune amulet glinting in the lamplight.
+Despite the chaos, a sense of camaraderie pulses through the ship as the
+crew gathers--- survivors and newcomers alike.
+
+Kragor, brow furrowed, leans towards the wizard Bret, peppering him with
+questions. Bret, clearly burdened by secrets, folds his hands
+cautiously. ``I am bound by oaths,'' he states, his tone careful, ``to
+maintain discretion regarding my objectives within Eiselcross.'' His
+eyes dart around the galley.
+
+Kragor persists. ``But passage to Icehaven? You mentioned tidings of
+utmost import. Surely, some details for fellow adventurers?''
+
+Bret sighs, shoulders slumping. ``We uncovered valuable information and
+encountered\ldots{} Aeorian constructs in the wastes. It is vital that I
+reach Icehaven. And soon.''
+
+``Seen any gold vials?'' Kragor pushes, relentless.
+
+Bret's face remains impassive. ``The antidote for the Frigid Woe?
+No.~Fortunately, we did not encounter that dreadful affliction.''
+
+Sensing the rising tension, Elara raises her glass with a bright smile.
+``To new beginnings,'' she declares, her voice ringing with cheer, ``and
+to surviving giant squids!''
+
+Laughter erupts, instantly easing the weight of suspicion. The crew
+celebrates, reveling in their shared survival. Though fog still clings
+thick to the Remorhaz outside, a warmth begins to bloom within the ship,
+where adventurers share a meal among friends.
+
+Below decks, Ingrid's promised feast wafts upwards--- smoked fish and
+steaming bread, a comforting aroma cutting through the lingering brine
+and stench left by their monstrous assailant. The three shipwreck
+survivors--- Gerhard, Rorik, and Bret--- are formally integrated into
+the temporary community forged by shared peril. Gerhard still looks
+stunned, his eyes periodically flicking towards the deck as if expecting
+the shattered Frostfang to reappear from the mist. Rorik, barely a man
+in years, sticks close, while Bret, the wizard, observes the adventurers
+with guarded curiosity.
+
+Scarlet approaches Gerhard, her expression sympathetic but gaze direct.
+``Gerhard, you said your family sailed these waters long? Your family
+name?''
+
+He pulls his attention from the grey void beyond the porthole.
+``Eisner,'' he replies, rubbing a hand over his burgeoning beard. ``Of
+Icehaven. Fishermen for generations. Crabs, mostly. That boat\ldots{}
+she was everything.'' He gestures vaguely towards Rorik. ``My life, his
+livelihood\ldots{} gone.'' He sighs, a plume of condensation in the cool
+air. ``We'd only recently started ferrying passengers. Trying a new way.
+Bret here offered good coin.''
+
+``Is there somewhere\ldots{} we might rest?'' Gerhard asks, looking
+towards Captain Stonebeard, who surveys the gathered company, his face
+grim but resolute.
+
+``Aye,'' Stonebeard nods curtly. ``Bunks enough. You earned your
+place.''
+
+As the survivors find spots at the galley table, laden with Ingrid's
+platters, conversation turns to the adventurers' quest. Halite, Kragor,
+and Elara briefly explain their mission: the Frigid Woe spreading from
+Palebank Village, stolen Aeorian artifacts, Hulil's desperation, and
+their current journey to Eiselcross seeking the cure Elro described---
+the milky liquid in golden vials. Gerhard and Rorik listen intently,
+their own recent brush with death making the tale resonate deeply. Bret
+listens too, his face impassive, betraying nothing.
+
+Mera, the navigator, consults her charts, brow furrowed. ``With this fog
+and the delay\ldots{} we lost time,'' she announces. ``But if the
+weather clears, we could reach Syrinlya by tomorrow afternoon.''
+
+A collective sigh ripples through the crew. Landfall is close.
+
+Dinner is subdued, a recounting of the battle punctuated by shared
+relief. Later, mugs refilled, Elara retrieves her harp. Small against
+the vast, fog-bound sea, the instrument sings under her fingers, a
+melody of quiet longing and resilient hope filling the galley. The notes
+hang, fragile beauty against their harsh reality. Even Bret seems
+softened, gaze distant. When the song ends, respectful silence yields to
+appreciative murmurs.
+
+As evening deepens, the ship's routine returns. Watches are assigned:
+Scarlet first, senses alert to wind and timber, Sparky a silent,
+feathered presence beside her. Whisper follows, melting into deck
+shadows, eyes piercing the gloom. Gerhard takes the third watch,
+grateful for the normalcy. Captain Stonebeard joins him near the helm,
+leaning on the rail, fog swirling like ghosts.
+
+``Sorry about your vessel, Gerhard,'' Stonebeard says, voice low. ``Hard
+thing, losing your ship.''
+
+Gerhard nods, staring into the white abyss. ``Aye. Good boat. Fast. Grew
+up on her. Dad taught me fishing there.'' He pauses. ``Good thing I have
+insurance.''
+
+Stonebeard raises an eyebrow. ``Insurance?''
+
+``Aye. Have you never found a wizard willing to take a few gold a month
+against the value of your hull? Got a good rate from an Empire fellow.
+If she sinks, he buys me a new one. Family's done it a long time.'' He
+shrugs. ``Still\ldots{} devastating. But we're not bankrupt.''
+
+Stonebeard grunts, filing the information away. ``Boats are expensive.
+Taken many voyages myself.'' He shifts his weight. ``Given the
+circumstances, saving your lives, there's no charge for passage to
+Palebank Village.''
+
+Gerhard turns, surprise, perhaps offense, flickering in his eyes. ``No
+charge? Captain, with respect, that's naval etiquette. Rescued souls
+aren't passengers for fare.''
+
+Stonebeard meets his gaze steadily. ``My apologies. Correct, of course.
+Force of habit.'' He sighs wearily. ``Long few days.'' He gestures
+vaguely below deck towards where Bret presumably sleeps. ``That
+squid\ldots{} seemed focused. Like it was after your passenger.''
+
+Gerhard shivers, though perhaps not entirely from the cold. ``Never seen
+the like. Thirty years sailing these waters. Seen krakens, sure. But
+never one going after a ship, after someone, like that. Not even for a
+hold full of my crabs.''
+
+The two captains stand silent awhile, solitary figures keeping vigil
+against the vast, uncaring sea and spectral fog.
+
+Elara takes the fourth watch, relieving Gerhard. Settling near the bow,
+harp resting beside her, she resolves to stay alert, but the battle, the
+song, the journey's weight\ldots{} it all presses down. The rhythmic
+slap of waves against the hull becomes a lullaby. Her eyelids grow
+heavy. One moment she scans the impenetrable white wall ahead; the
+next\ldots{}
+
+She jerks awake with a start. Grey dawn light filters through thinning
+fog. Guilt floods her--- she slept. Heart pounding, she scrambles up,
+frantically scanning the deck, the sea. Nothing. No alarms, no
+disturbances. The Remorhaz sails on, undisturbed. Relief wars with
+embarrassment; apparently, the Frigid Depths granted her unguarded
+peace.
+
+As the morning progresses, the pale sun burns away the fog. By noon,
+visibility stretches for ten miles across choppy, grey-green waves under
+a brightening sky. And there, rising from the sea to the south, is the
+unmistakable shape of land--- jagged, snow-dusted peaks against the
+horizon.
+
+A shout goes up from the crow's nest, echoed by murmurs on deck. Captain
+Stonebeard strides to the railing, squinting. A rare grin splits his
+beard. ``Ah, Kaltsel to the south!'' After a brief conference with the
+navigator, he adds ``Mera puts us two hours out from Syrinlya!'' He
+turns, voice booming across the deck, energized. ``Alright, you lot!
+Look alive! Pack your gear and prepare for landfall! The Frigid Depths
+haven't beaten us yet!''
+
+The salt spray now freezes almost instantly upon hitting the deck. Since
+leaving Palebank Village, the world has steadily bled color and warmth,
+surrendering to an encroaching reign of ice. The air bites with a
+ferocity that makes the fog-chilled waters seem almost temperate by
+comparison. Under the finally clear, brittle sky, the Remorhaz glides
+towards a coastline that looks like the jagged teeth of some immense,
+frost-covered beast, its peaks clawing at the sky.
+
+Mera's calculations prove precise. As the sun begins its slow descent,
+casting long, pale shadows across the waves, the ramshackle outpost of
+Syrinlya comes into view. It's less a town and more a temporary scar
+upon the landscape--- a sprawling camp of fur-lined yurts huddled
+against the relentless wind, smoke whipping horizontally from their
+capped peaks. Figures bundled against the cold--- mostly dwarves and
+elves, judging by their builds--- move between the structures.
+
+Stonebeard brings the Remorhaz expertly alongside a crude dock fashioned
+from timber and ice. ``Alright, Syrinlya!'' he bellows, his voice
+carrying over the wind's howl. ``We'll unload cargo, then take on
+whatever's heading back south. We depart for Palebank Village in three
+days. Plenty of time for you lot to find your contact.'' He gives a curt
+nod to the adventurers. ``Mind the ice.''
+
+\section{Syrinlya}\label{syrinlya}
+
+The wind assaults the party as they step onto frozen ground, driving
+needles of snow into exposed skin. Kragor pulls his cloak tighter,
+muttering about unnatural cold. A stout, weathered dwarf woman with a
+wild mane of shaggy grey hair approaches, stamping heavily booted feet.
+
+``Morgo Delwur, at yer service!'' she declares, her voice rasping
+through the gale. ``Heard you were comin'. Lookin' for Orvo Mustave?''
+She gestures vaguely inland. ``His yurt's over there. And the Buyer?''
+She points to a larger, well-maintained yurt. ``That's his place.
+Fancy.''
+
+She sweeps an arm around the disparate groups of adventurers milling
+about near sputtering fires. ``Everyone's here for the same thing, eh?
+Aeorian treasure. Big risks, big rewards\ldots{} or just frozen toes.''
+
+Halite asks, ``Can you point us towards provisions? Snowshoes,
+perhaps?''
+
+Morgo nods. ``Aye, plenty o' folk lookin' to sell you gear. Some make
+more coin tradin' than diggin'. Follow me.'' She leads them through the
+camp to another large, fur-lined yurt. ``You can bunk here. Belonged to
+some rich elf lordling. Came lookin' for adventure, poor sod. Got
+himself eaten by a sabre-tooth tiger his first day out.''
+
+Scarlet's eyes widen. ``In the yurt?!''
+
+``Gods, no, lass!'' Morgo barks a laugh. ``We don't let the big cats
+wander camp! Nah, he went out, didn't listen to his guides. They found
+his boots and\ldots{} well, not much else. His loss, your gain.''
+
+Inside, the yurt is surprisingly spacious and less frigid. A stone fire
+pit sits centrally; thick, fur-lined hammocks hang from sturdy poles.
+``Right then,'' Scarlet steps to the pit, whispers an incantation. A
+small flame springs to life, instantly pushing back the chill.
+
+Gerhard, utterly lost and overwhelmed, drifts away from the nascent fire
+, staring blankly at a fur-lined wall. Elara approaches the bereaved
+captain. ``Gerhard,'' she says softly, her voice warm despite the chill.
+``It's\ldots{} a lot to take in. But you're safe now.''
+
+Scarlet steps closer to the crackling flames. ``She's right. You
+survived something terrible. You're stronger than you think. And you're
+welcome here.''
+
+He manages a weak, haunted smile. ``Thank you\ldots{} my boat\ldots{}
+everything\ldots{}'' Rubbing his face, he trails off. ``I\ldots{} I
+think I need rest.'' He finds an unoccupied hammock and climbs in,
+pulling a fur blanket over himself.
+
+While Gerhard settles, Kragor spots an open wooden crate. Curiosity
+piqued, he investigates. Inside lies a trove: weeks of trail rations,
+fifty feet of fine silk rope, a thick woolen blanket, another grappling
+hook, a sturdy miner's pick, and, tucked beneath it all, a small,
+leather-bound book.
+
+Kragor picks it up. The gold-leaf title reads: ``Adventure Sexy: Impress
+Potential Lovers with Great Deeds'', by Scanlan Shorthalt.
+
+He grunts, holding it aloft. ``Looks like our elf wasn't just after
+treasure.''
+
+Elara peers at it. ``Oh, Scanlan again. So popular\ldots{} I'll have a
+following like that someday.'' She winks.
+
+Whisper sniffs disdainfully. ``More useful than poetry, perhaps,'' she
+eyes the silk rope with interest.
+
+``Miner's pick?'' Halite rumbles, taking the tool from the crate and
+testing its weight. ``Could be useful.''
+
+Morgo nods at the fire. ``Right then. Shelter's sorted. Provisions are
+sold near The Buyer's place. Meself, I'll be heading on an expedition
+west tomorrow.'' She cracks her knuckles. ``Any final questions?''
+
+``Thank you for your hospitality, Morgo,'' Halite says with a respectful
+nod.
+
+``Aye, thanks for the yurt,'' Kragor adds, tossing the Scanlan Shorthalt
+book dismissively into its crate. Elara quickly retrieves it with a
+thoughtful hum.
+
+Morgo gives them a final nod. ``Stay warm. Stay sharp. Don't get
+eaten.'' She turns and vanishes into the swirling snow.
+
+Inside the yurt, the fire crackles against the wind's mournful
+Eiselcross howl. It's late afternoon, their fifth day since leaving
+Palebank Village. Syrinlya is harsh, potentially deadly, but they have
+shelter, supplies, and a lead.
+
+\section{Orvo}\label{orvo}
+
+``Alright,'' Halite says, hefting the miner's pick. ``Let's find this
+Orvo Mustave. Then we'll see about snowshoes and other provisions.''
+
+Whisper interjects, ``It's getting late. Best split up: some get
+supplies, others find Orvo.''
+
+They agree. Whisper, Scarlet, and Doctor Pepe head for the provision
+yurts near The Buyer's large dwelling, the spot Morgo indicated. Wind
+tugs their cloaks as they navigate snow-dusted paths between structures.
+
+Meanwhile, Kragor, Halite, Elara, and a subdued Gerhard seek Orvo
+Mustave's yurt. They find it slightly apart, smaller than theirs, smoke
+rising bravely against the grey sky. Before it, a modest campfire
+struggles against the cold. A young dwarf sits beside the flames,
+shortsword across his lap. His dark, relatively short beard frames a
+face marked by a prominent scar--- three ragged lines, like a claw mark
+dragged across his cheek. He looks up as they approach, warming his
+hands.
+
+``Oh, hey,'' he calls out, his voice rough but friendly enough. ``How
+y'all doing?''
+
+Halite steps forward, his bulk casting a long shadow in the afternoon
+light. ``Well met. We seek Orvo Mustave. Elro of the Glassblades sent us
+from Palebank Village.''
+
+The dwarf nods, pushing himself up slightly from his resting spot. ``I'm
+Orvo. Elro sent word you'd be coming. Heard you came with the
+Remorhaz.'' He squints at the disparate group before him. ``Quite the
+collection. Where are you folks from?''
+
+Kragor pulls his cloak tighter against the wind whipping off the ice.
+``Bladegarden.''
+
+Orvo whistles softly. ``Bladegarden? Long way. Caught between the Empire
+and the Dynasty there, eh?''
+
+Halite gestures vaguely south. ``The Menagerie Coast is my home.''
+
+``Ah, the Menagerie,'' Orvo nods. ``Heard it's warmer.'' He turns his
+gaze to Elara, who beams, her celestial heritage almost palpable even
+bundled in furs. ``And you, lass?''
+
+Elara steps forward, eyes sparkling like distant stars. ``Me? Oh, I'm
+from the stars! Just landed here recently.''
+
+Orvo blinks, then chuckles, a low rumble in his chest. ``From the stars,
+eh? Okay then. That's\ldots{} different. Welcome to Syrinlya,
+Star-Lass.'' His gaze shifts to Gerhard, who seems braced for the
+attention.
+
+Gerhard clears his throat, his voice quiet, almost rough from disuse or
+emotion. ``Gerhard Eisner. My family\ldots{} we're from the Greying
+Wildlands, north of the Empire. We\ldots{} fished these waters.
+Generations of us.'' He gestures vaguely out towards the frozen sea, his
+expression momentarily shadowed by unspoken loss.
+
+Orvo nods slowly, his expression softening with understanding. ``Greying
+Wildlands? Know the coast. Tough folk live up there. And fishing these
+waters\ldots{} takes grit.'' Sensing Gerhard's recent hardship, he
+doesn't press, turning back to the group. ``Well, welcome to Syrinlya.
+You all came a long way. What can I do for you? Elro's message just said
+you were looking for something.''
+
+Elara clasps her hands together. ``We are on a quest! A most urgent one.
+We seek\ldots{} a cure! A milky liquid, held within vials of gold. Have
+you seen such wonders?''
+
+Orvo scratches his scarred cheek, looking genuinely puzzled. ``Gold
+vials? Milky liquid? Can't say I have. Sounds fancy.''
+
+``Familiar with the Frigid Woe?'' Halite asks directly, his tone sharp.
+``The freezing sickness?''
+
+Orvo's expression darkens. ``Aye. Nasty business. Came across
+the\ldots{} source material\ldots{} out with Urgon.'' He pauses, brow
+furrowed. ``Wait, you know Urgon? My buddy?''
+
+Kragor steps forward, switching smoothly to Dwarvish, his voice low and
+somber. ``Orvo\ldots{} we have bad news about Urgon.''
+
+Orvo's eyes widen slightly. ``Bad news? What\ldots{} what happened?''
+
+``He contracted the Frigid Woe,'' Kragor states plainly. ``From one of
+the blue vials you recovered. He\ldots{} did not survive. Died back in
+Palebank Village.''
+
+The dwarf stares, comprehension dawning slowly. His gaze drops to the
+struggling fire; he kicks absently at a chunk of ice near his boot.
+``Ah, hells. Urgon\ldots{}'' He shakes his head, the movement sluggish
+with disbelief. ``Damn it. Knew that stuff was dangerous. He\ldots{}
+could be a real jerk, but\ldots{} he was my mate.'' Looking up, grief
+and anger cloud his eyes. He switches back to Common, his voice thick.
+``That bloody sickness. Did\ldots{} did you handle those blue vials?''
+
+``We secured the ones Hulil Lutan had,'' Halite confirms. ``She got them
+from Urgon, it seems. Did you keep any?''
+
+Orvo shakes his head again. ``Nah. Sold my share to The Buyer right
+after the dig. Needed coin. Told Urgon to be careful.'' He sighs, a
+ragged sound. ``So the cure\ldots{} the gold vials you're after\ldots{}
+you think they're out where we found the blue ones?''
+
+``Elro believes so,'' Elara confirms urgently. ``Where did you find
+them, Orvo? People are still sick back in Palebank Village.''
+
+``Right, right.'' Orvo gathers his thoughts. ``The place is called
+Salsvault.'' He gestures northwest. ``About two hundred miles that way,
+in the Thin Sheets. The ice there gets treacherous, shifting. The ruin
+itself is\ldots{} odd. Better shape than most. Feels like something's
+holding it together, maybe magic from the city's fall.''
+
+``Two hundred miles?'' Kragor's brow creases as he calculates. ``How
+long does that take?''
+
+``Depends on your pace,'' Orvo replies. ``Normal speed, maybe eight or
+nine days--- twenty-four miles a day, give or take. Push it to thirty,
+but you risk exhaustion. Or slow it down, safer at eighteen miles a day,
+easier to spot trouble.'' He rubs his hands near the fire. ``Trouble
+like the Ice Mephits. Elemental pests drawn to the magic keeping the
+place intact.''
+
+``Mephits?'' Elara asks, intrigued. ``Are they aggressive?''
+
+``Oh aye,'' Orvo nods grimly. ``Saw a few lurking outside. We thought we
+were clever sneaking past them. The real trouble was inside. Looked like
+a lab. We barely made it into the third chamber before these animated
+suits of armor came alive and chased us out. Not as big as you,'' he
+glances at Halite, ``but still big enough. We snatched what we could---
+the vials and a few other bits--- and didn't look back.''
+
+``So you didn't find any gold vials?'' Halite presses.
+
+``Nah. Didn't know what the blue ones held then, just that they seemed
+valuable.'' Orvo sighs, regret heavy in his voice. ``Poor Urgon. If I'd
+known\ldots{}''
+
+``Is there no faster way to Salsvault?'' Kragor asks. ``Horses? Sled
+dogs?''
+
+Orvo snorts. ``Horses? They'd freeze or break a leg in an hour. Dogs,
+maybe, if you find a trained team willing to risk it. Most folks stick
+to snowshoes. Best bet, really.''
+
+``Where can we acquire those?'' Halite asks.
+
+``No proper shops here,'' Orvo confirms. ``It's all trade and salvage.
+Folks pick gear off expeditions that\ldots{} don't come back complete.
+Try asking around near The Buyer's yurt. Fellow named Javel, might have
+some. Three yurts over from the big one, towards the ice cliffs. But
+expect to pay. Supply and demand, eh? Probably run you two gold a pair,
+maybe more if he thinks you're desperate.''
+
+As Orvo finishes speaking, the rest of the party approaches, emerging
+from the maze of yurts. Scarlet brushes snow from her cloak, Whisper
+moves with silent steps, and Doctor Pepe offers a curt nod.
+
+``We struck out on supplies,'' Scarlet admits reluctantly. ``However!''
+she holds up a small, grease-stained paper bag. ``Scones. Apparently,
+someone here bakes.''
+
+Doctor Pepe eyes the bag. ``Are they gluten-free?''
+
+``They're squid-based,'' Whisper announces, her voice flat but her eyes
+betraying an eagerness to try them.
+
+Orvo looks between the two groups, then back towards the bleak, frozen
+wilderness stretching away to the northwest. ``Right then. Looks like
+you're all set to talk gear. Salsvault ain't goin' anywhere. But those
+suits of armor\ldots{} watch yourselves. They freaked me right out.'' He
+gives them a final, weary nod. ``Good luck. Hope you find what you're
+lookin' for. For Urgon's sake, too.''
+
+The wind howls a dirge through Syrinlya's haphazard sprawl of yurts as
+the reunited party stands outside Orvo Mustave's modest dwelling. The
+dwarf offers a weary nod before retreating to the warmth of his fire,
+leaving the adventurers to the biting cold. Snow swirls around their
+boots, stinging exposed cheeks.
+
+\section{Javel}\label{javel}
+
+``Right,'' Halite rumbles. ``Snowshoes. Orvo mentioned a trader named
+Javel, three yurts over from The Buyer's place.''
+
+Whisper nods, her tail twitching beneath her cloak. ``Near the ice
+cliffs. Let's not waste time.''
+
+They trudge through the deepening snow, the crunch of their boots
+muffled by the wind. Bundled figures pass by, faces obscured by scarves,
+gazes cast downward against the elements. The air smells sharp and cold.
+Gerhard follows silently, haunted by memories of his lost ship.
+
+Following Orvo's directions, they locate the specified yurt---a larger
+structure with smoke curling from its central vent. A rough-hewn sign
+hangs beside the entrance, depicting a crossed pickaxe and snowshoe.
+
+Elara, ever the diplomat, pushes the flap aside and steps inside, the
+others close behind. The immediate change is palpable; the wind's roar
+diminishes, and though the air is cold, it lacks the vicious bite of
+outside. The interior is cluttered yet organized, filled with furs,
+ropes, and adventuring gear. Near a sputtering fire pit sits a dwarf so
+ancient his braided beard pools around his feet. He looks up, watery
+eyes blinking in the gloom, and lets out a series of rattling coughs.
+
+``Good day, Master Dwarf! I've heard good things about your shop.''
+Elara chirps, her voice bright in the dim, smoky yurt. She steps
+forward, radiating warmth despite the chill. The old dwarf squints at
+her.
+
+``Eh? What's this now?'' he rasps. ``Well now\ldots{} yer a sight. What
+in the Nine Hells are ya? Is that\ldots{} a horn on yer head?''
+
+Elara smiles, a dimple appearing in her cheek. ``Some say it's horny.''
+
+The dwarf lets out a wheezing cough that could be a chuckle. ``Heh. What
+can I do for ya?''
+
+``We're new here,'' Elara says, pulling a small, worn leather-bound book
+from her pack. ``Hoping you might help us. By the way, your cough sounds
+dreadful. I don't have any herbs, but I find this book helps
+during\ldots{} downtime.'' She offers it to him.
+
+The dwarf's eyes widen slightly as he takes the book with a trembling
+hand. ``Tusk Love? Gods\ldots{} have ya read Chapter Three?''
+
+``Oh, it was so good,'' Elara gushes, clasping her hands. ``The size of
+those hands! And the tentacles! My horn was horny when I read that
+chapter!''
+
+``Aye!'' The dwarf nods vigorously, another cough rattling him. ``Best
+thing to read when yer laid up. Just lay back and read Tusk Love.'' He
+sets the book aside and pulls out a long pipe, tamping something into
+the bowl. ``A woman after me own heart. So, what brings this fine
+company to ol' Javel's Emporium? I'd guess me boyish good looks, or yer
+lookin' for gear.''
+
+``Well,'' Elara leans in conspiratorially, ``we definitely noticed the
+boyish good looks.''
+
+``Ho ho!'' Javel chuckles, a sound like rocks tumbling. ``Yer not wrong
+there! But I suspect gear's the main order o' business. What do ye need?
+Snowshoes?''
+
+``Indeed,'' Halite confirms. ``Seven pairs. We're on an urgent
+mission---to stop a\ldots{} popsicle sickness.''
+
+Javel raises an eyebrow. ``Popsicle sickness? Ah, the Frigid Woe. Nasty
+business. Commendable you want to stop it.'' He studies the party.
+``Goliath, Tabaxi, Orc, Halfling\ldots{} you lot come in all shapes, eh?
+Let me see what I got.'' With a groan, he rises, his beard trailing the
+packed-earth floor, and disappears into the shadows of the yurt.
+
+They hear him muttering, coughing, and the unmistakable shuffle of gear,
+occasionally interrupted by a clatter and a dwarven curse. Halite shifts
+his weight, scanning the yurt's contents. His thoughts drift beyond the
+immediate dangers of Salsvault--- Eiselcross, Aeor\ldots{} ancient
+magic, lost knowledge. Perhaps there are secrets here beyond just a
+cure. A seed of ambition takes root: survive this, find the cure, yes,
+but also learn. Bring back more than just stories to his people.
+
+Javel reappears, dragging several pairs of snowshoes. ``Right then. Got
+yer sizes, I reckon.'' He sorts through them. ``Goliath\ldots{} these'll
+do.'' He tosses a large pair towards Halite. ``Orc, Tabaxi, the rest of
+ya. Oh and erm, Halfling\ldots{}'' He pauses, holding up a pair stained
+dark red. He glances at Scarlet. ``Yours\ldots{} uh\ldots{} well,
+they're red. Ignore that.''
+
+He piles the seven pairs together. ``Normally, fifteen gold for the lot.
+But\ldots{} I like yer horn, lass. And yer taste in literature.'' He
+winks at Elara. ``Twelve gold pieces for the lot. That's like getting
+three pairs free, considerin' the goliath tax.''
+
+``How about ten gold?'' Elara counters smoothly. ``Chapter Eight was
+quite illuminating. Those pixies! Glitter me, that's all I have to
+say.''
+
+Javel strokes his beard, considering. Elara beams hopefully. He shakes
+his head. ``Twelve's fair. But\ldots{} seein' as yer on a noble
+quest\ldots{}'' He rummages behind a pile of furs. ``I'll throw in these
+four ice hammers.'' He produces sturdy climbing hammers. ``Whole
+lot---seven pairs o' shoes, four hammers---thirteen gold pieces. Final
+offer. Won't find better in Syrinlya, guaranteed.''
+
+Scarlet steps closer, eyeing the red snowshoes Javel set aside. In
+Dwarvish, she asks, ``Why are they red?''
+
+Javel leans in, lowering his voice. ``Ah. Pre-owned, ye see. Prime
+condition, but\ldots{} belonged to a halfling.''
+
+``And the color?'' Kragor interjects.
+
+Javel glances at the yurt flap, conspiratorial. ``Keep yer eyes open for
+Yetis out there.''
+
+``Are they partial to halflings?'' Scarlet asks dryly.
+
+``Depends how hungry they are,'' Javel grunts. ``But the red\ldots{}
+aye. That's bloodstain. Couldn't quite scrub it all out.''
+
+Nearby, Gerhard catches the gist despite the language barrier and
+murmurs to Halite, ``Sounds like a Yeti ate the last owner.''
+
+Scarlet inspects the snowshoes more closely. Years of reading nature's
+signs allow her to identify the stains with chilling certainty. It's old
+blood, soaked deep into the hide. She wrinkles her nose but nods.
+``They'll do. Thirteen gold.''
+
+As the party pools their coins, Javel grunts with satisfaction, tucking
+the gold into a pouch. ``Pleasure doin' business with ya.'' He reaches
+under some furs and pulls out a dusty bottle of amber liquid. ``And
+before ye go\ldots{} welcome to Syrinlya.'' He hands it to Elara. ``On
+the house. Sandkeg's High. Not the fancy stuff, but it'll warm yer
+bones.''
+
+``Why thank you, generous soul!'' Elara replies, taking the whiskey.
+
+``Right then,'' Kragor says, eyeing the bottle. ``After fighting a giant
+squid and learning we're facing an eight-day trek through Yeti
+territory, I think a drink's in order.''
+
+``Agreed,'' Halite nods. ``Let's head back to the yurt. We need to
+plan.''
+
+They thank Javel and step out into the relentless wind, clutching their
+new gear. The evening sky darkens, the cold deepening as the prospect of
+their journey looms large. Back at the elf-lord's abandoned yurt, with
+Gerhard huddled miserably in a hammock and the whiskey making the
+rounds, they face the stark reality of Eiselcross. They have gear and a
+destination, but the path ahead is long, cold, and fraught with unknown
+perils.
+
 \chapter{Appendix A --- Party
 Inventory}\label{appendix-a-party-inventory}
 
-\begin{DndTable}[header=Purses]{Xrrrr}
-\textbf{Who} & \textbf{GP} & \textbf{EP} & \textbf{SP} & \textbf{CP} \\
-Doctor Pepe & 147 & 3 & 50 & 72 \\
-Elara & 141 & 3 & 51 & 72 \\
-Halite & 304 & 3 & 26 & 72 \\
-Kragor & 119 & 3 & 41 & 72 \\
-Scarlet & 148 & 3 & 41 & 72 \\
-Whisper & 145 & 3 & 47 & 76
+\begin{DndTable}[header=Purse]{Xr}
+\textbf{Currency} & \textbf{Amount} \\
+Gold & 1,004 \\
+Electrum & 18 \\
+Silver & 166 \\
+Copper & 36
 \end{DndTable}
 
 \begin{DndTable}[header=Inventory Adjustments]{XX}
 \textbf{Who} & \textbf{What} \\
-Doctor Pepe & Scimitar \\
-Doctor Pepe & Olive drab deerstalker \\
 Doctor Pepe & 130 crossbow bolts \\
 Doctor Pepe & Aeorian Dagger, +1 \\
 Doctor Pepe & Cook’s utensils \\
-Elara & 100 arrows \\
-Elara & 30 Arrows, +1 \\
-Halite & 3 javelins \\
-Halite & Crystal arcane focus item \\
-Halite & Journal of Hulil Lutan \\
-Halite & Cooking utensils \\
-Kragor & Brass oil lamp (~ 1sp) \\
-Kragor & Cooking utensils \\
-Whisper & Quarterstaff \\
-Scarlet & Scimitar \\
-Scarlet & Grappling hook
+Doctor Pepe & Grappling hook \\
+Doctor Pepe & Ice hammer \\
+Doctor Pepe & Olive drab deerstalker \\
+Doctor Pepe & Snowshoes \\
+Gerhard & Ice hammer \\
+Gerhard & Snowshoes \\
+Halite & Cook’s utensils \\
+Halite & Miner’s Pick \\
+Halite & Snowshoes \\
+Halite & one javelin lost while fighting squid \\
+Scarlet & Snowshoes \\
+Whisper & 50 feet of silk rope \\
+Whisper & Ice hammer \\
+Whisper & Snowshoes \\
+Whisper & one javelin lost while fighting squid
 \end{DndTable}
 
 \begin{DndTable}[header=Equipment]{rX}
@@ -2175,16 +3113,29 @@ Scarlet & Grappling hook
 1 & Bottle of Bald Dwarf \\
 1 & Gilded Scroll Case \\
 1 & Jade Statuette of a Storm Giant \\
-1 & Silver Ring (~ 50gp) \\
+1 & Journal of Hulil Lutan \\
+1 & Silver Ring (50gp) \\
 2 & Potions of Healing \\
-1 & month of provisions
+3 & months of provisions
 \end{DndTable}
 
-\DndItemHeader{Arrows, +1}{Weapon, uncommon}
+\vfill\break
 
-You have a +1 bonus to attack and damage rolls made with this piece of
-magic ammunition. Once it hits a target, the ammunition is no longer
-magical.
+\DndItemHeader{Adventure Sexy}{Book, uncommon}
+
+Penned by the illustrious, if not always entirely humble, bard Scanlan
+Shorthalt, this exquisite leather-bound tome with its full title
+``Adventure Sexy: Impress Potential Lovers with Great Deeds'' emblazoned
+in glittering gold leaf is less a guide to genuine heroism and more a
+compendium of dramatically (and often exaggerated) retold exploits,
+carefully curated for maximum romantic appeal.
+
+While it contains questionable advice on actual adventuring, ``Adventure
+Sexy'' is filled with Scanlan's unique brand of bravado, wit, and
+selective memory, offering numerous examples of how to creatively (and
+sometimes stretching the truth) present one's deeds to potential
+romantic interests. It's more a testament to Scanlan's ego and
+showmanship than a source of arcane power.
 
 \DndItemHeader{Aeorian Dagger, +1}{Weapon, uncommon}
 
@@ -2203,6 +3154,12 @@ you must have a feature that lets you use it.
 property, you can make it as part of the Attack action instead of as a
 Bonus Action. You can make this extra attack only once per turn.
 
+\DndItemHeader{Arrows, +1}{Weapon, uncommon}
+
+You have a +1 bonus to attack and damage rolls made with this piece of
+magic ammunition. Once it hits a target, the ammunition is no longer
+magical.
+
 \DndItemHeader{Bald Dwarf Whisky}{Consumable, uncommon}
 
 An Uthodurnian specialty spirit, with an estimated value of 25 gp.
@@ -2213,6 +3170,29 @@ A finely crafted mahogany container adorned with gold filigree and
 inlaid gemstones, providing both beauty and protection for the scrolls
 inside. It features runes that offer magical safeguarding against
 damage, making it ideal for keeping valuable parchments secure.
+
+\DndItemHeader{Ice Hammer}{Gear}
+
+A specialized tool for navigating treacherous icy and snowy
+environments, an ice hammer features a sharp pick on one side of its
+head and a hammer on the other, mounted on a sturdy haft, with a looped
+cord for securing to the wrist. It is primarily used for cutting into
+ice to create handholds or anchor points, and for balance.
+
+\textbf{Climbing.} When you are climbing on ice or snow and are using an
+ice hammer in one or both hands, you can use your reaction when you
+would fall to attempt a DC 10 Strength (Athletics) check to stop your
+fall. On a success, your fall is arrested, and you remain clinging to
+the surface.
+
+An ice hammer provides advantage on Strength (Athletics) checks made to
+climb surfaces of ice or packed snow that offer suitable purchase for
+the pick.
+
+\textbf{Ice breaking.} An ice hammer can also be used to break through
+thin ice. You can use an action to strike a surface of ice. For every
+inch of ice thickness, this requires a successful DC 10 Strength check.
+On a success, you break through up to 1 inch of ice.
 
 \DndItemHeader{Jade Statuette of a Storm Giant}{Miscellaneous}
 
@@ -2228,7 +3208,7 @@ related to storms.
 
 \DndItemHeader{Silver Ring}{Jewelry}
 
-A silver ring with an inset jasper stone.
+A silver ring with an inset jasper stone, valued at 50 gold pieces.
 
 \DndItemHeader{Hulil’s Journal}{Book, common}
 
@@ -2242,105 +3222,230 @@ Personae}\label{appendix-b-dramatis-personae}
 \def\labelenumi{\arabic{enumi}.}
 \item
   \textbf{Adventurers}: The primary group consisting of Elara, Halite,
-  Kragor, Scarlet, Whisper, and Doctor Pepe. Brought together by the
-  shared quest to unravel the mystery of a curse tied to Aeorian
-  artifacts.
+  Kragor, Scarlet, Whisper,Doctor Pepe, and--- more recently--- Gehard.
+  Brought together by the shared quest to unravel the mystery of the
+  Frigid Woe, they have journeyed from Palebank Village to the icy
+  shores of Eiselcross aboard the \emph{Remorhaz}. Each member is
+  undergoing personal growth, honing their unique skills and deepening
+  their bonds through shared adversity and unexpected moments of
+  camaraderie (and cooking lessons).
 \item
-  \textbf{Arl Bortock}: A jovial dwarf who tends bar in the local tavern
-  and interacts with the adventurers, providing them with refreshments
-  and useful local insights.
+  \textbf{Arl Bortock}: A jovial dwarf who tends bar at the \emph{Jolly
+  Dwarf} in Palebank Village. He provides the adventurers with lodging,
+  refreshments, local insights, and identifies the Liel-Tethwick family.
+  He later promises a thorough cleaning of his inn upon learning of
+  potential contamination.
 \item
-  \textbf{Bandits (Croaker Cave)}: Another group working under Hulil,
-  tasked with defending the cave. They confront the adventurers as they
-  delve deeper into the cave's secrets.
+  \textbf{Bandits (Croaker Cave)}: Followers of Hulil Lutan, tasked with
+  defending her operations within Croaker Cave. They battled the
+  adventurers, resulting in casualties and one captured dwarf
+  (associated with the Uttolot family) who provided intelligence before
+  being knocked out.
 \item
-  \textbf{Bandits (Pelc's Curiosities)}: Followers of Hulil, breaking
-  into Pelc's Curiosities searching for clues about the curse. They
-  engage with the adventurers in combat but surrender after defeat.
+  \textbf{Bandits (Pelc's Curiosities)}: Followers of Hulil Lutan,
+  encountered ransacking the shop searching for clues to cure Hulil's
+  Frigid Woe. They engaged the adventurers in combat but surrendered
+  after several were defeated, revealing Hulil's location and
+  affliction.
 \item
-  \textbf{Bill}: A Glassblade, providing warnings at the tavern about
-  the dangers associated with the curse impacting Urgon and Tulgi.
+  \textbf{Bill}: A Glassblade in Palebank Village, encountered at the
+  \emph{Jolly Dwarf}, providing warnings about the dangers of the Frigid
+  Woe and the port closure.
 \item
-  \textbf{Doctor Pepe}: Originally a rogue observing the adventurers
-  stealthily, he reveals his true intent and aligns with them,
-  contributing with his investigative prowess.
+  \textbf{Bret}: A human wizard and member of the Cerberus Assembly,
+  rescued by the \emph{Remorhaz} the \emph{Frostfang}, on which he had
+  purchased passage, was destroyed by a giant squid. He was travelling
+  as a passenger under Captain Gerhard Eisner and seeks urgent passage
+  to Icehaven in Eiselcross, carrying vital news about Aeorian
+  constructs encountered in the wastes. Captain Stonebeard has denied
+  his request for diversion.
+\item
+  \textbf{The Buyer}: An enigmatic figure residing in a large,
+  well-maintained yurt in Syrinlya. Elro has instructed the party to
+  deliver the Frigid Woe cure to this individual for teleportation back
+  to Palebank Village. Orvo Mustave sold his share of the Salsvault
+  artifacts to this person.
+\item
+  \textbf{Doctor Pepe}: Initially a mysterious rogue observing the
+  adventurers, he formally joined their quest at Croaker Cave. He
+  contributes sharp investigative skills, stealth, crossbow proficiency,
+  and lock-picking abilities. He is proving adept at fishing and
+  cooking, receiving special utensils from Chef Ingrid, and has shown
+  skill at cards.
 \item
   \textbf{Elara}: An aasimar bard whose musical talents and spellcasting
-  abilities support and enhance the party's efforts in healing and
-  strategic planning.
+  bolster the party. She excels at negotiation, inspiration, healing,
+  and illusions. She discovered the Scanlan Shorthalt shirt, negotiated
+  potion prices with Gramini, interrogated bandits, attempted diplomacy
+  with Hulil, fed Old Croaker, identified Irven Liel, interacted with
+  Javel over \emph{Tusk Love}, performed enchantingly aboard the
+  \emph{Remorhaz}, played cards skillfully, and subdued the wolf-form
+  Ingrid with the amulet. She is mastering new melodies and
+  enchantments, enhancing her performance and persuasion. Fell asleep
+  briefly during her watch after the squid attack.
 \item
-  \textbf{Elro}: A Glassblade leader who introduces the adventurers to
-  the cursed mysteries of Palebank Village, enlisting their help to find
-  the root cause.
+  \textbf{Elro}: A Glassblade leader in Palebank Village. He introduces
+  the adventurers to the Frigid Woe mystery, confirms the disease's name
+  and Aeorian origins, explains the cure (milky liquid in golden vials),
+  hires the party to retrieve the cure from Eiselcross, provides payment
+  and bounty, arranges passage on the \emph{Remorhaz}, and identifies
+  Orvo Mustave and ``The Buyer'' as contacts in Syrinlya.
 \item
-  \textbf{Fenton Tethwick}: Irven Liel's husband, part of the
-  Liel-Tethwicks family traveling with Irven, ensuring the well-being of
-  their twin tiefling daughters amidst the dangers of their journey.
+  \textbf{Fenton Tethwick}: Irven Liel's husband, traveling with Irven
+  and their twin tiefling daughters (Honor \& Magic). He helps care for
+  the children while Irven discusses sensitive matters.
 \item
-  \textbf{Gramini}: An elderly elf woman trading potions at the village
-  docks, her wares and tales offer resources and clues to the
-  adventurers.
+  \textbf{Gerhard Eisner}: The former captain of the \emph{Frostfang},
+  rescued alongside his crewman Rorik and passenger Bret. Hails from
+  Icehaven, from a family of fishermen who recently began ferrying
+  passengers. He possesses a magical ring allowing him to walk on water.
+  Deeply affected by the loss of his ship, he is travelling with the
+  party for now, seeking rest and direction. He carries ship insurance
+  procured from an Empire contact.
 \item
-  \textbf{Halite}: The goliath fighter wielding a mighty trident, known
-  for his strength and tactical astuteness during encounters. He has a
-  newfound interest in cooking.
+  \textbf{Giant Squid}: A colossal cephalopod encountered in the
+  fog-laden Frigid Depths. It destroyed the \emph{Frostfang} and
+  attacked the \emph{Remorhaz} before being slain by the combined
+  efforts of the adventurers and crew. Sparky reported its remains
+  smelled like farts.
 \item
-  \textbf{Hulil Lutan}: The defeated dwarf priestess of Tiamat involved
-  in the curse's mystery. She commanded operations and held stolen
-  artifacts at Croaker Cave, seeking a cure for her ailment.
+  \textbf{Gramini}: An elderly elf potion vendor at the Palebank Village
+  docks. She sells the party healing potions, trades for a Scanlan
+  Shorthalt shirt (which she frames and prices highly), and offers
+  initial advice about Westeroff.
 \item
-  \textbf{Ingrid}: A chef aboard the \emph{Remorhaz} with a deep
-  connection to the moon, marked by lycanthropy, she unexpectedly
-  teaches the adventurers cooking secrets that bridge magic and
-  gastronomy.
+  \textbf{Haldor}: A deck hand on the \emph{Remorhaz}, born and raised
+  in snowy lands but with a love for fishing. He confronts the winter
+  wolf in the kitchen with Ironfist and later bonds with Whisper while
+  working the rigging, sharing stories of their respective homes.
 \item
-  \textbf{Irven Liel}: A bookseller traveling with his family, entwined
-  in the tale due to his purchase of a blue powder vial, the catalyst
-  for the ongoing curse mystery.
+  \textbf{Halite}: A goliath fighter known for his strength, tactical
+  mind, and mastery of the trident and javelin. He actively participates
+  in interrogations and combat strategy. He has discovered a surprising
+  aptitude and interest in cooking under Chef Ingrid's tutelage,
+  receiving special utensils. He acquired an arcane crystal focus from
+  Westeroff and a miner's pick in Syrinlya.
 \item
-  \textbf{Jarl Stonebeard}: The seasoned captain of the \emph{Frostwind}
-  and the \emph{Remorhaz}, who ferries the adventurers through dangerous
-  seas to Palebank Village and on to Syrinlya, maintaining a
-  professional yet relaxed demeanor with an eye for managing both his
-  ship and crew.
+  \textbf{Hulil Lutan}: A dwarf priestess of Tiamat and sister of Tulgi.
+  Afflicted with Frigid Woe, she led criminal operations from Croaker
+  Cave, seeking Aeorian artifacts and a cure. Defeated by the party, her
+  journal revealed the sale of a blue vial to Irven Liel.
 \item
-  \textbf{Kragor}: An orc warlock, casting dark magic to strategically
-  aid his allies and subdue enemies using curses and powerful eldritch
-  blasts, now further empowered by new arcane discoveries.
+  \textbf{Ingrid}: The skilled, if gruff, dwarven chef aboard the
+  \emph{Remorhaz}. She is revealed to be a lycanthrope (winter wolf),
+  her transformation tied to a moon-and-rune amulet. She mentors several
+  party members in cooking, gifting utensils to Kragor, Halite, and
+  Doctor Pepe in recognition of their talent. She apologized to Whisper
+  for biting her while transformed.
 \item
-  \textbf{The Liel-Tethwicks}: A traveling family known in the story for
-  their association with a blue powder vial. Includes Irven Liel, Fenton
-  Tethwick (Irven's husband), and their twin tiefling daughters.
+  \textbf{Ironfist}: The First Mate of the \emph{Remorhaz}. He confronts
+  the winter wolf in the kitchen with Haldor and participates actively
+  in the battle against the giant squid, manning a ballista.
 \item
-  \textbf{Old Croaker}: A massive ice frog inhabiting Croaker Cave, it
-  aids the adventurers across a subterranean pool, motivated by treats
-  provided by the bandits and the adventurers.
+  \textbf{Irven Liel}: A traveling bookseller heading to Uthodurn with
+  his husband Fenton and their twin tiefling daughters. He purchased a
+  cracked blue vial containing Frigid Woe contagion from Hulil Lutan as
+  an investment. He cooperates with the party, allowing Scarlet to
+  confirm the danger, and now relies on them finding the cure for him
+  and his entire family.
 \item
-  \textbf{Scarlet}: A druid attuned to nature's magic. She protects and
-  guides her comrades using her connection to the natural world and
-  magical arts, recently exploring greater communion with nature's
-  forms.
+  \textbf{Javel}: An ancient, coughing dwarf trader operating out of a
+  yurt in Syrinlya. He sells the party snowshoes and ice hammers,
+  bonding with Elara over a shared appreciation for the novel \emph{Tusk
+  Love} and gifting her a bottle of Sandkeg's High whiskey. He warns
+  them about Yetis.
 \item
-  \textbf{Tulgi Lutan}: A solitary trapper cursed with the same
-  affliction as Urgon. She's entangled in the theft of Aeorian treasures
-  amidst her ties to a Shadycreek Run syndicate.
+  \textbf{Kragor}: An orc warlock from Bladegarden wielding eldritch
+  power and a conjured war hammer. He actively uses hexes and blasts in
+  combat, interrogates prisoners, and provides tactical spellcasting. He
+  has discovered a talent for cooking under Chef Ingrid's tutelage,
+  receiving special utensils. He questioned Bret about his mission and
+  Ingrid about her amulet. His arcane abilities are growing, allowing
+  him to recover energy and enhance his eldritch blasts.
 \item
-  \textbf{Urgon}: A dwarven adventurer whose return from Eiselcross with
-  treasures and subsequent icy demise sparks the central mystery of the
-  story.
+  \textbf{The Liel-Tethwicks}: The traveling family consisting of Irven
+  Liel, his husband Fenton Tethwick, and their twin tiefling daughters,
+  Honor and Magic. They become entangled in the Frigid Woe mystery due
+  to Irven's purchase of a contaminated vial.
 \item
-  \textbf{Verla Pelc}: The owner of Pelc's Curiosities, found frozen
-  lifeless in her shop by the adventurers, indicating the curse's lethal
-  reach.
+  \textbf{Mathias}: The harried elf proprietor of ``Mathias's Stuffs''
+  in Palebank Village, where the party buys supplies and sells bandit
+  gear. He provides a warning about violent ``wild folk'' with black
+  streaks on their faces in Eiselcross.
 \item
-  \textbf{Westeroff}: A retired wizard living in Palebank Village,
-  offering limited assistance to the adventurers, providing insight into
-  some magical artifacts.
+  \textbf{Mera}: The skilled navigator of the \emph{Remorhaz}. She
+  participates in the card game, expertly pilots the ship through fog
+  and during the squid attack, and calculates their position and arrival
+  time in Syrinlya.
 \item
-  \textbf{Whisper}: A tabaxi with exceptional agility and stealth, she
-  often takes on scouting roles, using her skills to navigate tense
-  situations and inform party strategy, now with an enhanced ability to
-  heal herself.
+  \textbf{Morgo Delwur}: A stout, weathered dwarf woman acting as an
+  informal guide or contact in Syrinlya. She directs the party to Orvo
+  and The Buyer, offers them the yurt of a deceased elf lordling, and
+  mentions local dangers like sabre-tooth tigers before heading off on
+  her own expedition.
+\item
+  \textbf{Old Croaker}: A giant ice frog of unusual size dwelling in
+  Croaker Cave. Used by Hulil's bandits (and later the party) for
+  transport across an underground pool, motivated by treats (bats, elf
+  hands). It attacked Whisper when startled. Scarlet confirmed it is
+  venomous.
+\item
+  \textbf{Orvo Mustave}: A dwarf adventurer in Syrinlya and friend of
+  the deceased Urgon, identified by a distinctive three-line scar on his
+  cheek. He accompanied Urgon on the expedition where the blue vials
+  were found in the Salsvault ruins (located in the Thin Sheets region).
+  He provides the party with directions, details about the ruin's
+  dangers (Ice Mephits, animated armor), confirms he sold his share of
+  artifacts to The Buyer, and directs them to Javel for snowshoes. He is
+  saddened and angered by Urgon's death.
+\item
+  \textbf{Rorik}: A young human crewman from the \emph{Frostfang},
+  rescued alongside Captain Gerhard Eisner and Bret. He seems loyal to
+  Gerhard.
+\item
+  \textbf{Scarlet}: A halfling druid deeply connected to nature. She
+  uses her knowledge, healing magic, and combat spells to aid the party.
+  She identified Verla Pelc's cause of death, tested the blue vial for
+  contagion, identified Old Croaker's venom, and diagnosed Ingrid's
+  lycanthropy. She has gained an owl companion (``Sparky'') used for
+  scouting and has shown skill with the ballista. She acquired
+  blood-stained snowshoes from Javel.
+\item
+  \textbf{Stonebeard}: The seasoned captain of the \emph{Remorhaz}.
+  Initially deferential to Elro, he reveals a pragmatic, no-nonsense
+  command style once at sea. He oversees ship operations, directs the
+  crew during crises (the lycanthropy incident and the squid attack),
+  interacts with the rescued survivors, and safely navigates to
+  Syrinlya.
+\item
+  \textbf{Tulgi Lutan}: A solitary trapper in Palebank Village and
+  sister of Hulil. Afflicted with Frigid Woe, she confessed her and
+  Hulil's criminal activities and theft from Urgon, revealing Hulil's
+  location in Croaker Cave.
+\item
+  \textbf{Urgon}: A dwarven adventurer whose return from Eiselcross
+  afflicted with Frigid Woe and subsequent death sparked the story's
+  central mystery. He recovered Aeorian artifacts, including the blue
+  vials containing the contagion, from the Salsvault ruins alongside
+  Orvo Mustave.
+\item
+  \textbf{Verla Pelc}: The owner of Pelc's Curiosities in Palebank
+  Village. Found frozen dead in her shop by the adventurers, a victim of
+  the Frigid Woe after purchasing the blue vials from Urgon and handling
+  them.
+\item
+  \textbf{Westeroff}: A retired wizard in Palebank Village. He provides
+  limited magical identification services, confirms Urgon's dagger is
+  magical, sells Halite a crystal focus, and identifies a garnet for
+  Doctor Pepe.
+\item
+  \textbf{Whisper}: A tabaxi rogue known for exceptional agility,
+  stealth, and scouting. She often takes point, gathers information, and
+  utilizes her claws and thrown weapons in combat. She survived being
+  partially swallowed by an ice frog and later bitten by Ingrid in wolf
+  form. She has enhanced resilience and self-healing capabilities. She
+  worked the rigging aboard the \emph{Remorhaz}, bonded with Haldor, and
+  excelled in the squid battle.
 \end{enumerate}
 
 \chapter{Appendix C --- The Vanquished}\label{appendix-c-the-vanquished}
@@ -2348,45 +3453,58 @@ Personae}\label{appendix-b-dramatis-personae}
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \item
-  \textbf{First Bandit} --- \emph{Kragor} crushed the elf's head with a
-  single blow of his war hammer in the fog-clouded Pelc's Curiosities.
+  \textbf{First Bandit (Pelc's Curiosities)} --- \emph{Kragor} crushed
+  the elf's head with a single blow of his war hammer in the fog-clouded
+  Pelc's Curiosities.
 \item
-  \textbf{Second Bandit} --- \emph{Halite} skewered the elf's jaw with
-  an uppercut from his trident, after \emph{Scarlet} had initially
-  injured him with her acid-laden, elongated claws.
+  \textbf{Second Bandit (Pelc's Curiosities)} --- \emph{Halite} skewered
+  the elf's jaw with an uppercut from his trident, after \emph{Scarlet}
+  had initially injured him with her acid-laden, elongated claws.
 \item
-  \textbf{Third Bandit} --- \emph{Kragor's} hex and Eldritch Blast left
-  the elf on the brink of death. The bandit surrendered.
+  \textbf{Third Bandit (Pelc's Curiosities)} --- \emph{Kragor's} hex and
+  Eldritch Blast left the elf on the brink of death. The bandit
+  surrendered.
 \item
-  \textbf{Fourth Bandit} --- In the shadow of \emph{Halite's} imposing
-  stature, the final elf surrendered.
+  \textbf{Fourth Bandit (Pelc's Curiosities)} --- In the shadow of
+  \emph{Halite's} imposing stature, the final elf surrendered.
 \item
-  \textbf{First Giant Ice Frog} --- \emph{Kragor's} hex and blast combo
-  disintegrates this ice frog, which had previously retreated into the
-  pool with severe wounds from \emph{Doctor Pepe} and \emph{Whisper}.
+  \textbf{First Giant Ice Frog (Croaker Cave)} --- \emph{Kragor's} hex
+  and blast combo disintegrated this ice frog, which had previously
+  retreated into the pool with severe wounds from \emph{Doctor Pepe} and
+  \emph{Whisper}.
 \item
-  \textbf{Second Giant Ice Frog} --- \emph{Elara} destroyed the frog
-  with a radiant mote of energy, after it was initially injured by
-  \emph{Halite's} trident.
+  \textbf{Second Giant Ice Frog (Croaker Cave)} --- \emph{Elara}
+  destroyed the frog with a radiant mote of energy, after it was
+  initially injured by \emph{Halite's} trident.
 \item
-  \textbf{Fifth Bandit} --- The elf was felled by \emph{Halite's}
-  javelin after it was wounded by \emph{Whisper's} sling.
+  \textbf{Fifth Bandit (Croaker Cave)} --- The elf was felled by
+  \emph{Halite's} javelin after it was wounded by \emph{Whisper's}
+  sling.
 \item
-  \textbf{Sixth Bandit} --- Pulverized by \emph{Kragor's} Eldritch Blast
-  after \emph{Elara's} starry wisp scorched the elf.
+  \textbf{Sixth Bandit (Croaker Cave)} --- Pulverized by \emph{Kragor's}
+  Eldritch Blast after \emph{Elara's} starry wisp scorched the elf.
 \item
-  \textbf{Seventh Bandit} --- \emph{Halite} pierced the dwarf bandit
-  with deadly precision, after which the dwarf surrendered and was
-  bound.
+  \textbf{Seventh Bandit (Croaker Cave)} --- \emph{Halite} pierced the
+  dwarf bandit with deadly precision, after which the dwarf surrendered
+  and was bound.
 \item
-  \textbf{Acolyte} --- Slaughtered by a bolt to the neck from
-  \emph{Doctor Pepe's} crossbow.
+  \textbf{Acolyte (Croaker Cave)} --- Slaughtered by a bolt to the neck
+  from \emph{Doctor Pepe's} crossbow.
 \item
-  \textbf{Hulil Lutan} --- \emph{Halite's} javelin punctured the dwarf's
-  heart, ending her after having been worn down by a first javelin, two
-  bolts from \emph{Doctor Pepe}, an arrow and Dissonant Whispers from
-  \emph{Elara}, \emph{Kragor's} hex and Eldritch Blast, and
-  \emph{Scarlet's} shillelagh.
+  \textbf{Hulil Lutan (Croaker Cave)} --- \emph{Halite's} javelin
+  punctured the dwarf's heart, ending her after having been worn down by
+  a first javelin, two bolts from \emph{Doctor Pepe}, an arrow and
+  Dissonant Whispers from \emph{Elara}, \emph{Kragor's} hex and Eldritch
+  Blast, and \emph{Scarlet's} shillelagh.
+\item
+  \textbf{Giant Squid (Frigid Depths)} --- Overwhelmed by a combined
+  assault from the party and the crew of the \emph{Remorhaz}. Key
+  strikes included multiple crossbow bolts from \emph{Doctor Pepe},
+  ballista shots from \emph{Halite} and \emph{Scarlet}, javelins from
+  \emph{Halite} and \emph{Whisper}, \emph{Kragor's} hex and Eldritch
+  Blast, \emph{Scarlet's} flame projectile, and supporting attacks from
+  the \emph{Remorhaz} crew and the rescued wizard Bret. The killing blow
+  was an arrow to the eye from the rescued captain, Gerhard.
 \end{enumerate}
 
 \chapter{Appendix D ---~Additional
@@ -2394,7 +3512,7 @@ Rules}\label{appendix-d-additional-rules}
 
 \section{Tool Proficiencies}\label{tool-proficiencies}
 
-\emph{Source: Xanathar's Guide to Everything}
+\emph{Sources: Players Handbook and Xanathar's Guide to Everything}
 
 \subsection{Cartographer's Tools}\label{cartographers-tools}
 
@@ -2402,6 +3520,10 @@ Using cartographer's tools, you can create accurate maps to make travel
 easier for yourself and those who come after you. These maps can range
 from large-scale depictions of mountain ranges to diagrams that show the
 layout of a dungeon level.
+
+\textbf{Ability:} Wisdom.
+
+\textbf{Crafting:} Map.
 
 \textbf{Components.} Cartographer's tools consist of a quill, ink,
 parchment, a pair of compasses, calipers, and a ruler.
@@ -2429,6 +3551,7 @@ addition to engaging in other activity.
 \begin{DndTable}{Xc}
 \textbf{Activity} & \textbf{DC} \\
 Determine a map’s age and origin & 10 \\
+Draft a map of a small area & 15 \\
 Estimate direction and distance to a landmark & 15 \\
 Discern that a map is fake & 15 \\
 Fill in a missing part of a map & 20
@@ -2439,6 +3562,11 @@ Fill in a missing part of a map & 20
 Skill at carpentry enables a character to construct wooden structures. A
 carpenter can build a house, a shack, a wooden cabinet, or similar
 items.
+
+\textbf{Ability:} Wisdom.
+
+\textbf{Crafting:} Club, Greatclub, Quarterstaff, Barrel, Chest, Ladder,
+Pole, Portable Ram, Torch.
 
 \textbf{Components.} Carpenter's tools include a saw, a hammer, nails, a
 hatchet, a square, a ruler, an adze, a plane, and a chisel.
@@ -2472,13 +3600,17 @@ assembled.
 Build a simple wooden structure & 10 \\
 Design a complex wooden structure & 15 \\
 Find a weak point in a wooden wall & 15 \\
-Pry apart a door & 20
+Seal or pry open a door or container & 20
 \end{DndTable}
 
 \subsection{Cook's Utensils}\label{cooks-utensils}
 
 Adventuring is a hard life. With a cook along on the journey, your meals
 will be much better than the typical mix of hardtack and dried fruit.
+
+\textbf{Ability:} Wisdom.
+
+\textbf{Crafting:} Rations.
 
 \textbf{Components.} Cook's utensils include a metal pot, knives, forks,
 a stirring spoon, and a ladle.
@@ -2503,6 +3635,7 @@ and sufficient food.
 \textbf{Activity} & \textbf{DC} \\
 Create a typical meal & 10 \\
 Duplicate a meal & 10 \\
+Improve food’s flavor & 10 \\
 Spot poison or impurities in food & 15 \\
 Create a gourmet meal & 15
 \end{DndTable}
@@ -2511,6 +3644,8 @@ Create a gourmet meal & 15
 
 Proficiency with a gaming set applies to one type of game, such as
 Three-Dragon Ante or games of chance that use dice.
+
+\textbf{Ability:} Wisdom.
 
 \textbf{Components.} A gaming set has all the pieces needed to play a
 specific game or type of game, such as a complete deck of cards or a
@@ -2532,14 +3667,19 @@ pickpocketing attempt.
 
 \begin{DndTable}{Xc}
 \textbf{Activity} & \textbf{DC} \\
-Catch a player cheating & 15 \\
-Gain insight into an opponent’s personality & 15
+Discern whether someone is cheating & 10 \\
+Gain insight into an opponent’s personality & 15 \\
+Win the game & 20
 \end{DndTable}
 
 \subsection{Herbalism Kit}\label{herbalism-kit}
 
 Proficiency with an herbalism kit allows you to identify plants and
 safely collect their useful elements.
+
+\textbf{Ability:} Intelligence.
+
+\textbf{Crafting:} Antitoxin, Candle, Healer's Kit, Potion of Healing.
 
 \textbf{Components.} An herbalism kit includes pouches to store herbs,
 clippers and leather gloves for collecting plants, a mortar and pestle,
@@ -2566,6 +3706,7 @@ inspection of their appearance and smell.
 
 \begin{DndTable}{Xc}
 \textbf{Activity} & \textbf{DC} \\
+Identify a plant & 10 \\
 Find plants & 15 \\
 Identify poison & 20
 \end{DndTable}
@@ -2575,6 +3716,8 @@ Identify poison & 20
 Proficiency with a musical instrument indicates you are familiar with
 the techniques used to play it. You also have knowledge of some songs
 commonly performed with that instrument.
+
+\textbf{Ability:} Charisma.
 
 \textbf{History.} Your expertise aids you in recalling lore related to
 your instrument.
@@ -2588,8 +3731,9 @@ impress a noble or spread scandalous rumors with a catchy tune.
 
 \begin{DndTable}{Xc}
 \textbf{Activity} & \textbf{DC} \\
+Play a known tune & 10 \\
 Identify a tune & 10 \\
-Improvise a tune & 20
+Improvise a song & 15
 \end{DndTable}
 
 \subsection{Navigator's Tools}\label{navigators-tools}
@@ -2597,6 +3741,8 @@ Improvise a tune & 20
 Proficiency with navigator's tools helps you determine a true course
 based on observing the stars. It also grants you insight into charts and
 maps while developing your sense of direction.
+
+\textbf{Ability:} Wisdom.
 
 \textbf{Components.} Navigator's tools include a sextant, a compass,
 calipers, a ruler, parchment, ink, and a quill.
@@ -2611,7 +3757,8 @@ your position on a nautical chart and the time of day.
 \begin{DndTable}{Xc}
 \textbf{Activity} & \textbf{DC} \\
 Plot a course & 10 \\
-Discover your position on a nautical chart & 15
+Discover your position on a nautical chart & 15 \\
+Determine position by stargazing & 15
 \end{DndTable}
 
 \subsection{Thieves' Tools}\label{thieves-tools}
