@@ -1,57 +1,50 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<html xmlns="http://www.w3.org/1999/xhtml" lang xml:lang>
 <head>
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>Dungeons &amp; Gardens</title>
   <style>
-    code{white-space: pre-wrap;}
-    span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: min(4vw, 1.5em);}
-    div.column{flex: auto; overflow-x: auto;}
-    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    /* The extra [class] is a hack that increases specificity enough to
-       override a similar rule in reveal.js */
-    ul.task-list[class]{list-style: none;}
-    ul.task-list li input[type="checkbox"] {
-      font-size: inherit;
-      width: 0.8em;
-      margin: 0 0.8em 0.2em -1.6em;
-      vertical-align: middle;
-    }
-    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
-  </style>
-  <link rel="stylesheet" href="/nix/store/6y3s1x5mk4lf8zaj7sch9djmic5zkjla-bxklxn479il580jjzc75p60rmgh26jqn-source/lib/style.css" />
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+
+ul.task-list[class]{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+font-size: inherit;
+width: 0.8em;
+margin: 0 0.8em 0.2em -1.6em;
+vertical-align: middle;
+}
+.display.math{display: block; text-align: center; margin: 0.5rem auto;}
+</style>
+  <link href="data:text/css,%3Aroot%20%7B%0A%0A%2D%2Dparchment%3A%20%23fbf8e8%3B%0A%2D%2Dparchment%2Ddark%3A%20%23f2e5b7%3B%0A%2D%2Dred%3A%20%23822000%3B%0A%2D%2Ddark%2Dred%3A%20%23580c00%3B%0A%2D%2Dgold%3A%20%23c9ad6a%3B%0A%2D%2Ddark%2Dbrown%3A%20%2358180d%3B%0A%2D%2Dtext%2Dcolor%3A%20%233a2618%3B%0A%0A%2D%2Dfont%2Dserif%2Dbody%3A%20Garamond%2C%20%27Palatino%20Linotype%27%2C%20Palatino%2C%20Georgia%2C%20%27Times%20New%20Roman%27%2C%20serif%3B%0A%2D%2Dfont%2Dserif%2Dheader%3A%20%27Palatino%20Linotype%27%2C%20Palatino%2C%20Georgia%2C%20%27Times%20New%20Roman%27%2C%20serif%3B%0A%7D%0Ahtml%20%7B%0Acolor%3A%20var%28%2D%2Dtext%2Dcolor%29%3B%0Abackground%2Dcolor%3A%20%23222%3B%20%0Abackground%2Dimage%3A%20url%28%27https%3A%2F%2Fwww%2Etransparenttextures%2Ecom%2Fpatterns%2Fdark%2Dwood%2Epng%27%29%3B%0A%7D%0Abody%20%7B%0Amax%2Dwidth%3A%20800px%3B%0Amargin%3A%202rem%20auto%3B%0Apadding%3A%202rem%3B%0Abackground%2Dcolor%3A%20var%28%2D%2Dparchment%29%3B%0Abackground%2Dimage%3A%20url%28%27https%3A%2F%2Fwww%2Etransparenttextures%2Ecom%2Fpatterns%2Fparchment%2Epng%27%29%3B%0Aborder%2Dradius%3A%205px%3B%0Abox%2Dshadow%3A%200%200%2015px%20rgba%280%2C%200%2C%200%2C%200%2E7%29%3B%0Aborder%3A%201px%20solid%20var%28%2D%2Dgold%29%3B%0Aposition%3A%20relative%3B%20%0Afont%2Dfamily%3A%20var%28%2D%2Dfont%2Dserif%2Dbody%29%3B%0Aline%2Dheight%3A%201%2E6%3B%0A%0Atext%2Dalign%3A%20center%3B%0A%7D%0A%0Abody%3A%3Abefore%2C%0Abody%3A%3Aafter%20%7B%0Acontent%3A%20%22%22%3B%0Aposition%3A%20absolute%3B%0Aleft%3A%200%3B%0Awidth%3A%20100%25%3B%0Aheight%3A%2010px%3B%0Abackground%2Dimage%3A%20url%28%27data%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww%2Ew3%2Eorg%2F2000%2Fsvg%22%20viewBox%3D%220%200%20100%2010%22%20preserveAspectRatio%3D%22none%22%3E%3Cpath%20d%3D%22M0%2C0%20L100%2C0%20L95%2C10%20L5%2C10%20Z%22%20fill%3D%22%2523c9ad6a%22%2F%3E%3C%2Fsvg%3E%27%29%3B%0Abackground%2Dsize%3A%20100%25%20100%25%3B%0A%7D%0Abody%3A%3Abefore%20%7B%20top%3A%200%3B%20%7D%0Abody%3A%3Aafter%20%7B%20bottom%3A%200%3B%20transform%3A%20rotate%28180deg%29%3B%20%7D%0A%0A%0Ah1%2C%20h2%2C%20h3%2C%20h4%2C%20h5%2C%20h6%2C%0Ath%2C%0Ap%20%3E%20strong%3Aonly%2Dchild%20%7B%0Afont%2Dfamily%3A%20var%28%2D%2Dfont%2Dserif%2Dheader%29%3B%0Acolor%3A%20var%28%2D%2Ddark%2Dred%29%3B%0Afont%2Dweight%3A%20bold%3B%0Atext%2Dtransform%3A%20uppercase%3B%0Aletter%2Dspacing%3A%200%2E05em%3B%0A%7D%0A%0Ah1%2C%20h2%2C%20h3%2C%20h4%2C%20h5%2C%20h6%20%7B%0Amargin%2Dtop%3A%201%2E4em%3B%0Amargin%2Dbottom%3A%200%2E5em%3B%0Aborder%2Dbottom%3A%202px%20solid%20var%28%2D%2Dgold%29%3B%0Apadding%2Dbottom%3A%200%2E2em%3B%0Atext%2Dalign%3A%20left%3B%20%0A%7D%0A%0Ah1%2Etitle%20%7B%0Afont%2Dsize%3A%202%2E8em%3B%0Atext%2Dalign%3A%20center%3B%20%0Amargin%2Dtop%3A%200%2E5em%3B%0Atext%2Dshadow%3A%201px%201px%201px%20rgba%280%2C%200%2C%200%2C%200%2E3%29%3B%0Aborder%2Dbottom%3A%203px%20double%20var%28%2D%2Dgold%29%3B%0Apadding%2Dbottom%3A%200%2E3em%3B%0A%7D%0A%0Abody%20%3E%20p%20%7B%0Atext%2Dalign%3A%20left%3B%20%0A%7D%0A%0Aa%20%7B%0Acolor%3A%20var%28%2D%2Dred%29%3B%0Atext%2Ddecoration%3A%20none%3B%0Afont%2Dweight%3A%20bold%3B%0Atransition%3A%20color%200%2E2s%20ease%3B%0A%7D%0Aa%3Ahover%20%7B%0Acolor%3A%20var%28%2D%2Ddark%2Dbrown%29%3B%0Atext%2Ddecoration%3A%20underline%3B%0A%7D%0A%0Aul%20%7B%0Alist%2Dstyle%2Dtype%3A%20none%3B%0Apadding%2Dleft%3A%201%2E7em%3B%20%0Atext%2Dalign%3A%20left%3B%20%0A%7D%0Aul%20li%20%7B%0Aposition%3A%20relative%3B%20%0Amargin%2Dbottom%3A%200%2E5em%3B%0A%7D%0Aul%20li%3A%3Abefore%20%7B%0Acontent%3A%20%22%E2%80%A2%22%3B%0Acolor%3A%20var%28%2D%2Dred%29%3B%0Afont%2Dweight%3A%20bold%3B%0Aposition%3A%20absolute%3B%0Aleft%3A%200%3B%0Atop%3A%200%2E1em%3B%20%0Awidth%3A%201em%3B%0Amargin%2Dleft%3A%20%2D1em%3B%20%0A%7D%0A%0Ablockquote%20%7B%0Abackground%2Dcolor%3A%20var%28%2D%2Dparchment%2Ddark%29%3B%0Aborder%2Dleft%3A%203px%20solid%20var%28%2D%2Dgold%29%3B%0Amargin%3A%201%2E5em%200%3B%0Apadding%3A%201em%201%2E5em%3B%0Aposition%3A%20relative%3B%20%0Abox%2Dshadow%3A%200%201px%203px%20rgba%280%2C%200%2C%200%2C%200%2E12%29%3B%0Afont%2Dstyle%3A%20italic%3B%0Atext%2Dalign%3A%20left%3B%20%0A%7D%0Ablockquote%3A%3Abefore%20%7B%0Acontent%3A%20%22%5C201C%22%3B%0Afont%2Dfamily%3A%20var%28%2D%2Dfont%2Dserif%2Dheader%29%3B%0Afont%2Dsize%3A%204em%3B%0Aposition%3A%20absolute%3B%0Aleft%3A%200%2E1em%3B%0Atop%3A%20%2D0%2E2em%3B%0Acolor%3A%20var%28%2D%2Dgold%29%3B%0Aopacity%3A%200%2E5%3B%0Afont%2Dstyle%3A%20normal%3B%0Aline%2Dheight%3A%201%3B%0A%7D%0A%0Atable%20%7B%0Aborder%2Dcollapse%3A%20collapse%3B%0Awidth%3A%20100%25%3B%0Amargin%3A%201%2E5em%200%3B%0Abackground%2Dcolor%3A%20var%28%2D%2Dparchment%29%3B%0Abox%2Dshadow%3A%200%201px%203px%20rgba%280%2C%200%2C%200%2C%200%2E2%29%3B%0Atext%2Dalign%3A%20left%3B%20%0A%7D%0Ath%20%7B%0Abackground%2Dcolor%3A%20var%28%2D%2Dred%29%3B%0Acolor%3A%20white%3B%0Atext%2Dalign%3A%20left%3B%20%0Apadding%3A%200%2E5em%3B%0Aborder%3A%201px%20solid%20var%28%2D%2Ddark%2Dred%29%3B%0A%0A%7D%0Atd%20%7B%0Apadding%3A%200%2E5em%3B%0Aborder%3A%201px%20solid%20var%28%2D%2Dgold%29%3B%0Afont%2Dfamily%3A%20var%28%2D%2Dfont%2Dserif%2Dbody%29%3B%20%0Atext%2Dalign%3A%20left%3B%20%0A%7D%0Atr%3Anth%2Dchild%28even%29%20%7B%0Abackground%2Dcolor%3A%20var%28%2D%2Dparchment%2Ddark%29%3B%0A%7D%0A%0A%0Abody%20%3E%20p%3Anth%2Dof%2Dtype%281%29%2C%0Abody%20%3E%20p%3Anth%2Dof%2Dtype%282%29%20%7B%0Adisplay%3A%20inline%2Dblock%3B%0Avertical%2Dalign%3A%20top%3B%0Amargin%3A%201em%200%2E5em%200%2E5em%3B%0Atext%2Dalign%3A%20center%3B%20%0A%7D%0A%0Abody%20%3E%20p%3Anth%2Dof%2Dtype%281%29%20a%2C%0Abody%20%3E%20p%3Anth%2Dof%2Dtype%282%29%20a%20%7B%0Adisplay%3A%20inline%2Dblock%3B%0Apadding%3A%200%2E8em%201%2E5em%3B%0Abackground%2Dcolor%3A%20var%28%2D%2Dred%29%3B%0Acolor%3A%20white%3B%20%0Aborder%2Dradius%3A%205px%3B%0Afont%2Dfamily%3A%20var%28%2D%2Dfont%2Dserif%2Dheader%29%3B%0Afont%2Dweight%3A%20bold%3B%0Atext%2Dtransform%3A%20uppercase%3B%0Aletter%2Dspacing%3A%200%2E05em%3B%0Atext%2Ddecoration%3A%20none%3B%20%0Atransition%3A%20all%200%2E2s%20ease%3B%0Abox%2Dshadow%3A%200%202px%204px%20rgba%280%2C%200%2C%200%2C%200%2E2%29%3B%0A%7D%0Abody%20%3E%20p%3Anth%2Dof%2Dtype%281%29%20a%3Ahover%2C%0Abody%20%3E%20p%3Anth%2Dof%2Dtype%282%29%20a%3Ahover%20%7B%0Abackground%2Dcolor%3A%20var%28%2D%2Ddark%2Dred%29%3B%0Acolor%3A%20white%3B%20%0Atransform%3A%20translateY%28%2D2px%29%3B%0Abox%2Dshadow%3A%200%204px%208px%20rgba%280%2C%200%2C%200%2C%200%2E3%29%3B%0Atext%2Ddecoration%3A%20none%3B%20%0A%7D%0A%0Ap%20%3E%20strong%3Aonly%2Dchild%20%7B%0Adisplay%3A%20block%3B%0Afont%2Dsize%3A%201%2E5em%3B%0Amargin%3A%202%2E5em%20auto%201em%3B%20%0Aborder%2Dbottom%3A%202px%20solid%20var%28%2D%2Dgold%29%3B%0Apadding%2Dbottom%3A%200%2E2em%3B%0Atext%2Dalign%3A%20center%3B%20%0A%0Amax%2Dwidth%3A%2090%25%3B%20%0A%7D%0A%0Ap%3Ahas%28%3E%20strong%3Aonly%2Dchild%29%20%2B%20ul%20%7B%0Acolumn%2Dcount%3A%202%3B%0Acolumn%2Dgap%3A%201em%3B%0Apadding%3A%200%3B%20%0Alist%2Dstyle%2Dtype%3A%20none%3B%20%0Amargin%2Dtop%3A%201em%3B%0Atext%2Dalign%3A%20left%3B%20%0A%7D%0A%0Ap%3Ahas%28%3E%20strong%3Aonly%2Dchild%29%20%2B%20ul%20li%20%7B%0Abackground%2Dcolor%3A%20var%28%2D%2Dparchment%2Ddark%29%3B%0Aborder%3A%201px%20solid%20var%28%2D%2Dgold%29%3B%0Aborder%2Dradius%3A%205px%3B%0Apadding%3A%201em%3B%0Amargin%2Dbottom%3A%201em%3B%20%0Abox%2Dshadow%3A%200%202px%204px%20rgba%280%2C%200%2C%200%2C%200%2E1%29%3B%0Atransition%3A%20all%200%2E2s%20ease%3B%0Abreak%2Dinside%3A%20avoid%2Dcolumn%3B%0Apage%2Dbreak%2Dinside%3A%20avoid%3B%20%0Aposition%3A%20relative%3B%20%0Atext%2Dalign%3A%20left%3B%20%0A%7D%0A%0Ap%3Ahas%28%3E%20strong%3Aonly%2Dchild%29%20%2B%20ul%20li%3A%3Abefore%20%7B%0Adisplay%3A%20none%3B%0A%7D%0Ap%3Ahas%28%3E%20strong%3Aonly%2Dchild%29%20%2B%20ul%20li%3Ahover%20%7B%0Atransform%3A%20translateY%28%2D3px%29%3B%0Abox%2Dshadow%3A%200%204px%208px%20rgba%280%2C%200%2C%200%2C%200%2E2%29%3B%0A%7D%0A%0Ap%3Ahas%28%3E%20strong%3Aonly%2Dchild%29%20%2B%20ul%20li%20a%20%7B%0Adisplay%3A%20block%3B%20%0Atext%2Dalign%3A%20center%3B%20%0Afont%2Dsize%3A%201%2E1em%3B%0Afont%2Dfamily%3A%20var%28%2D%2Dfont%2Dserif%2Dheader%29%3B%20%0A%0A%7D%0A%0A%40media%20%28max%2Dwidth%3A%20600px%29%20%7B%0Abody%20%7B%0Apadding%3A%201rem%3B%20%0Amargin%3A%201rem%20auto%3B%20%0A%0A%7D%0Ah1%2Etitle%20%7B%0Afont%2Dsize%3A%202%2E2em%3B%20%0A%7D%0A%0Abody%20%3E%20p%3Anth%2Dof%2Dtype%281%29%2C%0Abody%20%3E%20p%3Anth%2Dof%2Dtype%282%29%20%7B%0Adisplay%3A%20block%3B%20%0Amargin%2Dleft%3A%20auto%3B%20%0Amargin%2Dright%3A%20auto%3B%0Amax%2Dwidth%3A%20350px%3B%20%0A%7D%0A%0Abody%20%3E%20p%3Anth%2Dof%2Dtype%281%29%20a%2C%0Abody%20%3E%20p%3Anth%2Dof%2Dtype%282%29%20a%20%7B%0A%0A%20%0A%7D%0A%0Ap%3Ahas%28%3E%20strong%3Aonly%2Dchild%29%20%2B%20ul%20%7B%0Acolumn%2Dcount%3A%201%3B%0A%7D%0A%7D" rel="stylesheet" />
 </head>
 <body>
 <header id="title-block-header">
 <h1 class="title">Dungeons &amp; Gardens</h1>
 </header>
 <p><a href="Dungeons%20%26%20Gardens.pdf">Full Story</a></p>
-<p><a
-href="Dungeons%20%26%20Gardens%20%28Synopsis%29.pdf">Synopsis</a></p>
+<p><a href="Dungeons%20%26%20Gardens%20%28Synopsis%29.pdf">Synopsis</a></p>
 <p><strong>Individual Chapters</strong></p>
 <ul>
 <li><a href="Prequel.pdf">Prequel</a></li>
-<li><a
-href="Chapter%201%20%E2%80%94%20Welcome%20to%20Palebank%20Village.pdf">Chapter
+<li><a href="Chapter%201%20%E2%80%94%20Welcome%20to%20Palebank%20Village.pdf">Chapter
 1 — Welcome to Palebank Village</a></li>
-<li><a
-href="Chapter%202%20%E2%80%94%20Pelc%E2%80%99s%20Curiosities.pdf">Chapter
+<li><a href="Chapter%202%20%E2%80%94%20Pelc%E2%80%99s%20Curiosities.pdf">Chapter
 2 — Pelc’s Curiosities</a></li>
-<li><a
-href="Chapter%203%20%E2%80%94%20Secrets%20of%20Croaker%20Cave.pdf">Chapter
+<li><a href="Chapter%203%20%E2%80%94%20Secrets%20of%20Croaker%20Cave.pdf">Chapter
 3 — Secrets of Croaker Cave</a></li>
 <li><a href="Chapter%204%20%E2%80%94%20Frigid%20Woe.pdf">Chapter 4 —
 Frigid Woe</a></li>
-<li><a
-href="Chapter%205%20%E2%80%94%20Journey%20to%20Eiselcross.pdf">Chapter 5
+<li><a href="Chapter%205%20%E2%80%94%20Journey%20to%20Eiselcross.pdf">Chapter 5
 — Journey to Eiselcross</a></li>
 <li><a href="Appendix%20A%20%E2%80%94%20Party%20Inventory.pdf">Appendix
 A — Party Inventory</a></li>
-<li><a
-href="Appendix%20B%20%E2%80%94%20Dramatis%20Personae.pdf">Appendix B —
+<li><a href="Appendix%20B%20%E2%80%94%20Dramatis%20Personae.pdf">Appendix B —
 Dramatis Personae</a></li>
 <li><a href="Appendix%20C%20%E2%80%94%20The%20Vanquished.pdf">Appendix C
 — The Vanquished</a></li>
