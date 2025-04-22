@@ -14,6 +14,7 @@ texliveSmall.withPackages (
     initials
     kpfonts
     kpfonts-otf
+    latexmk
     lettrine
     luacolor
     lualatex-math

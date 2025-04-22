@@ -51,6 +51,12 @@ fonts=(
   --formats=otf
   --update
 )
+latexmk=(
+  latexmk
+  --pdflua
+  --interaction=batchmode
+  --halt-on-error
+)
 booklet=(
   pdfjam
   --quiet
@@ -73,42 +79,6 @@ install=(
   ${pdfbooklet}
 )
 
-function dolatex {
-  zparseopts -K -D -a opts -A values -job:
-  if (( ${#argv} != 1 )) {
-    print -Pru2 -- "%F{red}Error: ${0} requires exactly one argument%f"
-    exit 2
-  }
-  # `jobname` is an undocumented special parameter. avoid it.
-  local input=${argv[1]}
-  local job=${values[--job]}
-  : ${job:=${input:t:r}}
-
-  local latex=(
-    lualatex
-    --interaction=batchmode
-    --halt-on-error
-    --output-format=pdf
-    --jobname=${job}
-    ${input}
-  )
-
-  # Re-run to resolve cross-references et cetera, at most five times
-  local cur=''
-  local prev='unset'
-  local rc=0
-  repeat 5 {
-    print -Pru2 -- "%F{cyan}${(q@)latex}%f"
-    ${latex} || {
-      rc=$?
-      cat ${job:t:r}.log >&2
-      exit ${rc}
-    }
-    [[ ${cur::="$(cksum ${job:t:r}.aux 2>&- || true)"} == ${prev} ]] && break
-    prev=${cur}
-  }
-}
-
 function run {
   # q: Quote arguments.
   # @: Expand into separate words.
@@ -126,8 +96,8 @@ run ${pandoc_latex}
 run ${sed_for_print} ${texbase} > ${texprint}
 
 run ${fonts}
-run dolatex --job ${pdfbase:r} ${texbase}
-run dolatex --job ${pdfprint:r} ${texprint}
+run ${latexmk} --jobname=${pdfbase:r} ${texbase}
+run ${latexmk} --jobname=${pdfprint:r} ${texprint}
 
 run ${booklet}
 run ${install}
