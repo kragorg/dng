@@ -1,6 +1,4 @@
-# Dungeons & Gardens
-
-> A brief recap of the sessions so far. The full story, beginning with the Prequel, can be found on the following pages.
+# Dungeons & Gardens — Synopsis
 
 <span class="dropcap">Our story unfolds in the</span> desolate Greying Wildlands of Wildemount, within the frost-rimed confines of Palebank Village. Here, a disparate group of adventurers— the aasimar bard Elara, goliath fighter Halite, orc warlock Kragor, halfling druid Scarlet, tabaxi rogue Whisper, and the enigmatic rogue Doctor Pepe— find their paths converging. Arriving aboard the *Frostwind*, drawn by whispers of Aeorian ruins scattered across the perilous northern islands of Eiselcross, they disembark into a village shrouded in mourning. Urgon, a dwarven explorer, has succumbed to a mysterious freezing affliction after returning laden with treasures from Eiselcross. This chilling illness, marked by creeping blue veins and an unshakeable internal frost, has halted all expeditions north. Elro, a stoic elven Glassblade tasked with protecting the village, implores the newcomers to investigate, revealing that another villager, the reclusive trapper Tulgi, suffers from the same malady.
 

@@ -1,0 +1,24 @@
+#! /usr/bin/env zsh -df
+setopt errexit pipefail
+: ${src:=${PWD}}
+
+zparseopts -D -F -a opts -A values -output: -css:
+if [[ -z ${values[--output]} ]] {
+    print -Pru2 -- "%F{red}Missing required option `--output`.%f"
+    exit 2
+} elif [[ -z ${values[--css]} ]] {
+    print -Pru2 -- "%F{red}Missing required option `--css`.%f"
+    exit 2
+}
+
+cmd=(
+  pandoc
+  --standalone
+  --from=markdown
+  --to=html
+  --embed-resources
+  --css=${values[--css]}
+  --output=${values[--output]}
+  ${argv}
+)
+run ${cmd}

@@ -1,0 +1,32 @@
+#! /usr/bin/env zsh -df
+setopt errexit pipefail
+: ${src:=${PWD}}
+
+zparseopts -D -F -a opts -A values -include: -filter: -output:
+if [[ -z ${values[--include]} ]] {
+    print -Pru2 -- "%F{red}Missing required option `--include`.%f"
+    exit 2
+} elif [[ -z ${values[--filter]} ]] {
+    print -Pru2 -- "%F{red}Missing required option `--filter`.%f"
+    exit 2
+} elif [[ -z ${values[--output]} ]] {
+    print -Pru2 -- "%F{red}Missing required option `--output`.%f"
+    exit 2
+}
+
+cmd=(
+  pandoc
+  --standalone
+  --from=markdown
+  --top-level-division=chapter
+  --dpi 300
+  --include-in-header=${values[--include]}
+  --to=latex
+  -V documentclass=dndbook
+  -V classoption="letterpaper,12pt,twoside,twocolumn,openany"
+  -V classoption="nodeprecatedcode,bg=full"
+  --lua-filter=${values[--filter]}
+  --output=${values[--output]}
+  ${argv}
+)
+run ${cmd}

@@ -1,0 +1,150 @@
+#! /usr/bin/env zsh -df
+setopt errexit pipefail
+: ${src:=${PWD}} ${out:=outputs/out}
+
+zparseopts -D -F -a opts -A values -synopsis:
+
+# We need a writable home directory for luaotfload’s font cache.
+export HOME="$PWD"
+
+# Base name for our output files. Additional names will be derived
+# from these.
+base='Dungeons & Gardens'
+
+# If the source file names are given on the command line, we use them
+# for the main document. Otherwise we expect them to be specified in the
+# environment variable `markdown`, shell-quoted. Similarly, the synopsis
+# source file is specified using the `--synopsis` option or the
+# `synopsis` environment variable. The file names are taken as relative
+# to the `src` directory.
+if (( ${#argv} > 0 )) {
+  inputs=( ${argv} )
+} else {
+  inputs=( ${(Q)${(z)markdown}} )  # z: Split into words using shell parsing.
+}                                  # Q: Remove quoting.
+inputs=( ${src}/${^inputs} )       # ^: RC_PARAM_EXPAND.
+if (( ${#inputs} == 0 )) {
+  print -Pru2 --  "%F{red}No inputs, bailing.%f"
+  exit 2
+}
+if [[ -n ${values[--synopsis]} ]] {
+  synopsis=${values[--synopsis]}
+}
+
+tolatex=(
+  dngtolatex
+  --include ${includetex}
+  --filter ${src}/lib/dnd.lua
+)
+sed_for_print=(
+  sed -E -e
+  's/,bg=full\b/,bg=print/'
+)
+fonts=(
+  luaotfload-tool
+  --formats=otf
+  --update
+)
+latexmk=(
+  latexmk
+  --pdflua
+  --interaction=batchmode
+  --halt-on-error
+)
+install=(
+  install
+  -D -t ${out}
+  -m 0644
+)
+outputs=(
+  index.html
+  ${base}.tex
+  ${base}.pdf
+  "${base} (Synopsis).pdf"
+  "${base} (Print).pdf"
+)
+
+if [[ ! -d $(kpsewhich -var-value TEXMFVAR)/luatex-cache/generic/fonts ]] {
+  print -Pru2 -- '%F{magenta}••• Font caching •••%f'
+  run ${fonts}
+}
+
+
+print -Pru2 -- '%F{magenta}••• Markdown to LaTeX •••%f'
+
+run ${tolatex} --output synopsis.tex ${src}/${synopsis}
+run ${tolatex} --output ${base}.tex ${inputs}
+run ${sed_for_print} ${base}.tex > ${base}-print.tex
+
+
+print -Pru2 -- '%F{magenta}••• LaTeX to PDF •••%f'
+
+run ${latexmk} --jobname=${base} ${base}.tex
+run ${latexmk} --jobname="${base} (Synopsis)" synopsis.tex
+run ${latexmk} --jobname="${base} (Print)" ${base}-print.tex
+
+
+print -Pru2 -- '%F{magenta}••• Post processing •••%f'
+
+chapters=()
+n=1
+run chapters ${base}.log | while read range name; do
+  case ${name} in
+    Prequel|Appendix*)
+      ;;
+    *)
+      name="Chapter ${n} — ${name}"
+      let ++n
+      ;;
+  esac
+  split=(
+    --pages .
+    $range
+    --
+    --linearize
+  )
+  run qpdf ${base}.pdf ${split} ${name}.pdf
+  run qpdf "${base} (Print).pdf" ${split} "${name} (Print).pdf"
+  chapters+=( ${name} )
+done
+
+
+print -Pru2 -- '%F{magenta}••• Index generation •••%f'
+
+cat > index.md <<EOF
+---
+title: 'Dungeons & Gardens'
+...
+
+[Full Story](Dungeons%20%26%20Gardens.pdf)
+
+[Synopsis](Dungeons%20%26%20Gardens%20%28Synopsis%29.pdf)
+
+**Individual Chapters**
+
+EOF
+
+integer fd
+exec {fd}>&1 >>index.md
+for chapter ( ${chapters} ) {
+  print -nr -- "- [${chapter}]("
+  print -nr -- "${chapter}.pdf" | jq -sRrj @uri
+  print -r -- ")"
+}
+exec 1>&$fd {fd}>&-
+
+indexhtml=(
+  indexhtml
+  --css ${src}/lib/style.css
+  --output index.html
+  index.md
+)
+run ${indexhtml}
+
+
+print -Pru2 -- '%F{magenta}••• Installation •••%f'
+run ${install} ${outputs}
+run ${install} ${^chapters}.pdf
+run ${install} ${^chapters}" (Print).pdf"
+
+print -Pru2 -- '%F{green}••• BUILD COMPLETE •••%f'

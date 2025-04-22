@@ -17,18 +17,10 @@
       let
         src = ./.;
         pkgs = nixpkgs.legacyPackages.${system};
-        includetex = pkgs.writeText "include.tex" ''
-          \usepackage[english]{babel}
-          \usepackage[utf8]{inputenc}
-          \usepackage{dblfloatfix}
-          \newfontfamily\gillius{GilliusADFNo2}[NFSSFamily=GilliusADFNoTwo-LF]
-          \sloppy
-          \graphicspath{ {${./sessions}/} }
-        '';
         dndbook = pkgs.callPackage ./lib/dndbook.nix { };
         dndtex = pkgs.callPackage ./lib/dndtex.nix { inherit dndbook; };
         dungeons-and-gardens = pkgs.callPackage ./lib/package.nix {
-          inherit dndtex includetex src;
+          inherit dndtex src;
         };
       in
       rec {
@@ -38,15 +30,21 @@
         };
         devShells = {
           default = pkgs.mkShell {
+            inherit src;
+            inherit (dungeons-and-gardens)
+              includetex
+              markdown
+              synopsis
+              ;
             name = "dungeons-and-gardens-shell";
             shellHook = ''
               export src="$PWD"
-              export markdown="${dungeons-and-gardens.markdown}"
-              export includetex="${includetex}"
+              export PATH=$PWD/lib:$PATH
+              mkdir -p obj
+              cd obj
             '';
             packages = dungeons-and-gardens.nativeBuildInputs ++ [
               pkgs.nixfmt-rfc-style
-              pkgs.rclone
             ];
           };
         };

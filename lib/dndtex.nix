@@ -7,6 +7,7 @@ texliveSmall.withPackages (
     contour
     dblfloatfix
     enumitem
+    etoolbox
     fontaxes
     gensymb
     gillius
@@ -21,7 +22,6 @@ texliveSmall.withPackages (
     multitoc
     numprint
     pdfcol
-    pdfjam
     selnolig
     tcolorbox
     tikzfill

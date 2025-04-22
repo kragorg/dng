@@ -2,44 +2,83 @@
   coreutils,
   dndtex,
   fetchFromGitHub,
+  gawk,
   glibcLocales,
   gnused,
-  includetex,
   lib,
+  jq,
   pandoc,
   pkgs,
+  qpdf,
   src,
   stdenv,
   zsh,
 }:
 let
   pname = "dungeons-and-gardens";
-  version = "1.3";
+  version = "2.0";
+  scripts =
+    pkgs.runCommand "dng-scripts"
+      {
+        nativeBuildInputs = [ gawk zsh ];
+      }
+      ''
+        mkdir -p $out/bin
+        for file in dngbuild dngtolatex indexhtml run chapters; do
+          install -m 0755 ${src}/lib/$file $out/bin/
+          patchShebangs $out/bin/$file
+        done
+      '';
   sort = l: lib.sort (a: b: a < b) l;
   listFiles =
     dir: map (f: "${dir}/${f}") (sort (builtins.attrNames (builtins.readDir "${src}/${dir}")));
-  sessions = builtins.filter (filename: builtins.match ".*\\.md$" filename != null) (listFiles "sessions");
-  appendices = listFiles "appendices";
-  markdown = lib.escapeShellArgs ([ "summary.md" ] ++ sessions ++ appendices);
+  listMarkdown =
+    dir: builtins.filter (filename: builtins.match ".*\\.md$" filename != null) (listFiles dir);
+  chapters = listMarkdown "chapters";
+  appendices = listMarkdown "appendices";
+  markdown = lib.escapeShellArgs (chapters ++ appendices);
 in
 stdenv.mkDerivation rec {
   inherit pname version;
-  inherit src markdown;
+  inherit src scripts markdown;
 
+  synopsis = "synopsis.md";
+  includetex = pkgs.writeText "include.tex" ''
+    \usepackage[english]{babel}
+    \usepackage[utf8]{inputenc}
+    \usepackage{dblfloatfix}
+    \usepackage{etoolbox}
+    \newfontfamily\gillius{GilliusADFNo2}[NFSSFamily=GilliusADFNoTwo-LF]
+    \sloppy
+    \graphicspath{ {${src}/images/} }
+    \newcounter{dngchapter}
+    \makeatletter
+    \pretocmd{\@chapter}{%
+      \typeout{dngchapter: \arabic{dngchapter} \thepage\space#1}%
+      \stepcounter{dngchapter}
+    }{}
+    \makeatother
+    \AtEndDocument{%
+      \typeout{dngchapter: \arabic{dngchapter} \the\numexpr\value{page}+1\relax}%
+    }
+  '';
   phases = [ "buildPhase" ];
   buildPhase = ''
     runHook preBuild
     export LC_ALL="en_US.UTF-8"
-    export includetex="${includetex}"
-    ${zsh}/bin/zsh -df ${./build.zsh}
+    dngbuild
     runHook postBuild
   '';
   nativeBuildInputs = [
     coreutils
     dndtex
+    gawk
     glibcLocales
     gnused
+    jq
     pandoc
+    qpdf
+    scripts
     zsh
   ];
 
