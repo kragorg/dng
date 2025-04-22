@@ -38,7 +38,7 @@ The battlefield erupts in a symphony of magical and martial action, each crew me
 
 Kragor chants arcane words, “Mactē virtutē”. As the last word is uttered, a sudden chill surges through the air. A shimmering, icy aura begins to emanate from his form, enveloping him in a protective shell of frost. He then moves quickly to the ballista, grabs a large bolt, and loads it. Scarlet then springs to the weapon, her aim sharp and focused on the writhing tentacled horror.
 
-While Scarlet tries to get a bead on the beat, a miraculous scene unfolds near the wreckage: one of the shipwrecked survivors lifts his companion, a ring sparkling eerily on his finger before he inexplicably sprints across the water’s surface, defying natural law.
+While Scarlet tries to get a bead on the beast, a miraculous scene unfolds near the wreckage: one of the shipwrecked survivors lifts his companion, a ring sparkling eerily on his finger before he inexplicably sprints across the water’s surface, defying natural law.
 
 Elara, quick-witted and creative, strums her harp to conjure a minor illusion— a tantalizing, hopefully seductive squid-form designed to confuse their monstrous attacker. As the form fully materializes, her harp strings continue to vibrate with an inspiring melody, empowering Halite with courage and skill.
 
