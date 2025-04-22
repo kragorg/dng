@@ -4,7 +4,7 @@
 
 Then, he gasps, back in the Remorhaz’s cabin, the phantom cold clinging to him. His hands feel… gritty. Confused, his mind thick with the memory of ice, he raises them into the faint moonlight. Dirt. Dark, loamy earth is packed beneath his fingernails.
 
-Where did this come from? He swings his legs out of the bunk, scanning the cramped space. His bunk is as he left it; nothing is disturbed. Still bewildered, he settles back and begins a slow ritual to attune himself to the presence of magic, desperate for an explanation. Extending his arcane senses, he scans the cabin. Enchanted auras bloom nearby: the dagger Doctor Pepe carries… but also something else he does no recognize. Further away, Ingrid’s lycanthropy-suppressing amulet. He checks his bunk, his gear, himself. Nothing. No trace of sorcery explains the vivid nightmare or the impossible dirt. He stares at his hands, the earthy grit a stubborn, unsettling riddle.
+Where did this come from? He swings his legs out of the bunk, scanning the cramped space. His bunk is as he left it; nothing is disturbed. Still bewildered, he settles back and begins a slow ritual to attune himself to the presence of magic, desperate for an explanation. Extending his arcane senses, he scans the cabin. Enchanted auras bloom nearby: the dagger Doctor Pepe carries… but also something else he does not recognize. Further away, Ingrid’s lycanthropy-suppressing amulet. He checks his bunk, his gear, himself. Nothing. No trace of sorcery explains the vivid nightmare or the impossible dirt. He stares at his hands, the earthy grit a stubborn, unsettling riddle.
 
 Dawn breaks on the fourth day of the adventurer’s journey across the Frigid Depths. A thick fog stretches endlessly before the Remorhaz, reducing the world to a spectral canvas of grays and whites. Visibility collapses to a mere fifty feet, transforming the sea into a claustrophobic realm where sound becomes more reliable than sight.
 
@@ -38,7 +38,7 @@ The battlefield erupts in a symphony of magical and martial action, each crew me
 
 Kragor chants arcane words, “Mactē virtutē”. As the last word is uttered, a sudden chill surges through the air. A shimmering, icy aura begins to emanate from his form, enveloping him in a protective shell of frost. He then moves quickly to the ballista, grabs a large bolt, and loads it. Scarlet then springs to the weapon, her aim sharp and focused on the writhing tentacled horror.
 
-While Scarlet tries to get a bead on the beat, a miraculous scene unfolds near the wreckage: one of the shipwrecked survivors lifts his companion, a ring sparkling eerily on his finger before he inexplicably sprints across the water’s surface, defying natural law.
+While Scarlet tries to get a bead on the beast, a miraculous scene unfolds near the wreckage: one of the shipwrecked survivors lifts his companion, a ring sparkling eerily on his finger before he inexplicably sprints across the water’s surface, defying natural law.
 
 Elara, quick-witted and creative, strums her harp to conjure a minor illusion— a tantalizing, hopefully seductive squid-form designed to confuse their monstrous attacker. As the form fully materializes, her harp strings continue to vibrate with an inspiring melody, empowering Halite with courage and skill.
 
