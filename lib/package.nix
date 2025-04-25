@@ -24,7 +24,7 @@ let
       }
       ''
         mkdir -p $out/bin
-        for file in dngbuild dngtolatex indexhtml run chapters; do
+        for file in build indexhtml tohtml tolatex run chapters; do
           install -m 0755 ${src}/lib/$file $out/bin/
           patchShebangs $out/bin/$file
         done
@@ -42,7 +42,6 @@ stdenv.mkDerivation rec {
   inherit pname version;
   inherit src scripts markdown;
 
-  synopsis = "synopsis.md";
   includetex = pkgs.writeText "include.tex" ''
     \usepackage[english]{babel}
     \usepackage[utf8]{inputenc}
@@ -50,7 +49,7 @@ stdenv.mkDerivation rec {
     \usepackage{etoolbox}
     \newfontfamily\gillius{GilliusADFNo2}[NFSSFamily=GilliusADFNoTwo-LF]
     \sloppy
-    \graphicspath{ {${src}/images/} }
+    \graphicspath{{${src}/chapters/}}
     \newcounter{dngchapter}
     \makeatletter
     \pretocmd{\@chapter}{%
@@ -66,7 +65,7 @@ stdenv.mkDerivation rec {
   buildPhase = ''
     runHook preBuild
     export LC_ALL="en_US.UTF-8"
-    dngbuild
+    build
     runHook postBuild
   '';
   nativeBuildInputs = [

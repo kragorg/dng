@@ -1,0 +1,209 @@
+#! /usr/bin/env zsh -df
+setopt errexit pipefail
+: ${src:=${PWD}} ${out:=outputs/out}
+
+zparseopts -D -F -a opts -synopsis:=synopsis -no-html -no-pdf
+
+# We need a writable home directory for luaotfload’s font cache.
+export HOME="$PWD"
+
+# Base name for our output files. Additional names will be derived
+# from these.
+base='Dungeons & Gardens'
+
+# If the source file names are given on the command line, we use them
+# for the main document. Otherwise we expect them to be specified in the
+# environment variable `markdown`, shell-quoted. Similarly, the synopsis
+# source file is specified using the `--synopsis` option or the
+# `synopsis` environment variable. The file names are taken as relative
+# to the `src` directory.
+if (( ${#argv} > 0 )) {
+  inputs=( ${argv} )
+} else {
+  inputs=( ${(Q)${(z)markdown}} )  # z: Split into words using shell parsing.
+}                                  # Q: Remove quoting.
+inputs=( ${src}/${^inputs} )       # ^: RC_PARAM_EXPAND.
+if (( ${#inputs} == 0 )) {
+  print -Pru2 --  "%F{red}No inputs, bailing.%f"
+  exit 2
+}
+synopsis=${synopsis:-synopsis.md}
+
+tohtml=(
+  tohtml
+  --site ${base}
+  --css styles/main.css
+  --filter ${src}/lib/dnd.lua
+)
+tolatex=(
+  tolatex
+  --include ${includetex}
+  --filter ${src}/lib/dnd.lua
+)
+sed_for_print=(
+  sed -E -e
+  's/,bg=full\b/,bg=print/'
+)
+fonts=(
+  luaotfload-tool
+  --formats=otf
+  --update
+)
+latexmk=(
+  latexmk
+  --pdflua
+  --interaction=batchmode
+  --halt-on-error
+)
+install=(
+  install
+  -D -t ${out}
+  -m 0644
+)
+install_styles=(
+  install
+  -D -t ${out}/styles
+  -m 0644
+  ${src}/lib/styles/*.css
+)
+install_assets=(
+  install
+  -D -t ${out}/assets
+  -m 0644
+  ${src}/lib/assets/*.jpg
+  ${src}/lib/assets/*.woff2
+)
+outputs=(
+  index.html
+  "${base} — Synopsis.html"
+  ${base}.tex
+  ${base}.pdf
+  "${base} — Synopsis.pdf"
+  "${base} (Print).pdf"
+)
+
+function buildhtml {
+  print -Pru2 -- '%F{magenta}••• Markdown to HTML •••%f'
+  [[ -n ${synopsis} ]] && run ${tohtml} --output "${base} — Synopsis.html" ${src}/${synopsis}
+  chapters=()
+  n=1
+  for input ( ${inputs} ) {
+    prefix=""
+    name=${input:t:r}
+    case ${name} in
+      *Prequel)
+        name=Prequel
+        ;;
+      Appendix*)
+        ;;
+      *)
+        prefix="Chapter ${n} — "
+        let ++n
+        ;;
+    esac
+    typeset -p prefix
+    typeset -p name
+    args=( --output ${name}.html ${input} )
+    [[ -n ${prefix} ]] && args[1,0]=( --prefix ${prefix} )
+    run ${tohtml} ${args}
+    title="$(jq -r .title ${name}.json)"
+    [[ ${name} != ${title} ]] && run mv -f ${name}.html ${title}.html
+    chapters+=( ${title} )
+  }
+  html_chapters=( ${^chapters}.html )  # ^: RC_EXPAND_PARAM
+}
+
+
+function buildpdf {
+  if [[ ! -d $(kpsewhich -var-value TEXMFVAR)/luatex-cache/generic/fonts ]] {
+    print -Pru2 -- '%F{magenta}••• Font caching •••%f'
+    run ${fonts}
+  }
+
+
+  print -Pru2 -- '%F{magenta}••• Markdown to LaTeX •••%f'
+
+  [[ -n ${synopsis} ]] && run ${tolatex} --output synopsis.tex ${src}/${synopsis}
+  run ${tolatex} --output ${base}.tex ${inputs}
+  run ${sed_for_print} ${base}.tex > ${base}-print.tex
+
+
+  print -Pru2 -- '%F{magenta}••• LaTeX to PDF •••%f'
+
+  run ${latexmk} --jobname=${base} ${base}.tex
+  run ${latexmk} --jobname="${base} — Synopsis" synopsis.tex
+  run ${latexmk} --jobname="${base} (Print)" ${base}-print.tex
+
+
+  print -Pru2 -- '%F{magenta}••• Splitting PDF •••%f'
+
+  chapters=()
+  n=1
+  run chapters ${base}.log | while read range name; do
+    case ${name} in
+      *Prequel|Appendix*)
+        ;;
+      *)
+        name="Chapter ${n} — ${name}"
+        let ++n
+        ;;
+    esac
+    split=(
+      --pages .
+      $range
+      --
+      --linearize
+    )
+    run qpdf ${base}.pdf ${split} ${name}.pdf
+    run qpdf "${base} (Print).pdf" ${split} "${name} (Print).pdf"
+    chapters+=( ${name} )
+  done
+  pdf_chapters=( ${^chapters}.pdf )  # ^: RC_EXPAND_PARAM
+}
+
+
+(( ${opts[(I)--no-html]} )) || buildhtml
+(( ${opts[(I)--no-pdf]} )) || buildpdf
+
+
+print -Pru2 -- '%F{magenta}••• Index generation •••%f'
+
+cat > index.md <<EOF
+---
+title: 'Dungeons & Gardens'
+...
+
+- [Full Story](Dungeons%20%26%20Gardens.pdf)
+- [Synopsis](Dungeons%20%26%20Gardens%20%E2%80%94%20Synopsis.html)
+
+## Individual Chapters
+
+EOF
+
+integer fd
+exec {fd}>&1 >>index.md
+for chapter ( ${html_chapters:-${pdf_chapters}} ) {
+  print -nr -- "- [${chapter:r}]("
+  print -nr -- "${chapter}" | jq -sRrj @uri
+  print -r -- ")"
+}
+exec 1>&$fd {fd}>&-
+
+indexhtml=(
+  indexhtml
+  --css styles/index.css
+  --output index.html
+  index.md
+)
+run ${indexhtml}
+
+
+print -Pru2 -- '%F{magenta}••• Installation •••%f'
+run ${install_styles}
+run ${install_assets}
+run ${install} ${src}/chapters/*.jpg(N) ${src}/appendices/*.jpg(N)  # N: null if no match
+run ${install} ${outputs}
+run ${install} ${html_chapters} ${pdf_chapters}
+(( ${#pdf_chapters} )) && run ${install} ${^pdf_chapters:r}" (Print).pdf"
+
+print -Pru2 -- '%F{green}••• BUILD COMPLETE •••%f'

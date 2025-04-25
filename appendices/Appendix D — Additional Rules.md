@@ -1,4 +1,4 @@
-# Appendix D — Additional Rules
+# Appendix D — Additional Rules
 
 ## Tool Proficiencies
 
@@ -208,7 +208,7 @@ Perhaps the most common tools used by adventurers, thieves’ tools are designed
 
 ## Spells
 
-#### Primal Savagery
+#### Primal Savagery {#primal-savagery .spell}
 
 _Source: Xanathar’s Guide to Everything_
 
@@ -225,7 +225,7 @@ You channel primal magic to cause your teeth or fingernails to sharpen, ready to
 
 The spell’s damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
 
-#### Zephyr Strike
+#### Zephyr Strike {#zephyr-strike .spell}
 
 _Source: Xanathar’s Guide to Everything_
 

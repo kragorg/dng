@@ -64,7 +64,7 @@ Kragor stands firm upon the wooden deck, veins throbbing with dark energy. Sinis
 
 Mera maneuvers the ship into a better firing position. Scarlet’s slender fingers trace intricate patterns in the air, drawing forth a mote of pure elemental fire that dances and trembles above her open palm— a spark of primal energy, bright and hungry. With a fluid motion born of wilderness training, she hurls the flame toward the squid’s writhing mass, the blazing projectile arcing through salt-laden wind before striking the creature’s membranous hide, erupting into a consuming conflagration that sears and blisters its pallid flesh.
 
-![](remorhaz_route.png)
+![](remorhaz_route.jpg)
 
 “Get ready to aim and fire!” Captain Stonebeard bellows as he rapidly reloads the ballista. In that fleeting moment, Doctor Pepe emerges like a phantom, his crossbow bolt striking true into the squid’s vulnerable flank. The beast roars in pain, its thick, dark flesh quivering from the impact.
 

@@ -16,11 +16,16 @@
       system:
       let
         src = ./.;
-        pkgs = nixpkgs.legacyPackages.${system};
-        dndbook = pkgs.callPackage ./lib/dndbook.nix { };
-        dndtex = pkgs.callPackage ./lib/dndtex.nix { inherit dndbook; };
-        dungeons-and-gardens = pkgs.callPackage ./lib/package.nix {
+        callPackage = nixpkgs.legacyPackages.${system}.callPackage;
+        dndbook = callPackage ./lib/dndbook.nix { };
+        dndtex = callPackage ./lib/dndtex.nix {
+          inherit dndbook;
+        };
+        dungeons-and-gardens = callPackage ./lib/package.nix {
           inherit dndtex src;
+        };
+        dngshell = callPackage ./lib/shell.nix {
+          inherit dungeons-and-gardens src;
         };
       in
       rec {
@@ -29,24 +34,7 @@
           default = dungeons-and-gardens;
         };
         devShells = {
-          default = pkgs.mkShell {
-            inherit src;
-            inherit (dungeons-and-gardens)
-              includetex
-              markdown
-              synopsis
-              ;
-            name = "dungeons-and-gardens-shell";
-            shellHook = ''
-              export src="$PWD"
-              export PATH=$PWD/lib:$PATH
-              mkdir -p obj
-              cd obj
-            '';
-            packages = dungeons-and-gardens.nativeBuildInputs ++ [
-              pkgs.nixfmt-rfc-style
-            ];
-          };
+          default = dngshell;
         };
       }
     );
