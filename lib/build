@@ -2,7 +2,7 @@
 setopt errexit pipefail
 : ${src:=${PWD}} ${out:=outputs/out}
 
-zparseopts -D -F -a opts -A values -synopsis:
+zparseopts -D -F -synopsis:=synopsis
 
 # We need a writable home directory for luaotfload’s font cache.
 export HOME="$PWD"
@@ -27,12 +27,15 @@ if (( ${#inputs} == 0 )) {
   print -Pru2 --  "%F{red}No inputs, bailing.%f"
   exit 2
 }
-if [[ -n ${values[--synopsis]} ]] {
-  synopsis=${values[--synopsis]}
-}
+synopsis=${synopsis:-synopsis.md}
 
+tohtml=(
+  tohtml
+  --css styles/main.css
+  --filter ${src}/lib/dnd.lua
+)
 tolatex=(
-  dngtolatex
+  tolatex
   --include ${includetex}
   --filter ${src}/lib/dnd.lua
 )
@@ -56,13 +59,62 @@ install=(
   -D -t ${out}
   -m 0644
 )
+install_styles=(
+  install
+  -D -t ${out}/styles
+  -m 0644
+  ${src}/lib/styles/*.css
+)
+install_assets=(
+  install
+  -D -t ${out}/assets
+  -m 0644
+  ${src}/lib/assets/*.jpg
+  ${src}/lib/assets/*.woff2
+)
 outputs=(
   index.html
+  "${base} — Synopsis.html"
   ${base}.tex
   ${base}.pdf
-  "${base} (Synopsis).pdf"
+  "${base} — Synopsis.pdf"
   "${base} (Print).pdf"
 )
+
+
+print -Pru2 -- '%F{magenta}••• Markdown to HTML •••%f'
+[[ -n ${synopsis} ]] && run ${tohtml} --output "${base} — Synopsis.html" ${src}/${synopsis}
+chapters=()
+n=1
+for input ( ${inputs} ) {
+  prefix=""
+  name=${input:t:r}
+  case ${name} in
+    *Prequel)
+      name=Prequel
+      ;;
+    Appendix*)
+      ;;
+    *)
+      prefix="Chapter ${n} — "
+      let ++n
+      ;;
+  esac
+  typeset -p prefix
+  typeset -p name
+  args=( --output ${name}.html ${input} )
+  [[ -n ${prefix} ]] && args[1,0]=( --prefix ${prefix} )
+  run ${tohtml} ${args}
+  if [[ -n ${prefix} ]] {
+    oldname=${name}
+    title="$(jq -r .title ${name}.json)"
+    name=${prefix}${title}
+    run mv -f ${oldname}.html ${name}.html
+  }
+  chapters+=( ${name} )
+}
+html_chapters=( ${^chapters}.html )  # ^: RC_EXPAND_PARAM
+
 
 if [[ ! -d $(kpsewhich -var-value TEXMFVAR)/luatex-cache/generic/fonts ]] {
   print -Pru2 -- '%F{magenta}••• Font caching •••%f'
@@ -72,7 +124,7 @@ if [[ ! -d $(kpsewhich -var-value TEXMFVAR)/luatex-cache/generic/fonts ]] {
 
 print -Pru2 -- '%F{magenta}••• Markdown to LaTeX •••%f'
 
-run ${tolatex} --output synopsis.tex ${src}/${synopsis}
+[[ -n ${synopsis} ]] && run ${tolatex} --output synopsis.tex ${src}/${synopsis}
 run ${tolatex} --output ${base}.tex ${inputs}
 run ${sed_for_print} ${base}.tex > ${base}-print.tex
 
@@ -80,17 +132,17 @@ run ${sed_for_print} ${base}.tex > ${base}-print.tex
 print -Pru2 -- '%F{magenta}••• LaTeX to PDF •••%f'
 
 run ${latexmk} --jobname=${base} ${base}.tex
-run ${latexmk} --jobname="${base} (Synopsis)" synopsis.tex
+run ${latexmk} --jobname="${base} — Synopsis" synopsis.tex
 run ${latexmk} --jobname="${base} (Print)" ${base}-print.tex
 
 
-print -Pru2 -- '%F{magenta}••• Post processing •••%f'
+print -Pru2 -- '%F{magenta}••• Splitting PDF •••%f'
 
 chapters=()
 n=1
 run chapters ${base}.log | while read range name; do
   case ${name} in
-    Prequel|Appendix*)
+    *Prequel|Appendix*)
       ;;
     *)
       name="Chapter ${n} — ${name}"
@@ -107,6 +159,7 @@ run chapters ${base}.log | while read range name; do
   run qpdf "${base} (Print).pdf" ${split} "${name} (Print).pdf"
   chapters+=( ${name} )
 done
+pdf_chapters=( ${^chapters}.pdf )  # ^: RC_EXPAND_PARAM
 
 
 print -Pru2 -- '%F{magenta}••• Index generation •••%f'
@@ -118,7 +171,7 @@ title: 'Dungeons & Gardens'
 
 [Full Story](Dungeons%20%26%20Gardens.pdf)
 
-[Synopsis](Dungeons%20%26%20Gardens%20%28Synopsis%29.pdf)
+[Synopsis](Dungeons%20%26%20Gardens%20%E2%80%94%20Synopsis.html)
 
 **Individual Chapters**
 
@@ -126,16 +179,16 @@ EOF
 
 integer fd
 exec {fd}>&1 >>index.md
-for chapter ( ${chapters} ) {
-  print -nr -- "- [${chapter}]("
-  print -nr -- "${chapter}.pdf" | jq -sRrj @uri
+for chapter ( ${html_chapters} ) {
+  print -nr -- "- [${chapter:r}]("
+  print -nr -- "${chapter}" | jq -sRrj @uri
   print -r -- ")"
 }
 exec 1>&$fd {fd}>&-
 
 indexhtml=(
   indexhtml
-  --css ${src}/lib/style.css
+  --css ${src}/lib/styles/index.css
   --output index.html
   index.md
 )
@@ -143,8 +196,11 @@ run ${indexhtml}
 
 
 print -Pru2 -- '%F{magenta}••• Installation •••%f'
+run ${install_styles}
+run ${install_assets}
+run ${install} ${src}/chapters/*.jpg(N) ${src}/appendices/*.jpg(N)  # N: null if no match
 run ${install} ${outputs}
-run ${install} ${^chapters}.pdf
-run ${install} ${^chapters}" (Print).pdf"
+run ${install} ${html_chapters} ${pdf_chapters}
+run ${install} ${^pdf_chapters:r}" (Print).pdf"
 
 print -Pru2 -- '%F{green}••• BUILD COMPLETE •••%f'
