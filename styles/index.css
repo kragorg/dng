@@ -1,0 +1,305 @@
+:root {
+  /* Colors */
+  --parchment: #fbf8e8;
+  --parchment-dark: #f2e5b7;
+  --red: #822000;
+  --dark-red: #580c00;
+  --gold: #c9ad6a;
+  --dark-brown: #58180d;
+  --text-color: #3a2618;
+
+  /* Font Stacks (Web Safe - Garamond/Palatino emphasis) */
+  --font-serif-body: Garamond, 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif;
+  --font-serif-header: 'Palatino Linotype', Palatino, Georgia, 'Times New Roman', serif;
+}
+
+html {
+  color: var(--text-color);
+  background-color: #222; /* Fallback */
+  background-image: url('https://www.transparenttextures.com/patterns/dark-wood.png');
+}
+
+body {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color: var(--parchment);
+  background-image: url('https://www.transparenttextures.com/patterns/parchment.png');
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.7);
+  border: 1px solid var(--gold);
+  position: relative; /* For ::before/::after */
+  font-family: var(--font-serif-body);
+  line-height: 1.6;
+  /* Centering inline-block children (like button paragraphs) */
+  text-align: center;
+}
+
+/* Decorative Top/Bottom Borders */
+body::before,
+body::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 10px;
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 10" preserveAspectRatio="none"><path d="M0,0 L100,0 L95,10 L5,10 Z" fill="%23c9ad6a"/></svg>');
+  background-size: 100% 100%;
+}
+
+body::before { top: 0; }
+body::after { bottom: 0; transform: rotate(180deg); }
+
+/* --- Typography & Content Blocks --- */
+
+/* Shared Header-like Styles (Headings, TH, Strong Heading) */
+h1, h2, h3, h4, h5, h6,
+th,
+p > strong:only-child {
+  font-family: var(--font-serif-header);
+  color: var(--dark-red);
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Standard Headings */
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 1.4em;
+  margin-bottom: 0.5em;
+  border-bottom: 2px solid var(--gold);
+  padding-bottom: 0.2em;
+  text-align: left; /* Override body center */
+}
+
+/* Main Page Title */
+h1.title {
+  font-size: 2.8em;
+  text-align: center; /* Keep centered */
+  margin-top: 0.5em;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+  border-bottom: 3px double var(--gold);
+  padding-bottom: 0.3em;
+}
+
+/* General Paragraphs (Reset alignment) */
+body > p {
+  text-align: left; /* Override body center */
+}
+
+/* Links */
+a {
+  color: var(--red);
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--dark-brown);
+  text-decoration: underline;
+}
+
+/* Lists */
+ul {
+  list-style-type: none;
+  padding-left: 1.7em; /* Keep specific padding for ::before positioning */
+  text-align: left; /* Override body center */
+}
+
+ul li {
+  position: relative; /* For ::before positioning */
+  margin-bottom: 0.5em;
+}
+
+ul li::before {
+  content: "•";
+  color: var(--red);
+  font-weight: bold;
+  position: absolute;
+  left: 0;
+  top: 0.1em; /* Fine-tune based on font */
+  width: 1em;
+  margin-left: -1em; /* Pull into padding */
+}
+
+/* Blockquotes */
+blockquote {
+  background-color: var(--parchment-dark);
+  border-left: 3px solid var(--gold);
+  margin: 1.5em 0;
+  padding: 1em 1.5em;
+  position: relative; /* For ::before positioning */
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+  font-style: italic;
+  text-align: left; /* Override body center */
+}
+
+blockquote::before {
+  content: "\201C";
+  font-family: var(--font-serif-header);
+  font-size: 4em;
+  position: absolute;
+  left: 0.1em;
+  top: -0.2em;
+  color: var(--gold);
+  opacity: 0.5;
+  font-style: normal;
+  line-height: 1;
+}
+
+/* Tables */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5em 0;
+  background-color: var(--parchment);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  text-align: left; /* Override body center */
+}
+
+th {
+  background-color: var(--red);
+  color: white;
+  text-align: left; /* Keep explicitly left */
+  padding: 0.5em;
+  border: 1px solid var(--dark-red);
+  /* Inherits common header styles */
+}
+
+td {
+  padding: 0.5em;
+  border: 1px solid var(--gold);
+  font-family: var(--font-serif-body); /* Ensure body font */
+  text-align: left; /* Keep explicitly left */
+}
+
+tr:nth-child(even) {
+  background-color: var(--parchment-dark);
+}
+
+/* --- Specific Layout Sections --- */
+
+/* Main Link Button Paragraphs (Centered, side-by-side on large screens) */
+body > p:nth-of-type(1),
+body > p:nth-of-type(2) {
+  display: inline-block;
+  vertical-align: top;
+  margin: 1em 0.5em 0.5em;
+  text-align: center; /* Keep centered */
+}
+
+/* Main Link Button Styling */
+body > p:nth-of-type(1) a,
+body > p:nth-of-type(2) a {
+  display: inline-block;
+  padding: 0.8em 1.5em;
+  background-color: var(--red);
+  color: white; /* Use plain white, avoids !important */
+  border-radius: 5px;
+  font-family: var(--font-serif-header);
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  text-decoration: none; /* Ensure no underline */
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+body > p:nth-of-type(1) a:hover,
+body > p:nth-of-type(2) a:hover {
+  background-color: var(--dark-red);
+  color: white; /* Ensure white on hover */
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  text-decoration: none; /* Ensure no underline on hover */
+}
+
+/* "Individual Chapters" Heading (Styled Strong element) */
+p > strong:only-child {
+  display: block;
+  font-size: 1.5em;
+  margin: 2.5em auto 1em; /* Use auto margin for center block */
+  border-bottom: 2px solid var(--gold);
+  padding-bottom: 0.2em;
+  text-align: center; /* Keep centered */
+  /* Inherits common header styles */
+  max-width: 90%; /* Prevent excessive width */
+}
+
+/* Chapter List Container (Multi-column) */
+p:has(> strong:only-child) + ul {
+  column-count: 2;
+  column-gap: 1em;
+  padding: 0; /* Reset default UL padding */
+  list-style-type: none; /* Ensure no bullets */
+  margin-top: 1em;
+  text-align: left; /* Override body center */
+}
+
+/* Chapter List Items */
+p:has(> strong:only-child) + ul li {
+  background-color: var(--parchment-dark);
+  border: 1px solid var(--gold);
+  border-radius: 5px;
+  padding: 1em;
+  margin-bottom: 1em; /* Spacing between items in a column */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: all 0.2s ease;
+  break-inside: avoid-column;
+  page-break-inside: avoid; /* Older browsers */
+  position: relative; /* Keep relative for potential future pseudo-elements */
+  text-align: left; /* Keep LI content aligned left */
+}
+
+/* Remove the default bullet applied by general UL rules */
+p:has(> strong:only-child) + ul li::before {
+  display: none;
+}
+
+p:has(> strong:only-child) + ul li:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Chapter List Links */
+p:has(> strong:only-child) + ul li a {
+  display: block; /* Make link fill the item */
+  text-align: center; /* Center text within the link block */
+  font-size: 1.1em;
+  font-family: var(--font-serif-header); /* Using header font */
+  /* Inherits link color/hover from general 'a' rules */
+}
+
+/* --- Responsive Adjustments --- */
+@media (max-width: 600px) {
+  body {
+    padding: 1rem; /* Reduce padding */
+    margin: 1rem auto; /* Reduce margin */
+    /* text-align: center; remains */
+  }
+
+  h1.title {
+    font-size: 2.2em; /* Slightly smaller title */
+  }
+
+  /* Stack the main link button paragraphs */
+   body > p:nth-of-type(1),
+   body > p:nth-of-type(2) {
+     display: block; /* Stack them */
+     margin-left: auto; /* Center the block */
+     margin-right: auto;
+     max-width: 350px; /* Limit width */
+   }
+   /* Ensure button doesn't exceed paragraph width */
+   body > p:nth-of-type(1) a,
+   body > p:nth-of-type(2) a {
+     /* display: block; /* Option: make button fill parent width */
+     /* width: 90%; */ /* Example if display: block */
+   }
+
+  /* Single column for chapter list */
+  p:has(> strong:only-child) + ul {
+    column-count: 1;
+  }
+}

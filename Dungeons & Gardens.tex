@@ -1,11 +1,12 @@
 % Options for packages loaded elsewhere
 \PassOptionsToPackage{unicode}{hyperref}
 \PassOptionsToPackage{hyphens}{url}
-%
 \documentclass[
   letterpaper,12pt,twoside,twocolumn,openany,
   nodeprecatedcode,bg=full]{dndbook}
+\usepackage{xcolor}
 \usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
 \usepackage{iftex}
 \ifPDFTeX
   \usepackage[T1]{fontenc}
@@ -36,31 +37,31 @@
 }{% if KOMA class
   \KOMAoptions{parskip=half}}
 \makeatother
-\usepackage{xcolor}
 \usepackage{graphicx}
 \makeatletter
-\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
-\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
-\makeatother
-% Scale images if necessary, so that they will not overflow the page
-% margins by default, and it is still possible to overwrite the defaults
-% using explicit options in \includegraphics[width, height, ...]{}
-\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
 % Set default figure placement to htbp
-\makeatletter
 \def\fps@figure{htbp}
 \makeatother
 \setlength{\emergencystretch}{3em} % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
 \usepackage[english]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage{dblfloatfix}
 \usepackage{etoolbox}
 \newfontfamily\gillius{GilliusADFNo2}[NFSSFamily=GilliusADFNoTwo-LF]
 \sloppy
-\graphicspath{ {/nix/store/srxay4d6x4jzaiww3x36bynvd1phzyh3-2ng6w95cr7nx81zm76gdll196v550nz6-source/images/} }
+\graphicspath{{/nix/store/jhx7qy25163dxj7a1g3jkhzvzn7c9adi-rbzvjmnpapinjvwk16gx0gx56c8xkvl1-source/chapters/}}
 \newcounter{dngchapter}
 \makeatletter
 \pretocmd{\@chapter}{%
@@ -71,9 +72,6 @@
 \AtEndDocument{%
   \typeout{dngchapter: \arabic{dngchapter} \the\numexpr\value{page}+1\relax}%
 }
-\ifLuaTeX
-  \usepackage{selnolig}  % disable illegal ligatures
-\fi
 \usepackage{bookmark}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \urlstyle{same}
@@ -2204,7 +2202,7 @@ striking the creature's membranous hide, erupting into a consuming
 conflagration that sears and blisters its pallid flesh.
 
 \begin{figure*}[b]
-\includegraphics{remorhaz_route.png}
+\pandocbounded{\includegraphics[keepaspectratio]{remorhaz_route.jpg}}
 \end{figure*}
 
 ``Get ready to aim and fire!'' Captain Stonebeard bellows as he rapidly
@@ -2996,7 +2994,7 @@ Whisper & one javelin lost while fighting squid
 
 \vfill\break
 
-\DndItemHeader{Adventure Sexy}{Book, uncommon}
+{\emph{Book, uncommon}}
 
 Penned by the illustrious, if not always entirely humble, bard Scanlan
 Shorthalt, this exquisite leather-bound tome with its full title
@@ -3012,7 +3010,7 @@ sometimes stretching the truth) present one's deeds to potential
 romantic interests. It's more a testament to Scanlan's ego and
 showmanship than a source of arcane power.
 
-\DndItemHeader{Aeorian Dagger, +1}{Weapon, uncommon}
+{\emph{Weapon, uncommon}}
 
 A finely wrought dagger previously sold to Pelc's Curiosities, pilfered
 by Tulgi Lutan, and surrendered by same to Kragor Grimstride. With the
@@ -3029,24 +3027,24 @@ you must have a feature that lets you use it.
 property, you can make it as part of the Attack action instead of as a
 Bonus Action. You can make this extra attack only once per turn.
 
-\DndItemHeader{Arrows, +1}{Weapon, uncommon}
+{\emph{Weapon, uncommon}}
 
 You have a +1 bonus to attack and damage rolls made with this piece of
 magic ammunition. Once it hits a target, the ammunition is no longer
 magical.
 
-\DndItemHeader{Bald Dwarf Whisky}{Consumable, uncommon}
+{\emph{Consumable, uncommon}}
 
 An Uthodurnian specialty spirit, with an estimated value of 25 gp.
 
-\DndItemHeader{Gilded Scroll Case}{Gear}
+{\emph{Gear}}
 
 A finely crafted mahogany container adorned with gold filigree and
 inlaid gemstones, providing both beauty and protection for the scrolls
 inside. It features runes that offer magical safeguarding against
 damage, making it ideal for keeping valuable parchments secure.
 
-\DndItemHeader{Ice Hammer}{Gear}
+{\emph{Gear}}
 
 A specialized tool for navigating treacherous icy and snowy
 environments, an ice hammer features a sharp pick on one side of its
@@ -3069,7 +3067,7 @@ thin ice. You can use an action to strike a surface of ice. For every
 inch of ice thickness, this requires a successful DC 10 Strength check.
 On a success, you break through up to 1 inch of ice.
 
-\DndItemHeader{Jade Statuette of a Storm Giant}{Miscellaneous}
+{\emph{Miscellaneous}}
 
 A meticulously carved figurine, standing approximately eight inches
 tall, depicting a storm giant in mid-roar, with intricate details
@@ -3081,11 +3079,11 @@ at the base suggest it could be used in rituals to commune with primal
 forces of nature, potentially granting temporary insight or power
 related to storms.
 
-\DndItemHeader{Silver Ring}{Jewelry}
+{\emph{Jewelry}}
 
 A silver ring with an inset jasper stone, valued at 50 gold pieces.
 
-\DndItemHeader{Snowshoes}{Gear}
+{\emph{Gear}}
 
 These sturdy snowshoes are constructed with a wooden frame, strung with
 durable babiche (rawhide lacing) for the webbing. Animal hide straps and
@@ -3104,7 +3102,7 @@ by 10 feed when not moving on ice or snow.
 your weight slightly. When moving across thin ice, you gain a +2 bonus
 to the DC of any check to see if the ice breaks under you.
 
-\DndItemHeader{Hulil’s Journal}{Book, common}
+{\emph{Book, common}}
 
 Hulil Lutan's journal, mentioning that she sold a vial of blue powder to
 Irven Liel.
@@ -3401,7 +3399,7 @@ Personae}\label{appendix-b-dramatis-personae}
   was an arrow to the eye from the rescued captain, Gerhard.
 \end{enumerate}
 
-\chapter{Appendix D ---~Additional
+\chapter{Appendix D --- Additional
 Rules}\label{appendix-d-additional-rules}
 
 \section{Tool Proficiencies}\label{tool-proficiencies}
