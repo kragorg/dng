@@ -83,7 +83,7 @@ h1 + p::first-letter {
   margin-top: -1rem;
   margin-bottom: -20px;
   margin-left: -40px;
-  font-size: clamp(4rem, 12vw, 20rem);
+  font-size: clamp(4rem, 20vw, 40rem);
   line-height: 1em;
   color: rgba(0, 0, 0, 0);
   background-image: linear-gradient(-45deg, #322814, #998250, #322814);
