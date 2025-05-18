@@ -11,6 +11,6 @@ nix build
 or
 
 ```
-nix develop --command
-$src/lib/build.zsh
+nix develop
+build
 ```
