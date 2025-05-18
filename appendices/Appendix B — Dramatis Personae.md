@@ -70,4 +70,4 @@
 
 35. **Westeroff**: A retired wizard in Palebank Village. He provides limited magical identification services, confirms Urgon’s dagger is magical, sells Halite a crystal focus, and identifies a garnet for Doctor Pepe.
 
-36. **Whisper**: A tabaxi rogue known for exceptional agility, stealth, and scouting. She often takes point, gathers information, and utilizes her claws and thrown weapons in combat. She survived being partially swallowed by an ice frog and later bitten by Ingrid in wolf form. She has enhanced resilience and self-healing capabilities. She worked the rigging aboard the *Remorhaz*, bonded with Haldor, and excelled in the squid battle.
+36. **Whisper**: A tabaxi monk known for exceptional agility, stealth, and scouting. She often takes point, gathers information, and utilizes her claws and thrown weapons in combat. She survived being partially swallowed by an ice frog and later bitten by Ingrid in wolf form. She has enhanced resilience and self-healing capabilities. She worked the rigging aboard the *Remorhaz*, bonded with Haldor, and excelled in the squid battle.
