@@ -36,7 +36,8 @@ let
     dir: builtins.filter (filename: builtins.match ".*\\.md$" filename != null) (listFiles dir);
   chapters = listMarkdown "chapters";
   appendices = listMarkdown "appendices";
-  markdown = lib.escapeShellArgs (chapters ++ appendices);
+  characters = listMarkdown "characters";
+  markdown = lib.escapeShellArgs (chapters ++ appendices ++ characters);
 in
 stdenv.mkDerivation rec {
   inherit pname version;

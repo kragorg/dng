@@ -91,18 +91,16 @@ function buildhtml {
     prefix=""
     name=${input:t:r}
     case ${name} in
-      *Prequel)
-        name=Prequel
-        ;;
-      Appendix*)
-        ;;
-      *)
+      202*—*)
         prefix="Chapter ${n} — "
         let ++n
         ;;
+      *Prequel)
+        name=Prequel
+        ;;
+      *)
+        ;;
     esac
-    typeset -p prefix
-    typeset -p name
     args=( --output ${name}.html ${input} )
     [[ -n ${prefix} ]] && args[1,0]=( --prefix ${prefix} )
     run ${tohtml} ${args}
@@ -141,11 +139,16 @@ function buildpdf {
   n=1
   run chapters ${base}.log | while read range name; do
     case ${name} in
-      *Prequel|Appendix*)
+      *Prequel)
+        ;;
+      Appendix*)
+        n=0  # No chapters follow appendices
         ;;
       *)
-        name="Chapter ${n} — ${name}"
-        let ++n
+        if (( n > 0 )) {
+          name="Chapter ${n} — ${name}"
+          let ++n
+        }
         ;;
     esac
     split=(
