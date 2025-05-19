@@ -25,5 +25,5 @@ jobs:
       with:
         folder: result
         git-config-name: Kragor Grimstride
-        git-config-email: kragorg@github.com
+        git-config-email: kragor@grimstride.org
         token: ${{ secrets.GITHUB_TOKEN }}
