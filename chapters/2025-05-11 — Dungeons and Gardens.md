@@ -92,13 +92,17 @@ and as the party leans in,
 the walls of the yurt seem to melt away,
 replaced by the cold, dark streets of Bladegarden.
 
-
-“You all know I get magic from… from some powerful being.
+“I’ve made it no secret
+that I get my magic
+from … somewhere from without our realm.
 But I never told you how, or why I came here.
-Up north. Not your business!
-But now… things are getting weird. Bad weird.
-And I think keeping secret might get you all killed.
-And then I die too, ’cause we stuck together now.”
+To the north.
+My business is my own.
+Yet now… things are getting weird. Bad weird.
+And I fear keeping secrets too close
+might bring you to your doom.
+And then I die too,
+’cause we’re stuck together now.”
 
 He stares beyond the yurt’s walls,
 his eyes unfocused,
@@ -107,74 +111,84 @@ He shares the story of the past,
 and, as he does, his listeners
 are able to see the world in the same bleak way that he does.
 
-“I start this journey after many, many moons of strange sleep
-when I live on streets of Bladegarden.
-Hearin’ whispers.
-Bad dreams full of dark shapes that know my name.
-Seein’ stars fallin’. Big, weird things just outta reach.
-And somethin’ there, watching. Always watching.”
+“My journey began
+after many, many moons of strange sleep
+as I lived on the streets of Bladegarden.
+Hearing whispers.
+Bad dreams full of dark shapes that called my name.
+Visions of stars falling,
+and huge dark shapes just beyond reach.
+And something there, watching. Always watching.”
 He pauses, as if trying to grasp the memories.
-“Then, on very dark night, some man-whelps try kill me.
-I not want to die like nobody.
+“Then, on a very dark night, some man-whelps tried to kill me.
+But I refused to die like a nobody.
 Just another forgotten orc, fatherless trash.
-I was scared. Nearly dead.
-So I yell into darkness… I give up to… whatever thing watching.”
+I was scared and nearly dead.
+So I yelled into darkness…
+I gave up to…
+whatever the watcher was.”
 
 His eyes blaze with an inner fire
 as he describes the moment of transformation.
-“Then I feel it!” he says. “Cold like night but... nice.
-Wrap around me like black smoke.
-It whisper secrets in strange talk I don’ know.
-Power fill me up inside!
-I ain’t sorry at all when I smash stupid face in
-right then and there with a war hammer
-that just appeared in my fist,
+“Then I felt it!” he says. “Cold like night but... nice.
+It wrapped around me like black smoke.
+It whispered secrets in a strange tongue I do not know.
+Then, power filled me!
+A war hammer appeared in my fist from nowhere.
+I felt no remorse
+when I smashed in
+my attacker’s stupid face
+right then and there,
 then blasted the other scum
-with dark cracklin’ magic
-that sent ’em runnin’ like scared rabbits.”
+with dark crackling magic
+that sent them running like scared rabbits.”
 
 Whisper glances at Halite,
 a silent question in her eyes:
 “Where is this going?”
 
 Kragor’s eyes harden as he adds,
-“But I know magic like that has a cost.
-Dreams keep coming. Still make no sense.
-But dreams tell me ‘Go north.’
-‘Go to Eiselcross.’
+“But I know such magic comes at a cost.
+The dreams kept coming, mostly nonsensical.
+Gradually, they formed some thought—
+a command and a promise for greater power.
+‘Go north. Cross the frozen north. To Eiselcross.’
 Don’t know why exactly.
-Maybe find somethin’.
-Maybe smash somethin’.
+Maybe to find something.
+Maybe to smash something.
 
-“But comrades… new dreams now. Worse dreams.
-More than dreams.”
+“But comrades… I’ve new dreams now.
+Worse dreams. More than dreams.”
 The orc shifts uneasily from one foot to another,
 a gesture of worry that his companions are not used to seeing.
-“Back at that tavern, the Jolly Dwarf, some night I sleep bad.
+“Back at that tavern, the Jolly Dwarf, some night I slept bad.
 Couldn’t remember what I dreamed, but when I woke up…
-fingers had dirt under nails. Broken nails. Don’t make no sense!
+my fingers had dirt under the nails.
+Broken nails.
+It made no senses!
 I am clean … fastidious!
-And then on the big boat, the Remorhaz, while crossin’ the ice-sea.
-Woke up in the night.
-But not in my bed!
+And then on the Remorhaz, while crossing the ice sea,
+I woke up in the night.
+But I was not in my bed!
 I was… somewhere else.
 Couldn’t move.
-Felt like mountains of ice pressin’ down on me.
-Hearin’ ice crackin’.
-For a long time, I couldn’t even feel myself breathin’.
+Felt like mountains of ice pressing down on me.
+Hearing ice cracking.
+For a long time, I couldn’t even feel myself breathing.
 Couldn’t scream.
-No dream.
-Felt like I was locked away.
-Buried under ice.
+This was no dream.
+It felt like I was locked away,
+buried under ice.
 Then, snap! Back in my bunk.
 And again, dirt under my nails!
-Dirt that shouldn’ be there… couldn’ be there!”
+Dirt that should not be there…
+could not be there!”
 
 Kragor shudders,
 a chill running down his spine
 that has nothing to do with the icy wind.
 “Whatever got its claws in me…
-it’s doin’ something with my body when I sleepin’.
+it’s doing something with my body when I’m sleeping.
 And that ain’t good for any of us.”
 
 As Kragor’s story ends, a stillness falls over the yurt
