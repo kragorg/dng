@@ -175,7 +175,9 @@ The docks of Palebank Village are beginning to bustle as the adventurers approac
 
 Kragor nods, his grave expression matching the gravity of their mission. “Snowshoes— are they useful for the ice?” he inquires. Elro chuckles dryly. “In Eiselcross, where lava sometimes flows under a thin veneer of ice, yes, they’ll come in handy.”
 
-“How big is this Syrinlya? And how long will our trip be?” Scarlet asks. “Oh, I’d say there’s about 250 souls there. And the trip is not too long. I expect you’ll arrive about four days hence.”
+“How big is this Syrinlya? And how long will our trip be?” Scarlet asks.
+
+“Oh, I’d say there’s about 250 souls there. And the trip is not too long. I expect you’ll arrive about four days hence,” replies Elro.
 
 Whisper surveys the Remorhaz as the party is brought on board. It is a small ship with three sails, armed with two ballistas, one fore and one aft. “A fast ship meant as a scout and message courier,” she thinks to herself.
 
