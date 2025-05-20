@@ -295,7 +295,7 @@ Nearby, Doctor Pepe peels vegetables with the finesse of a master thief. “Cook
 
 Ingrid chuckles. "You’ve certainly stolen the show, Doctor Pepe."
 
-As the meal’s aroma fills the galley, Ingrid gathers them around the table. “Feast your eyes and senses,” she declars. “This is more than food— it’s the fruit of your labor.”
+As the meal’s aroma fills the galley, Ingrid gathers them around the table. “Feast your eyes and senses,” she declares. “This is more than food— it’s the fruit of your labor.”
 
 Each adventurer basks in a warm glow of satisfaction. Their hearts are as full as their bellies; the bonds between them strengthen with shared laughter and the subtle symphony of clinking plates. Chef Ingrid, her eyes twinkling with a mixture of pride and mischief, approaches Kragor, Halite, and Doctor Pepe. With a flourish as grand as any mage’s spell, she unfurls a satchel of gleaming cooking utensils before them.
 
