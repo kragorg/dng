@@ -202,7 +202,7 @@ Scarlet’s eyes widen. “In the yurt?!”
 
 Inside, the yurt is surprisingly spacious and less frigid. A stone fire pit sits centrally; thick, fur-lined hammocks hang from sturdy poles. “Right then,” Scarlet steps to the pit, whispers an incantation. A small flame springs to life, instantly pushing back the chill.
 
-Gerhard, utterly lost and overwhelmed, drifts away from the nascent fire , staring blankly at a fur-lined wall. Elara approaches the bereaved captain. “Gerhard,” she says softly, her voice warm despite the chill. “It’s… a lot to take in. But you’re safe now.”
+Gerhard, utterly lost and overwhelmed, drifts away from the nascent fire, staring blankly at a fur-lined wall. Elara approaches the bereaved captain. “Gerhard,” she says softly, her voice warm despite the chill. “It’s… a lot to take in. But you’re safe now.”
 
 Scarlet steps closer to the crackling flames. “She’s right. You survived something terrible. You’re stronger than you think. And you’re welcome here.”
 
