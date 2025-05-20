@@ -94,11 +94,11 @@ Gerhard, weathered and mid-thirties, steps forward, brown eyes reflecting relief
 
 Rorik, barely seventeen, watches his captain, wide-eyed. Halite, however, stands rigid, scrutinizing Gerhard. Suspicion cuts sharper than the chill air; Halite knows survivors don’t always bear honest scars.
 
-At the rail, Bret’s robed figure steps forward. Kragor recognizes the sigils: a symbolic design of three inward-pointing diamond shapes with eight curling spires underneath. This wizard is a member of the Cerberus Assembly, a powerful conclave of mages in the Dwendalian Empire. The wizard nods solemnly to Gerhard. “The sea tests us all,” Bret intones, tone measured. “Perhaps misfortune portends a greater journey—one that may yet lead us to Eiselcross.”
+At the rail, Bret’s robed figure steps forward. Kragor recognizes the sigils: a symbolic design of three inward-pointing diamond shapes with eight curling spires underneath. This wizard is a member of the Cerberus Assembly, a powerful conclave of mages in the Dwendalian Empire. The wizard nods solemnly to Gerhard. “The sea tests us all,” Bret intones. “Perhaps misfortune portends a greater journey.”
 
 Halite’s gaze narrows on Gerhard, pressing. “Specifically, what were you doing out here?”
 
-Gerhard’s breath clouds the frigid air. “My kin have always plied these waters. Fishing… crabbing, mostly.” He falters, eyes darting across the ravaged deck. “But we found a new source of income. Ferrying passengers, mostly one way to Eiselcross.” He gestures toward Bret. “That mage offered a fortune in gold for his transport.”
+Gerhard’s breath clouds the frigid air. “My kin have always plied these waters. Fishing… crabbing, mostly.” He falters, eyes darting across the ravaged deck. “But we found a new source of income. Ferrying passengers, mostly one way to Eiselcross.” He gestures toward Bret. “That mage offered a fortune in gold for his transport there and back again.”
 
 Bret stands nearby, clearly agitated, his words laced with a demanding edge. “I require passage to Icehaven, Captain,” he declares, his voice tight with urgency. “I bear tidings of utmost import. Our vessel is lost; I must deliver my news without delay. I will provide recompense for diverting your ship.”
 
