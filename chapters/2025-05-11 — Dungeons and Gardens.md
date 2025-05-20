@@ -8,7 +8,7 @@ Captain Stonebeard’s message hangs heavy in the air:
 the Remorhaz requires weeks of repair,
 leaving the adventurers stranded for now.
 The clock ticks mercilessly for the Liel-Tethwick family,
-with Salsvalt 200 miles away
+with Salsvault 200 miles away
 and the Frigid Woe’s icy grip
 threatening to claim their lives.
 It had already been five days
