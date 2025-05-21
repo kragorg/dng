@@ -18,14 +18,11 @@ than the struggle to survive.
 
 I was weaker and dumber
 than the tyrannical bullies
-who ruled the streets
-on which I lived.
-It is through
-deception, speed, stealth, and a silver tongue
-that I survived
-until adulthood.
-I don’t know why
-but seemingly by chance…
+who ruled the streets.
+By deception, speed, stealth, and a silver tongue
+I survived until adulthood.
+I don’t know why…
+maybe merely by chance…
 some presence…
 some thing…
 from outside our realm
@@ -33,14 +30,15 @@ took an interest in me
 and began whispering in my dreams—
 words and images that I could not understand.
 For months these dreams plagued me,
-until in my darkest hour,
+until my darkest hour.
+One night
 I was caught unawares
 by a gang of thugs.
 I struggled to fend them off
 but was brought close to death.
 Feeble and desperate,
 despising my own weakness,
-yet my will to live was as strong as ever.
+my will to live was as strong as ever.
 I screamed into the void
 and surrendered to whatever it was
 that had been watching me.
@@ -56,12 +54,12 @@ and reveal the depth
 of my awakened abilities.
 With my war hammer raised
 and eldritch energy crackling at my fingertips,
-wherever I could,
-I have used them against the tyrants,
+I have fought against the tyrants
+at every opportunity,
 protecting those they sought to exploit.
 
 Gradually, my dreams began to make some sense—
-as a command and promise for greater power.
+as a command and as a promise for greater power.
 “Go north. Cross the frozen north. To Eiselcross.”
 The purpose remained veiled,
 but my resolve was absolute.
@@ -78,8 +76,7 @@ Merchants, traders, wandering groups
 paid for my protection,
 though my true purpose
 was survival.
-Traveling alone meant certain death
-in these treacherous lands.
+Traveling alone meant certain death.
 Joining caravans and groups
 was a matter of strategic necessity.
 
@@ -89,7 +86,7 @@ Most challenges I met with cunning and bluff,
 my war hammer a sufficient deterrent.
 But when serious threats pressed—
 moments that demanded more than
-just smashing heads—
+just smashing some heads—
 I would resort to my eldritch powers,
 breaking the careful illusion
 of a simple veteran soldier.
@@ -99,7 +96,10 @@ leaving me to continue
 my calculated journey north
 on my own.
 
+Once I reached Icehaven
+I made bargain
+with the first captain
+who would take me.
 The rest you know
 as we all met on board the _Frostwind_
 on our way to Palebank Village.
-
