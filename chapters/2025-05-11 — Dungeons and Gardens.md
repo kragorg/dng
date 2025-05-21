@@ -4,9 +4,12 @@ The yurt’s interior glows with a warm,
 flickering light from the central fire pit,
 a defiant warmth against the relentless Syrinlya wind
 that howls outside like a wounded beast.
-Captain Stonebeard’s message hangs heavy in the air:
-the Remorhaz requires weeks of repair,
-leaving the adventurers stranded for now.
+Doctor Pepe is the first to notice
+a message from Captain Stonebeard
+left on the yurt’s only table:
+the Remorhaz requires weeks of repair
+before it might be able to make another crossing
+of the Frigid Depths.
 The clock ticks mercilessly for the Liel-Tethwick family,
 with Salsvault 200 miles away
 and the Frigid Woe’s icy grip
