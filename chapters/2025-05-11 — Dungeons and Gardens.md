@@ -261,7 +261,7 @@ nothing to suggest mysterious events.
 ## The Journey Begins
 
 The party decides on a measured pace,
-hoping to cover approximately 18 miles per day without undue risk.
+hoping to cover approximately 24 miles each day without undue risk.
 Gerhard, drawing on years of wilderness experience,
 prepares their rations.
 His hands move with practiced efficiency,
