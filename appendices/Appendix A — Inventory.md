@@ -45,8 +45,6 @@ Table: Equipment
 | 2     | Potions of Healing              |
 | 3     | months of provisions            |
 
-<span class="break"></span>
-
 ### Adventure Sexy {#adventure-sexy .item}
 <span class="item-type">_Book, uncommon_</span>
 
