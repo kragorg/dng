@@ -12,6 +12,7 @@
   qpdf,
   src,
   stdenv,
+  writableTmpDirAsHomeHook,
   zsh,
 }:
 let
@@ -79,6 +80,7 @@ stdenv.mkDerivation rec {
     pandoc
     qpdf
     scripts
+    writableTmpDirAsHomeHook
     zsh
   ];
 

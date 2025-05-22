@@ -4,9 +4,6 @@ setopt errexit pipefail
 
 zparseopts -D -F -a opts -synopsis:=synopsis -no-html -no-pdf
 
-# We need a writable home directory for luaotfload’s font cache.
-export HOME="$PWD"
-
 # Base name for our output files. Additional names will be derived
 # from these.
 base='Dungeons & Gardens'
