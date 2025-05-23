@@ -16,7 +16,7 @@ cmd=(
   --to=html
   --metadata=basename:${base}
   --metadata=prefix:${^prefix}
-  --metadata=title-prefix:${^site}
+  --metadata=site:${^site}
   --lua-filter=${^filter}
   ${css}
   ${output}

@@ -140,10 +140,15 @@ local HTMLFilter = {{
   Pandoc = function(doc)
     local name = documentTitle
     local prefix = doc.meta["prefix"]
+    local site = doc.meta["site"]
     if prefix then
       name = prefix .. name
     end
-    doc.meta.pagetitle = name
+    if site then
+      doc.meta.pagetitle = site .. ": " .. name
+    else
+      doc.meta.pagetitle = name
+    end
     local auxOutput = doc.meta["basename"] .. ".json"
     if auxOutput then
       local f, err = io.open(auxOutput, "w")
