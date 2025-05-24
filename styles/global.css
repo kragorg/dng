@@ -109,9 +109,14 @@ h3 + * {
 * + h3 {
   margin-top: 1.5rem;
 }
-h3.item + * {
+.item + * {
   margin-top: 0.25rem;
   margin-bottom: 0.5rem;
+}
+.item + p {
+  + p {
+    text-indent: 0;
+  }
 }
 h4 {
   line-height: 0.971em;
