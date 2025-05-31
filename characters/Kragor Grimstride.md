@@ -47,6 +47,8 @@ and I overcame the attackers,
 killing some
 and routing the others.
 
+![](kragor-awakens.jpg)
+
 Since then
 dream visions have continued
 to haunt my slumber

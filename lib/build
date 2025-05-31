@@ -202,7 +202,7 @@ run ${indexhtml}
 print -Pru2 -- '%F{magenta}••• Installation •••%f'
 run ${install_styles}
 run ${install_assets}
-run ${install} ${src}/chapters/*.jpg(N) ${src}/appendices/*.jpg(N)  # N: null if no match
+run ${install} ${src}/{appendices,chapters,characters}/*.jpg(N)  # N: null if no match
 run ${install} ${outputs}
 run ${install} ${html_chapters} ${pdf_chapters}
 (( ${#pdf_chapters} )) && run ${install} ${^pdf_chapters:r}" (Print).pdf"

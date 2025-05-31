@@ -51,7 +51,7 @@ stdenv.mkDerivation rec {
     \usepackage{etoolbox}
     \newfontfamily\gillius{GilliusADFNo2}[NFSSFamily=GilliusADFNoTwo-LF]
     \sloppy
-    \graphicspath{{${src}/chapters/}}
+    \graphicspath{{${src}/appendices/}{${src}/chapters/}{${src}/characters/}}
     \newcounter{dngchapter}
     \makeatletter
     \pretocmd{\@chapter}{%
