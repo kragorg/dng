@@ -21,7 +21,8 @@ local LaTeXFilter = {
       local first = text:sub(1, 1)
       local rest = text:sub(2)
       return pandoc.RawInline("latex",
-          "\\DndDropCapLine{" .. first .. "}{" .. rest .. "}")
+          "\\DndDropCapLine{" .. first .. "}{" .. rest ..
+          "}\\hfill\\break")
     elseif el.classes:includes("break") then
       return pandoc.RawInline("latex", "\\vfill\\break\n")
     elseif el.classes:includes("item-type") and pendingItem then
