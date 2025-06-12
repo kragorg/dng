@@ -1,27 +1,313 @@
 # Dungeons & Gardens — Synopsis
 
-<span class="dropcap">Our story unfolds in the</span> desolate Greying Wildlands of Wildemount, within the frost-rimed confines of Palebank Village. Here, a disparate group of adventurers— the aasimar bard Elara, goliath fighter Halite, orc warlock Kragor, halfling druid Scarlet, tabaxi rogue Whisper, and the enigmatic rogue Doctor Pepe— find their paths converging. Arriving aboard the *Frostwind*, drawn by whispers of Aeorian ruins scattered across the perilous northern islands of Eiselcross, they disembark into a village shrouded in mourning. Urgon, a dwarven explorer, has succumbed to a mysterious freezing affliction after returning laden with treasures from Eiselcross. This chilling illness, marked by creeping blue veins and an unshakeable internal frost, has halted all expeditions north. Elro, a stoic elven Glassblade tasked with protecting the village, implores the newcomers to investigate, revealing that another villager, the reclusive trapper Tulgi, suffers from the same malady.
+<span class="dropcap">The adventure began within</span>
+the salt-scoured winds of the far north,
+as a motley band of near-strangers
+disembarked from the longship *Frostwind*
+onto the docks of Palebank Village.
+Each of them braved the perilous voyage
+across the Frigid Depths
+for reasons of their own,
+lured by tales of lost cities,
+potent artifacts,
+and knowledge beyond mortal ken.
 
-Lodging is secured at the Jolly Dwarf tavern, courtesy of the jovial proprietor Arl Bortock. Information is scarce, but Tulgi’s solitary nature is noted. The adventurers proceed to Urgon’s ransacked cabin. Amidst the disarray, Halite discovers a crucial receipt from Pelc’s Curiosities, detailing Urgon’s sale of several Aeorian artifacts for a thousand gold pieces: a dagger, scroll case, jade statue, quiver of arrows, a jasper-set silver ring, and two blue glass vials containing a fine powder. Tracks lead them to Tulgi’s cabin. Confronted, the afflicted trapper confesses. She and her sister, Hulil, are criminals from Shadycreek Run, hired to steal Aeorian artifacts. They raided Urgon’s cabin; Hulil now possesses the remaining treasures and is hiding in Croaker Cave, though Tulgi hasn’t seen her in weeks. She surrenders Urgon’s dagger to Kragor.
+Palebank Village
+is but a ragged clutch of wooden hovels
+clinging to the cliffs like frozen barnacles,
+but has outsized importance
+as the northernmost outpost of Uthodurn,
+an independent city-state
+of dwarves and elves.
+Upon arrival,
+the party was greeted not with cheer,
+but with a funeral procession.
+Urgon Wenth,
+a dwarven adventurer,
+lay encased in ice,
+a victim of a chilling malady
+contracted during his Eiselcross delve.
+A creeping frost stole all his warmth,
+leaving blue deathly veins in its wake.
+Elro Aldataur,
+the weathered elf leader of the village,
+tasked the newcomers with unraveling the mystery,
+for Urgon’s curse had brought
+a halt to all expeditions north.
 
-Their investigation takes them to Pelc’s Curiosities, where they interrupt a burglary in progress. Bandits, later revealed to be Hulil’s underlings, are tearing the shop apart. From the rooftop, the observant Doctor Pepe watches the unfolding chaos. A fierce battle erupts within the shop, complicated by Scarlet casting a dense fog cloud. Kragor fells one bandit in the mist, while Halite skewers another. Whisper confronts the rooftop observer, grappling him awkwardly before shoving him to the ground, where he feigns injury before slipping away. Elara heals the wounded Kragor and inspires Halite, who dispatches another bandit. The remaining two surrender, confirming they work for Hulil, a priestess of Tiamat now suffering from the same freezing sickness. She sent them to find clues about a cure, believing Pelc’s shop might hold answers. They reveal Hulil has the artifacts in Croaker Cave. The party also makes the grim discovery of Verla Pelc, the shop owner, frozen dead in her bed. Searching the bandits yields meager coin and a peculiar Scanlan Shorthalt t-shirt, which Elara deems potentially valuable.
+The party’s investigation began in the shadow of grief.
+Urgon’s ransacked cabin yielded a clue:
+a receipt from Pelc’s Curiosities
+detailing the sale of Aeorian relics for a kingly sum of gold.
+Among the listed items, ominously, were two blue glass vials.
+Tracks led to the adjacent cabin of Tulgi Lutan,
+another villager succumbing to the icy affliction.
+Tulgi, her face a mask of frozen despair,
+confessed her allegiance to a Shadycreek Run syndicate,
+revealing she and her sister Hulil
+had plundered Urgon’s findings
+from Pelc’s Curiosities.
+She surrendered
+a single, exquisitely crafted dagger,
+claiming Hulil held the rest in a place of ill repute:
+Croaker Cave.
 
-Before venturing to Croaker Cave, the party visits Gramini, an elderly elf potion seller at the docks. They negotiate the purchase of healing potions, partially funding the transaction by trading the Scanlan Shorthalt shirt, much to Gramini’s nostalgic delight. As they approach the cave, the mysterious rogue reappears, introducing himself as Doctor Pepe and offering his assistance, claiming a shared interest in the disease. Inside Croaker Cave, they face immediate peril from giant ice frogs lurking in a murky pool, one managing to severely wound Whisper. Reinforcements arrive in the form of more bandits loyal to Hulil, positioned across the water. A chaotic battle ensues, involving crossbow fire, javelins, eldritch blasts, and divine magic. The party prevails, capturing one dwarf bandit who reveals Hulil uses the frogs for transport and has trained a particularly large one, “Old Croaker,” to ferry people across a deeper underground lake. He also warns of a pit trap near their sleeping quarters.
+Pelc’s Curiosities,
+its door ominously ajar,
+became the stage for their first bloody ballet.
+Elara, the aasimar bard,
+and Scarlet, the halfling druid,
+startled and blinded bandits inside
+with a fury of sound and fog.
+Kragor, the orc warlock,
+and Halite, the goliath fighter,
+made quick work of the bandits,
+killing two and capturing the remaining two.
+Meanwhile Whisper, the tabaxi monk,
+scaled rooftops with feline grace
+and dealt with a lookout
+in a tangle of limbs
+and a sudden, bone-jarring plummet.
+The interrogation of the bandits
+confirmed Hulil’s presence at Croaker Cave,
+and revealed she, too,
+was seeking a cure for the same frost-sickness.
+As the party searched the shop for remaining clues,
+they found
+the frozen corpse of Verla Pelc, the shop’s proprietor,
+a grim testament to the curse’s reach.
 
-Using the captured dwarf’s knowledge and bat carcasses found nearby as bait, the party crosses the underground lake astride Old Croaker. On the far side, they confront Hulil, her skin marred by the blue streaks of the affliction, and her last remaining follower. Another intense fight concludes with Hulil’s defeat, her final words a chilling curse upon Halite. They find a chest containing the stolen Aeorian artifacts listed on Urgon’s receipt— all except the two blue glass vials. Hulil’s journal reveals she sold one cracked vial to a traveling bookseller named Irven Liel, hoping to fund her search for a cure.
+A brief respite at the *Jolly Dwarf* tavern,
+punctuated by Arl Bortock’s wary tales of Croaker Cave—
+a place shunned for its giant, man-swallowing ice frogs—
+did little to soothe their frayed nerves.
+Elro, learning of their progress, urged them on.
+A visit to a wizened elf named Gramini at the docks
+yielded healing potions,
+bartered down in price with charm
+& a Scanlan Shorthalt shirt
+that sent the old elf into a fit of nostalgic glee.
 
-Returning to Palebank Village, they encounter Elro again. After hearing the adventurers’ story, he is able to identify the disease as “Frigid Woe,” an ancient Aeorian magical contagion. Crucially, he reveals a cure exists: a milky white liquid stored in golden vials, likely found near the source of the blue vials. Elro pays the party for dealing with Hulil and hires them to travel to Eiselcross, find the cure, and send it back via a contact in the outpost of Syrinlya known as “The Buyer”. He also offers a substantial reward for the remaining blue vial.
+Croaker Cave,
+its maw exhaling a chill deeper than the ambient frost,
+lived up to its name.
+Here, they found an unlikely— and perhaps untrustworthy—
+ally in the rogue Doctor Pepe,
+previously encountered on the roof of Pelc’s Curiosities
+by Whisper.
+Doctor Pepe had shadowed them from there,
+claiming his own interest in the village’s plague.
+An initial scout of the cave by Whisper and Doctor Pepe
+erupted into violence as monstrous,
+mastiff-sized ice frogs attacked.
+The ensuing melee saw the adventurers rush to their aid,
+trident, spell, and claw felling the amphibious horrors.
+But from within shadows
+deep within the cave,
+bandits shot crossbow bolts
+injuring the heroes.
+These bandits soon fell to vengeance
+in the form of javelin, bullet, and radiant blast.
+The surviving assailant, a dwarf, retreated.
+A frigid pool separated him from the party,
+but skillful use of the grappling hook
+allowed them to cross and corner the dwarf.
+He confessed to serving Hulil Lutan,
+priestess of Tiamat,
+now also afflicted with the icy sickness.
+He also revealed Hulil’s camp deeper within,
+and a treacherous pit trap.
 
-The party tracks down Irven Liel at the Jolly Dwarf. He is traveling with his husband Fenton and their twin tiefling daughters. Irven admits to buying the cracked blue vial from Hulil as an investment. Scarlet confirms it contains the Frigid Woe contagion. The party warns the family they may be infected and secures the vial, receiving Elro’s promised payment. Before departing, they visit Westeroff, a retired wizard who identifies the dagger as magical but offers little else. Halite purchases an arcane crystal focus from him.
+The journey through the cave’s depths
+led them past a bat-filled cavern
+to a vast underground lake,
+where “Old Croaker,” a frog of truly titanic proportions,
+served as both ferry and ferryman.
+Scarlet’s preternatural calm,
+plus an offering of dead bats,
+persuaded the behemoth to bear them across.
+On the far shore,
+Hulil and an elven acolyte knelt before a tapestry of Tiamat,
+the evil five-headed dragon queen.
+Battle was joined swiftly.
+Kragor’s hexes and eldritch blasts,
+Scarlet’s druidic fury,
+Pepe’s unerring crossbow,
+and Halite’s brutal javelin throws
+met Hulil’s desperate dark magic.
+The priestess,
+her skin already marred by the blue streaks of the Woe,
+fought with the ferocity of the doomed,
+her spectral blade and life-draining spells
+a testament to her dark faith.
+But even Tiamat’s favor could not save her.
+Halite’s javelin pierced her heart,
+her dying breath
+a curse of endless desire and ruin upon her slayers.
+Old Croaker,
+disturbed by the commotion and Whisper’s ill-timed splash,
+threatened to devour the tabaxi,
+only to be placated by Elara with a severed elf hand—
+a grisly offering to the subterranean beast.
+A chest yielded Urgon’s remaining treasures:
+a scroll case,
+jade statuette,
+magical arrows,
+a jasper ring,
+and a significant sum of coins,
+alongside Hulil’s journal.
+The journal spoke of selling one blue vial to an “Irven Liel”,
+in a desperate bid for funds to find a cure.
 
-Prior to the voyage, each party member undergoes subtle growth: Elara hones her persuasive magic and performance, Whisper enhances her agility and resilience, Scarlet deepens her bond with nature (gaining an owl familiar, Sparky), Halite sharpens his tactical mind and culinary skills, Kragor unlocks new eldritch power, and Doctor Pepe refines his stealth and dexterity.
+Returning to Palebank Village,
+the adventurers confronted Elro with their findings,
+who then went on to send a communiqué
+to an Uthodurnian outpost on Eiselcross called Syrinlya.
+They then discovered at the Jolly Dwarf
+that the Irven Liel they sought
+was a traveling bookseller
+staying there
+with his husband Fenton Tethwick
+and twin tiefling daughters.
+A tense conversation
+revealed Irven possessed the second blue vial,
+bought from Hulil,
+its surface ominously cracked.
+Scarlet confirmed it radiated the feared magical contagion.
+The Liel-Tethwick family,
+having handled the vial,
+was now at dire risk.
 
-The adventurers board the *Remorhaz*, captained by the seasoned Jarl Stonebeard, bound for Syrinlya. Once at sea, Stonebeard drops his deferential act, running a pragmatic ship where all must contribute. Kragor hauls up an ancient anchor from the legendary privateer ship, the *Snowy Plover*. Whisper assists with rigging, Scarlet and Halite learn cooking from the gruff chef Ingrid, Kragor discovers a knack for filleting fish, and Doctor Pepe proves an adept fisherman. Ingrid, recognizing talent, gifts cooking utensils to Kragor, Halite, and Doctor Pepe. Evenings bring camaraderie through card games and Elara’s enchanting musical performances.
+Having conferred with those at Syrinlya,
+Elro grasped the full horror of the affliction,
+and returned to the party to reveal its true name:
+the Frigid Woe, an Aeorian weapon
+designed to destroy the gods.
+Yet, hope flickered:
+Elro discovered through his contacts
+that a cure existed,
+a milky-white liquid stored in golden vials;
+and they could likely be found
+in the same location as the blue vials had been.
+He then hired the party to go to Eiselcross
+to meet Urgon’s partner in the discovery of the blue vials,
+offering passage on the ship *Remorhaz*
+and a substantial reward,
+including an immediate payout of 200 gold pieces
+for the recovered blue vials.
+That night,
+a palpable sense of deepening power
+settled upon each adventurer,
+their skills honed,
+their resolve hardened
+by the horrors witnessed and the trials to come.
+Kragor, however,
+wrestled with darker portents:
+upon waking after unsettling dreams,
+he found inexplicable earth beneath his nails,
+and felt a chilling premonition
+of his eldritch pact
+exacting a steeper price.
 
-A disturbance erupts one night: a winter wolf is found in the galley. Kragor spots Ingrid’s distinctive moon-and-rune amulet discarded nearby. After Whisper is injured attempting to retrieve it, Halite nets the beast, and Elara manages to place the amulet around its neck. The wolf transforms back into Chef Ingrid, revealing her lycanthropy, a secret seemingly unknown to Captain Stonebeard, who orders everyone away while confronting her privately.
+The *Remorhaz*,
+captained by the initially obsequious,
+then brusquely practical Stonebeard,
+set sail for Syrinlya.
+The four-day journey was a microcosm
+of their larger quest:
+mundane tasks like fishing
+(yielding a barnacle-encrusted anchor
+from the lost ship *Snowy Plover*)
+interspersed with
+moments of unexpected camaraderie
+and sudden terror.
+Chef Ingrid,
+a gruff dwarf with a moon-and-rune amulet,
+revealed a talent for divine cookery,
+and, more alarmingly,
+a tendency towards lycanthropy,
+transforming into a winter wolf one night.
+Kragor’s nightmares intensified,
+culminating in a vision of being entombed in crushing blue ice,
+again waking with perplexingly soiled hands.
 
-Their journey continues into thick fog. The ship comes across wreckage in the gloom, and the crew spots survivors clinging to debris while a giant squid attacks them. The party, alongside the crew and the rescued survivors— Gerhard (former captain of the lost ship *Frostfang*), his young crewman Rorik, and a passenger, Bret (a wizard revealed to be of the Cerberus Assembly)— fight off the colossal creature. Bret demands passage to Icehaven, but Stonebeard refuses to deviate from his course to Syrinlya.
+The voyage climaxed in a terrifying encounter.
+Shrouded in dense fog,
+the *Remorhaz* stumbled upon the wreckage of another vessel,
+its survivors clinging to flotsam,
+besieged by a colossal squid.
+A desperate battle ensued
+as the party warred against
+the beast’s crushing tentacles
+and ship-rending beak.
+They rescued three survivors:
+Gerhard Eisner, former captain of the lost *Frostfang*;
+his young crewman Rorik;
+and Bret, a cagey wizard of the Cerberus Assembly.
+Stonebeard noted that the defeated squid
+had seemed unnaturally focused on the wizard.
 
-Finally, after four days at sea, the fog lifts, revealing the desolate, frozen shores of Eiselcross. The *Remorhaz* docks at Syrinlya, a rough outpost of yurts huddled against the biting wind. They are met by Morgo Delwur, a local guide who directs them to find Orvo Mustave, Urgon’s former adventuring companion, and provides them lodging in an abandoned, well-appointed yurt. Inside, they find supplies left by the previous occupant, including rations, rope, a pickaxe, and a copy of Scanlan Shorthalt’s *Adventure Sexy*.
+Syrinlya greeted them with a howling wind
+and a landscape of frozen yurts.
+Bret and Rorik went their own ways,
+while Gerhard followed the adventurers in some shock.
+Morgo Delwur,
+a stout dwarf woman,
+directed them to Orvo Mustave,
+Urgon’s former companion.
+Orvo, scarred and grieving his friend’s death,
+revealed the source of the vials:
+Salsvault, a ruin two hundred miles northwest,
+guarded by ice mephits and animated armor.
+He warned of the Thin Sheets,
+treacherous ice,
+and the general misery of the journey.
+The party acquired snowshoes and supplies from Javel,
+an ancient, coughing dwarf trader,
+whose wares included
+a pair of ominously blood-stained halfling snowshoes—
+a yeti’s leftovers.
 
-They locate Orvo, who is devastated to learn of Urgon’s fate. He confirms they found the blue vials at a ruin called Salsvault, roughly an eight-day trek northwest across treacherous ice fields known as the Thin Sheets. He warns them of Ice Mephits and animated armor guarding the ruin, admitting they fled after encountering the constructs in the third chamber. Of the golden vials, he knew nothing. For supplies, Orvo directs them to Javel, an ancient dwarf trader. The party negotiates with the eccentric Javel, acquiring seven pairs of snowshoes (including a pair ominously stained red, hinted to be from a Yeti victim) and climbing hammers, sealing the deal partly through a shared appreciation for the raunchy novel *Tusk Love* (which Elara trades for a discount) and receiving a bottle of Sandkeg’s High whiskey as a parting gift. Equipped and informed, the adventurers brace themselves in their borrowed yurt, planning their perilous overland journey to Salsvault in search of the cure for the Frigid Woe.
+As they prepared for the arduous trek,
+they received word
+that the *Remorhaz* required weeks of repair.
+Gerhard, broken by his loss
+but stirred by Scarlet’s words of resilience,
+agreed to join their quest.
+It was then Kragor,
+his face a mask of dread,
+confessed the true nature of his disturbing nights.
+His pact, struck in desperation on Bladegarden’s streets,
+now seemed to allow his patron
+influence over his sleeping form,
+leading to the terrifying visions
+and the unexplainable dirt.
+Fear of what he might become,
+or what his body might do without his consent,
+hung heavy in the yurt.
+
+Their journey to Salsvault began
+under the baleful light of Ruidus.
+The endless white expanse,
+broken only by the occasional rock formation,
+tested their endurance.
+Halite’s strength
+navigated passage up an icy cliff.
+But the nights brought no peace for Kragor.
+Despite Elara’s vigil,
+he thrashed in his sleep,
+waking once more with mud caking his fingernails—
+a horrifying, impossible portent in this land of eternal ice.
+
+On the third day of travel,
+as they trudged forward,
+the monotonous white landscape was interrupted
+by two rock formations,
+standing like silent sentinels
+approximately ten feet tall.
+Their sudden appearance was both a relief
+and a source of renewed tension,
+breaking the endless white
+with their dark, weathered surfaces.
+
+Something watches. Something waits.

@@ -1,6 +1,7 @@
 # Scarlet Tanager
 
-Scarlet Tanager grew up tangled in brambles and birdcalls, raised more by moss and moonlight than by halfling hearths. Her early days were wild — tracking foxes through the fog, mimicking bird whistles, and napping on sun-warmed roots with her owl companion Sparky perched nearby.
+<span class="dropcap">Scarlet Tanager grew up</span>
+tangled in brambles and birdcalls, raised more by moss and moonlight than by halfling hearths. Her early days were wild — tracking foxes through the fog, mimicking bird whistles, and napping on sun-warmed roots with her owl companion Sparky perched nearby.
 
 From the forest, she learned healing — which roots soothed pain, which fungus cured rot, which songs calmed frightened deer. But she also studied: sketching leaves in a threadbare notebook, tracking lunar cycles, deciphering glyphs etched in ancient bark.
 
