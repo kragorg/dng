@@ -1,7 +1,7 @@
 # Kragor Grimstride
 
-I am Kragor Grimstride,
-orphan of Bladegarden.
+<span class="dropcap">I am Kragor Grimstride, orphan</span>
+of Bladegarden.
 My parents
 were proud orcs of the Righteous Brand
 who gave their lives defending their city.

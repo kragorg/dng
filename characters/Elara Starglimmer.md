@@ -1,6 +1,7 @@
 # Elara Starglimmer
 
-Elara Starglimmer’s story begins with a cosmic ballet that predates her corporeal form—a celestial union between a radiant unicorn herald and a shimmering nebula, conspired by the whims of the cosmos. Her inception as a meteorite crashing into Exandria was not a harbinger of destruction but rather a seed of wonder sown in stardust, imbued with the divine potential of her celestial ancestors.
+<span class="dropcap">Elara Starglimmer’s story</span>
+begins with a cosmic ballet that predates her corporeal form—a celestial union between a radiant unicorn herald and a shimmering nebula, conspired by the whims of the cosmos. Her inception as a meteorite crashing into Exandria was not a harbinger of destruction but rather a seed of wonder sown in stardust, imbued with the divine potential of her celestial ancestors.
 
 Upon impact, she emerged from the crater's heart as Awendë—the unicorn—the pure embodiment of beauty and grace. In this ethereal form, she traversed the verdant wilds, a creature of mystery and majesty who danced under the silver moonlight and conjured songs from the whispers of the wind and the rustling leaves. The primeval forests became her sanctuary, where she absorbed the narratives embedded in the earth, the flowing streams, and the ancient, moss-covered ruins that bore witness to the rise and fall of titans.
 

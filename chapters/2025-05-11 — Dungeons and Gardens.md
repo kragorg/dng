@@ -1,7 +1,7 @@
 # Intermission
 
-The yurt’s interior glows with a warm,
-flickering light from the central fire pit,
+<span class="dropcap">The yurt’s interior glows with</span>
+a warm, flickering light from the central fire pit,
 a defiant warmth against the relentless Syrinlya wind
 that howls outside like a wounded beast.
 Doctor Pepe is the first to notice
