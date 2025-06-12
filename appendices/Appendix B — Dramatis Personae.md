@@ -18,7 +18,7 @@
 
 9.  **Elara**: An aasimar bard whose musical talents and spellcasting bolster the party. She excels at negotiation, inspiration, healing, and illusions. She discovered the Scanlan Shorthalt shirt, negotiated potion prices with Gramini, interrogated bandits, attempted diplomacy with Hulil, fed Old Croaker, identified Irven Liel, interacted with Javel over *Tusk Love*, performed enchantingly aboard the *Remorhaz*, played cards skillfully, and subdued the wolf-form Ingrid with the amulet. She is mastering new melodies and enchantments, enhancing her performance and persuasion. Fell asleep briefly during her watch after the squid attack.
 
-10.  **Elro**: A Glassblade leader in Palebank Village. He introduces the adventurers to the Frigid Woe mystery, confirms the disease’s name and Aeorian origins, explains the cure (milky liquid in golden vials), hires the party to retrieve the cure from Eiselcross, provides payment and bounty, arranges passage on the *Remorhaz*, and identifies Orvo Mustave and “The Buyer” as contacts in Syrinlya.
+10.  **Elro Aldataur**: A Glassblade leader in Palebank Village. He introduces the adventurers to the Frigid Woe mystery, confirms the disease’s name and Aeorian origins, explains the cure (milky liquid in golden vials), hires the party to retrieve the cure from Eiselcross, provides payment and bounty, arranges passage on the *Remorhaz*, and identifies Orvo Mustave and “The Buyer” as contacts in Syrinlya.
 
 11. **Fenton Tethwick**: Irven Liel’s husband, traveling with Irven and their twin tiefling daughters (Honor & Magic). He helps care for the children while Irven discusses sensitive matters.
 
@@ -64,7 +64,7 @@
 
 32. **Tulgi Lutan**: A solitary trapper in Palebank Village and sister of Hulil. Afflicted with Frigid Woe, she confessed her and Hulil’s criminal activities and theft from Urgon, revealing Hulil’s location in Croaker Cave.
 
-33. **Urgon**: A dwarven adventurer whose return from Eiselcross afflicted with Frigid Woe and subsequent death sparked the story’s central mystery. He recovered Aeorian artifacts, including the blue vials containing the contagion, from the Salsvault ruins alongside Orvo Mustave.
+33. **Urgon Wenth**: A dwarven adventurer whose return from Eiselcross afflicted with Frigid Woe and subsequent death sparked the story’s central mystery. He recovered Aeorian artifacts, including the blue vials containing the contagion, from the Salsvault ruins alongside Orvo Mustave.
 
 34. **Verla Pelc**: The owner of Pelc’s Curiosities in Palebank Village. Found frozen dead in her shop by the adventurers, a victim of the Frigid Woe after purchasing the blue vials from Urgon and handling them.
 
