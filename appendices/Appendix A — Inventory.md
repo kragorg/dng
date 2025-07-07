@@ -26,12 +26,8 @@ Table: Inventory Adjustments
 | Halite      | Miner’s Pick                          |
 | Halite      | Snowshoes                             |
 | Halite      | one javelin lost while fighting squid |
+| Halite      | another lost fighting remorhaz        |
 | Scarlet     | Snowshoes                             |
-| Whisper     | 50 feet of silk rope                  |
-| Whisper     | Ice hammer                            |
-| Whisper     | Snowshoes                             |
-| Whisper     | one javelin lost while fighting squid |
-| Whisper     | Oil (4 lbs)                           |
 
 Table: Equipment
 
