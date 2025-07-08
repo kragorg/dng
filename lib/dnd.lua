@@ -165,7 +165,7 @@ local HTMLFilter = {{
 <header class="header">
 <ul class="buttons">
 <li><a href="index.html">Index</a></li>
-<li><a href="]] .. name .. [[.pdf">PDF</a></li>
+<li><a href="@PDFLINK@">PDF</a></li>
 </ul>
 </header>
 ]]

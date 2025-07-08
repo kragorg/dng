@@ -6,7 +6,7 @@ zparseopts -D -F -a opts -synopsis:=synopsis -no-html -no-pdf
 
 # Base name for our output files. Additional names will be derived
 # from these.
-base='Dungeons & Gardens'
+base='dungeons_and_gardens'
 
 # If the source file names are given on the command line, we use them
 # for the main document. Otherwise we expect them to be specified in the
@@ -28,7 +28,7 @@ synopsis=${synopsis:-synopsis.md}
 
 tohtml=(
   tohtml
-  --site ${base}
+  --site 'Dungeons & Gardens'
   --css styles/main.css
   --filter ${src}/lib/dnd.lua
 )
@@ -72,18 +72,33 @@ install_assets=(
 )
 outputs=(
   index.html
-  "${base} — Synopsis.html"
-  ${base}.tex
-  ${base}.pdf
-  "${base} — Synopsis.pdf"
-  "${base} (Print).pdf"
 )
 
+function filename_uri {
+  typeset -a sed_for_filename=(
+    sed -E
+    -e 's/ — /---/g'
+    -e 's/—/--/g'
+    -e 's/[[:space:]]+/_/g'
+    -e 's/&/and/g'
+    -e 's/’//g'
+  )
+  typeset -a tr_for_filename=(
+    tr '[:upper:]' '[:lower:]'
+  )
+  print -rn ${1} | ${sed_for_filename} | ${tr_for_filename}
+}
+
 function buildhtml {
+  typeset -a chapters=()
+  typeset -i n=1
+  typeset args name prefix title tmpname
   print -Pru2 -- '%F{magenta}••• Markdown to HTML •••%f'
-  [[ -n ${synopsis} ]] && run ${tohtml} --output "${base} — Synopsis.html" ${src}/${synopsis}
-  chapters=()
-  n=1
+  if [[ -n ${synopsis} ]] {
+    name="$(filename_uri "${base} — Synopsis.html")"
+    run ${tohtml} --output "${name}" ${src}/${synopsis}
+    outputs+=( ${name} )
+  }
   for input ( ${inputs} ) {
     prefix=""
     name=${input:t:r}
@@ -98,18 +113,26 @@ function buildhtml {
       *)
         ;;
     esac
-    args=( --output ${name}.html ${input} )
+    tmpname="$(mktemp html_XXXXXX)"
+    (( ${rc::=?} )) && exit ${rc}
+    args=( --output ${tmpname} ${input} )
     [[ -n ${prefix} ]] && args[1,0]=( --prefix ${prefix} )
     run ${tohtml} ${args}
-    title="$(jq -r .title ${name}.json)"
-    [[ ${name} != ${title} ]] && run mv -f ${name}.html ${title}.html
-    chapters+=( ${title} )
+    title="$(jq -r .title ${tmpname}.json)"
+    (( ${rc::=?} )) && exit ${rc}
+    run rm -f ${tmpname}.json
+    name="$(filename_uri ${title}.html)"
+    (( ${rc::=?} )) && exit ${rc}
+    run sed -i -E -e "s/@PDFLINK@/${name:r}.pdf/" ${tmpname}
+    run mv -f ${tmpname} ${name}
+    html_titles+=( ${title} )
+    html_filenames+=( ${name} )
   }
-  html_chapters=( ${^chapters}.html )  # ^: RC_EXPAND_PARAM
 }
 
 
 function buildpdf {
+  typeset name
   if [[ ! -d $(kpsewhich -var-value TEXMFVAR)/luatex-cache/generic/fonts ]] {
     print -Pru2 -- '%F{magenta}••• Font caching •••%f'
     run ${fonts}
@@ -125,41 +148,44 @@ function buildpdf {
 
   print -Pru2 -- '%F{magenta}••• LaTeX to PDF •••%f'
 
-  run ${latexmk} --jobname=${base} ${base}.tex
-  run ${latexmk} --jobname="${base} — Synopsis" synopsis.tex
-  run ${latexmk} --jobname="${base} (Print)" ${base}-print.tex
+  name="$(filename_uri ${base})"
+  run ${latexmk} --jobname="${name}" ${base}.tex
+  run ${latexmk} --jobname="${name}-synopsis" synopsis.tex
+  run ${latexmk} --jobname="${name}-print" ${base}-print.tex
+  outputs+=( ${name}.pdf ${name}-synopsis.pdf ${name}-print.pdf )
 
 
   print -Pru2 -- '%F{magenta}••• Splitting PDF •••%f'
 
-  chapters=()
-  n=1
-  run chapters ${base}.log | while read range name; do
-    case ${name} in
+  typeset chapter range
+  typeset -i n=1
+  run chapters ${name}.log | while read range chapter; do
+    case ${chapter} in
       *Prequel)
-        name="Prequel"
+        chapter="Prequel"
         ;;
       Appendix*)
         n=0  # No chapters follow appendices
         ;;
       *)
         if (( n > 0 )) {
-          name="Chapter ${n} — ${name}"
+          chapter="Chapter ${n} — ${chapter}"
           let ++n
         }
         ;;
     esac
     split=(
       --pages .
-      $range
+      ${range}
       --
       --linearize
     )
-    run qpdf ${base}.pdf ${split} ${name}.pdf
-    run qpdf "${base} (Print).pdf" ${split} "${name} (Print).pdf"
-    chapters+=( ${name} )
+    chapter="$(filename_uri ${chapter})"
+    (( ${rc::=?} )) && exit ${rc}
+    run qpdf ${name}.pdf ${split} ${chapter}.pdf
+    run qpdf "${name}-print.pdf" ${split} "${chapter}-print.pdf"
+    pdf_filenames+=( ${chapter}.pdf ${chapter}-print.pdf )
   done
-  pdf_chapters=( ${^chapters}.pdf )  # ^: RC_EXPAND_PARAM
 }
 
 
@@ -174,8 +200,8 @@ cat > index.md <<EOF
 title: 'Dungeons & Gardens'
 ...
 
-- [Full Story](Dungeons%20%26%20Gardens.pdf)
-- [Synopsis](Dungeons%20%26%20Gardens%20%E2%80%94%20Synopsis.html)
+- [Full Story](dungeons_and_gardens.pdf)
+- [Synopsis](dungeons_and_gardens---synopsis.html)
 
 ## Individual Chapters
 
@@ -183,9 +209,9 @@ EOF
 
 integer fd
 exec {fd}>&1 >>index.md
-for chapter ( ${html_chapters:-${pdf_chapters}} ) {
-  print -nr -- "- [${chapter:r}]("
-  print -nr -- "${chapter}" | jq -sRrj @uri
+for (( i=1; i < ${#html_titles}; i++ )) {
+  print -nr -- "- [${html_titles[$i]}]("
+  print -nr -- "${html_filenames[$i]}" | jq -sRrj @uri
   print -r -- ")"
 }
 exec 1>&$fd {fd}>&-
@@ -204,7 +230,6 @@ run ${install_styles}
 run ${install_assets}
 run ${install} ${src}/{appendices,chapters,characters}/*.jpg(N)  # N: null if no match
 run ${install} ${outputs}
-run ${install} ${html_chapters} ${pdf_chapters}
-(( ${#pdf_chapters} )) && run ${install} ${^pdf_chapters:r}" (Print).pdf"
+run ${install} ${html_filenames} ${pdf_filenames}
 
 print -Pru2 -- '%F{green}••• BUILD COMPLETE •••%f'
