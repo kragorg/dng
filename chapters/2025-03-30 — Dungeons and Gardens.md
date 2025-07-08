@@ -13,7 +13,7 @@ Kragor blurts out, “Have you heard the name Irven Liel?”
 
 “I don’t know. But we found a journal of Hulil’s, and it recorded that she sold an Aeorian artifact— a blue vial— to one Irven Liel. We believe this vial is connected to the sickness.” Kragor goes on to explain Hulil’s condition, the blue powder seen in the chest, and the vials.
 
-“That does seem consequential. I will post a message to Syrinlya about this. It’s an outpost of Uthodurn on Eiselcross— perhaps they can make something of your tale.” says Elro. “Meanwhile, I suggest you ask about town for this Liel fellow.”
+“That does seem consequential. I will post a message to Syrinlya about this. It’s an outpost of Uthodurn on Foren, one of the Isles of Eiselcross— perhaps they can make something of your tale.” says Elro. “Meanwhile, I suggest you ask about town for this Liel fellow.”
 
 ## The Liel-Tethwicks
 
@@ -87,7 +87,7 @@ Before anyone can respond, he inquires, “Have you accounted for all of the pow
 
 Doctor Pepe steps forward, “We’ve managed to gather all we could, from both of the vials that Urgon found.”
 
-Elro continues, “I want to hire you to travel to Eiselcross and retrieve this cure. There’s a ship, the Remorhaz, that will take you there. Find the cure, use of it what you need, but the rest… At Syrinlya, you’ll find an elf, an Uthordurnian, that goes by the moniker ‘The Buyer’. Give the cure to him, and he can teleport it back here to Palebank. Do this, and you will be rewarded 200 gold.”
+Elro continues, “I want to hire you to travel to Foren and retrieve this cure. There’s a ship, the Remorhaz, that will take you there. Find the cure, use of it what you need, but the rest… At Syrinlya, you’ll find an elf, an Uthordurnian, that goes by the moniker ‘The Buyer’. Give the cure to him, and he can teleport it back here to Palebank. Do this, and you will be rewarded 200 gold.”
 
 Elara, ever the bargain hunter, stirs the conversation. “Considering the journey’s danger, perhaps we require a bit more compensation for our troubles…”
 
@@ -149,7 +149,7 @@ Sipping spiced cider, an internal shift sharpens his senses. Every sound— the 
 
 Grinning, he tests this newfound quickness, running a stealthy route between tables up to the rooms, completely undetected. Each moment forms with unclouded insight, readying him to weave through shadows, more agile than swirling snow.
 
-As night deepens, each adventurer, transformed by their experiences within the Jolly Dwarf, readies for the unknowns awaiting in Eiselcross. Outside, whispers of snow and secrecy abound, but with increasing potential, each one braces for the stories and trials of tomorrow.
+As night deepens, each adventurer, transformed by their experiences within the Jolly Dwarf, readies for the unknowns awaiting on Foren. Outside, whispers of snow and secrecy abound, but with increasing potential, each one braces for the stories and trials of tomorrow.
 
 ## Prepare for departure
 
@@ -173,7 +173,7 @@ The docks of Palebank Village are beginning to bustle as the adventurers approac
 
 “When you arrive,” Elro instructs, “find Orvo Mustave in Syrinlya. He knows the lay of the land. Remember, send back the cure once you’ve secured it— the Buyer can teleport it directly to us.”
 
-Kragor nods, his grave expression matching the gravity of their mission. “Snowshoes— are they useful for the ice?” he inquires. Elro chuckles dryly. “In Eiselcross, where lava sometimes flows under a thin veneer of ice, yes, they’ll come in handy.”
+Kragor nods, his grave expression matching the gravity of their mission. “Snowshoes— are they useful for the ice?” he inquires. Elro chuckles dryly. “On Foren, where lava sometimes flows under a thin veneer of ice, yes, they’ll come in handy.”
 
 “How big is this Syrinlya? And how long will our trip be?” Scarlet asks.
 
