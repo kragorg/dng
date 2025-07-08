@@ -12,7 +12,8 @@ local function alignmentSpec(alignment)
   end
 end
 
-local LaTeXFilter = {
+local LaTeXFilter = {{
+  traverse = 'topdown',
   Span = function(el)
     if not el.classes then
       return el
@@ -129,7 +130,7 @@ local LaTeXFilter = {
       pandoc.RawInline("latex", "\n\\end{figure*}\n"),
     }
   end,
-}
+}}
 
 local HTMLFilter = {{
   Header = function(el)
