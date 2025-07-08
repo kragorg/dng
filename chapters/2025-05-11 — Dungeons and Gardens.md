@@ -155,7 +155,7 @@ Kragor’s eyes harden as he adds,
 The dreams kept coming, mostly nonsensical.
 Gradually, they formed some thought—
 a command and a promise for greater power.
-‘Go north. Cross the frozen north. To Eiselcross.’
+‘Go north. Cross the frozen north. To Foren in Eiselcross.’
 Don’t know why exactly.
 Maybe to find something.
 Maybe to smash something.
