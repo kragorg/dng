@@ -286,28 +286,53 @@ Fear of what he might become,
 or what his body might do without his consent,
 hung heavy in the yurt.
 
-Their journey to Salsvault began
-under the baleful light of Ruidus.
-The endless white expanse,
-broken only by the occasional rock formation,
-tested their endurance.
-Halite’s strength
-navigated passage up an icy cliff.
-But the nights brought no peace for Kragor.
-Despite Elara’s vigil,
-he thrashed in his sleep,
-waking once more with mud caking his fingernails—
-a horrifying, impossible portent in this land of eternal ice.
+The eleven-day journey to Salsvault
+across the merciless plains of Foren
+tested their limits under the baleful light of Ruidus.
+Kragor’s nocturnal torments continued,
+waking with impossible dirt under his nails
+after thrashing in his sleep.
+The trek was fraught with perils:
+a near-fatal fall into a snow pit for Halite,
+a day lost wandering in circles,
+and an unsettling encounter with an undead creature
+searching for someone named “Lucien.”
 
-On the third day of travel,
-as they trudged forward,
-the monotonous white landscape was interrupted
-by two rock formations,
-standing like silent sentinels
-approximately ten feet tall.
-Their sudden appearance was both a relief
-and a source of renewed tension,
-breaking the endless white
-with their dark, weathered surfaces.
+Their path was marked by a sudden,
+brutal encounter with a juvenile remorhaz,
+a monstrous worm of ice and fire.
+A desperate battle ensued,
+culminating in Halite delivering a killing blow,
+though not before he was wounded by the beast’s searing heat.
+Scarlet, ever the naturalist,
+harvested valuable, fire-resistant scales from its cooling corpse.
+Their fortunes later improved
+with the aid of a grateful griffin,
+healed by Scarlet,
+who provided aerial reconnaissance
+and a warning of giants in the far north.
 
-Something watches. Something waits.
+The journey took a bizarre turn
+when they discovered
+a massive, three-foot-tall white dragon egg,
+which Scarlet identified as being close to hatching.
+Kragor, after a painful incident
+involving his tongue and the frozen shell,
+felt a strange kinship with the “orphan” egg.
+He declared he would protect it,
+adding an impossibly heavy
+and dangerous burden to their quest,
+much to the alarm of his companions.
+
+Finally, on the eleventh day, they arrived.
+Their approach to Salsvault was heralded
+by an attack from the forewarned ice mephits,
+which the party dispatched with brutal efficiency.
+Beyond the site of the battle, they saw it:
+Salsvault, a sloped, ancient structure,
+its alien architecture a clear mark of Aeor.
+But their relief was short-lived.
+As they watched, the ground trembled,
+and the entire ruin began to sink,
+slowly but inexorably, into the frozen earth,
+its entrance threatening to vanish forever.
