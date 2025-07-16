@@ -27,6 +27,7 @@ Table: Inventory Adjustments
 | Halite      | Snowshoes                             |
 | Halite      | one javelin lost while fighting squid |
 | Halite      | another lost fighting remorhaz        |
+| Kragor      | White dragon egg                      |
 | Scarlet     | Snowshoes                             |
 
 Table: Equipment
@@ -120,3 +121,16 @@ You can douse a creature, object, or space with Oil or use it as fuel, as detail
 <span class="item-type">_Book, common_</span>
 
 Hulil Lutan’s journal, mentioning that she sold a vial of blue powder to Irven Liel.
+
+### White Dragon Egg {#dragon-egg .item}
+<span class="item-type">_Wondrous item, Rare_</span>
+
+This ovoid object stands roughly 3 feet tall and weighs a hefty 50 pounds. It was discovered half-buried in a snowdrift on the frozen tundra, a remnant of a long-gone dragon’s clutch.
+
+The egg does not have a smooth shell. Instead, its surface is a complex latticework of crystalline facets, like a massive, uncut diamond sculpted from glacial ice. A permanent, supernatural rime coats its exterior, making it painfully cold to the touch. In low light, a faint, pale blue luminescence pulses rhythmically from deep within its core, akin to a slowly beating heart. The air within 5 feet of the egg is noticeably colder than the surrounding environment.
+
+**Frigid Shell.** The egg is immune to cold damage but vulnerable to bludgeoning damage. Its shell has an Armor Class (AC) of 14 and 35 (6d10) hit points. A creature that touches the egg with its bare skin for the first time on a turn or starts its turn in contact with it takes 1d6 cold damage.
+
+**Innate Magic.** The egg radiates a faint aura of Transmutation magic if scrutinized with a spell like _Detect Magic_.
+
+**Incubation.** Scarlet’s evaluation of the egg is that it is egg is viable and will hatch in a few days or weeks. For the wyrmling to develop properly, the egg must be kept in an environment at or below freezing temperatures.
