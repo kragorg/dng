@@ -176,10 +176,11 @@ my calculated journey,
 the whispers in my mind
 a constant companion.
 
-Six weeks
+Four weeks
 of winding roads and vicious winds
-carried me through
-Bladegarden, Hupperdook, Nogvugrot, and Yrrosa.
+carried me from
+Bladegarden,
+through Nogvugrot, Rexxentrum, and Yrrosa.
 Icehaven finally emerged from the Zemni Fields
 like a promise.
 Once I arrived,
