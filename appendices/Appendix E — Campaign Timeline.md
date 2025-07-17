@@ -9,10 +9,10 @@ The adventure began in an unspecified year, but sometime after 828 Post-Divergen
 - **11 Thunsheer,** _Day 9_. A young remorhaz attacked the party. Kragor’s fourth Entombed Dream.
 - **10 Thunsheer,** _Day 8_. Kragor’s third Entombed Dream.
 - **9 Thunsheer,** _Day 7_. The party left Syrinlya to find Salsvault. Whisper noticed a bright light streak across the sky.
-- **8 Thunsheer,** _Day 6_. The _Remorhaz_ arrived in Syrinlya. Orvo Mustave told his tale of Salsvault, and Kragor shared his Entombed Dream.
+- **8 Thunsheer,** _Day 6_. The _Remorhaz_ arrived in Syrinlya. Orvo Mustave told his tale of Salsvault, and Kragor shared his Entombed Dreams with the party.
 - **7 Thunsheer,** _Day 5_. A giant squid destroyed the _Frostfang_, and attacked the _Remorhaz_. Gerhard joined the party.
-- **6 Thunsheer,** _Day 4_. Chef Ingrid taught some of the adventures how to cook, and was revealed to be a werewolf. Kragor’s second Entombed Dream.
-- **5 Thunsheer,** _Day 3_. The _Remorhaz_ set sail from Palebank Village. Elara put on a show of a lifetime. Scarlet has a flumpf fever dream.
+- **6 Thunsheer,** _Day 4_. Chef Ingrid taught some of the adventurers how to cook, and was revealed to be a werewolf. Kragor’s second Entombed Dream.
+- **5 Thunsheer,** _Day 3_. The _Remorhaz_ set sail from Palebank Village. Elara put on the show of a lifetime. Scarlet has a flumpf fever dream.
 - **4 Thunsheer,** _Day 2_. Hulil’s gang was defeated at Croaker Cave. The adventurers variously prepared, trained, and experienced ephiphanies.
 - **3 Thunsheer,** _Day 1_. The _Frostwind_ arrived at Palebank Village. Urgon Wenth’s funeral procession. Kragor’s first Entombed Dream.
 - **1 Thunsheer,** _Day -2_. Irven Liel purchased a blue vial from Hulil Tulgi. He and his family became infected with Frigid Woe.
