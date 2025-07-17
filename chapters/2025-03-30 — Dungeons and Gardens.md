@@ -307,7 +307,7 @@ Ingrid replies, her gaze distant, anchored yet free. “Ah, a trifle,” she mur
 
 Kragor nodded slowly, satisfied with the simple explanation. “Ah, nice. Moon is... nice.”
 
-Ingrid chuckls softly, her eyes momentarily distant as if recalling secrets long kept. But with Kragor content and unlikely to probe further, the moment passes.
+Ingrid chuckles softly, her eyes momentarily distant as if recalling secrets long kept. But with Kragor content and unlikely to probe further, the moment passes.
 
 ## The Crick Queen’s Call
 
