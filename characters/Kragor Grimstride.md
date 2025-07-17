@@ -120,7 +120,7 @@ Gradually, the chaos of my dreams
 began to coalesce into a chilling clarity—
 a command, stark and undeniable,
 and a promise of greater power.
-“Go north. Cross the frozen north. To Eiselcross.”
+“Go north. Cross the frozen north. To Foren in Eiselcross.”
 The purpose remained a shrouded mystery,
 yet a strange, cold resolve settled deep within me.
 I would follow.
