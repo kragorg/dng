@@ -666,7 +666,7 @@ until they find a suitable location
 to set up camp.
 Having now crossed two hundred four miles
 into the island,
-they know they will soon find Salsvalt.
+they know they will soon find Salsvault.
 
 ## The Cold Welcome
 
