@@ -6,7 +6,7 @@ Then, he gasps, back in the Remorhaz’s cabin, the phantom cold clinging to him
 
 Where did this come from? He swings his legs out of the bunk, scanning the cramped space. His bunk is as he left it; nothing is disturbed. Still bewildered, he settles back and begins a slow ritual to attune himself to the presence of magic, desperate for an explanation. Extending his arcane senses, he scans the cabin. Enchanted auras bloom nearby: the dagger Doctor Pepe carries… but also something else he does not recognize. Further away, Ingrid’s lycanthropy-suppressing amulet. He checks his bunk, his gear, himself. Nothing. No trace of sorcery explains the vivid nightmare or the impossible dirt. He stares at his hands, the earthy grit a stubborn, unsettling riddle.
 
-Dawn breaks on the fourth day of the adventurer’s journey across the Frigid Depths. A thick fog stretches endlessly before the Remorhaz, reducing the world to a spectral canvas of grays and whites. Visibility collapses to a mere fifty feet, transforming the sea into a claustrophobic realm where sound becomes more reliable than sight.
+Dawn breaks on the third day of the adventurer’s journey across the Frigid Depths. A thick fog stretches endlessly before the Remorhaz, reducing the world to a spectral canvas of grays and whites. Visibility collapses to a mere fifty feet, transforming the sea into a claustrophobic realm where sound becomes more reliable than sight.
 
 Chef Ingrid prepares a feast of gratitude. Massive platters of smoked fish, hearty breads, and steaming porridge cover the galley table, a culinary apology wrapped in steam and seasoning.
 
@@ -228,7 +228,7 @@ Morgo nods at the fire. “Right then. Shelter’s sorted. Provisions are sold n
 
 Morgo gives them a final nod. “Stay warm. Stay sharp. Don’t get eaten.” She turns and vanishes into the swirling snow.
 
-Inside the yurt, the fire crackles against the wind’s mournful Eiselcross howl. It’s late afternoon, their fifth day since leaving Palebank Village. Syrinlya is harsh, potentially deadly, but they have shelter, supplies, and a lead.
+Inside the yurt, the fire crackles against the wind’s mournful Eiselcross howl. It’s late afternoon, their fourth day since leaving Palebank Village. Syrinlya is harsh, potentially deadly, but they have shelter, supplies, and a lead.
 
 ## Orvo
 
