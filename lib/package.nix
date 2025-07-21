@@ -21,7 +21,10 @@ let
   scripts =
     pkgs.runCommand "dng-scripts"
       {
-        nativeBuildInputs = [ gawk zsh ];
+        nativeBuildInputs = [
+          gawk
+          zsh
+        ];
       }
       ''
         mkdir -p $out/bin
@@ -30,15 +33,26 @@ let
           patchShebangs $out/bin/$file
         done
       '';
+  subdirs = [ "chapters" "appendices" "characters" ];
   sort = l: lib.sort (a: b: a < b) l;
   listFiles =
-    dir: map (f: "${dir}/${f}") (sort (builtins.attrNames (builtins.readDir "${src}/${dir}")));
+    dir:
+    lib.pipe "${src}/${dir}" [
+      builtins.readDir
+      builtins.attrNames
+      sort
+      (map (f: "${dir}/${f}"))
+    ];
   listMarkdown =
-    dir: builtins.filter (filename: builtins.match ".*\\.md$" filename != null) (listFiles dir);
-  chapters = listMarkdown "chapters";
-  appendices = listMarkdown "appendices";
-  characters = listMarkdown "characters";
-  markdown = lib.escapeShellArgs (chapters ++ appendices ++ characters);
+    dir:
+    lib.pipe dir [
+      listFiles
+      (builtins.filter (name: builtins.match ".*\\.md$" name != null))
+    ];
+  markdown = lib.pipe subdirs [
+    (builtins.concatMap listMarkdown)
+    lib.escapeShellArgs
+  ];
 in
 stdenv.mkDerivation rec {
   inherit pname version;
@@ -51,7 +65,11 @@ stdenv.mkDerivation rec {
     \usepackage{etoolbox}
     \newfontfamily\gillius{GilliusADFNo2}[NFSSFamily=GilliusADFNoTwo-LF]
     \sloppy
-    \graphicspath{{${src}/appendices/}{${src}/chapters/}{${src}/characters/}}
+    \graphicspath{%
+    ${lib.pipe subdirs [
+      (map (dir: "{${src}/${dir}/}"))
+      (lib.concatStringsSep "")
+    ]}}
     \newcounter{dngchapter}
     \makeatletter
     \pretocmd{\@chapter}{%
