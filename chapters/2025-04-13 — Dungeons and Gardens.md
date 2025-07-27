@@ -6,7 +6,7 @@ Then, he gasps, back in the Remorhaz’s cabin, the phantom cold clinging to him
 
 Where did this come from? He swings his legs out of the bunk, scanning the cramped space. His bunk is as he left it; nothing is disturbed. Still bewildered, he settles back and begins a slow ritual to attune himself to the presence of magic, desperate for an explanation. Extending his arcane senses, he scans the cabin. Enchanted auras bloom nearby: the dagger Doctor Pepe carries… but also something else he does not recognize. Further away, Ingrid’s lycanthropy-suppressing amulet. He checks his bunk, his gear, himself. Nothing. No trace of sorcery explains the vivid nightmare or the impossible dirt. He stares at his hands, the earthy grit a stubborn, unsettling riddle.
 
-Dawn breaks on the third day of the adventurer’s journey across the Frigid Depths. A thick fog stretches endlessly before the Remorhaz, reducing the world to a spectral canvas of grays and whites. Visibility collapses to a mere fifty feet, transforming the sea into a claustrophobic realm where sound becomes more reliable than sight.
+Dawn breaks on the third day of the adventurers’ journey across the Frigid Depths. A thick fog stretches endlessly before the Remorhaz, reducing the world to a spectral canvas of grays and whites. Visibility collapses to a mere fifty feet, transforming the sea into a claustrophobic realm where sound becomes more reliable than sight.
 
 Chef Ingrid prepares a feast of gratitude. Massive platters of smoked fish, hearty breads, and steaming porridge cover the galley table, a culinary apology wrapped in steam and seasoning.
 
@@ -72,7 +72,7 @@ Enraged and wounded, the colossal squid reacts with malignant fury. Its writhing
 
 Another abrupt strike from the squid’s beak leaves a gaping wound in the ship’s hull. Thick splinters and dislodged timbers bear silent witness to the beast’s brutal might. Amid the clamor of battle, Ingrid’s voice wafts upward from below, barely registering over the cacophony of combat: “Are you sure you wouldn’t like a sandwich?”
 
-Halite’s broad arm hurls a javelin that whistles through the frigid air, colliding with one of the squid’s thick tentacles. The impact reverberates— a flash of victory as the creature recoils, wounded by the force of his strike. At the same moment, Whisper dashes to Elara’s aid. With feline agility, she slashes at the slimy appendage constricting her, her claws raking into its flesh. A burst of raw determination follows as she unleashes a flurry of attacks that loosen the tentacle’s grip enough for Elara to breathe, but not enough for her to escape.
+Halite’s broad arm hurls a javelin that whistles through the frigid air, colliding with one of the squid’s thick tentacles. The impact reverberates— a flash of victory as the creature recoils, wounded by the force of his strike. At the same moment, Whisper dashes to Elara’s aid. With feline agility, she slashes at the slimy appendage constricting her, her claws raking into its flesh. A burst of raw determination follows as she unleashes a flurry of attacks that loosens the tentacle’s grip enough for Elara to breathe, but not enough for her to escape.
 
 Across the chaotic deck, Ironfist steadies himself and lines up the ballista, the massive weapon creaking as he aims it squarely at the disordered beast. Not far away, the wiry wizard, face alight with fervor and exhaustion, summons a bolt of shimmering blue energy. The air crackles with ozone as a sustained electric arc connects with the squid, sapping its monstrous vitality.
 
@@ -116,7 +116,7 @@ A small, wry chuckle escapes her. “Sparky did mention seeing tentacles in the 
 
 A collective sigh escapes the crew, a shared breath of weary disappointment. Hope is a fragile commodity here. The Remorhaz creeps onward, the search continuing within the fog’s suffocating embrace.
 
-The galley bustles with activity, Chef Ingrid impressed with our tale of the giant squid, her moon-and-rune amulet glinting in the lamplight. Despite the chaos, a sense of camaraderie pulses through the ship as the crew gathers— survivors and newcomers alike.
+The galley bustles with activity. Chef Ingrid is impressed with our tale of the giant squid, her moon-and-rune amulet glinting in the lamplight. Despite the chaos, a sense of camaraderie pulses through the ship as the crew gathers— survivors and newcomers alike.
 
 Kragor, brow furrowed, leans towards the wizard Bret, peppering him with questions. Bret, clearly burdened by secrets, folds his hands cautiously. “I am bound by oaths,” he states, his tone careful, “to maintain discretion regarding my objectives within Eiselcross.” His eyes dart around the galley.
 
@@ -136,7 +136,7 @@ Below decks, Ingrid’s promised feast wafts upwards— smoked fish and steaming
 
 Scarlet approaches Gerhard, her expression sympathetic but gaze direct. “Gerhard, you said your family sailed these waters long? Your family name?”
 
-He pulls his attention from the grey void beyond the porthole. “Eisner,” he replies, rubbing a hand over his burgeoning beard. “Of Icehaven. Fishermen for generations. Crabs, mostly. That boat… she was everything.” He gestures vaguely towards Rorik. “My life, his livelihood… gone.” He sighs, a plume of condensation in the cool air. “We’d only recently started ferrying passengers. Trying a new way. Bret here offered good coin.”
+He pulls his attention from the gray void beyond the porthole. “Eisner,” he replies, rubbing a hand over his burgeoning beard. “Of Icehaven. Fishermen for generations. Crabs, mostly. That boat… she was everything.” He gestures vaguely towards Rorik. “My life, his livelihood… gone.” He sighs, a plume of condensation in the cool air. “We’d only recently started ferrying passengers. Trying a new way. Bret here offered good coin.”
 
 “Is there somewhere… we might rest?” Gerhard asks, looking towards Captain Stonebeard, who surveys the gathered company, his face grim but resolute.
 
@@ -172,11 +172,11 @@ The two captains stand silent awhile, solitary figures keeping vigil against the
 
 Elara takes the fourth watch, relieving Gerhard. Settling near the bow, harp resting beside her, she resolves to stay alert, but the battle, the song, the journey’s weight… it all presses down. The rhythmic slap of waves against the hull becomes a lullaby. Her eyelids grow heavy. One moment she scans the impenetrable white wall ahead; the next…
 
-She jerks awake with a start. Grey dawn light filters through thinning fog. Guilt floods her— she slept. Heart pounding, she scrambles up, frantically scanning the deck, the sea. Nothing. No alarms, no disturbances. The Remorhaz sails on, undisturbed. Relief wars with embarrassment; apparently, the Frigid Depths granted her unguarded peace.
+She jerks awake with a start. Gray dawn light filters through thinning fog. Guilt floods her— she slept. Heart pounding, she scrambles up, frantically scanning the deck, the sea. Nothing. No alarms, no disturbances. The Remorhaz sails on, undisturbed. Relief wars with embarrassment; apparently, the Frigid Depths granted her unguarded peace.
 
-As the morning progresses, the pale sun burns away the fog. By noon, visibility stretches for ten miles across choppy, grey-green waves under a brightening sky. And there, rising from the sea to the south, is the unmistakable shape of land— jagged, snow-dusted peaks against the horizon.
+As the morning progresses, the pale sun burns away the fog. By noon, visibility stretches for ten miles across choppy, gray-green waves under a brightening sky. And there, rising from the sea to the south, is the unmistakable shape of land— jagged, snow-dusted peaks against the horizon.
 
-A shout goes up from the crow’s nest, echoed by murmurs on deck. Captain Stonebeard strides to the railing, squinting. A rare grin splits his beard. “Ah, Kaltsel to the south!” After a brief conference with the navigator, he adds “Mera puts us two hours out from Syrinlya!” He turns, voice booming across the deck, energized. “Alright, you lot! Look alive! Pack your gear and prepare for landfall! The Frigid Depths haven’t beaten us yet!”
+A shout goes up from the crow’s nest, echoed by murmurs on deck. Captain Stonebeard strides to the railing, squinting. A rare grin splits his beard. “Ah, Kaltsel to the south!” After a brief conference with the navigator, he adds, “Mera puts us two hours out from Syrinlya!” He turns, voice booming across the deck, energized. “Alright, you lot! Look alive! Pack your gear and prepare for landfall! The Frigid Depths haven’t beaten us yet!”
 
 The salt spray now freezes almost instantly upon hitting the deck. Since leaving Palebank Village, the world has steadily bled color and warmth, surrendering to an encroaching reign of ice. The air bites with a ferocity that makes the fog-chilled waters seem almost temperate by comparison. Under the finally clear, brittle sky, the Remorhaz glides towards a coastline that looks like the jagged teeth of some immense, frost-covered beast, its peaks clawing at the sky.
 
@@ -186,7 +186,7 @@ Stonebeard brings the Remorhaz expertly alongside a crude dock fashioned from ti
 
 ## Syrinlya
 
-The wind assaults the party as they step onto frozen ground, driving needles of snow into exposed skin. Kragor pulls his cloak tighter, muttering about unnatural cold. A stout, weathered dwarf woman with a wild mane of shaggy grey hair approaches, stamping heavily booted feet.
+The wind assaults the party as they step onto frozen ground, driving needles of snow into exposed skin. Kragor pulls his cloak tighter, muttering about unnatural cold. A stout, weathered dwarf woman with a wild mane of shaggy gray hair approaches, stamping heavily booted feet.
 
 “Morgo Delwur, at yer service!” she declares, her voice rasping through the gale. “Heard you were comin’. Lookin’ for Orvo Mustave?” She gestures vaguely inland. “His yurt’s over there. And the Buyer?” She points to a larger, well-maintained yurt. “That’s his place. Fancy.”
 
@@ -216,7 +216,7 @@ He grunts, holding it aloft. “Looks like our elf wasn’t just after treasure.
 
 Elara peers at it. “Oh, Scanlan again. So popular… I’ll have a following like that someday.” She winks.
 
-Whisper sniffs disdainfully. “More useful than poetry, perhaps,” she eyes the silk rope with interest.
+Whisper sniffs disdainfully. “More useful than poetry, perhaps.” She eyes the silk rope with interest.
 
 “Miner’s pick?” Halite rumbles, taking the tool from the crate and testing its weight. “Could be useful.”
 
@@ -238,7 +238,7 @@ Whisper interjects, “It’s getting late. Best split up: some get supplies, ot
 
 They agree. Whisper, Scarlet, and Doctor Pepe head for the provision yurts near The Buyer’s large dwelling, the spot Morgo indicated. Wind tugs their cloaks as they navigate snow-dusted paths between structures.
 
-Meanwhile, Kragor, Halite, Elara, and a subdued Gerhard seek Orvo Mustave’s yurt. They find it slightly apart, smaller than theirs, smoke rising bravely against the grey sky. Before it, a modest campfire struggles against the cold. A young dwarf sits beside the flames, shortsword across his lap. His dark, relatively short beard frames a face marked by a prominent scar— three ragged lines, like a claw mark dragged across his cheek. He looks up as they approach, warming his hands.
+Meanwhile, Kragor, Halite, Elara, and a subdued Gerhard seek Orvo Mustave’s yurt. They find it slightly apart, smaller than theirs, smoke rising bravely against the gray sky. Before it, a modest campfire struggles against the cold. A young dwarf sits beside the flames, shortsword across his lap. His dark, relatively short beard frames a face marked by a prominent scar— three ragged lines, like a claw mark dragged across his cheek. He looks up as they approach, warming his hands.
 
 “Oh, hey,” he calls out, his voice rough but friendly enough. “How y’all doing?”
 
@@ -344,7 +344,7 @@ The dwarf’s eyes widen slightly as he takes the book with a trembling hand. �
 
 “Oh, it was so good,” Elara gushes, clasping her hands. “The size of those hands! And the tentacles! My horn was horny when I read that chapter!”
 
-“Aye!” The dwarf nods vigorously, another cough rattling him. “Best thing to read when yer laid up. Just lay back and read Tusk Love.” He sets the book aside and pulls out a long pipe, tamping something into the bowl. “A woman after me own heart. So, what brings this fine company to ol’ Javel’s Emporium? I’d guess me boyish good looks, or yer lookin’ for gear.”
+“Aye!” The dwarf nods vigorously, another cough rattling him. “Best thing to read when yer laid up. Just lie back and read Tusk Love.” He sets the book aside and pulls out a long pipe, tamping something into the bowl. “A woman after me own heart. So, what brings this fine company to ol’ Javel’s Emporium? I’d guess me boyish good looks, or yer lookin’ for gear.”
 
 “Well,” Elara leans in conspiratorially, “we definitely noticed the boyish good looks.”
 

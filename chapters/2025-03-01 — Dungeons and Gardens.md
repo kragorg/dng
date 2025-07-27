@@ -1,6 +1,6 @@
 # Pelc’s Curiosities
 
-<span class="dropcap">The party stands outside Pelc’s</span> Curiosities, the door slightly ajar. Suspecting intruders, Whisper closes her eyes while softly purring “Maior et Fortior”. The air around her shimmers momentarily as she draws on her inner ki in concentration. She then peers into the doors and the windows of the building. Despite her efforts, she cannot make out very much, though she hears enough rustling to make her hairs bristle. It sounds as though there are several inside ransacking the place. Scarlet joins Whisper’s investigation, attempting to divine whether the noises might simply be animals, yet she senses no wildlife inside.
+<span class="dropcap">The party stands outside Pelc’s</span> Curiosities, the door slightly ajar. Suspecting intruders, Whisper closes her eyes while softly purring “Maior et Fortior”. The air around her shimmers momentarily as she draws on her inner ki in concentration. She then peers through the doors and windows of the building. Despite her efforts, she cannot make out very much, though she hears enough rustling to make her hairs bristle. It sounds as though there are several inside ransacking the place. Scarlet joins Whisper’s investigation, attempting to divine whether the noises might simply be animals, yet she senses no wildlife inside.
 
 Preparing for potential conflict, Kragor stands up straight and stretches out his arms as if to grasp a weapon. In a loud yet distant voice he exclaims “Malleum Evoco”. Suddenly ethereal shadows stream in from all directions and coalesce into an obsidian black war hammer with an angular and brutal head. Its every surface is etched with subtle twisting runes. Kragor hefts the weapon with both hands, then widens his stance with feet planted firmly on the ground.
 
@@ -12,13 +12,13 @@ Inside Pelc’s Curiosities lie the answers to the freezing curse. Anxious for a
 
 “So much for the element of surprise,” mutters Kragor.
 
-Undeterred, Elara shoulders the door open again. Darkness seeped around her like ink in water, yet her keen eyes, accustomed to shadow, discerned the outlines of two startled bandits amid the cluttered ruins of the shop. Ancient relics lay strewn about like casualties of an invisible war; toppled bookshelves and shattered relics spoke of a hasty, chaotic search.
+Undeterred, Elara shoulders the door open again. Darkness seeps around her like ink in water, yet her keen eyes, accustomed to shadow, discerned the outlines of two startled bandits amid the cluttered ruins of the shop. Ancient relics lay strewn about like casualties of an invisible war; toppled bookshelves and shattered relics spoke of a hasty, chaotic search.
 
 The bandits, their nerves frayed by Elara’s eerie magic, released their crossbow bolts in a jittery frenzy. The bolts missed their marks, striking harmlessly against worn brick and aged wood. Assessing the chaotic tableau before her, Elara hesitated; caution whispered in her ear, suggesting a withdrawal from direct assault into strategic retreat.
 
 ## Inspiration and Fog
 
-She retreated to her waiting comrades, her mind spinning a fresh tapestry of strategy. Checking again her surroundings, Kragor meets her gaze with a blend of curiosity and gruff admiration. Her eyes locked with his, and in that silent exchange, understanding was born. Elara struck her hand drum, each beat a pulse of power transmitted through the air, wrapping around Kragor like a cloak of inspiration. The rhythmic symphony reignited his focus, sharpening his spirit for the clash ahead.
+She retreats to her waiting comrades, her mind spinning a fresh tapestry of strategy. Checking again her surroundings, Kragor meets her gaze with a blend of curiosity and gruff admiration. Her eyes locked with his, and in that silent exchange, understanding was born. Elara struck her hand drum, each beat a pulse of power transmitted through the air, wrapping around Kragor like a cloak of inspiration. The rhythmic symphony reignited his focus, sharpening his spirit for the clash ahead.
 
 But as this is happening, Scarlet quickly reacts. “Voco Nubes!” she bellows while raising her gnarled staff to the sky. Her eyes close in concentration as she summons nature’s veil. Wisps of mist curl around her fingers before surging toward the building. The vapor seeps through cracks and under doorways, expanding rapidly into a dense, swirling fog that blankets the room. The once-clear space becomes an opaque, ethereal haze, obscuring vision and muffling sound. The druid smiles, knowing the shrouded interior will confound any occupants, granting her allies the advantage they seek within the murky cover of the fog cloud. She wastes no time taking advantage of it herself: she sneaks into the building and hugs the wall, moving to the right. She can hear others moving inside as well, but can make out nothing through the fog.
 
@@ -32,11 +32,9 @@ Outside, Whisper’s sharp tabaxi senses are attuned to every movement around he
 
 ## Counterattack
 
-Halite now grasps the perilous choice the party has made in their recklessness. With a fierce resolve etched in the hard lines of his goliath visage, he charges through the fog-choked doorway, instinctively veering left to secure the flank opposite Scarlet and Kragor. The mist clings to him, a shroud of uncertainty, yet he moves with the confidence of one accustomed to the unseen. A bandit lunges at him, the attack a mere whisper of danger that dissolves into emptiness. Seizing the opportunity, Halite’s fingers tighten around his trident, that harbinger of despair. With an expert thrust, the weapon slices through the fog, hungry for blood. It strikes true, embedding itself deep within the bandit with a sickening resistance, as though the weapon savored its work. Halite has to struggle to wrench it free from the bandit with raw power, the action accompanied by a dreadful noise that the fog quickly absorbs.
+Halite now grasps the perilous choice the party has made in their recklessness. With a fierce resolve etched in the hard lines of his goliath visage, he charges through the fog-choked doorway, instinctively veering left to secure the flank opposite Scarlet and Kragor. The mist clings to him, a shroud of uncertainty, yet he moves with the confidence of one accustomed to the unseen. A bandit lunges at him, the attack a mere whisper of danger that dissolves into emptiness. Seizing the opportunity, Halite’s fingers tighten around his trident, that harbinger of despair. With an expert thrust, the weapon slices through the fog, hungry for blood. It strikes true, embedding itself deep within the bandit with a sickening resistance, as though the weapon savors its work. Halite has to struggle to wrench it free from the bandit with raw power, the action accompanied by a dreadful noise that the fog quickly absorbs.
 
-While recovering his favored weapon, Halite hears the “whoosh” of a crossbow bolt. He flinches, but he is not the target. He hears Kragor cry out in desperate pain.
-
-The bolt had struck Kragor just below the collarbone, close to his heart. Blood flows unchecked, staining his leather armor.
+While recovering his favored weapon, Halite hears the “whoosh” of a crossbow bolt. He flinches, but he is not the target. He hears Kragor cry out in desperate pain. The bolt strikes Kragor just below the collarbone, close to his heart. Blood flows unchecked, staining his leather armor.
 
 Seconds later, another bolt pierces Scarlet and a sharp pain flares beneath her ribs. Blood seeps into her cloak, mingling with the forest’s earthy scent.
 
@@ -60,49 +58,49 @@ Now sufficiently recovered to rejoin the battle, Kragor focuses his attention on
 
 ## Surrender
 
-Halite, his towering form casting an imposing shadow across the cluttered interior of the ransacked antique shop, moved with purpose toward Kragor’s target: a bandit whose bravado had been seared away by the crackling energy of the orc warlock’s magic. The air still shimmered with the fading traces of arcane power, and the bandit, already on the brink of collapse, could only watch as the goliath fighter closed the distance between them like an inexorable force of nature.
+Halite, his towering form casting an imposing shadow across the cluttered interior of the ransacked antique shop, moves with purpose toward Kragor’s target: a bandit whose bravado has been seared away by the crackling energy of the orc warlock’s magic. The air still shimmers with the fading traces of arcane power, and the bandit, already on the brink of collapse, can only watch as the goliath fighter closes the distance between them like an inexorable force of nature.
 
-The trident in Halite’s grip gleamed with an unsettling menace, its barbed points promising a swift and painful end should it be called upon to deliver one. The bandit, a mere lithe elf in the presence of such formidable warriors, felt the weight of his own mortality for what seemed like the first time. His sword clattered to the wooden floor, a hollow sound that resonated through the shop, punctuating his surrender.
+The trident in Halite’s grip gleams with an unsettling menace, its barbed points promising a swift and painful end should it be called upon to deliver one. The bandit, a mere lithe elf in the presence of such formidable warriors, feels the weight of his own mortality for what seems like the first time. His sword clatters to the wooden floor, a hollow sound that resonates through the shop, punctuating his surrender.
 
-“I yield,” the bandit croaked, his voice strained with fear and desperation. He raised his hands, palms open and empty, a universal sign of capitulation. His eyes darted to his remaining comrade, wide with silent urging.
+“I yield,” the bandit croaks, his voice strained with fear and desperation. He raises his hands, palms open and empty, a universal sign of capitulation. His eyes dart to his remaining comrade, wide with silent urging.
 
-The last standing bandit, who had watched the battle unfold with growing dread, knew the odds all too well. He had witnessed the fate of their fallen companions—three already dispatched with ruthless efficiency by the duo of Kragor and Halite. The decision was not a difficult one.
+The last standing bandit, who watched the battle unfold with growing dread, knows the odds all too well. He witnessed the fate of their fallen companions— three already dispatched with ruthless efficiency by the duo of Kragor and Halite. The decision is not a difficult one.
 
-He dropped his own weapon, a well-worn crossbow, to the floor and raised his hands above his head in submission. “We don’t want anymore trouble,” he said, his voice carrying a tremor that matched the frantic beating of his heart.
+He drops his own weapon, a well-worn crossbow, to the floor and raises his hands above his head in submission. “We don’t want any more trouble,” he says, his voice carrying a tremor that matches the frantic beating of his heart.
 
-Kragor surveyed the scene, his eyes, glowing faintly with residual magical energy, meeting Halite’s. An unspoken understanding passed between them—this victory, as hard-fought as it was, did not need to claim further lives.
+Kragor surveyes the scene, his eyes, glowing faintly with residual magical energy, meeting Halite’s. An unspoken understanding passes between them— this victory, as hard-fought as it was, need not claim further lives.
 
-With the tension of combat beginning to ebb, the antique shop’s air felt still, though the echoes of the skirmish lingered. Surrounded by overturned furniture and scattered relics of a bygone era, the bandits’ surrender marked the end of the struggle, their lives spared by the mercy of those far mightier than they.
+With the tension of combat beginning to ebb, the antique shop’s air feels still, though the echoes of the skirmish linger. Surrounded by overturned furniture and scattered relics of a bygone era, the bandits’ surrender marks the end of the struggle, their lives spared by the mercy of those far mightier than they.
 
-Whisper, having ensured the rogue she tossed from the roof was no longer a threat, finally entered the antique shop and closed the door behind her. As she did, the rogue moved to a crouched position around the corner, relieved that his theatrics had been successful. Intending to enter the building when the coast was truly clear, he remained vigilant, pressing his ear to the cool glass of the window to eavesdrop on the victorious adventurers.
+Whisper, having ensured the rogue she tossed from the roof was no longer a threat, finally enters the antique shop and closes the door behind her. As she did, the rogue moves to a crouched position around the corner, relieved that his theatrics were successful. Intending to enter the building when the coast was truly clear, he remains vigilant, pressing his ear to the cool glass of the window to eavesdrop on the victorious adventurers.
 
 ## Interrogation
 
-Elara and Scarlet eyed the bandits with intensity, their curiosity piqued by the confession of surrender. “Who are you and what were you doing here?” Elara demanded, her voice steady yet demanding answers.
+Elara and Scarlet eye the bandits with intensity, their curiosity piqued by the confession of surrender. “Who are you and what were you doing here?” Elara demands, her voice steady yet demanding answers.
 
-The first bandit, regaining a bit of composure but still visibly shaken, replied, “We were sent by Hulil, a priestess of Tiamat. She instructed us to search this place. Two months ago, there was a robbery here, and now Hulil’s got this strange freezing sickness. She hoped we might find a clue here in the shop. But we found nothing.”
+The first bandit, regaining a bit of composure but still visibly shaken, replies, “We were sent by Hulil, a priestess of Tiamat. She instructed us to search this place. Two months ago, there was a robbery here, and now Hulil’s got this strange freezing sickness. She hoped we might find a clue here in the shop. But we found nothing.”
 
-Scarlet’s gaze remained firm as she pressed further, “Then why did you attack us?”
+Scarlet’s gaze remains firm as she presses further, “Then why did you attack us?”
 
-A hint of embarrassment colored the bandit’s cheeks. “We were spooked. We heard some weird noise, then you guys barged in. Especially that chick with a horn on her head,” he gestured toward Elara. “We panicked. We’re not used to dealing with people like you.”
+A hint of embarrassment colors the bandit’s cheeks. “We were spooked. We heard some weird noise, then you guys barged in. Especially that chick with a horn on her head,” he gestures toward Elara. “We panicked. We’re not used to dealing with people like you.”
 
-In the meantime, the rogue outside, crouching below the window, absorbed the exchange, piecing together the dynamics at play.
+In the meantime, the rogue outside, crouching below the window, absorbs the exchange, piecing together the dynamics at play.
 
-Scarlet produced a weathered receipt with notations about Aeorian artifacts and presented it to the bandits. “Have you seen these items?”
+Scarlet produces a weathered receipt with notations about Aeorian artifacts and presents it to the bandits. “Have you seen these items?”
 
-“They’re with Hulil,” the bandit admitted reluctantly, his eyes on the documentation with evident recognition. “She’s at Croaker’s Cave,” confirming what the party had already learned from Hulil’s sister, Tulgi.
+“They’re with Hulil,” the bandit admits reluctantly, his eyes on the documentation with evident recognition. “She’s at Croaker’s Cave,” confirming what the party had already learned from Hulil’s sister, Tulgi.
 
-Satisfied with the information, Kragor dismissed the subdued bandits in no uncertain terms: “Leave everything and get out.” Seizing their chance, the bandits quickly discarded their weapons and coins before hurrying for the door, the rogue outside remaining concealed until the coast was truly clear.
+Satisfied with the information, Kragor dismisses the subdued bandits in no uncertain terms: “Leave everything and get out.” Seizing their chance, the bandits quickly discard their weapons and coins before hurrying for the door, the rogue outside remaining concealed until the coast is truly clear.
 
 ## Loot
 
-After searching the bandits’ leavings and their late compatriots’ bodies, the party tallied the loot: 14 gold pieces, eight silver pieces, five crossbows, 30 bolts, five scimitars, and a dwarf-sized shirt blazoned with “Scanlan Shorthalt — The Meat Man Cometh”. (Elara judged this last item to be a rare find and might fetch as much as two gold pieces.)
+After searching the bandits’ leavings and their late compatriots’ bodies, the party tallies the loot: 14 gold pieces, eight silver pieces, five crossbows, 30 bolts, five scimitars, and a dwarf-sized shirt blazoned with “Scanlan Shorthalt — The Meat Man Cometh”. (Elara judges this last item to be a rare find and might fetch as much as two gold pieces.)
 
-The party then turned to the antique shop, assessing the chaos that engulfed it. The room was in disarray, bookshelves overturned and trinkets strewn about. Amidst the disorder, they stumbled upon a chilling sight—a frozen elf lying lifeless in bed. It was Verla Pelc, and the grim discovery confirmed that the place had not seen tidiness for weeks.
+The party then turnes to the antique shop, assessing the chaos that engulfed it. The room is in disarray, bookshelves overturned and trinkets strewn about. Amidst the disorder, they stumble upon a chilling sight— a frozen elf lying lifeless in bed. It is Verla Pelc, and the grim discovery confirms that the place has not seen tidiness for weeks.
 
-In a thorough inspection of both the shop and the dead bandits’ belongings, they discovered two bows and various odds and ends. Deciding a respite was in order, they planned to rest before heading to Croaker Cave.
+In a thorough inspection of both the shop and the dead bandits’ belongings, they discover two bows and various odds and ends. Deciding a respite was in order, they plan to rest before heading to Croaker Cave.
 
 ## Who is this guy?
 
-Unbeknownst to the adventurers, the rogue remained vigilant, listening to their intentions and preparing to bide his time until they left.
+Unbeknownst to the adventurers, the rogue remains vigilant, listening to their intentions and preparing to bide his time until they left.
 

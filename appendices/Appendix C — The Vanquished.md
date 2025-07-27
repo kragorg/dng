@@ -24,7 +24,7 @@
 
 12. **Giant Squid (Frigid Depths)** — Overwhelmed by a combined assault from the party and the crew of the *Remorhaz*. Key strikes included multiple crossbow bolts from *Doctor Pepe*, ballista shots from *Halite* and *Scarlet*, javelins from *Halite* and *Whisper*, *Kragor’s* hex and Eldritch Blast, *Scarlet’s* flame projectile, and supporting attacks from the *Remorhaz* crew and the rescued wizard Bret. The killing blow was an arrow to the eye from the rescued captain, Gerhard.
 
-13. **Young Remorhaz (Foren)** — *Halite’s* trident pierced the creature’s brain with a critical hit after it was wounded by *Kragor’s* eldritch blasts, *Doctor Pepe’s* bolts, *Gerhard’s* and *Elara’s* arrows, and *Whisper’s* sling bullet.
+13. **Young Remorhaz (Foren)** — *Halite’s* trident pierced the creature’s brain with a critical hit after it was wounded by *Kragor’s* Eldritch Blasts, *Doctor Pepe’s* bolts, *Gerhard’s* and *Elara’s* arrows, and *Whisper’s* sling bullet.
 
 14. **First Ice Mephit (Salsvalt)** — Pierced and popped by *Elara’s* arrow after it was wounded by *Halite’s* javelin and *Doctor Pepe’s* bolt.
 
