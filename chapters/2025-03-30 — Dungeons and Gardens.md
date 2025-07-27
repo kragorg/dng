@@ -53,7 +53,7 @@ Irven nods hesitantly, his anxiety clear. “My whole family has touched this…
 
 Scarlet focuses, fetching something from her pouch and murmuring an incantation under her breath. A soft glow emanates from her hands as she confirms, “It’s the same magical contagion, just like in the chest we found.” She gives Irven a serious look. “I think you should spend some quality time with your children,” she advises. Irven blanches. His shoulders slump, his fear for his family’s safety evident in his eyes. Doctor Pepe takes the fragile vial into his pouch with extreme care, remarking, “Best not to touch this further.”
 
-Halite adds, “Anyone in the family showing any symptoms? Blue streaks of the skin? Inner chill? Slowed movements?” Irven shakes his head, his relief tempered by worry.
+Halite adds, “Anyone in the family showing any symptoms? Blue streaks on the skin? Inner chill? Slowed movements?” Irven shakes his head, his relief tempered by worry.
 
 Elara gives him a hopeful smile. “Don’t lose hope. You’ve met the right people. We’ll find a cure and return.”
 
@@ -87,7 +87,7 @@ Before anyone can respond, he inquires, “Have you accounted for all of the pow
 
 Doctor Pepe steps forward, “We’ve managed to gather all we could, from both of the vials that Urgon found.”
 
-Elro continues, “I want to hire you to travel to Foren and retrieve this cure. There’s a ship, the Remorhaz, that will take you there. Find the cure, use of it what you need, but the rest… At Syrinlya, you’ll find an elf, an Uthordurnian, that goes by the moniker ‘The Buyer’. Give the cure to him, and he can teleport it back here to Palebank. Do this, and you will be rewarded 200 gold.”
+Elro continues, “I want to hire you to travel to Foren and retrieve this cure. There’s a ship, the Remorhaz, that will take you there. Find the cure, use of it what you need, but the rest… At Syrinlya, you’ll find an elf, an Uthodurnian, that goes by the moniker ‘The Buyer’. Give the cure to him, and he can teleport it back here to Palebank. Do this, and you will be rewarded 200 gold.”
 
 Elara, ever the bargain hunter, stirs the conversation. “Considering the journey’s danger, perhaps we require a bit more compensation for our troubles…”
 
@@ -95,7 +95,7 @@ Elro gives her an appraising look, recognizing the negotiation for what it is. �
 
 Satisfied with the transaction, Elara turns to less mercantile matters. “What about Irven’s family, Elro? They’ve handled the powder.”
 
-Understanding the weight of her concern, Elro promises, “I’ll see to it that they’re looked after.” The sincerity in his eyes reflect his commitment to his people. “But their best chance is for you to find the cure. Join the Remorhaz at the docks tomorrow morning, and godspeed in your search.”
+Understanding the weight of her concern, Elro promises, “I’ll see to it that they’re looked after.” The sincerity in his eyes reflects his commitment to his people. “But their best chance is for you to find the cure. Join the Remorhaz at the docks tomorrow morning, and godspeed in your search.”
 
 ## Novices become adepts
 
@@ -137,7 +137,7 @@ The wind howls as Kragor sits alone, tracing patterns in the frosty air. He dwel
 
 As he absent-mindedly mutters an incantation, the cosmic swirl of his thoughts unlocks a hidden door. An esoteric rite unfolds, and to his astonishment, a warm surge of magic fills him, restoring some of the energy he expended earlier— a tether to a newfound reservoir of power.
 
-Kragor feels further pulses of unfamiliar eldritch energy. Tentatively, he pulls at invisible strands of weave, knitting a protective cocoon around his form. As the surge reaches is zenith, he senses new ferocity in his ability to blast foes with beams of crackling energy. This agonizing blast will now carry his own formidable willpower in every cast, more impactful than ever before.
+Kragor feels further pulses of unfamiliar eldritch energy. Tentatively, he pulls at invisible strands of weave, knitting a protective cocoon around his form. As the surge reaches its zenith, he senses new ferocity in his ability to blast foes with beams of crackling energy. This agonizing blast will now carry his own formidable willpower in every cast, more impactful than ever before.
 
 Empowered, Kragor contemplates this new reality, still alone yet invigorated, clutching these gifts like lifelines against the cold.
 
@@ -153,13 +153,13 @@ As night deepens, each adventurer, transformed by their experiences within the J
 
 ## Prepare for departure
 
-The next morning, the adventurers awake well-rested and invigorated. The warmth of the inn lingers like an inviting blanket, fortifying them against the chill that awaits outside. After a hearty breakfast and a few shared laughs, their eyes are set on the tasks ahead.
+The next morning, the adventurers awaken well-rested and invigorated. The warmth of the inn lingers like an inviting blanket, fortifying them against the chill that awaits outside. After a hearty breakfast and a few shared laughs, their eyes are set on the tasks ahead.
 
-Their path leads first to Mathias’s Stuffs, an establishment with all the disarrayed charm of a barn filled with a collector’s treasures. There the party quickly trades with the harried elf proprietor Mathias to procure equipment and provisions for their expedition: a quarterstaff for Whisper, a few javelins for Halite, bolts and arrows for Doctor Pepe and Elara, a unique two-billed olive drab hat for Doctor Pepe, and a month’s provisions. They more than offset their purchases by selling the scimitars and crossbows they acquired from the defeated bandits.
+Their path leads first to Mathias’s Stuffs, an establishment with all the disarrayed charm of a barn filled with a collector’s treasures. There, the party quickly trades with the harried elf proprietor Mathias to procure equipment and provisions for their expedition: a quarterstaff for Whisper, a few javelins for Halite, bolts and arrows for Doctor Pepe and Elara, a unique two-billed olive drab hat for Doctor Pepe, and a month’s provisions. They more than offset their purchases by selling the scimitars and crossbows they acquired from the defeated bandits.
 
 Thanks to Kragor’s curiosity, they also learn a useful tidbit about Eiselcross from Mathias. The lands are inhabited by “wild folk” who largely keep to themselves, except for one group among them: a violent group whose members have black streaks across their faces.
 
-Anxious to discover as much as they might of the Aeorian artifacts Urgon found, they make their next stop the home of Westeroff, the retired wizard mentioned by Gramini. But, they learn little to help them: Westeroff is not a fan of music; a spellcasting costing them five gold reveals the dagger is magical; and the remaining items are mundane although valuable.
+Anxious to discover as much as they might about the Aeorian artifacts Urgon found, they make their next stop the home of Westeroff, the retired wizard mentioned by Gramini. But, they learn little to help them: Westeroff is not a fan of music; a spellcasting costing them five gold reveals the dagger is magical; the remaining items are mundane although valuable.
 
 During the discussions, Halite eyes a crystal appropriate for arcane focus. He is taken by it, although he is no spellcaster himself, and agrees to pay ten gold for it from his own stash.
 
@@ -195,7 +195,7 @@ The party exchanges looks of mild surprise, prompting Stonebeard to offer a half
 
 Whisper, ever the quick study, steps forward. “What can I do? I have… some experience at sea,” she says humbly.
 
-Stonebeard appraises her lithely efficient frame. “Help Haldor with the rigging. Keep those sails tight.”
+Stonebeard appraises her lithe, efficient frame. “Help Haldor with the rigging. Keep those sails tight.”
 
 Whisper nods and springs into action, her tabaxi agility well-suited to the task. The ropes hum under her deft hands as she climbs, earning an appreciative nod from Haldor.
 
@@ -283,7 +283,7 @@ With the day’s catch secured, the adventurers gather in the ship’s warm gall
 
 The galley buzzes as the adventurers gather around Ingrid, each busy with chopping and seasoning under her watchful eye. Three particularly adept students catch her attention: Kragor, Halite, and Doctor Pepe.
 
-Kragor, with surprising delicacy, carefully fillets a fish. “Didn’t know I’d be good at anything more than swinging a war hammer,” he mused.
+Kragor, with surprising delicacy, carefully fillets a fish. “Didn’t know I’d be good at anything more than swinging a war hammer,” he muses.
 
 Ingrid nods, adjusting his grip. “Precision is key, Kragor, whether in the kitchen or on the battlefield.”
 
@@ -363,6 +363,6 @@ Kragor sprints forward, snatching the gleaming amulet from Whisper’s trembling
 
 Amidst the tumult, Elara approaches with an uncanny tranquility. With a deft and unwavering hand, she settles the amulet upon the wolf’s neck. As its fangs snap perilously close to her, an ancient magic unfurls; the transformation is violent and beautiful. Muscles ripple and contort beneath the sleek fur, bones audibly crack and reform with a sickening yet mesmerizing fluidity. The lupine snout retracts painfully back into a familiar dwarven face, eyes flicker from feral to intelligent with startling clarity. The wolf’s savage growls fade into anguished cries as claws withdraw into slender fingers. In mere moments, the fearsome beast dissolves to reveal Ingrid, collapsed and vulnerable, her form shivering under the strain of the metamorphosis.
 
-Silence reins as Ingrid stands, sheepish and shivering, caught between fear and relief. Elara, compassion in her heart, drapes a blanket over the chef’s shoulders. Captain Stonebeard, with weary authority and a tone brooking no argument, commands, “Everyone back to bed! Nothing to see here!”
+Silence reigns as Ingrid stands, sheepish and shivering, caught between fear and relief. Elara, compassion in her heart, drapes a blanket over the chef’s shoulders. Captain Stonebeard, with weary authority and a tone brooking no argument, commands, “Everyone back to bed! Nothing to see here!”
 
-As the adventurers retreat upstairs, faintly echoing behind them is the Captain’s low voice, tinged with inevitable frustration, “Well why the hells didn’t you tell me before??”
+As the adventurers retreat upstairs, faintly echoing behind them is the Captain’s low voice, tinged with inevitable frustration, “Well, why the hells didn’t you tell me before??”

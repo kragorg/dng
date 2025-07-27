@@ -25,8 +25,8 @@ Table: Inventory Adjustments
 | Halite      | Cook’s utensils                       |
 | Halite      | Miner’s Pick                          |
 | Halite      | Snowshoes                             |
-| Halite      | one javelin lost while fighting squid |
-| Halite      | another lost fighting remorhaz        |
+| Halite      | One javelin lost while fighting squid |
+| Halite      | Another lost fighting remorhaz        |
 | Kragor      | White dragon egg                      |
 | Scarlet     | Snowshoes                             |
 
@@ -40,14 +40,14 @@ Table: Equipment
 | 1     | Journal of Hulil Lutan          |
 | 1     | Silver Ring (50gp)              |
 | 2     | Potions of Healing              |
-| 3     | months of provisions            |
+| 3     | Months of provisions            |
 
 ### Adventure Sexy {#adventure-sexy .item}
 <span class="item-type">_Book, uncommon_</span>
 
 Penned by the illustrious, if not always entirely humble, bard Scanlan Shorthalt, this exquisite leather-bound tome with its full title “Adventure Sexy: Impress Potential Lovers with Great Deeds” emblazoned in glittering gold leaf is less a guide to genuine heroism and more a compendium of dramatically (and often exaggerated) retold exploits, carefully curated for maximum romantic appeal.
 
-While it contains questionable advice on actual adventuring, “Adventure Sexy” is filled with Scanlan’s unique brand of bravado, wit, and selective memory, offering numerous examples of how to creatively (and sometimes stretching the truth) present one’s deeds to potential romantic interests. It’s more a testament to Scanlan’s ego and showmanship than a source of arcane power.
+While it contains questionable advice on actual adventuring, “Adventure Sexy” is filled with Scanlan’s unique brand of bravado, wit, and selective memory, offering numerous examples of how to creatively present one’s deeds to potential romantic interests. It’s more a testament to Scanlan’s ego and showmanship than a source of arcane power.
 
 ### Aeorian Dagger, +1 {#dagger .item}
 <span class="item-type">_Weapon, uncommon_</span>
@@ -102,7 +102,7 @@ A silver ring with an inset jasper stone, valued at 50 gold pieces.
 
 These sturdy snowshoes are constructed with a wooden frame, strung with durable babiche (rawhide lacing) for the webbing. Animal hide straps and bindings secure them firmly to your boots. The underside features a series of sharp, durable metal spikes and edges (crampons) to bite into icy surfaces. They are designed to withstand the harsh, cold environment and provide reliable, non-magical assistance on the ice and snow. They are specifically adapted for the varied and often treacherous conditions of the Thin Sheets, though they require careful handling.
 
-**Speed.** While wearing these snowshoes, you ignore difficult terrain caused by deep snow and non-slippery ice. Your speed is reduced by 10 feed when not moving on ice or snow.
+**Speed.** While wearing these snowshoes, you ignore difficult terrain caused by deep snow and non-slippery ice. Your speed is reduced by 10 feet when not moving on ice or snow.
 
 **Distributed weight.** The snowshoes’ design helps to distribute your weight slightly. When moving across thin ice, you gain a +2 bonus to the DC of any check to see if the ice breaks under you.
 
@@ -133,4 +133,4 @@ The egg does not have a smooth shell. Instead, its surface is a complex latticew
 
 **Innate Magic.** The egg radiates a faint aura of Transmutation magic if scrutinized with a spell like _Detect Magic_.
 
-**Incubation.** Scarlet’s evaluation of the egg is that it is egg is viable and will hatch in a few days or weeks. For the wyrmling to develop properly, the egg must be kept in an environment at or below freezing temperatures.
+**Incubation.** Scarlet’s evaluation of the egg is that it is viable and will hatch in a few days or weeks. For the wyrmling to develop properly, the egg must be kept in an environment at or below freezing temperatures.

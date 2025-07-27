@@ -112,7 +112,7 @@ Fighting through the pain of her wounds, Whisper turns to help Doctor Pepe, her 
 
 As Whisper emerges from the cave, Halite quickly gauges the peril, his resolve igniting. With swift strides, he charges inside, his trident a formidable comfort.
 
-He finds Doctor Pepe still struggling against the frog’s relentless grip. Halite drives his trident into the creature’s side, but its hold does not falter. Observing the struggle, Elara weaves a melody with her harp, instilling Doctor Pepe with courage. “Remember your agility and cunning!” she calls, the sound of her voice and the vibrations of her harp soothing. She then summons the power of the stars, launching a mote of radiant energy with precision. The frog releases a guttural croak, convulsing under the assault before it releases Doctor Pepe and collapses lifelessly into the pool.
+He finds Doctor Pepe still struggling against the frog’s relentless grip. Halite drives his trident into the creature’s side, but its hold does not falter. Observing the struggle, Elara weaves a melody with her harp, instilling Doctor Pepe with courage. “Remember your agility and cunning!” she calls, with the soothing sound of her voice and the vibrations of her harp. She then summons the power of the stars, launching a mote of radiant energy with precision. The frog releases a guttural croak, convulsing under the assault before it releases Doctor Pepe and collapses lifelessly into the pool.
 
 Grateful and relieved, Doctor Pepe quickly regains his composure. Meanwhile, Kragor taps into his ancestral power, muscles tensing with readiness. Yet danger lurks in the shadows. Suddenly, a crossbow bolt strikes Doctor Pepe, drawing a pained cry. Another bolt narrowly misses Halite, while a third strikes him, but only bruises his resilient skin.
 
@@ -232,7 +232,7 @@ Elara steps forward, her diplomatic mask sliding into place. “We are sent by t
 
 Elara’s deception falls flat, and Hulil lets out a sharp, mirthless laugh. “Lies! You’re nothing but intruders!”
 
-Kragor responds, a sickening glow crackling as he hexes the elf. From his outstretched hand a purple shock of darkness blasts forward but misses and strikes stone harmlessly.
+Kragor responds, a sickening glow crackling as he hexes the elf. From his outstretched hand a purple shock of darkness blasts forward, but misses and strikes stone harmlessly.
 
 Scarlet charges, swinging her quarterstaff fueled by druidic power, but misses the elf by inches. On the other hand, Doctor Pepe’s crossbow bolt finds the elf’s neck, silencing him forever.
 
@@ -256,13 +256,13 @@ Allowing no time for Hulil to recover, Scarlet channels natural energy through h
 
 Hulil staggers to her feet, fury and agony blazing in her eyes like twin infernos. Doctor Pepe, with ice-cold precision, discharges another bolt, tearing into the dwarf priestess’s abdomen.
 
-Nearby, Halite hears a splash behind him but remains steadfast. With a swift motion, he plunges his javelin into Hulil’s heart. Her eyes wide, the fire within them slowly extinguishing as she collapses, she rasps a final curse: “May you be consumed by endless desire… let your victories sow only tyranny and ruin… may all… you covet… turn to ash in your grasp.”
+Nearby, Halite hears a splash behind him, but remains steadfast. With a swift motion, he plunges his javelin into Hulil’s heart. Her eyes wide, the fire within them slowly extinguishing as she collapses, she rasps a final curse: “May you be consumed by endless desire… let your victories sow only tyranny and ruin… may all… you covet… turn to ash in your grasp.”
 
 ## Beast gonna feast
 
 Meanwhile, hearing the sounds of battle echoing across the cavern, Whisper knocks out the bound dwarf. Determined to join the fray, she attempts to scamper across the cave wall. Instead, she slips and falls with a splash into the water.
 
-Old Croaker startles at the sudden disturbance. The massive frog’s head snaps toward Whisper, jaws wide, but miraculously misses. Whisper swims away from the predatory amphibian and begins climbing the wall again.
+Old Croaker startles at the sudden disturbance. The massive frog’s head snaps toward Whisper, it’s jaws wide, but miraculously it misses. Whisper swims away from the predatory amphibian and begins climbing the wall again.
 
 Old Croaker leaps at Whisper but cannot quite reach her, its massive form creating waves in the underground pool.
 
@@ -288,7 +288,7 @@ The party scans the room. Beyond the bodies and the imposing altar, a single che
 
 A quick search of the bodies yields eight gold pieces and five silver pieces, but no keys.
 
-Doctor Pepe approaches the chest, his rogue’s eye immediately drawn to its unusual lock. Shaped like a dragon’s head, the lock bristles with intrigue. Small pin holes pepper its surface, each filled with a fine blue powder. “Interesting,” he mutters, carefully examining the mechanism.
+Doctor Pepe approaches the chest, his rogue’s eye immediately drawn to its unusual lock. Shaped like a dragon’s head, the lock bristles with intrigue. Small pinholes pepper its surface, each filled with a fine blue powder. “Interesting,” he mutters, carefully examining the mechanism.
 
 Using a leather pouch to protect his hand, he begins to extract the blue powder. It’s abundant, but his practiced fingers manage to contain most of it within the pouch.
 
@@ -298,7 +298,7 @@ Scarlet steps forward to examine the chest. She closes her eyes and murmurs, “
 
 Working together with Elara, Doctor Pepe carefully picks the lock. The chest opens with a soft click, revealing its treasures: a gilded scroll case, a jade statuette of a storm giant, a quiver with six clearly magical arrows, a silver ring set with a jasper stone, 800–900 coins, and an old notebook.
 
-“These,” Doctor Pepe says, “match the items on Urgon’s receipt. Except the two blue vials are missing.”
+“These,” Doctor Pepe says, “match the items on Urgon’s receipt… except the two blue vials are missing.”
 
 Doctor Pepe beckons the others closer. With meticulous care, he removes the chest’s contents, ensuring no blue powder is disturbed. He begins to count the coins, his fingers moving methodically. “Let’s see,” he mutters. “415 copper pieces, 234 silver pieces, 43 electrum pieces, and 112 gold pieces.”
 

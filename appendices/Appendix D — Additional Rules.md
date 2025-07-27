@@ -46,7 +46,7 @@ Skill at carpentry enables a character to construct wooden structures. A carpent
 
 **Investigation.** You gain additional insight when inspecting areas within wooden structures, because you know tricks of construction that can conceal areas from discovery.
 
-**Perception.** You can spot irregularities in wooden walls or floors, making it easier to find trap doors and secret passages.
+**Perception.** You can spot irregularities in wooden walls or floors, making it easier to find trapdoors and secret passages.
 
 **Stealth.** You can quickly assess the weak spots in a wooden floor, making it easier to avoid the places that creak and groan when they’re stepped on.
 
@@ -137,7 +137,7 @@ Proficiency with an herbalism kit allows you to identify plants and safely colle
 
 Knowledge of leatherworking extends to lore concerning animal hides and their properties. It also confers knowledge of leather armor and similar goods.
 
-**Ability:** Dexterity
+**Ability:** Dexterity.
 
 **Crafting:** Sling, Whip, Hide Armor, Leather Armor, Studded Leather Armor, Backpack, Crossbow Bolt Case, Map or Scroll Case, Parchment, Pouch, Quiver, Waterskin
 
@@ -217,8 +217,8 @@ Proficiency with tattooist’s tools allows you to create intricate designs on t
 | :-                                           | :-: |
 | Identify a common tattoo’s meaning or origin | 10  |
 | Create a simple, artistic tattoo             | 10  |
-| Cover or modify an existing tattoo          | 15  |
-| Create temporary tattoo for disguise        | 15  |
+| Cover or modify an existing tattoo           | 15  |
+| Create a temporary tattoo for disguise       | 15  |
 | Discern that a tattoo is fake or altered     | 15  |
 | Inscribe a hidden message within a tattoo    | 20  |
 | Perfectly replicate a complex tattoo         | 20  |
@@ -291,7 +291,7 @@ Once inscribed on a creature’s body, damage or injury doesn’t
 impair the tattoo’s function, even if the tattoo is defaced. When
 applying a magic tattoo, a creature can customize the tattoo’s
 appearance. A magic tattoo can look like a brand, scarification, a
-birthmark, patterns of scale, or any other cosmetic alteration.
+birthmark, patterns of scales, or any other cosmetic alteration.
 
 
 ### Spellwrought Tattoo {#spellwrought-tattoo .item}
@@ -364,11 +364,11 @@ proficiency in the _Arcana_ skill and with _Tattooist’s Tools_ and have
 the spell prepared on each day of the inscription. You must also have at
 hand any Material components required by the spell; if the spell
 consumes its Material components, they are consumed only when you
-complete the scroll. The scroll’s spell uses your spell save DC and
+complete the tattoo. The tattoo’s spell uses your spell save DC and
 spell attack bonus.
 
 **Cantrips.** If the tattooed spell is a cantrip, the version on
-the scroll works as if the caster were your level.
+the tattoo works as if the caster were your level.
 
 Table: Spellwrought Tattoo Costs
 

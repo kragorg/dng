@@ -38,7 +38,7 @@ settles upon Doctor Pepe,
 imbuing him with a quiet moment of clarity.
 She then melts
 into the shadows of a nearby outcropping,
-her lithe form disappearing against the grey stone.
+her lithe form disappearing against the gray stone.
 
 Scarlet, her own connection to the natural world immediate,
 releases Sparky to scout.
@@ -272,8 +272,8 @@ The remorhaz, mighty and terrible, lies dead,
 its monstrous form cooling into a massive,
 steaming corpse on the frigid plains.
 The adventurers cheer Halite’s killing blow,
-relief that the surprise encounter is finished
-flowing over them like balm.
+while relief that the surprise encounter is finished
+flows over them like balm.
 
 Examining the carcass,
 Gerhard and Scarlet
@@ -351,7 +351,7 @@ True progress felt elusive
 as the spirit of their journey momentarily lost its way.
 
 The sixth day echoed the fifth,
-grim and grey.
+grim and gray.
 But Elara,
 a spark of celestial defiance against the encroaching despair,
 refused to yield.
@@ -415,7 +415,7 @@ the world a suffocating shroud of white
 where earth and sky blend into an indistinct,
 endless canvas.
 
-As the grey light begins to wane,
+As the gray light begins to wane,
 the griffin
 circles once more overhead.
 It descends with a graceful,
@@ -834,7 +834,7 @@ struggling mephit with a sickening *thwack!*
 The mephit shivers,
 a pathetic wail escaping its form.
 Elara’s follow-up arrow strikes,
-the driving deep into the creature.
+driving deep into the creature.
 It sways,
 its form dimming,
 barely holding itself together.

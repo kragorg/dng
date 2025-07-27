@@ -168,7 +168,7 @@ a gesture of worry that his companions are not used to seeing.
 Couldn’t remember what I dreamed, but when I woke up…
 my fingers had dirt under the nails.
 Broken nails.
-It made no senses!
+It made no sense!
 I am clean … fastidious!
 And then on the Remorhaz, while crossing the ice sea,
 I woke up in the night.
@@ -264,7 +264,7 @@ The party decides on a measured pace,
 hoping to cover approximately 24 miles each day without undue risk.
 Gerhard, drawing on years of wilderness experience,
 prepares their rations.
-His hands move with practiced efficiency,
+His hands move with practiced efficiency.
 
 Scarlet sends Sparky,
 her faithful owl companion,
@@ -310,7 +310,7 @@ Elara notices Kragor’s restlessness.
 He curls into a tight ball,
 his massive frame seeming to shrink.
 Unable to wake him,
-she watches him intentently
+she watches him intently
 as he oscillates between
 struggle and paralysis.
 When morning finally comes,

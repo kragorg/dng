@@ -104,7 +104,7 @@ The ensuing melee saw the adventurers rush to their aid,
 trident, spell, and claw felling the amphibious horrors.
 But from within shadows
 deep within the cave,
-bandits shot crossbow bolts
+bandits shot crossbow bolts,
 injuring the heroes.
 These bandits soon fell to vengeance
 in the form of javelin, bullet, and radiant blast.
