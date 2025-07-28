@@ -209,7 +209,7 @@ EOF
 
 integer fd
 exec {fd}>&1 >>index.md
-for (( i=1; i < ${#html_titles}; i++ )) {
+for (( i=1; i <= ${#html_titles}; i++ )) {
   print -nr -- "- [${html_titles[$i]}]("
   print -nr -- "${html_filenames[$i]}" | jq -sRrj @uri
   print -r -- ")"
