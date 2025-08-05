@@ -212,3 +212,9 @@ They are not the proud clan-marks or crude battle-scrawls of a typical orc warri
 There are no dragons, no skulls, no symbols of martial pride. There are only glyphs of a maddening, alien geometry. Spirals that seem to pull the eye into a lightless void. Angles that meet in ways that make the head ache. Lines that weave into patterns that suggest the skeletal framework of things that should not exist. They are not merely on his skin; they seem a part of it, and in the shifting light of the campfire, they sometimes appear to writhe, to shift their configuration ever so slightly when you are not looking directly at them. They whisper of a pact made not in blood, but in the currency of sanity itself.
 
 He stands there, a charlatan of the mundane, his simple story a threadbare cloak thrown over a form scribbled with the signature of a lunatic god. He is an orphan, a veteran, a survivor. But he is also a vessel, a canvas for an artist whose studio is the void between worlds. One looks at Kragor Grimstride and sees a down-on-his-luck orc seeking his fortune, but one also feels an inexplicable chill, the same disquiet one feels when hearing a melody that is almost beautiful, but for a single, recurring, discordant note that promises only chaos and the dark.
+
+## Relationships
+
+- **Vargun the Steadfast**: Father. Righteous Brand veteran. Circumstances of death unknown.
+- **Ursa Rune-sight**: Mother. Righteous Brand veteran. Circumstances of death unknown.
+- **Dagmuk Rift-hand**: Mentor and tattooist. Righteous Brand veteran who served on the border near Xhorhas. Mysteriously disappeared after Kragor was summoned north by his patron.
