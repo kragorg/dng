@@ -213,13 +213,18 @@ There are no dragons, no skulls, no symbols of martial pride. There are only gly
 
 He stands there, a charlatan of the mundane, his simple story a threadbare cloak thrown over a form scribbled with the signature of a lunatic god. He is an orphan, a veteran, a survivor. But he is also a vessel, a canvas for an artist whose studio is the void between worlds. One looks at Kragor Grimstride and sees a down-on-his-luck orc seeking his fortune, but one also feels an inexplicable chill, the same disquiet one feels when hearing a melody that is almost beautiful, but for a single, recurring, discordant note that promises only chaos and the dark.
 
-## Relationships
+## Bonds
 
 - **Vargun the Steadfast**: Father. Righteous Brand veteran. Circumstances of death unknown.
 - **Ursa Rune-sight**: Mother. Righteous Brand veteran. Circumstances of death unknown.
 - **Dagmuk Rift-hand**: Mentor and tattooist. Righteous Brand veteran who served on the border near Xhorhas. Mysteriously disappeared after Kragor was summoned north by his patron.
 
-## Philosophy
+Ever since his mentor Dagmuk disappeared, Kragor has no one.
+He bitterly holds on to what little memory of his parents he has.
+He treasures the only keepsake left to him:
+a chipped amulet featuring the symbol of Kord.
+
+## Ideals
 
 For Kragor Grimstride, faith is not a whispered prayer in a sanctioned temple; it is a pragmatic code forged in the shadow of his parents’ dual legacies and hammered into shape on the unforgiving anvil of the streets. Having been orphaned and left to fend for himself after their mysterious end, Kragor is a survivor first and foremost. He views the divine not as beings demanding worship, but as philosophies to be utilized— a collection of tools for navigating a broken world. His True Neutral alignment is born from this harsh education, for his life has taught him the equal utility of both law and chaos. He doesn’t believe in gods; he believes in results.
 
