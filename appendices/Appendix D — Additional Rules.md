@@ -280,12 +280,26 @@ Once before the spell ends, you can give yourself advantage on one weapon attack
 ## Magic Tattoos {#magic-tattoos .item}
 <span class="item-type">_Wondrous item (tattoo), rarity varies_</span>
 
-_Source: Tasha’s Cauldron of Everything_
+_Source: Tasha’s Cauldron of Everything, Homebrew_
 
-Blending magic and artistry with ink and needles, magic tattoos
-imbue their bearers with wondrous abilities. Magic tattoos are
-initially bound to magic needles, which transfer their magic to a
-creature.
+Blending magic and artistry with ink and needles,
+magic tattoos imbue their bearers with wondrous abilities.
+The creation of a magic tattoo is a rare art,
+typically accomplished in one of two ways.
+
+The first method involves binding the magic to the tool itself,
+creating a magic needle.
+This enchanted item holds the tattoo’s power latent within it,
+ready to be transferred.
+Anyone can then use this needle
+to inscribe the design
+and release its magic into a creature’s skin.
+
+The second method requires a direct conduit of power.
+A warlock, using a mundane needle and
+ink prepared from powdered gems,
+can channel their patron’s energy through the tool as they work,
+infusing the ink with their pact magic as it is set into the flesh.
 
 Once inscribed on a creature’s body, damage or injury doesn’t
 impair the tattoo’s function, even if the tattoo is defaced. When
@@ -293,27 +307,37 @@ applying a magic tattoo, a creature can customize the tattoo’s
 appearance. A magic tattoo can look like a brand, scarification, a
 birthmark, patterns of scales, or any other cosmetic alteration.
 
-
-### Spellwrought Tattoo {#spellwrought-tattoo .item}
+### Eldritch Tattoo {#eldritch-tattoo .item}
 <span class="item-type">_Wondrous item (tattoo), rarity varies_</span>
 
-_Source: Tasha’s Cauldron of Everything_
+_Source: Tasha’s Cauldron of Everything, Homebrew_
 
-Produced by a special needle, this magic tattoo contains a single
-spell of up to 5th level, wrought on your skin by a magic needle.
-To use the tattoo, you must hold the needle against your skin and
-speak the command word. The needle turns into ink that becomes the
-tattoo, which appears on the skin in whatever design you like.
-Once the tattoo is there, you can cast its spell, requiring no
-material components. The tattoo glows faintly while you cast the
-spell and for the spell’s duration. Once the spell ends, the
-tattoo vanishes from your skin.
+Inscribed by a warlock
+who channels their patron’s power
+through a needle and specially prepared ink,
+this tattoo contains a single spell of up to 5th level.
+The warlock infuses the ink with otherworldly energy
+as they create the design directly on a creature’s skin.
+The tattoo’s appearance often reflects
+the nature of the patron who empowered it—
+fiery lines for a Fiend,
+twisting patterns for a Great Old One,
+or thorny vines for an Archfey.
+
+Once the tattoo is on a creature’s skin,
+the creature can cast its spell,
+requiring no material components.
+The tattoo glows with an otherworldly light
+while the creature casts the spell
+and for the spell’s duration.
+Once the spell ends,
+the tattoo vanishes from the creature’s skin.
 
 The level of the spell in the tattoo determines the spell’s saving
 throw DC, attack bonus, spellcasting ability modifier, and the
-tattoo’s rarity, as shown in the Spellwrought Tattoo table.
+tattoo’s rarity, as shown in the Eldritch Tattoo table.
 
-Table: Spellwrought Tattoo
+Table: Eldritch Tattoo
 
 | Spell Level | Rarity   | Spellcasting Ability Mod. | Save DC | Attack Bonus |
 |-------------|----------|---------------------------|---------|--------------|
@@ -340,22 +364,22 @@ Table: Magic Tattoo Coverage
 | Legendary     | Two limbs and the torso                 |
 
 
-#### Crafting a Spellwrought Tattoo
+#### Crafting an Eldritch Tattoo
 
 _Source: Player’s Handbook, Dungeon Master’s Guide, Homebrew_
 
 We use the rules for crafting spell scrolls with modifications:
 
-To craft a _Spellwrought Tattoo_, you and any assistants must have
+To craft an _Eldritch Tattoo_, you and any assistants must have
 proficiency in the _Arcana_ skill. You must be proficient with
 _Tattooist’s Tools_ and use them to create the tattoo. Any assistants
 must also have proficiency.
 
 A spellcaster can transfer a spell onto a willing creature’s skin and
-create a *Spellwrought Tattoo*, using the rules below.
+create an *Eldritch Tattoo*, using the rules below.
 
 **Time and Cost.** Creating a tattoo takes an amount of time and money
-based on the level of the spell, as shown in the Spellwrought Tattoo
+based on the level of the spell, as shown in the Eldritch Tattoo
 Costs table. For each day of inscription, you must work for 8 hours. If
 a tattoo requires multiple days, those days needn’t be consecutive.
 
@@ -370,7 +394,7 @@ spell attack bonus.
 **Cantrips.** If the tattooed spell is a cantrip, the version on
 the tattoo works as if the caster were your level.
 
-Table: Spellwrought Tattoo Costs
+Table: Eldritch Tattoo Costs
 
 
 | Spell Level | Time    | Cost      |
@@ -381,5 +405,4 @@ Table: Spellwrought Tattoo Costs
 | 3           | 5 days  | 150 GP    |
 | 4           | 10 days | 1,000 GP  |
 | 5           | 25 days | 1,500 GP  |
-| 6           | 40 days | 10,000 GP |
 
