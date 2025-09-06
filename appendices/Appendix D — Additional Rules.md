@@ -1,6 +1,44 @@
 # Appendix D — Additional Rules
 
-This appendix collects rules that are not included in the _Player’s Handbook_ or are only partially included.
+This appendix collects:
+
+- House rules and rulings.
+- Rules that are not included in the _Player’s Handbook_ or are only partially included.
+
+## Lucky
+
+The _Player’s Handbook_ description reads:
+
+> **Luck Points.** You have a number of Luck Points equal to your
+> Proficiency Bonus and can spend the points on the benefits below. You
+> regain your expended Luck Points when you finish a Long Rest.
+>
+> **Advantage.** When you roll a d20 for a D20 Test, you can spend 1
+> Luck Point to give yourself Advantage on the roll.
+>
+> **Disadvantage.** When a creature rolls a d20 for an attack roll
+> against you, you can spend 1 Luck Point to impose Disadvantage on that
+> roll.
+
+**House rule:** Alternatively, you can choose to spend one of your luck points after you roll the die, but before the outcome is determined; or when an attack roll is made against you. Roll a d20, and then choose whether to use the original roll or the re-roll. (Adopted from _2014 PHB_.)
+
+## Wild Shape
+
+The _Player’s Handbook_ description reads:
+
+> **Temporary Hit Points.** When you assume a Wild Shape form, you gain
+> a number of Temporary Hit Points equal to your Druid level.
+>
+> **Game Statistics.** Your game statistics are replaced by the Beast’s
+> stat block, but you retain your creature type; Hit Points; Hit Point
+> Dice; Intelligence, Wisdom, and Charisma scores; class features;
+> languages; and feats. You also retain your skill and saving throw
+> proficiencies and use your Proficiency Bonus for them, in addition to
+> gaining the proficiencies of the creature. If a skill or saving throw
+> modifier in the Beast’s stat block is higher than yours, use the one
+> in the stat block.
+
+**House rule:** When you transform, you can choose to gain Temporary Hit Points as above, or instead assume the beast’s hit points and Hit Dice. If you choose the latter, then when you revert to your normal form, you return to the number of hit points you had before you transformed; and, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. (Adopted from _2014 PHB_ .)
 
 ## Tool Proficiencies
 
@@ -194,6 +232,8 @@ Proficiency with navigator’s tools helps you determine a true course based on 
 
 ### Tattooist’s Tools
 
+_House Rule_
+
 Proficiency with tattooist’s tools allows you to create intricate designs on the skin of a living creature. Tattoos can be a mark of allegiance, a symbol of faith, a superstitious ward, or a personal statement.
 
 **Ability**: Dexterity.
@@ -280,7 +320,7 @@ Once before the spell ends, you can give yourself advantage on one weapon attack
 ## Magic Tattoos {#magic-tattoos .item}
 <span class="item-type">_Wondrous item (tattoo), rarity varies_</span>
 
-_Source: Tasha’s Cauldron of Everything, Homebrew_
+_Source: Tasha’s Cauldron of Everything, House Rule_
 
 Blending magic and artistry with ink and needles,
 magic tattoos imbue their bearers with wondrous abilities.
@@ -310,7 +350,7 @@ birthmark, patterns of scales, or any other cosmetic alteration.
 ### Eldritch Tattoo {#eldritch-tattoo .item}
 <span class="item-type">_Wondrous item (tattoo), rarity varies_</span>
 
-_Source: Tasha’s Cauldron of Everything, Homebrew_
+_Source: Tasha’s Cauldron of Everything, House Rule_
 
 Inscribed by a warlock
 who channels their patron’s power
@@ -366,7 +406,7 @@ Table: Magic Tattoo Coverage
 
 #### Crafting an Eldritch Tattoo
 
-_Source: Player’s Handbook, Dungeon Master’s Guide, Homebrew_
+_Source: Player’s Handbook, Dungeon Master’s Guide, House Rule_
 
 We use the rules for crafting spell scrolls with modifications:
 
