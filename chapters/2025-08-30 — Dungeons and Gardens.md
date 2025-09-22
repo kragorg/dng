@@ -8,6 +8,7 @@ and in the sudden quiet,
 the adventurers’ own ragged breaths
 sound unnaturally loud against the vast,
 indifferent canvas of the snowfield.
+
 Before them, half-swallowed by an ancient snowdrift,
 slumps the Aeorian edifice Orvo had called Salsvault.
 Its architecture is a disquieting blend
@@ -18,13 +19,53 @@ as it continues its inexorable descent
 into the frozen earth—
 a tomb sinking into its own grave.
 
-There is no time to waste.
-The party trudges forward,
-snowshoes crunching a solemn rhythm,
+While most of the party
+is taking in the structure,
+Halite is scanning the other direction.
+“What is _that_!?” he exclaims,
+noticing a steam plume hanging low
+on a nearby mountain side.
+“Not another remorhaz I hope!”
+
+Whisper’s curiousity piqued,
+she suggests,
+“This seems … different.
+What say we scout it out?”
+
+Scarlet puts on a concerned look.
+“The clock is ticking
+for those poor tiefling lasses.
+I feel there’s no time to waste.”
+
+Halite says thoughtfully,
+“But the possibility of danger
+at our backs
+cannot be ignored.”
+
+Whisper’s tail lashes the air once, twice.
+“Halite and I
+will find out whether the source of this… fog
+presents any threat.
+The rest of you continue
+our search for the cure,
+and we will catch up.”
+She bounces lightly on the balls of her feet.
+
+Scarlet looks to the others.
+Gerhard shrugs,
+“He’s big. She’s quick. They’ll be fine. Let’s go.”
+
+Halite and Whisper
+head for the base of the mountain side,
+snowshoes crunching a solemn rhythm.
+Meanwhile the remainder of the group
+trudge forward towards Salsvalt,
 their eyes fixed on the one feature
 that suggests entry:
 a single, unadorned door,
 its surface a dark, unidentifiable metal.
+
+## On the threshold
 
 Doctor Pepe stands transfixed,
 his gaze locked upon the door
@@ -124,8 +165,6 @@ She glances back at her companions, their faces painted
 in the stark relief of her magical light.
 “Shall we go in?”
 
-## Animated armors
-
 Without waiting for an answer,
 her resolve firm as the frozen earth,
 she steps across the threshold,
@@ -140,6 +179,8 @@ Within the room were doors
 to the north and south.
 The southern door stood open,
 a rectangle of deeper shadow in the gloom.
+
+## Face the guardians
 
 As she took another step,
 a shape resolved itself from that southern darkness.
