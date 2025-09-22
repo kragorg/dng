@@ -26,8 +26,8 @@
 
 13. **Young Remorhaz (Foren)** — *Halite’s* trident pierced the creature’s brain with a critical hit after it was wounded by *Kragor’s* Eldritch Blasts, *Doctor Pepe’s* bolts, *Gerhard’s* and *Elara’s* arrows, and *Whisper’s* sling bullet.
 
-14. **First Ice Mephit (Salsvalt)** — Pierced and popped by *Elara’s* arrow after it was wounded by *Halite’s* javelin and *Doctor Pepe’s* bolt.
+14. **First Ice Mephit (Salsvault)** — Pierced and popped by *Elara’s* arrow after it was wounded by *Halite’s* javelin and *Doctor Pepe’s* bolt.
 
-15. **Second Ice Mephit (Salsvalt)** — *Halite’s* javelin destroyed this mephit after it was restrained by *Scarlet’s* magic vines and seriously wounded by *Gerhard’s* arrow.
+15. **Second Ice Mephit (Salsvault)** — *Halite’s* javelin destroyed this mephit after it was restrained by *Scarlet’s* magic vines and seriously wounded by *Gerhard’s* arrow.
 
-16. **Third Ice Mephit (Salsvalt)** — Decapitated by *Whisper’s* claws while it was restrained by *Scarlet’s* magic vines, bound by *Whisper’s* rope bindings, pierced with *Doctor Pepe’s* bolt and *Elara’s* arrow.
+16. **Third Ice Mephit (Salsvault)** — Decapitated by *Whisper’s* claws while it was restrained by *Scarlet’s* magic vines, bound by *Whisper’s* rope bindings, pierced with *Doctor Pepe’s* bolt and *Elara’s* arrow.

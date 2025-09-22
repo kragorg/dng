@@ -59,7 +59,7 @@ Halite and Whisper
 head for the base of the mountain side,
 snowshoes crunching a solemn rhythm.
 Meanwhile the remainder of the group
-trudge forward towards Salsvalt,
+trudge forward towards Salsvault,
 their eyes fixed on the one feature
 that suggests entry:
 a single, unadorned door,
