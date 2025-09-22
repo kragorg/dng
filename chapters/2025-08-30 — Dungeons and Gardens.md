@@ -118,7 +118,7 @@ She presses her palms together,
 her face serene amidst the biting wind.
 In a voice clear as a winter bell,
 she utters two words, a simple prayer to a forgotten sun:
-_“Sol invictus.”_
+_“Ignis vagus.”_
 
 When she parts her hands,
 a nascent star, a sphere of liquid gold,
