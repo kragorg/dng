@@ -5,7 +5,9 @@
 “Well,” Doctor Pepe mutters, his voice tight, “At least they’re slow.”
 A little louder, he alerts the rest of the party: “We’ve got zombies!”
 
-Kragor, a juggernaut of green-gray muscle and righteous fury, needs no encouragement. He barrels past Doctor Pepe into the hallway, his boots thudding on the strange, seamless stone. He sees not two, but four of the desiccated things lurching toward him. _“Mactē virtutē,”_ he snarls, and a shimmering shell of magical frost crackles into existence around him. His war hammer swings, a blur of obsidian that connects with the first zombie’s shoulder. There is a flash of radiance, a dry snap, and the creature’s arm slumps, hanging limply from decayed sinew. “Gross!” Kragor barks.
+Elara relays this in a sing-song voice to pass on the message: “Zombie! Zombie! Zombie-ie-ie!”
+
+Kragor, a green-gray juggernaut of righteous fury, needs no encouragement. He barrels past Doctor Pepe into the hallway, his boots thudding on the strange, seamless stone. He sees not two, but four of the desiccated things lurching toward him. _“Mactē virtutē,”_ he snarls, and a shimmering shell of magical frost crackles into existence around him. His war hammer swings, a blur of obsidian that connects with the first zombie’s shoulder. There is a flash of radiance, a dry snap, and the creature’s arm slumps, hanging limply from decayed sinew. “Gross!” Kragor barks.
 
 Scarlet raises her staff, ready to unleash the fury of the earth should the dead things get any closer. Doctor Pepe snaps a bolt into his crossbow. He fires. The bolt screams past Kragor’s ear and ricochets off the ceiling with a sharp _“ping”_. The rogue melts back into the relative safety of the lab.
 
