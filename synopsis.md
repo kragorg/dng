@@ -354,5 +354,39 @@ they activated a hidden incinerator,
 cleansing the plague from a distance.
 The cure remained elusive
 until Scarlet’s keen eye spotted a secret door.
-When opened, it revealed
-the shambling, zombified remains of the vault’s long-dead scholars.
+When opened, it revealed not treasure,
+but a tide of the vault’s shambling,
+zombified, and long-dead scholars.
+The things were relentless, rising again after being struck down,
+their desiccated flesh knitting back with unholy speed.
+
+While this grim battle raged,
+Halite and Whisper pursued their own strange errand,
+drawn to a plume of steam on a nearby mountainside.
+They found not a beast, but a marvel of Aeorian engineering:
+a vast cavern, warmed by a hot spring,
+containing a massive, misty-blue sphere.
+Within it, trapped inside an electrum dodecahedron,
+stood a giant of living flame, frozen in time—
+save for a single heel,
+protruding from a warp in its cage,
+its licking flames heating a constant stream of snowmelt.
+A strange console with a light and a lever
+offered no answers, only more questions.
+Halite, however, discovered a small, corked bottle beneath it,
+its contents a swirling, iridescent blue.
+
+They returned to Salsvault
+to find their comrades still locked in combat
+with the unending tide of the dead.
+With the goliath’s trident
+and the tabaxi’s blinding speed,
+the final zombies were overwhelmed
+and utterly destroyed by blasts of radiant energy and druidic fire,
+the only forces that could grant them final peace.
+Exhausted, the party retreated to the strange, warm sanctuary
+Halite and Whisper had found.
+There, under the silent gaze of the caged elemental,
+lulled by a low hum vibrating through the seamless marble floor,
+they took their first true rest,
+the mysteries of Salsvault waiting just outside in the unforgiving cold.
