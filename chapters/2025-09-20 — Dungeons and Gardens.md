@@ -97,6 +97,8 @@ They explore the rest of the vast cavern, but find nothing further of note. The 
 
 “And unleash _that_?” Halite rumbles, gesturing to the silent inferno. “I’d rather not be the one to thaw out whatever it is. It was put in here for a reason.”
 
+![](elemental_cavern.jpg)
+
 “But what reason?” she muses, her tail lashing with thought. “A power source? A guardian? An eternal punishment?” She trots back to the console. “Maybe if I try the lever just one more time…”
 
 “Don’t you dare,” Halite warns, his voice flat. “We have no idea what this is. For all we know, that thing is counting the red flashes and waiting for the right number to break free and turn us into cinders.”
