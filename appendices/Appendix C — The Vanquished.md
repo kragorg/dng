@@ -31,3 +31,19 @@
 15. **Second Ice Mephit (Salsvault)** — *Halite’s* javelin destroyed this mephit after it was restrained by *Scarlet’s* magic vines and seriously wounded by *Gerhard’s* arrow.
 
 16. **Third Ice Mephit (Salsvault)** — Decapitated by *Whisper’s* claws while it was restrained by *Scarlet’s* magic vines, bound by *Whisper’s* rope bindings, pierced with *Doctor Pepe’s* bolt and *Elara’s* arrow.
+
+17. **First Animated Armor (Salsvault)** — Destroyed by a final, crushing blow from *Kragor’s* war hammer, after being damaged by two arrows from *Gerhard*.
+
+18. **Second Animated Armor (Salsvault)** — Disintegrated by a final Eldritch Blast from *Kragor* after a prolonged assault involving *Scarlet* (in boar form and then with her staff), an arrow from *Elara*, and an earlier blast from *Kragor*.
+
+19. **First Zombie (Salsvault)** — Destroyed by *Kragor’s* radiant war hammer.
+
+20. **Second Zombie (Salsvault)** — Incinerated by *Scarlet’s* fire mote after it reanimated from being felled by arrows from *Gerhard* and *Elara*.
+
+21. **Third Zombie (Salsvault)** — Annihilated by a radiant blow from *Kragor’s* war hammer, after it was blasted with cold from *Kragor’s* Armor of Agathys and was struck by *Elara’s* radiant mote.
+
+22. **Fourth Zombie (Salsvault)** — Torn apart by *Whisper’s* claws, after it reanimated from being downed by an earlier claw strike and *Gerhard’s* arrow.
+
+23. **Fifth Zombie (Salsvault)** — Pinned to the floor and destroyed by *Halite’s* trident after being hit by *Scarlet’s* flame and *Doctor Pepe’s* shortsword.
+
+24. **Sixth Zombie (Salsvault)** — Disintegrated by a radiant mote from *Elara* after being slashed twice by *Whisper’s* claws.
