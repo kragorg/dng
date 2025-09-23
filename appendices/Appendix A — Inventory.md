@@ -22,13 +22,15 @@ Table: Inventory Adjustments
 | Doctor Pepe | Snowshoes                             |
 | Gerhard     | Ice hammer                            |
 | Gerhard     | Snowshoes                             |
+| Gerhard     | Aeorian Robes                         |
 | Halite      | Cook’s utensils                       |
 | Halite      | Miner’s Pick                          |
 | Halite      | Snowshoes                             |
 | Halite      | One javelin lost while fighting squid |
 | Halite      | Another lost fighting remorhaz        |
-| Kragor      | White dragon egg                      |
+| Halite      | Bottle of Aeorian Blue                |
 | Scarlet     | Snowshoes                             |
+| Whisper     | Aeorian Robes                         |
 
 Table: Equipment
 
@@ -41,6 +43,7 @@ Table: Equipment
 | 1     | Silver Ring (50gp)              |
 | 2     | Potions of Healing              |
 | 3     | Months of provisions            |
+| 2     | Aeorian Robes                   |
 
 ### Adventure Sexy {#adventure-sexy .item}
 <span class="item-type">_Book, uncommon_</span>
@@ -60,6 +63,11 @@ This weapon has the following mastery property. To use this property, you must h
 
 **Nick.** When you make the extra attack of the **Light** property, you can make it as part of the Attack action instead of as a Bonus Action. You can make this extra attack only once per turn.
 
+### Aeorian Robes {#robes .item}
+<span class="item-type">_Gear, uncommon_</span>
+
+Red robes in the style of Aeor. They are of a plant-like material and perfectly preserved.
+
 ### Arrows, +1 {#arrows .item}
 <span class="item-type">_Weapon, uncommon_</span>
 
@@ -69,6 +77,11 @@ You have a +1 bonus to attack and damage rolls made with this piece of magic amm
 <span class="item-type">_Consumable, uncommon_</span>
 
 An Uthodurnian specialty spirit, with an estimated value of 25 gp.
+
+### Bottle of Aeorian Blue {#aeorian-blue .item}
+<span class="item-type">_Consumable, uncommon_</span>
+
+Corked bottle wrapped in a golden metal filigree, and adorned with strange writing. Within the bottle, something blue and iridescent swirls like a captured galaxy.
 
 ### Gilded Scroll Case {#scroll-case .item}
 <span class="item-type">_Gear_</span>
