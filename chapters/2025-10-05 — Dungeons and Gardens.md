@@ -172,7 +172,6 @@ Shaking, Elara approaches the now-open chest. Inside, nestled on a bed of rotted
 
 While the others count the treasure, Scarlet moves to the desk. Among a bottle of dried ink and a few used quills, she finds five sheets of blank parchment and a single, folded letter. The Draconic script is faded, but legible. Doctor Pepe takes it, slips on his ring, and reads it aloud, his voice low in the suddenly silent room.
 
-
 “To whomever finds this: All my people are dead. My family, my friends, and my workers. I, too, am dead.”
 
 He pauses, swallowing hard.
@@ -182,3 +181,9 @@ He pauses, swallowing hard.
 Doctor Pepe lowers the parchment, his face a mask of awe and horror. He looks at the others, his voice barely a whisper as he reads the last line.
 
 “The gods must pay for Aeor’s destruction.”
+
+The words hung in the chilling air of the immaculate room. For a moment, no one spoke. Doctor Pepe’s gaze dropped to the very bottom of the page, to a final, elegant scrawl of ink.
+
+“It is signed,” he breathed, the realization dawning on his face. “Ferol Sal.”
+
+Elara gasped, her eyes going wide. “Salsvault,” she whispered, the name of the ruin suddenly taking on a terrifying new meaning. “This is *Sal’s Vault*.”
