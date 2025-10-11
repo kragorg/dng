@@ -4,10 +4,10 @@ Table: Purse
 
 | Currency | Amount |
 | :-       | -:     |
-| Gold     | 1,004  |
-| Electrum | 18     |
-| Silver   | 166    |
-| Copper   |  36    |
+| Gold     | 1,205  |
+| Electrum | 63     |
+| Silver   | 1,172  |
+| Copper   | 36     |
 
 Table: Inventory Adjustments
 
@@ -43,7 +43,9 @@ Table: Equipment
 | 1     | Silver Ring (50gp)              |
 | 2     | Potions of Healing              |
 | 3     | Months of provisions            |
-| 2     | Aeorian Robes                   |
+| 1     | Aeorian Robes                   |
+| 9     | Loaves of bread                 |
+| 5     | Sheets of blank parchment       |
 
 ### Adventure Sexy {#adventure-sexy .item}
 <span class="item-type">_Book, uncommon_</span>
