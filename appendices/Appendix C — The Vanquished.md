@@ -47,3 +47,21 @@
 23. **Fifth Zombie (Salsvault)** — Pinned to the floor and destroyed by *Halite’s* trident after being hit by *Scarlet’s* flame and *Doctor Pepe’s* shortsword.
 
 24. **Sixth Zombie (Salsvault)** — Disintegrated by a radiant mote from *Elara* after being slashed twice by *Whisper’s* claws.
+
+25. **Animated Rug (Salsvault)** — Undone by *Gerhard’s* arrows after being punctured with *Halite’s* trident, raked by *Scarlet’s* Primal Savagery, and hoofed (!) by *horse-Scarlet*.
+
+26. **Animated Hog Splitter (Salsvault)** — De-animated by *Kragor’s* Eldritch Blast.
+
+27. **Animated Cleaver (Salsvault)** — Undone by a flurry of blows from *Whisper*, after it was weakend by *Halite’s* trident and *Kragor’s* war hammer.
+
+28. **Animated Fillet Knife (Salsvault)** — Obliterated by *Kragor’s* war hammer after it was weakend by a hoof-kick from *horse-Scarlet*.
+
+29. **Animated Bird’s-beak Knife (Salsvault)** — Undone by *Halite’s* javelin after freezing from *Kragor’s* Armor of Agathys.
+
+30. **Animated Flensing Knife (Salsvault)** — Crushed by *Kragor’s* war hammer after it was damaged by *Doctor Pepe’s* shortsword.
+
+31. **Animated Skinning Knife (Salsvault)** — Disabled by *Elara’s* dagger after freezing from *Kragor’s* Armor of Agathys.
+
+32. **Animated Boning Knife (Salsvault)** — Destroyed by *Halite’s* trident.
+
+33. **Mass of Undead Snakes (Salsvault)** — Annihilated by a single blow of *Kragor’s* war hammer.
