@@ -95,9 +95,13 @@ function buildhtml {
   typeset args name prefix title tmpname
   print -Pru2 -- '%F{magenta}••• Markdown to HTML •••%f'
   if [[ -n ${synopsis} ]] {
-    name="$(filename_uri "${base} — Synopsis.html")"
+    name="$(filename_uri "Synopsis.html")"
     run ${tohtml} --output "${name}" ${src}/${synopsis}
+    run sed -i -E -e "s/@PDFLINK@/${name:r}.pdf/" ${name}
     outputs+=( ${name} )
+    oldname="$(filename_uri "${base} — Synopsis.html")"
+    run cp ${name} ${oldname}
+    outputs+=( ${oldname} )
   }
   for input ( ${inputs} ) {
     prefix=""
@@ -150,9 +154,9 @@ function buildpdf {
 
   name="$(filename_uri ${base})"
   run ${latexmk} --jobname="${name}" ${base}.tex
-  run ${latexmk} --jobname="${name}-synopsis" synopsis.tex
+  run ${latexmk} --jobname="synopsis" synopsis.tex
   run ${latexmk} --jobname="${name}-print" ${base}-print.tex
-  outputs+=( ${name}.pdf ${name}-synopsis.pdf ${name}-print.pdf )
+  outputs+=( ${name}.pdf synopsis.pdf ${name}-print.pdf )
 
 
   print -Pru2 -- '%F{magenta}••• Splitting PDF •••%f'
@@ -201,7 +205,7 @@ title: 'Dungeons & Gardens'
 ...
 
 - [Full Story](dungeons_and_gardens.pdf)
-- [Synopsis](dungeons_and_gardens---synopsis.html)
+- [Synopsis](synopsis.html)
 
 ## Individual Chapters
 
