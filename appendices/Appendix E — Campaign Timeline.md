@@ -4,7 +4,7 @@ The adventure began in 835 Post-Divergence (PD). This timeline refers to the day
 
 ### Thunsheer 835 PD
 - **20 Thunsheer,** _Day 18_. Continued exploration of Salsvault. Defeated a Rug of Smothering, several magically animated kitchen knives, and a mass of undead snakes. Discovered Ferol Sal’s note.
-- **19 Thunsheer,** _Day 17_. The party arrived at the entrance to Salsvault and dispatched several ice mephits encountered outside. Halite and Whisper discovered a cavern containing an imprisoned fire elemental. The party entered Salsvault and began exploring it, encountering and defeating animated armors and zombies.
+- **19 Thunsheer,** _Day 17_. The party arrived at the entrance to Salsvault and dispatched several ice mephits encountered outside. Halite and Whisper discovered a cavern containing an imprisoned fire elemental. The rest of the party entered Salsvault and began exploring it, encountering and defeating animated armors and zombies.
 - **18 Thunsheer,** _Day 16_. The party encountered a revenant seeking someone named “Lucien”.
 - **17 Thunsheer,** _Day 15_. The griffin left the party. Halite found a white dragon egg and Kragor insisted on bringing it with them.
 - **15 Thunsheer,** _Day 13_. A griffin joined the party after Scarlet removed an arrow from its wing.
