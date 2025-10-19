@@ -152,7 +152,7 @@ Elara approaches it. “Locked,” she announces.
 
 “My turn again,” Doctor Pepe sighs, pulling out his tools. With an ease born of long practice, he works the lock. With a final, satisfying *click*, it springs open.
 
-This time, Elara pushes the door open herself, peering into the room beyond. She gasps.
+Elara again takes the initiative, pushing the door open and peering into the room beyond. She gasps.
 
 Unlike every other room they have seen, this one is immaculate. A large bed is perfectly made. Two nightstands sit beside it, free of dust. A stone desk and chair are neatly arranged against the far wall. The only thing that seems out of place is a heavy stone chest built into the floor at the foot of the bed. There is no dust, no decay. It is as if its owner had just stepped out.
 
