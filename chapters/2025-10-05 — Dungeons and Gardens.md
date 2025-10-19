@@ -144,9 +144,9 @@ After a nervous ten minutes while Scarlet checks for poison or disease—finding
 
 They pack the other nine loaves away, a strange and welcome treasure from a place of death.
 
-One door in the hallway remains unopened.
+Returning to the hallway, they eye the nearest unopened door.
 
-“Last one,” Halite says, his hand on his trident. “Well, let’s see it through.”
+“Another one,” Halite says, his hand on his trident. “Well, let’s see it through.”
 
 Elara approaches it. “Locked,” she announces.
 
