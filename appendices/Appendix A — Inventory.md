@@ -20,6 +20,7 @@ Table: Inventory Adjustments
 | Doctor Pepe | Ice hammer                            |
 | Doctor Pepe | Olive drab deerstalker                |
 | Doctor Pepe | Snowshoes                             |
+| Elara       | Scroll of Detect Magic                |
 | Gerhard     | Ice hammer                            |
 | Gerhard     | Snowshoes                             |
 | Gerhard     | Aeorian Robes                         |
@@ -29,6 +30,7 @@ Table: Inventory Adjustments
 | Halite      | One javelin lost while fighting squid |
 | Halite      | Another lost fighting remorhaz        |
 | Halite      | Bottle of Aeorian Blue                |
+| Scarlet     | Scroll of Detect Magic                |
 | Scarlet     | Snowshoes                             |
 | Whisper     | Aeorian Robes                         |
 
