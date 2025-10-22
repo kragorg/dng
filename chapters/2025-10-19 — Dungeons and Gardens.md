@@ -4,7 +4,7 @@
 
 When they return, the ruin seems to have sunk even further, as if weary of its own long vigil. The silence within is deeper, more expectant. They have scoured much of this place, but the cure remains a ghost, a promise whispered in a dead man’s journal. Three doors remain in the long, zombie-stained corridor.
 
-“Right then,” Halite says, his voice a low rumble that barely disturbs the quiet. “Nothing to do but to keep looking.”
+“Right then,” Halite says, his voice a low rumble that barely disturbs the quiet. “Nothing to do but keep looking.”
 
 They return to the kitchen, the scene of their recent, chaotic ballet with cutlery. Now that all is calm again, they notice a door opposite the magic oven.
 
@@ -14,7 +14,7 @@ They return to the kitchen, the scene of their recent, chaotic ballet with cutle
 
 Doctor Pepe ignores him, pressing his ear to the cold stone door. He slides a tension wrench into the lock, probing with a pick. He is all focus, a surgeon of secrets.
 
-And then Whisper, shifting her weight, knocks her waterskin against her quarterstaff with a dull *bop* that echoes like a drumbeat in the tomb’s silence.
+And then Whisper, shifting her weight, knocks her water-skin against her quarterstaff with a dull _bop_ that echoes like a drumbeat in the tomb’s silence.
 
 “Gods take you, cat!” Kragor hisses. “Why is it always the stealthy one who stubs her toe?”
 
@@ -32,7 +32,7 @@ The room erupts in a storm of decaying fists and groans. Elara doesn’t hesitat
 
 Doctor Pepe sees his opening. A flash of dagger, a thrust of shortsword into the zombie, and he’s gone, melting back into the relative safety of the kitchen. “That’s how you fight like a rogue!” he pants.
 
-His tactics, however, only serve to draw the enemy out. One lurches after him, a clumsy fist grazing his ribs. Another swings at Elara, who twirls away from the blow. The doorway becomes a choke point of grasping hands and snapping teeth. A heavy fist connects with Whisper with sickening force, and the tabaxi grunts, staggering. Halite’s shield rings like a funeral bell as he holds the line, his trident punching deep into a fourth attacker.
+His tactics, however, only serve to draw the enemy out. One lurches after him, a clumsy fist grazing his ribs. Another swings at Elara, who twirls away from the blow. The doorway becomes a choke point of grasping hands and snapping teeth. A heavy fist hits Whisper with sickening force, and the tabaxi grunts, staggering. Halite’s shield rings like a funeral bell as he holds the line, his trident punching deep into a fourth attacker.
 
 “Zombie hurt me,” Whisper growls, her voice low and dangerous.
 
@@ -46,7 +46,7 @@ Only one remains. It ignores the others, charging Kragor. Halite’s trident rip
 
 ## The Sunken Library
 
-The silence that follows is heavy with the smell of dust and old death. Searching the dining room, they find nothing of use. They exit through a door onto the hallway. Gerhard glances up and down the length of it. “Just two doors left,” he observes. Doctor Pepe, with a weary sigh, steps forward once more, towards the nearest door. He waves off any checks for traps or locks and just opens it.
+The silence that follows is heavy with the smell of dust and old death. Searching the dining room, they find nothing of use. They exit through a door into the hallway. Gerhard glances up and down the length of it. “Just two doors left,” he observes. Doctor Pepe, with a weary sigh, steps forward once more, towards the nearest door. He waves off any checks for traps or locks and just opens it.
 
 Beyond is a ruined library. Water ebbs and flows through a large opening in the far wall, turning the floor into a shallow, debris-strewn pool. Rotting parchments and waterlogged tomes float like lily pads. Dim, arcane light glows from sconces on the one remaining wall, casting long, dancing shadows on the water.
 
@@ -54,7 +54,7 @@ Beyond is a ruined library. Water ebbs and flows through a large opening in the 
 
 The water does not so much splash as it heaves, exploding upwards. A slick, purpled tentacle, thick as a man’s thigh and knobbed with pulsing suckers, whips through the air with a sound like a wet bullwhip. It cracks against the stone just beside Doctor Pepe’s head.
 
-“By the Abyss! Contact!” Kragor bellows, a sickly chartreuse light already gathering around his hands. _“Te exsecro!”_ he snarls, and the shimmering curse sinks into the dark shape moving beneath the water. He points a crooked finger. _“Dolor!”_ A bolt of greasy, void-black energy lances into the pool, striking something vast and yielding with a sodden *whump*.
+“By the Abyss! Contact!” Kragor bellows, a sickly chartreuse light already gathering around his hands. _“Te exsecro!”_ he snarls, and the shimmering curse sinks into the dark shape moving beneath the water. He points a crooked finger. _“Dolor!”_ A bolt of greasy, void-black energy lances into the pool, striking something vast and yielding with a sodden _whump_.
 
 “Maybe it wants to parley?” Scarlet asks, her voice thin with desperate hope.
 
@@ -68,9 +68,9 @@ Whisper is a blur of motion. She darts into the room, landing a single blow to t
 
 Elara is there beside him, adding her own arrow to the pincushion of shafts now sprouting from the beast.
 
-Suddenly, Gerhard twists the opal on his finger. “Try the floor!” he yells, and then he’s sprinting in demonstration, his boots striking the water’s surface with impossible, solid *thuds*.
+Suddenly, Gerhard twists the opal on his finger. “Try the floor!” he yells, and then he sprints across the water, his boots pounding the surface with impossible, solid _thuds_.
 
-Scarlet doesn’t hesitate. She runs across the top of the water to where she last sighted Doctor Pepe. She speaks a word, and the shimmering magic around her feet dies. She plunges into the glacial water, the shock a physical blow. Below, in the green-black gloom, she sees the octopus, its coils wrapped tight around Doctor Pepe’s still form. She swims to him, lays her hands upon his chest, and a desperate pulse of healing light flows from her palms.
+Scarlet doesn’t hesitate. She runs across the top of the water to where she last saw Doctor Pepe. She speaks a word, and the shimmering magic around her feet dies. She plunges into the glacial water, the shock a physical blow. Below, in the green-black gloom, she sees the octopus, its coils wrapped tight around Doctor Pepe’s still form. She swims to him, lays her hands upon his chest, and a desperate pulse of healing light flows from her palms.
 
 Doctor Pepe’s eyes fly open. He is underwater. He is drowning. He is alive.
 
@@ -92,13 +92,13 @@ It is just then that Elara hears a voice in her head, faint and familiar. *Tulgi
 
 Her face hardens. She thinks her response, focusing her will. *Our condolences. We are in Salsvault. Seeking the solution.*
 
-She waits, but there is no reply. “I was just informed by a Sending spell that Tulgi Lutan succumbed to the Frigid Woe. We’re running out of time,” she tells the others. No one speaks. The declaration hangs heavily in the air.
+She waits, but there is no reply. “A Sending spell just informed me: Tulgi Lutan has succumbed to the Frigid Woe. We’re running out of time,” she tells the others. No one speaks. The declaration hangs heavily in the air.
 
 After a few heartbeats, Gerhard shrugs. “We should continue our search.”
 
 As the others search the ruined library, Whisper spots a scroll case bobbing near the far wall. She retrieves it. Inside are two scrolls. “Kragor… what do you make of these?”
 
-“Detect Magic,” Kragor announces, looking them over. “Handy. Elara, Scarlet. Take one each.”
+“Detect Magic,” Kragor announces, looking them over. “I have no need of these… but Elara, Scarlet… you may find them handy. Take one each.”
 
 There is one door left in the hall. One last loose end before they can rest. Whisper approaches it, her movements now filled with a weary deliberation. She finds no traps, no lock.
 
@@ -106,13 +106,13 @@ There is one door left in the hall. One last loose end before they can rest. Whi
 
 Four more zombies in a trashed dormitory.
 
-Whisper sighs. The party moves with the grim efficiency of butchers on a killing floor. There is no surprise, no fear, only a job to be done. Whisper is a flurry of blows, pushing one back, staggering another. The zombies shamble forward. Most of their punches miss wildly, but one exceptionally agile one weaves through the crowd and strikes Whisper. Seeing this, Elara puts an arrow in its calf. Gerhard downs it with a perfectly placed shot through the eye. Halite’s trident skewers another. Kragor, moving in with his hammer, smashes a third with a blast of radiant light, ensuring it won’t get back up.
+Whisper sighs. The party moves with the grim efficiency of butchers on a killing floor. There is no surprise, no fear, only a job to be done. Whisper is a flurry of blows, pushing one back, staggering another. The zombies shamble forward. Most of their punches miss wildly, but one exceptionally agile one weaves through the crowd and strikes Whisper. Seeing this, Elara draws and shoots, but only manages to put an arrow in its calf. Gerhard downs it with a perfectly placed shot through the eye. Halite’s trident skewers another. Kragor, moving in with his hammer, smashes a third with a blast of radiant light, ensuring it won’t get back up.
 
 The last two fall in a hail of arrows, fists, and steel. The fight is over in seconds. The hallway is finally, truly clear.
 
 They search the dormitory, but it is as fruitless as the dining room. Overturned cots, ransacked footlockers, the meager possessions of long-dead acolytes scattered like chaff. Gerhard kicks at a splintered chest, spilling moth-eaten woolens and a single, sad-looking sock across the grimy floor.
 
-“More nothing,” he announces to the silent room. “Not a copper piece, not a clue, not even a decent water skin. Just more dead men in robes.”
+“More nothing,” he announces to the silent room. “Not a copper piece, not a clue, not even a decent water-skin. Just more dead men in robes.”
 
 Doctor Pepe leans heavily against the door frame, the unnatural weariness a leaden cloak upon his shoulders. “My bones ache. We’re spent.”
 
@@ -126,7 +126,7 @@ The decision is unanimous. With one last look down the cleared, silent hall, the
 
 ## Blizzard
 
-That night, Kragor dreams. He is not an orc. He is human, his hands slender, with dark black veins pulsing just beneath the skin. He is with a tribe of humans and halflings, struggling through a blizzard of impossible force. A god’s voice booms in his mind, urging them onward. A block of ice the size of a horse hurtles out of the white chaos, wiping out two of his companions. He sees towering figures in the distance, then another boulder of ice is hurtling toward him—and he wakes with a gasp, the phantom impact still echoing in his bones.
+That night, Kragor dreams. He is not an orc. He is human, his hands slender, with snaking black veins pulsing just beneath the skin. He is with a tribe of humans and halflings, struggling through a blizzard of impossible force. A god’s voice booms in his mind, urging them onward. A block of ice the size of a horse hurtles out of the white chaos, wiping out two of his companions. He sees towering figures in the distance, then another boulder of ice is hurtling toward him—and he wakes with a gasp, the phantom impact still echoing in his bones.
 
 Outside, a real blizzard now howls, reducing visibility to zero.
 
@@ -148,22 +148,19 @@ The trek back to Salsvault is exhausting. Every step is a plunge into thigh-deep
 
 “Ready for more surprises?” Gerhard asks, his voice flat. “Let’s head south of the entrance.”
 
-Doctor Pepe leads the way, looking back over his shoulder at
-the rest of the party. “That’s back through the room in which
-we know Urgon and Orvo found the Frigid Woe, right?” Somewhat
-distracted and still feeling the effects of his exhaustion,
-he walks straight into the door with a dull thud. It swings
-open.
+Doctor Pepe leads the way, looking back over his shoulder at the rest of the party. “That’s back through the room where we know Urgon and Orvo found the Frigid Woe, right?” Somewhat distracted, he walks straight into the door with a dull thud. It swings open.
 
 Beyond is a forge. A great, cold anvil and furnace dominate the room, which is otherwise filled with armor stands and rubble.
 
-Whisper notices something strange across from the furnace. “What’s this?” she purrs. She crosses the room to examine a pile of debris … out of which projects two booted feet. As she takes a closer look, they twitch!
+Whisper notices something strange across from the furnace. “What’s this?” she purrs. She crosses the room to examine a pile of debris—out of which protrude two booted feet. As she takes a closer look, they twitch!
 
-She picks up a scrap iron rod from the litter. She cautiously pokes the boots with it. They twitch again, but no other response.
+She picks up a scrap-iron rod from the litter. She cautiously pokes the boots with it. They twitch again, but no other response.
 
-“Leave that alone!” Gerhard barks. Whisper gives him a sly smile and tosses aside the rod.
+“Leave that alone!” Gerhard barks. Whisper gives him a sly smile and tosses aside the rod. “Perhaps it is bait… a trap…”
 
-Kragor kneels, his eyes closed, whispering the incantation to see the world of magic. “Nothing in here,” he reports. He looks toward the door on the far side of the forge. “But through there… I sense several points of power. Transmutation, Evocation… and that other kind. The kind I can’t place.”
+“More like just an unlucky zombie,” Kragor answers. “Who knows how many years it has been stuck under this rubble. In any case, it poses no threat.”
+
+Kragor then kneels, his eyes closed, whispering the incantation to see the world of magic. “Nothing in here,” he reports. He looks toward the door on the far side of the forge. “But through there… I sense several points of power. Transmutation, Evocation… and that other kind. The kind I can’t place.”
 
 “Let’s not just throw it open this time,” Elara suggests. She raises a hand, and a perfect, shimmering illusion of the door appears just before the real one. “Kragor, if you would?”
 
@@ -171,8 +168,8 @@ Kragor looks confused for a moment, then it clicks. “Ah, clever plan.” The w
 
 Whisper peers carefully through Elara’s illusory door. She sees a long hallway with four more doors. And from somewhere down that hall, she hears a sound: a heavy and sporadic thumping.
 
-_THUMP_
+_Thump._
 
-_THUMP_
+_Thump._
 
-_THUMP_
+_Thump._

@@ -3,6 +3,10 @@
 The adventure began in 835 Post-Divergence (PD). This timeline refers to the day the party arrived in Palebank Village as “Day 1”.
 
 ### Thunsheer 835 PD
+
+- **23 Thunsheer,** _Day 21_. The party enters the south wing of Salsvault.
+- **22 Thunsheer,** _Day 20_. A blizzard strands the party in the elemental’s cavern.
+- **21 Thunsheer,** _Day 19_. Continued exploration of Salsvault. Defeated many zombies and a giant octopus. Received message from the Buyer: “Tulgi has passed away.”
 - **20 Thunsheer,** _Day 18_. Continued exploration of Salsvault. Defeated a Rug of Smothering, several magically animated kitchen knives, and a mass of undead snakes. Discovered Ferol Sal’s note.
 - **19 Thunsheer,** _Day 17_. The party arrived at the entrance to Salsvault and dispatched several ice mephits encountered outside. Halite and Whisper discovered a cavern containing an imprisoned fire elemental. The rest of the party entered Salsvault and began exploring it, encountering and defeating animated armors and zombies.
 - **18 Thunsheer,** _Day 16_. The party encountered a revenant seeking someone named “Lucien”.
