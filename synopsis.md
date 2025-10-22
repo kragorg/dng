@@ -1,3 +1,5 @@
+synopsis.md
+---
 # Dungeons & Gardens — Synopsis
 
 <span class="dropcap">The adventure began within</span>
@@ -324,7 +326,7 @@ adding an impossibly heavy
 and dangerous burden to their quest,
 much to the alarm of his companions.
 
-Finally, on the eleventh day, they arrived.
+Then, on the eleventh day, they arrived.
 Their approach to Salsvault was heralded
 by an attack from the forewarned ice mephits,
 which the party dispatched with brutal efficiency.
@@ -381,7 +383,7 @@ to find their comrades still locked in combat
 with the unending tide of the dead.
 With the goliath’s trident
 and the tabaxi’s blinding speed,
-the final zombies were overwhelmed
+the remaining zombies were overwhelmed
 and utterly destroyed by blasts of radiant energy and druidic fire,
 the only forces that could grant them final peace.
 Exhausted, the party retreated to the strange, warm sanctuary
@@ -451,7 +453,7 @@ the kitchen’s sole wonder:
 a magical oven that produced
 loaves of perfectly baked, soul-warmingly delicious bread.
 
-The final door revealed an immaculate,
+The next door revealed an immaculate,
 untouched bedchamber.
 But its chest held one last horror:
 a hissing, roiling ball
@@ -474,3 +476,88 @@ who had allowed Aeor to be destroyed.
 His final words were not a warning,
 but an imploration:
 find his lab, and finish his work.
+
+The dead man’s imploration
+hung in the air like frost,
+a blasphemy so vast
+it almost eclipsed the tomb’s immediate squalor.
+Exhausted, bloodied, and their nerves frayed,
+the party retreated once more
+to the impossible warmth of the elemental’s cavern,
+the low hum of the caged giant a welcome lullaby.
+
+When they returned,
+three doors remained in the long corridor,
+which they cleared with grim purpose.
+The first of these opened on a dining hall
+and six more red-robed zombies,
+which they dismantled with the brutal efficiency
+of those who had grown far too accustomed to the dead.
+
+The second door revealed a drowned library,
+the black water a mirror for the arcane sconces,
+until it exploded upwards.
+A slick, purpled tentacle, thick as a man’s thigh,
+cracked the air like a wet bullwhip,
+then seized Doctor Pepe in a crushing coil,
+dragging him into the icy depths.
+A nightmare of bulging mantle
+and intelligent, malevolent eyes surfaced,
+its horny beak snapping at the air.
+What followed was a desperate, chaotic ballet
+upon the water’s surface, as Gerhard and Whisper
+ran across the pool on magically-solid ground.
+Scarlet plunged into the glacial dark,
+her healing magic a desperate pulse of life
+into the drowning rogue’s lungs,
+only to be ensnared herself.
+It was Halite who ended it,
+a titan running on water,
+leaping to drive his last trident
+through the monster’s skull with a roar of pure rage.
+
+As they gasped on the shore,
+stinking of the abyss,
+a new horror found them.
+A voice in Elara’s mind, faint and familiar:
+*Tulgi has passed away.*
+The Frigid Woe had claimed another victim in Palebank.
+Their time was bleeding away.
+
+The last door held four more zombies,
+dispatched with weary contempt.
+The hall was clear, but the cure remained unfound.
+The fight leeched from their bones,
+they retreated again to the elemental’s warmth,
+Doctor Pepe overcome with a profound, unnatural fatigue.
+That night, as Kragor wrestled with dreams
+of blizzards and falling ice,
+a real storm descended,
+burying the world and sealing them in their cave
+for a long, howling day.
+
+When it broke,
+they dug their way out into a world remade in snow,
+the trek back to the ruin a two-hour ordeal
+through drifts as deep as a man’s chest.
+They ventured south of the entrance,
+into a cold forge,
+where a pair of twitching boots
+protruded from a pile of rubble—
+another trapped thing, left to its fate.
+Kragor sensed power beyond the far door—
+Transmutation, Evocation, and the alien hum of Aeor.
+With cunning use of illusion and spectral hand,
+they opened it,
+revealing a new, unsearched hallway.
+And from its depths, a sound carried,
+a heavy and sporadic thumping.
+
+_Thump._
+
+_Thump._
+
+_Thump._
+
+---
+
