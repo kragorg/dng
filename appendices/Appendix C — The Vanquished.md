@@ -26,42 +26,64 @@
 
 13. **Young Remorhaz (Foren)** — *Halite’s* trident pierced the creature’s brain with a critical hit after it was wounded by *Kragor’s* Eldritch Blasts, *Doctor Pepe’s* bolts, *Gerhard’s* and *Elara’s* arrows, and *Whisper’s* sling bullet.
 
-14. **First Ice Mephit (Salsvault)** — Pierced and popped by *Elara’s* arrow after it was wounded by *Halite’s* javelin and *Doctor Pepe’s* bolt.
+14. **First Ice Mephit (Salsvault, Threshold)** — Pierced and popped by *Elara’s* arrow after it was wounded by *Halite’s* javelin and *Doctor Pepe’s* bolt.
 
-15. **Second Ice Mephit (Salsvault)** — *Halite’s* javelin destroyed this mephit after it was restrained by *Scarlet’s* magic vines and seriously wounded by *Gerhard’s* arrow.
+15. **Second Ice Mephit (Salsvault, Threshold)** — *Halite’s* javelin destroyed this mephit after it was restrained by *Scarlet’s* magic vines and seriously wounded by *Gerhard’s* arrow.
 
-16. **Third Ice Mephit (Salsvault)** — Decapitated by *Whisper’s* claws while it was restrained by *Scarlet’s* magic vines, bound by *Whisper’s* rope bindings, pierced with *Doctor Pepe’s* bolt and *Elara’s* arrow.
+16. **Third Ice Mephit (Salsvault, Threshold)** — Decapitated by *Whisper’s* claws while it was restrained by *Scarlet’s* magic vines, bound by *Whisper’s* rope bindings, pierced with *Doctor Pepe’s* bolt and *Elara’s* arrow.
 
-17. **First Animated Armor (Salsvault)** — Destroyed by a final, crushing blow from *Kragor’s* war hammer, after being damaged by two arrows from *Gerhard*.
+17. **First Animated Armor (Salsvault, Entryway)** — Destroyed by a final, crushing blow from *Kragor’s* war hammer, after being damaged by two arrows from *Gerhard*.
 
-18. **Second Animated Armor (Salsvault)** — Disintegrated by a final Eldritch Blast from *Kragor* after a prolonged assault involving *Scarlet* (in boar form and then with her staff), an arrow from *Elara*, and an earlier blast from *Kragor*.
+18. **Second Animated Armor (Salsvault, Entryway)** — Disintegrated by a final Eldritch Blast from *Kragor* after a prolonged assault involving *Scarlet* (in boar form and then with her staff), an arrow from *Elara*, and an earlier blast from *Kragor*.
 
-19. **First Zombie (Salsvault)** — Destroyed by *Kragor’s* radiant war hammer.
+19. **First Zombie (Salsvault, North Hallway)** — Destroyed by *Kragor’s* radiant war hammer.
 
-20. **Second Zombie (Salsvault)** — Incinerated by *Scarlet’s* fire mote after it reanimated from being felled by arrows from *Gerhard* and *Elara*.
+20. **Second Zombie (Salsvault, North Hallway)** — Incinerated by *Scarlet’s* fire mote after it reanimated from being felled by arrows from *Gerhard* and *Elara*.
 
-21. **Third Zombie (Salsvault)** — Annihilated by a radiant blow from *Kragor’s* war hammer, after it was blasted with cold from *Kragor’s* Armor of Agathys and was struck by *Elara’s* radiant mote.
+21. **Third Zombie (Salsvault, North Hallway)** — Annihilated by a radiant blow from *Kragor’s* war hammer, after it was blasted with cold from *Kragor’s* Armor of Agathys and was struck by *Elara’s* radiant mote.
 
-22. **Fourth Zombie (Salsvault)** — Torn apart by *Whisper’s* claws, after it reanimated from being downed by an earlier claw strike and *Gerhard’s* arrow.
+22. **Fourth Zombie (Salsvault, North Hallway)** — Torn apart by *Whisper’s* claws, after it reanimated from being downed by an earlier claw strike and *Gerhard’s* arrow.
 
-23. **Fifth Zombie (Salsvault)** — Pinned to the floor and destroyed by *Halite’s* trident after being hit by *Scarlet’s* flame and *Doctor Pepe’s* shortsword.
+23. **Fifth Zombie (Salsvault, North Hallway)** — Pinned to the floor and destroyed by *Halite’s* trident after being hit by *Scarlet’s* flame and *Doctor Pepe’s* shortsword.
 
-24. **Sixth Zombie (Salsvault)** — Disintegrated by a radiant mote from *Elara* after being slashed twice by *Whisper’s* claws.
+24. **Sixth Zombie (Salsvault, North Hallway)** — Disintegrated by a radiant mote from *Elara* after being slashed twice by *Whisper’s* claws.
 
-25. **Animated Rug (Salsvault)** — Undone by *Gerhard’s* arrows after being punctured with *Halite’s* trident, raked by *Scarlet’s* Primal Savagery, and hoofed (!) by *horse-Scarlet*.
+25. **Animated Rug (Salsvault, Destroyed Dormitory)** — Undone by *Gerhard’s* arrows after being punctured with *Halite’s* trident, raked by *Scarlet’s* Primal Savagery, and hoofed (!) by *horse-Scarlet*.
 
-26. **Animated Hog Splitter (Salsvault)** — De-animated by *Kragor’s* Eldritch Blast.
+26. **Animated Hog Splitter (Salsvault, Kitchen)** — De-animated by *Kragor’s* Eldritch Blast.
 
-27. **Animated Cleaver (Salsvault)** — Undone by a flurry of blows from *Whisper*, after it was weakend by *Halite’s* trident and *Kragor’s* war hammer.
+27. **Animated Cleaver (Salsvault, Kitchen)** — Undone by a flurry of blows from *Whisper*, after it was weakend by *Halite’s* trident and *Kragor’s* war hammer.
 
-28. **Animated Fillet Knife (Salsvault)** — Obliterated by *Kragor’s* war hammer after it was weakend by a hoof-kick from *horse-Scarlet*.
+28. **Animated Fillet Knife (Salsvault, Kitchen)** — Obliterated by *Kragor’s* war hammer after it was weakend by a hoof-kick from *horse-Scarlet*.
 
-29. **Animated Bird’s-beak Knife (Salsvault)** — Undone by *Halite’s* javelin after freezing from *Kragor’s* Armor of Agathys.
+29. **Animated Bird’s-beak Knife (Salsvault, Kitchen)** — Undone by *Halite’s* javelin after freezing from *Kragor’s* Armor of Agathys.
 
-30. **Animated Flensing Knife (Salsvault)** — Crushed by *Kragor’s* war hammer after it was damaged by *Doctor Pepe’s* shortsword.
+30. **Animated Flensing Knife (Salsvault, Kitchen)** — Crushed by *Kragor’s* war hammer after it was damaged by *Doctor Pepe’s* shortsword.
 
-31. **Animated Skinning Knife (Salsvault)** — Disabled by *Elara’s* dagger after freezing from *Kragor’s* Armor of Agathys.
+31. **Animated Skinning Knife (Salsvault, Kitchen)** — Disabled by *Elara’s* dagger after freezing from *Kragor’s* Armor of Agathys.
 
-32. **Animated Boning Knife (Salsvault)** — Destroyed by *Halite’s* trident.
+32. **Animated Boning Knife (Salsvault, Kitchen)** — Destroyed by *Halite’s* trident.
 
-33. **Mass of Undead Snakes (Salsvault)** — Annihilated by a single blow of *Kragor’s* war hammer.
+33. **Mass of Undead Snakes (Salsvault, Ferol Sal’s Bedroom)** — Annihilated by a single blow of *Kragor’s* war hammer.
+
+34. **Seventh Zombie (Salsvault, Dining Hall)** — Blown apart by the force of *Kragor’s* Eldritch Blast after being illumnated by *Elara’s* *faerie fire* and severely wounded by *Gerhard’s* arrow.
+
+35. **Eighth Zombie (Salsvault, Dining Hall)** — A dagger thrust to the heart from *Elara* finished this creature, which had been grievously wounded by *Doctor Pepe’s* blades.
+
+36. **Ninth Zombie (Salsvault, Dining Hall)** — Felled by *Gerhard’s* arrow after being scorched by *Scarlet’s* flame and stabbed by *Elara*.
+
+37. **Tenth Zombie (Salsvault, Dining Hall)** — Blasted into greasy chunks by *Kragor’s* Eldritch Blast while it was menacing *Halite*, who had already pierced it with his trident.
+
+38. **Eleventh Zombie (Salsvault, Dining Hall)** — Downed by a crossbow bolt through the eye from *Doctor Pepe* after it had been slashed by *Whisper*.
+
+39. **Twelth Zombie (Salsvault, Dining Hall)** — Put to rest by an arrow from *Elara*, after it had reanimated twice from being felled by *Halite’s* trident and *Whisper’s* blows.
+
+40. **Giant Octopus (Salsvault, Library)** — Fatally pierced by a furious, downward trident thrust from *Halite* after taking heavy damage from earlier strikes by *Halite*, *Kragor’s* Eldritch Blasts, *Whisper’s* punches, and *Elara’s* arrow.
+
+42. **Thirteenth Zombie (Salsvault, Occupied Dormitory)** — Destroyed by a perfectly placed shot from *Gerhard’s* bow after it was struck by an arrow from *Elara*.
+
+43. **Fourteenth Zombie (Salsvault, Occupied Dormitory)** — Smashed with a blast of radiant light from *Kragor’s* war hammer after being skewered by *Halite’s* trident.
+
+44. **Fifteenth Zombie (Salsvault, Occupied Dormitory)** — Felled a second time by an arrow from *Gerhard*, after taking blows from *Whisper’s* claws and being downed a first time with a shot from *Elara’s* bow.
+
+45. **Sixteenth Zombie (Slasvault, Occupied Dormitory)** — Run through and destroyed by *Halite’s* trident after being pummled by *Whisper*.
