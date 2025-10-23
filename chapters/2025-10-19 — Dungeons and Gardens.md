@@ -1,8 +1,8 @@
 # The Drowned Rogue
 
-<span class="dropcap">The dead man’s final</span> words hang in the air like frost. *The gods must pay for Aeor’s destruction.* A sentiment so vast, so blasphemous, it almost eclipses the immediate squalor of the tomb. Ferol Sal’s vault. It is a place of grand, genocidal ambitions and petty, homicidal housewares. Exhausted, bloodied, and their nerves frayed to raw threads, the party retreats to the impossible warmth of the elemental’s cavern. The low hum of the caged giant is a welcome lullaby. They take their rest, a pocket of life carved out of a world of ice and death.
+<span class="dropcap">The dead man’s final</span> words hang in the air like frost: _The gods must pay for Aeor’s destruction._ It is a sentiment so vast, so blasphemous, it almost eclipses the immediate squalor of Ferol Sal’s vault—a place of grand, genocidal ambitions and petty, homicidal housewares. Exhausted, bloodied, and with nerves frayed to raw threads, the party retreats to the impossible warmth of the elemental’s cavern. There, the low hum of the caged giant becomes a welcome lullaby as they finally take their rest, a pocket of life carved out of a world of ice and death.
 
-When they return, the ruin seems to have sunk even further, as if weary of its own long vigil. The silence within is deeper, more expectant. They have scoured much of this place, but the cure remains a ghost, a promise whispered in a dead man’s journal. Three doors remain in the long, zombie-stained corridor.
+When they return, the ruin seems to have sunk even further, as if weary of its own long vigil. The silence within is deeper, more expectant. They have scoured much of this place, but the cure remains a ghost. Three doors remain in the long, zombie-stained corridor.
 
 “Right then,” Halite says, his voice a low rumble that barely disturbs the quiet. “Nothing to do but keep looking.”
 
@@ -12,7 +12,7 @@ They return to the kitchen, the scene of their recent, chaotic ballet with cutle
 
 “Just try not to get eaten by the furniture,” Gerhard mutters from the back.
 
-Doctor Pepe ignores him, pressing his ear to the cold stone door. He slides a tension wrench into the lock, probing with a pick. He is all focus, a surgeon of secrets.
+Doctor Pepe ignores him, pressing his ear to the cold stone door. He runs his gloved fingers along the seams, feeling for the slightest incongruity that might betray a wire or a pressure plate. He examines the floor beneath, the hinges, the handle itself, his touch feather-light. He is all focus, a surgeon of secrets.
 
 And then Whisper, shifting her weight, knocks her water-skin against her quarterstaff with a dull _bop_ that echoes like a drumbeat in the tomb’s silence.
 
@@ -28,7 +28,7 @@ The door swings open on a dining hall, choked with the dust of ages. Piles of ru
 
 The room erupts in a storm of decaying fists and groans. Elara doesn’t hesitate, rushing past Halite into the doorway. *“Fae ignis!”* she sings, strumming a sharp, dissonant chord on her harp. A wave of violet light washes over the room, bathing three of the shambling figures in an eerie glow, their rot suddenly, sickeningly vivid.
 
-“Light ‘em up, I’ll knock ‘em down!” Gerhard yells. His arrow and a bolt of crackling shadow from Kragor converge on the nearest glowing corpse, blowing it apart in a spray of dust and dried viscera. Kragor levels a finger at a second, hissing a debilitating hex. “Your turn, Doctor Pepe.”
+“Light ‘em up, I’ll knock ‘em down!” Gerhard yells. His arrow and a bolt of crackling shadow from Kragor converge on the nearest glowing corpse, blowing it apart in a spray of dust and dried viscera.
 
 Doctor Pepe sees his opening. A flash of dagger, a thrust of shortsword into the zombie, and he’s gone, melting back into the relative safety of the kitchen. “That’s how you fight like a rogue!” he pants.
 
@@ -46,7 +46,7 @@ Only one remains. It ignores the others, charging Kragor. Halite’s trident rip
 
 ## The Sunken Library
 
-The silence that follows is heavy with the smell of dust and old death. Searching the dining room, they find nothing of use. They exit through a door into the hallway. Gerhard glances up and down the length of it. “Just two doors left,” he observes. Doctor Pepe, with a weary sigh, steps forward once more, towards the nearest door. He waves off any checks for traps or locks and just opens it.
+The silence that follows is heavy with the smell of dust and old death. Searching the dining hall, they find nothing of use. They exit through a door into the hallway. Gerhard glances up and down the length of it. “Just two doors left,” he observes. Doctor Pepe, with a weary sigh, steps forward once more, towards the nearest door. He waves off any checks for traps or locks and just opens it.
 
 Beyond is a ruined library. Water ebbs and flows through a large opening in the far wall, turning the floor into a shallow, debris-strewn pool. Rotting parchments and waterlogged tomes float like lily pads. Dim, arcane light glows from sconces on the one remaining wall, casting long, dancing shadows on the water.
 
@@ -54,7 +54,7 @@ Beyond is a ruined library. Water ebbs and flows through a large opening in the 
 
 The water does not so much splash as it heaves, exploding upwards. A slick, purpled tentacle, thick as a man’s thigh and knobbed with pulsing suckers, whips through the air with a sound like a wet bullwhip. It cracks against the stone just beside Doctor Pepe’s head.
 
-“By the Abyss! Contact!” Kragor bellows, a sickly chartreuse light already gathering around his hands. _“Te exsecro!”_ he snarls, and the shimmering curse sinks into the dark shape moving beneath the water. He points a crooked finger. _“Dolor!”_ A bolt of greasy, void-black energy lances into the pool, striking something vast and yielding with a sodden _whump_.
+“By the Abyss! Big octopus!” Kragor bellows, a sickly chartreuse light already gathering around his hands. _“Te exsecro!”_ he snarls, and the shimmering curse sinks into the dark shape moving beneath the water. He points a crooked finger. _“Dolor!”_ A bolt of greasy, void-black energy lances into the pool, striking something vast and yielding with a sodden _whump_.
 
 “Maybe it wants to parley?” Scarlet asks, her voice thin with desperate hope.
 
@@ -74,7 +74,7 @@ Scarlet doesn’t hesitate. She runs across the top of the water to where she la
 
 Doctor Pepe’s eyes fly open. He is underwater. He is drowning. He is alive.
 
-His revival enrages the beast. A tentacle whips out, ensnaring Scarlet, holding her fast. Its beak finds Pepe, biting deep into his shoulder. It begins to pull away, dragging its two captives toward the breach in the wall.
+His revival enrages the beast. A tentacle whips out, ensnaring Scarlet, holding her fast. Its beak finds Doctor Pepe, biting deep into his shoulder. It begins to pull away, dragging its two captives toward the breach in the wall.
 
 “Oh no you don’t!” Whisper is already moving, her feet slapping against the solid-seeming water. She dives, her claws flashing.
 
@@ -94,7 +94,7 @@ Her face hardens. She thinks her response, focusing her will. *Our condolences. 
 
 She waits, but there is no reply. “A Sending spell just informed me: Tulgi Lutan has succumbed to the Frigid Woe. We’re running out of time,” she tells the others. No one speaks. The declaration hangs heavily in the air.
 
-After a few heartbeats, Gerhard shrugs. “We should continue our search.”
+After several heartbeats, Gerhard shrugs. “We should continue our search.”
 
 As the others search the ruined library, Whisper spots a scroll case bobbing near the far wall. She retrieves it. Inside are two scrolls. “Kragor… what do you make of these?”
 
@@ -110,19 +110,19 @@ Whisper sighs. The party moves with the grim efficiency of butchers on a killing
 
 The last two fall in a hail of arrows, fists, and steel. The fight is over in seconds. The hallway is finally, truly clear.
 
-They search the dormitory, but it is as fruitless as the dining room. Overturned cots, ransacked footlockers, the meager possessions of long-dead acolytes scattered like chaff. Gerhard kicks at a splintered chest, spilling moth-eaten woolens and a single, sad-looking sock across the grimy floor.
+They search the dormitory, but it is as fruitless as the dining hall. Overturned cots, ransacked footlockers, the meager possessions of long-dead acolytes scattered like chaff. Gerhard kicks at a splintered chest, spilling moth-eaten woolens and a single, sad-looking sock across the grimy floor.
 
 “More nothing,” he announces to the silent room. “Not a copper piece, not a clue, not even a decent water-skin. Just more dead men in robes.”
 
-Doctor Pepe leans heavily against the door frame, the unnatural weariness a leaden cloak upon his shoulders. “My bones ache. We’re spent.”
+Doctor Pepe leans heavily against the door frame, the unnatural weariness a leaden cloak upon his shoulders. “My bones ache. I’m spent.”
 
-“He’s right,” Halite says, his voice a low rumble. “We’re running on fumes. Ferol Sal’s grand design can wait until morning. We need rest.”
+“He’s right,” Halite says, his voice a low rumble. “Scarlet and Whisper are beyond bloodied as well. Ferol Sal’s grand design can wait until morning. They need rest.”
 
 “The hot spring sounds better than any feather bed right now,” Whisper agrees, her tail giving a single, tired flick.
 
-“Agreed,” Kragor says, resting his war hammer on his shoulder. “Let’s not find out what other surprises this place has for us when we’re too tired to even tell a zombie from a hat rack.”
+“Agreed,” Kragor says, resting his war hammer on his shoulder. “Let’s not find out what other surprises this place has for us in this condition.”
 
-The decision is unanimous. With one last look down the cleared, silent hall, they turn their backs on the tomb. Back through the sinking ruin, out into the biting wind, and into the sanctuary of the elemental’s cavern. The warmth is a blessing, a stolen moment of peace.
+The decision is unanimous. With one last look down the cleared, silent hall, they turn their backs on the tomb. Back through the sinking ruin, out into the biting wind, and to the sanctuary of the elemental’s cavern. The warmth is a blessing, a stolen moment of peace.
 
 ## Blizzard
 
@@ -148,7 +148,7 @@ The trek back to Salsvault is exhausting. Every step is a plunge into thigh-deep
 
 “Ready for more surprises?” Gerhard asks, his voice flat. “Let’s head south of the entrance.”
 
-Doctor Pepe leads the way, looking back over his shoulder at the rest of the party. “That’s back through the room where we know Urgon and Orvo found the Frigid Woe, right?” Somewhat distracted, he walks straight into the door with a dull thud. It swings open.
+Doctor Pepe leads the way, looking back over his shoulder at the rest of the party. “That’s back through this room where we know Urgon and Orvo found the Frigid Woe, right?” Somewhat distracted, he walks straight into a door with a dull thud. It swings open.
 
 Beyond is a forge. A great, cold anvil and furnace dominate the room, which is otherwise filled with armor stands and rubble.
 
@@ -158,7 +158,7 @@ She picks up a scrap-iron rod from the litter. She cautiously pokes the boots wi
 
 “Leave that alone!” Gerhard barks. Whisper gives him a sly smile and tosses aside the rod. “Perhaps it is bait… a trap…”
 
-“More like just an unlucky zombie,” Kragor answers. “Who knows how many years it has been stuck under this rubble. In any case, it poses no threat.”
+“More like just an unlucky zombie,” Kragor answers. “Who knows how many years it has been stuck under this rubble. In any case, it poses no threat.” Gerhard grumbles assent.
 
 Kragor then kneels, his eyes closed, whispering the incantation to see the world of magic. “Nothing in here,” he reports. He looks toward the door on the far side of the forge. “But through there… I sense several points of power. Transmutation, Evocation… and that other kind. The kind I can’t place.”
 
