@@ -54,6 +54,8 @@ Beyond is a ruined library. Water ebbs and flows through a large opening in the 
 
 The water does not so much splash as it heaves, exploding upwards. A slick, purpled tentacle, thick as a man’s thigh and knobbed with pulsing suckers, whips through the air with a sound like a wet bullwhip. It cracks against the stone just beside Doctor Pepe’s head.
 
+![](octopus.jpg)
+
 “By the Abyss! Big octopus!” Kragor bellows, a sickly chartreuse light already gathering around his hands. _“Te exsecro!”_ he snarls, and the shimmering curse sinks into the dark shape moving beneath the water. He points a crooked finger. _“Dolor!”_ A bolt of greasy, void-black energy lances into the pool, striking something vast and yielding with a sodden _whump_.
 
 “Maybe it wants to parley?” Scarlet asks, her voice thin with desperate hope.
