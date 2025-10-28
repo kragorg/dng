@@ -44,7 +44,7 @@ Table: Equipment
 | 1     | Journal of Hulil Lutan          |
 | 1     | Silver Ring (50gp)              |
 | 1     | Potion of Healing               |
-| 3     | Months of provisions            |
+| 56    | Rations (3 months provisions)   |
 | 1     | Aeorian Robes                   |
 | 9     | Loaves of bread                 |
 | 5     | Sheets of blank parchment       |
