@@ -43,7 +43,7 @@ Table: Equipment
 | 1     | Jade Statuette of a Storm Giant |
 | 1     | Journal of Hulil Lutan          |
 | 1     | Silver Ring (50gp)              |
-| 2     | Potions of Healing              |
+| 1     | Potion of Healing               |
 | 3     | Months of provisions            |
 | 1     | Aeorian Robes                   |
 | 9     | Loaves of bread                 |
