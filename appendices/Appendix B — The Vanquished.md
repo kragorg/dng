@@ -1,4 +1,4 @@
-# Appendix C — The Vanquished
+# Appendix B — The Vanquished
 
 1.  **First Bandit (Pelc’s Curiosities)** — *Kragor* crushed the elf’s head with a single blow of his war hammer in the fog-clouded Pelc’s Curiosities.
 

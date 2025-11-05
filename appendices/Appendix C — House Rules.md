@@ -1,4 +1,4 @@
-# Appendix D — House Rules
+# Appendix C — House Rules
 
 This appendix collects:
 

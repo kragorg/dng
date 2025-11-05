@@ -1,4 +1,4 @@
-# Appendix B — Dramatis Personae
+# Appendix A — Dramatis Personae
 
 1.  **Adventurers**: The primary group consisting of **Elara**, **Halite**, **Kragor**, **Scarlet**, **Whisper**, **Doctor Pepe**, and **Gerhard**. Having survived the perils of the sea and the Foren wastes, they have breached the sunken Aeorian ruin of Salsvault. Within its silent, geometric halls, they have battled arcane constructs, a tide of zombies, and a giant octopus, all while piecing together the ruin’s grim purpose. They now use a nearby cavern—warmed by a mysterious, caged fire elemental—as a sanctuary from the tomb’s oppressive chill and the biting Eiselcross weather.
 

@@ -1,4 +1,4 @@
-# Appendix E — Campaign Timeline
+# Appendix D — Campaign Timeline
 
 The adventure began in 835 Post-Divergence (PD). This timeline refers to the day the party arrived in Palebank Village as “Day 1”.
 
