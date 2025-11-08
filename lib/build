@@ -107,8 +107,8 @@ function buildhtml {
     prefix=""
     name=${input:t:r}
     case ${name} in
-      *Prequel)
-        name="Prequel"
+      *Prologue)
+        name="Prologue"
         ;;
       202*—*)
         prefix="Chapter ${n} — "
@@ -165,8 +165,8 @@ function buildpdf {
   typeset -i n=1
   run chapters ${name}.log | while read range chapter; do
     case ${chapter} in
-      *Prequel)
-        chapter="Prequel"
+      *Prologue)
+        chapter="Prologue"
         ;;
       Appendix*)
         n=0  # No chapters follow appendices
