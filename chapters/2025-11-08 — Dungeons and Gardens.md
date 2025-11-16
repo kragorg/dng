@@ -22,15 +22,15 @@ The room beyond is a debris-filled mess. A creature, nearly nine feet tall—a g
 
 Startled, Pepe scrambles back, trips, and falls over the threshold into the room.
 
-“By Kord’s broken shield,” Kragor roars.
+Seeing the blunder from his vantage point in the forge doorway, Kragor roars, “By Kord’s broken shield!”
 
-As the flesh golem reaches him, Doctor Pepe expertly regains his footing. He darts and slashes, but the monster hardly notices. He bolts back into the hallway as arrows and javelins sink into its hide, mere annoyances.
+As the flesh golem reaches him, Doctor Pepe expertly regains his footing. He darts and slashes, but the monster hardly notices. He bolts back into the hallway as his companions’ arrows and javelins sink into the creature’s hide, mere annoyances.
 
 A fist the size of a small boulder comes down. The rogue’s ribs give way with a sound like snapping branches. A second blow hammers the air from his lungs, and he collapses, a broken marionette.
 
 “Doctor Pepe!” Elara’s cry is a razor’s edge. Her arrow slams into the golem’s chest, followed by a single, piercing note—_“Encore!”_—a command to the flesh. The healing light is a violent shock, forcing his heart to thunder, his lungs to gasp.
 
-Scarlet’s hand shoots forward, cupping a perfect flame. She casts it. The fire splashes across the golem’s face, a liquid, noiseless incandescence. The creature recoils as though doused in acid, its stitched features a mask of primal horror.
+Scarlet’s hand shoots forward, cupping a perfect flame. She throws it. The fire splashes across the golem’s face, a liquid, noiseless incandescence. The creature recoils as though doused in acid, its stitched features a mask of primal horror.
 
 Halite, stunned for a half-second, throws a trident. It flies wide. “Blast!” A second follows, striking the golem’s leg with enough force to topple it. The behemoth crashes to the floor, prone and flailing.
 
@@ -145,7 +145,12 @@ Through the pain, Doctor Pepe sees his opening. He stumbles forward, dagger firs
 
 From the back of the formation, Elara draws. The arrowhead of her nocked shaft glows with a soft, silver light. The string sings. The arrow is a comet of purification, striking the wight just below the clavicle. There is a sound of cracking ancient bone and a hiss as holy energy sears unholy flesh. The creature reels.
 
-Kragor plants his feet, a rock in the swirling tide of battle. He extends a hand, a single, guttural word of hexing power clinging to the wight like a shroud. Then he levels the new longsword, channeling his will through the thunder-grey steel. A beam of star-dusted darkness erupts from its tip, striking the creature with the force of entropy itself.
+Kragor extends a hand, and murmers a single, guttural
+curse. Strands of a sallow, chartreuse glow cling to the
+wight like a shroud. Then he levels the new longsword,
+channeling his will through the thunder-grey steel. A
+beam of star-dusted darkness erupts from its tip,
+striking the creature with otherworldly force.
 
 The wight ignores the arrows, the spells, the blade in its leg. It focuses its ancient hatred on the creature holding it. Its clawed fingers, hard as obsidian, dig into Whisper’s flesh. It is not a cut, but a violation. A sucking cold floods the tabaxi’s body, a chilling void where her life-force used to be. She feels a part of her soul being siphoned away, devoured by the abyss in the creature’s touch. Before she can even scream, its glowing green longsword scythes across her middle. The world dissolves into a final, agonizing slash of pain, and she collapses, a heap of grey fur on the cold stone.
 
@@ -159,9 +164,9 @@ The armors continue their grim work. One slams its fist into Halite’s shield, 
 
 Doctor Pepe, seeing Whisper fall, knows he is next. He fires his crossbow, the bolt striking the wight’s chest, then dives for the cover of a nearby doorway, his heart hammering against his bruised ribs.
 
-Seeing the life drain from the tabaxi, a defiance born of desperation seizes Elara. “Not yet!” she shouts, her voice a clarion call. Another arrow flies, a shot that finds an impossible, perfect opening, burying itself deep in the wight’s throat. It stumbles back, clutching the shaft, its hissing voice growing ragged. Without pausing, Elara sings a single, sharp word of healing. A golden warmth washes over Whisper, knitting sinew and sealing wounds. The tabaxi’s eyes snap open. She is whole again, her wounds sealed, yet a deep, abiding chill remains—a hollow space where the wight’s touch stole something vital, something the gods’ healing cannot replace.
+Seeing the life drain from the tabaxi, a defiance born of desperation seizes Elara. “Not yet!” she shouts, her voice a clarion call. Another arrow flies, a shot that finds an impossible, perfect opening, burying itself deep in the wight’s throat. It stumbles back, clutching the shaft, its hissing voice growing ragged. Without pausing, Elara sings a single, sharp word of healing. A golden warmth washes over Whisper, knitting sinew and sealing wounds. The tabaxi’s eyes snap open. She is whole again, her wounds sealed, yet a deep, abiding chill remains—a hollow space where the wight’s touch stole something vital, something the bard’s healing cannot replace.
 
-The wight is grievously wounded, its unholy vitality guttering like a cheap candle in a gale. It turns its hollow eyes toward Kragor, sensing the source of the dark power that eats at its being. It takes a single, shaky step.
+The wight itself is grievously wounded, its unholy vitality guttering like a candle in a gust. It turns its hollow eyes toward Kragor, sensing the source of the dark power that eats at its being. It takes a single, shaky step.
 
 This is the moment. Kragor surges forward, crossing the distance in three pounding strides, a green-skinned avalanche of vengeance. He brings the new longsword up in a two-handed grip. The thunder-grey blade drinks the arcane light, its strange, internal veins of silver seeming to pulse with a cold, hungry light. He remembers his own words. *It is a dirge.* He swings.
 
@@ -169,7 +174,7 @@ The blade does not clang or ring. It sings a low, mournful note as it cuts the a
 
 Kragor watches the robed skeleton fall, then shifts his gaze, and the sickly violet aura of his hex leaps from the empty space to cling to the nearest suit of armor.
 
-The fight is not over. Scarlet’s owl streaks past the remaining armor, a ghostly distraction, then banks and spits a small glob of flame that spatters against its iron helm. Whisper, woozy and disoriented, spins to her feet and lashes out at the armor, but her claws find only air. She snarls, then wisely disengages, melting back down the hall to safety.
+The fight is not over. Scarlet’s owl streaks past the remaining armor, a ghostly distraction that lets the druid land a small glob of flame spattering against its iron helm. Whisper, woozy and disoriented, spins to her feet and lashes out at the armor, but her claws find only air. She snarls, then wisely disengages, melting back down the hall to safety.
 
 “On the metal ones!” Gerhard shouts, his mark shifting to the second suit of armor as his bow sings again, his arrow sparking off its chest plate. Halite, abandoning his thrown weapon to the gloom, rips another trident from the harness on his back and hews at the same target, a solid blow that leaves a deep score in the metal.
 
@@ -177,17 +182,17 @@ The first suit of armor swings at Halite. It is a crushing blow that should have
 
 Doctor Pepe, peeking from his doorway, looses a crossbow bolt that ricochets harmlessly away. Elara is more fortunate; her arrow bites deep into a joint in the second armor’s arm.
 
-Kragor steps into the fray, his new longsword a blur of grey death. He brings it down on the first armor. The dirge-song of the blade rings out as it smashes into the construct’s shoulder. Plates of enchanted iron buckle and split, and the thing staggers, its animating light flickering like a faulty lamp, wounded but not yet dead.
+Kragor steps into the fray, the longsword a blur of grey death. He brings it down on the first armor. The dirge-song of the blade rings out as it smashes into the construct’s shoulder. Plates of enchanted iron buckle and split, and the thing staggers, its animating light flickering like a faulty lamp, wounded but not yet dead.
 
 Scarlet’s flame goes wide, painting the stone wall with a brief, angry light. Whisper throws a javelin that glances off its shoulder. Gerhard’s arrow skips off the armor’s helm with a shriek of metal. But Halite, finding his rhythm, drives his trident deep into its chest. There is a grinding crunch, a final shudder, and the construct collapses into a heap of scrap.
 
-The last armor stands alone, turning its helmeted head from Halite to Kragor. It lumbers toward the orc, its iron fists raised. Its first blow is a ponderous, telegraphed swing that Kragor parries with a jarring clash of steel. As it raises its arms for a second, crushing blow, Elara’s arrow sinks into the joint of its knee, making it stumble. Doctor Pepe’s fires his crossbow. The bolt, a splinter of wood and iron guided by a hand that has forgotten its own sureness, flies not true but wide. It sparks against the corridor wall then is swallowed by the gloom.
+The last armor stands alone, turning its helmeted head from Halite to Kragor. It lumbers toward the orc, its iron fists raised. Its first blow is a ponderous, telegraphed swing that Kragor parries with a jarring clash of steel. As it raises its arms for a second, crushing blow, Elara’s arrow sinks into the joint of its knee, making it stumble. Doctor Pepe fires his crossbow. The bolt, a splinter of wood and iron guided by a hand that has forgotten its own sureness, flies not true but wide. It sparks against the corridor wall then is swallowed by the gloom.
 
 It is Kragor who ends it. Another swing of the thunder-grey blade, a final, sorrowful note hanging in the air. The longsword cleaves the armor from shoulder to hip. The construct falls apart, two halves of dead, useless iron that crash to the floor with a deafening, final clang.
 
-The final, deafening clang of sundered iron fades. Silence rushes in to fill the void, thick and heavy as grave dust. It is a silence broken only by the harsh, ragged gulps of air from lungs that have earned every breath.
+Silence rushes in to fill the void, thick and heavy as grave dust. It is broken only by the harsh, ragged gulps of air from lungs that have earned every breath.
 
-Kragor steps over the cloven ruin of the last armor, the dirge-blade in his hand humming with a low, satisfied thrum. He prods the heap of bone and rotting silk that was Ferol Sal with the toe of his boot. He kneels. His scarred green fingers, with a delicacy born of a hundred dissections on the battlefield, probe the brittle, web-like fabric of the wight’s robes. He finds them nestled in a secret fold over the skeleton’s ribs: two small keys of blackened brass, their shapes ornate and unfamiliar. They are cold as a corpse’s kiss in his palm.
+Kragor steps over the ruin of the last armor, the dirge-blade in his hand humming with a low, satisfied thrum. He prods the heap of bone and rotting silk that was Ferol Sal with the toe of his boot. He kneels. His scarred green fingers, with a delicacy born of a hundred dissections on the battlefield, probe the brittle, web-like fabric of the wight’s robes. He finds them nestled in a secret fold over the skeleton’s ribs: two small keys of blackened brass, their shapes ornate and unfamiliar. They are cold as a corpse’s kiss in his palm.
 
 He and Gerhard move deeper into the laboratory, a place of foul stinks and fouler science. Against the walls, barrels bound in verdigris-eaten iron stand sentinel. Their contents bubble with a slow, greasy *plop… plop…*, releasing a sharp, vinegary reek that stings the throat and waters the eyes. What dormant plagues or transformative poisons simmer in that viscous broth, they do not care to learn.
 
