@@ -87,3 +87,23 @@
 44. **Fifteenth Zombie (Salsvault, Occupied Dormitory)** — Felled a second time by an arrow from *Gerhard*, after taking blows from *Whisper’s* claws and being downed a first time with a shot from *Elara’s* bow.
 
 45. **Sixteenth Zombie (Slasvault, Occupied Dormitory)** — Run through and destroyed by *Halite’s* trident after being pummled by *Whisper*.
+
+46. **Flesh Golem (Salsvault, The Butcher’s Workshop)** — Finished by a final blast of eldritch force from *Kragor* after the party had already downed the stitched behemoth. It had been toppled by *Halite’s* trident and wounded by arrows from *Elara* and *Gerhard*, fire from *Scarlet*, claws from *Whisper*, and blades from *Doctor Pepe*.
+
+47. **First Flying Longsword (Salsvault, Hallway)** — Shattered into a thousand glittering splinters when it struck *Kragor’s* supernatural ice armor.
+
+48. **Second Flying Longsword (Salsvault, Hallway)** — Disabled by a precise flash of *Gerhard’s* scimitar, which sheared through the animating glyph on its hilt after it had been damaged by *Whisper’s* claws.
+
+49. **Third Flying Longsword (Salsvault, Hallway)** — Destroyed with multiple blows from *Gerhard’s* scimitar.
+
+50. **Fourth Flying Longsword (Salsvault, Hallway)** — Broken by a furious and vengeful two-handed wrench from *Doctor Pepe*.
+
+51. **Fifth Flying Longsword (Salsvault, Hallway)** — Pinned to the floor and de-animated by *Halite’s* trident.
+
+52. **Sixth Flying Longsword (Salsvault, Hallway)** — Felled by *Elara’s* silver-tipped arrow after being slashed by *Gerhard’s* scimitar.
+
+53. **Ferol Sal (Salsvault, Laboratory)** — Decapitated by *Kragor’s* new thunder-grey longsword, which sang a dirge as it unmade the creature’s evil. The killing blow came after the party had grievously wounded it with arrows from *Gerhard* and *Elara*, a slash from *Doctor Pepe*, and an initial grapple and pummelling from *Whisper*.
+
+54. **Third Animated Armor (Salsvault, Laboratory)** — Destroyed when *Halite* drove his trident deep into its chest, collapsing the construct into a heap of scrap. The armor had previously been damaged by a heavy blow from *Kragor’s* longsword and primal flames from *Scarlet*.
+
+55. **Fourth Animated Armor (Salsvault, Laboratory)** — Cloven from shoulder to hip by a final, sorrowful swing of *Kragor’s* dirge-blade, after it was damaged by arrows from *Elara* and a solid blow from *Halite*.
