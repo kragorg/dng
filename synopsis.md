@@ -1,5 +1,3 @@
-synopsis.md
----
 # Dungeons & Gardens — Synopsis
 
 <span class="dropcap">The adventure began within</span>
@@ -420,7 +418,7 @@ of dust and thread
 that swallowed the goliath whole.
 Simultaneously,
 at the far end of the hall,
-Elara threw open the door to a kitchen,
+Elara threw open a door to a kitchen,
 unleashing a silent, shrieking storm
 of animated cutlery.
 
@@ -553,11 +551,45 @@ revealing a new, unsearched hallway.
 And from its depths, a sound carried,
 a heavy and sporadic thumping.
 
-_Thump._
+Beyond lay a red-marked door,
+its crude white “X”
+a warning unheeded by Doctor Pepe’s curiosity.
+Within lurked a flesh golem,
+a grotesque patchwork of stolen corpses,
+that nearly crushed the rogue to death
+before falling to the party’s desperate assault.
+The opposite door unleashed
+a whirling storm of animated swords,
+their steel singing a song of death
+that felled both Whisper and Doctor Pepe
+before the party could shatter the enchantments.
+In the wreckage, they discovered
+a pristine longsword of thunder-grey steel,
+its blade veined with silver
+like a storm trapped in metal.
+Doctor Pepe, recognizing his own limitations,
+gifted it to Kragor,
+who bound it to his eldritch pact
+with darkness seeping from his palm.
 
-_Thump._
-
-_Thump._
-
----
-
+After a fitful rest in the golem’s chamber,
+they discovered a room of scuttling crabs
+they chose to bypass,
+focusing instead on the final door.
+There they confronted Ferol Sal himself,
+the undead architect of the Frigid Woe,
+his wight form working frantically in his laboratory.
+The battle was savage—
+Whisper’s soul partially drained by the creature’s touch,
+Doctor Pepe and Halite battered by animated armor.
+Yet they prevailed,
+Kragor’s new blade singing its dirge
+as it severed the wight’s head.
+In death, Ferol Sal left behind
+two brass keys and a laboratory
+of bubbling plagues,
+but still no cure.
+Exhausted and wounded,
+they knew their salvation lay behind one of the locked doors:
+either among the sea-horrors
+or deeper still in Salsvault’s sinking heart.
