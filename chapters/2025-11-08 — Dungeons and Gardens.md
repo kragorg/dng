@@ -1,4 +1,4 @@
-# The Butcher’s Workshop
+# Ferol Sal
 
 <span class="dropcap">The sound is a dead, fleshy</span> thing. Not the sharp crack of a hammer, but a wet, heavy punctuation to the tomb’s deep silence. _Thump. Thump. Thump._ It comes from a door down the hall, painted a flaking blood-red, a crude white “X” scrawled across its center.
 
@@ -99,7 +99,7 @@ He puts down his war hammer, grips the sword’s lizard-skin hilt, and shuts his
 
 He opens his eyes, looks at Doctor Pepe. “I know this tune,” he rumbles. “It is a dirge.”
 
-## Brachyuran Interlude
+## Briney Behemoths
 
 Two doors remain. Doctor Pepe, moving like a man made of glass, approaches the first. The handle turns with unnerving silence. He eases the door inward. A blast of cold air sighs out, heavy with brine and the rot of the sea bed.
 
@@ -109,7 +109,9 @@ Doctor Pepe has had his fill of being a toy for monsters. Silently, he eases the
 
 “Leave the crabs be,” Gerhard advises, his gaze already on the final door. “We don’t have time for seafood.”
 
-## Ferol Sal
+## The Wight’s End
+
+![](ferol_sal.jpg)
 
 Having charted every other passage, their quest now rested on this final, unopened door. Doctor Pepe approaches it as a penitent approaches the block.  He is a creature of nerve endings and scar tissue now, his every movement a careful negotiation with pain. His hands, swathed in Elara’s bandages, are clumsy ghosts of their former selves as he kneels. The lock-picking tools are a familiar weight, but the confidence is gone. He probes the keyhole out of sheer, desperate habit, a prayer offered to a god he no longer trusts.
 
