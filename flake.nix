@@ -3,16 +3,16 @@
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
-    utils.url = "github:gytis-ivaskevicius/flake-utils-plus/master";
+    flake-utils-plus.url = "github:gytis-ivaskevicius/flake-utils-plus/master";
   };
 
   outputs =
     inputs@{
       self,
       nixpkgs,
-      utils,
+      flake-utils-plus,
     }:
-    utils.lib.eachDefaultSystem (
+    flake-utils-plus.lib.eachDefaultSystem (
       system:
       let
         src = ./.;
