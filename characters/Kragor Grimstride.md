@@ -244,3 +244,74 @@ His warlock pact is the ultimate and most logical expression of this philosophy.
 | **View of Personal Code** | “a pragmatic code forged... on the unforgiving anvil of the streets,” a “solemn vow to memory of his parents”                  | Strongly **Lawful**. He adheres to an unwavering, internally consistent code inherited from his family. This is the definition of a personal code superseding societal law.         | **Neutral**. The code is about “results” and “crushing bullies.” This lacks the compassionate, merciful element of a truly Good philosophy, focusing instead on a rigid, retributive form of justice. |
 | **Methodology**           | “He made a deal,” acquiring “tangible tools” (pact magic) to achieve his goals. He views philosophies as tools to be “utilized.” | **Neutral**. He sees the “equal utility of both law and chaos,” using whatever works. This is the hallmark of ethical neutrality, lacking ideological commitment to either side. | **Neutral**. The approach is transactional and results-oriented. It is not driven by altruism (Good) or malice (Evil), but by pragmatic necessity.                                                     |
 | **Source of Strength**    | Mother's legacy of “personal might” and “self-reliance” from Kord; Father's legacy of “noble purpose” from Bahamut.            | A synthesis of **Chaos** (personal might, self-reliance) and **Law** (noble purpose, acting with honor).                                                                                    | A synthesis of **Good** (noble purpose, protecting the vulnerable) and **Neutral** (personal might as a tool for survival).                                                                              |
+
+
+## The Wyrmling
+
+The campfire sputtered weakly against the translucent blue walls of the glacial cavern, its warmth a small, defiant circle in the crushing cold. Kragor pulled his furs tighter before finishing the final intricate gesture of the ritual. He pinched a mote of soot between his thumb and forefinger, crumbling it into the freezing air while murmuring the final syllable.
+
+The atmosphere in the cave seemed to thicken, then pop, like a knuckle cracking underwater. The spell _Comprehend Languages_ settled over Kragor’s mind, a ghostly overlay that would translate the primal into the intelligible.
+
+Opposite him, the white dragon wyrmling had disdainfully kicked aside the pile of pilfered wool blankets Kragor had arranged. Instead, Rime-flake—or just Flake, when Kragor was feeling paternal—pressed his belly directly against the frost-slicked rock, absorbing the chill with visible contentment. He watched Kragor with eyes like chips of frozen milk, five feet of sinew and frost perfectly camouflaged against the jagged stalactites of their shelter.
+
+“Right then, Flake,” Kragor grunted, his voice a gravel slide echoing off the ice. “School is in session. Pay attention, or no frozen mutton.”
+
+The wyrmling let out a sound like a saw cutting ice. Through the filter of the spell, Kragor heard the distinct concept: _«Hunger-waiting-patience-thinning»_.
+
+Kragor sat cross-legged, placing a hand on his own chest, the leather of his armor creaking in the chill.
+
+“_Nothok_,” Kragor said firmly. He tapped his sternum again. “_Nothok_.”
+
+The wyrmling tilted its spade-shaped head. It mimicked the motion, nudging Kragor’s chest with a snout that radiated a numbing cold even through the orc’s layers.
+
+“_Ghik_,” the dragon hissed.
+
+The magic in Kragor’s mind untangled the sibilant noise. _«Two-legs-giver-of-meat»_. Or, more formally: Orc.
+
+“Good,” Kragor nodded. He pointed a thick gray finger at the wyrmling. “_Kulkodar_.”
+
+Flake drew himself up, the ruff of spines along his neck flaring with sudden, prickly vanity. He lashed his tail, shattering a small icicle growing from the floor.
+
+“_Darastrix_,” Flake declared, the word thrumming with an arrogant vibration that rattled Kragor’s teeth and shook snow from the ceiling.
+
+_«Supreme-scaled-lord»_. Simply: Dragon.
+
+“Don’t get cocky,” Kragor muttered. He fixed his gaze on the empty patch of floor, letting his mind slip sideways into the jagged, impossible angles of the Far Realm. He seized a stray thought—a construct of pure greed drawn from the static—and pushed it outward through the psychic barrier of his skull, forcing the cavern’s light to bend using _Minor Illusion_.
+
+In the space between them, the air shimmered and knit itself into a visual lie. A heavy, iron-bound chest materialized, its lid thrown open to reveal a glittering heap of gold coins and ruby-crusted goblets. The warm, golden gleam stood in stark contrast to the cavern’s eternal blues.
+
+“_Grumbull_,” Kragor said, gesturing to the phantasm.
+
+Flake’s pupils narrowed to vertical slits. A low, avaricious purr rumbled in his throat. He lunged, jaws snapping shut on the hoard.
+
+His teeth clicked on empty air. The wyrmling recoiled, shaking his head, sneezing out a puff of icy mist in confusion and betrayal.
+
+“_Grumbull_,” Kragor repeated, gentle but firm. “It is a picture, Flake. But the word is for the thing.”
+
+Flake glared at the empty space, then at Kragor. “_Rasvim_,” he spat, the word dripping with possessive venom.
+
+_«Hoard-to-be-gathered»_. Or: Treasure.
+
+“We’ll get you some real _rasvim_ later,” Kragor promised, soothing the beast’s bruised ego. “Now. Something more challenging.”
+
+Kragor raised his hand, palm up. He focused his will, tapping into the _Elementism_ cantrip. He didn’t need to look far; the cavern was alive with frozen potential. He beckoned a trickle of meltwater from a nearby stalagmite. It came swirling into a globule the size of an apple above his palm.
+
+“Watch,” Kragor commanded.
+
+He transitioned smoothly into _Shape Water_. The liquid sphere shivered and elongated. Under Kragor’s mental sculpting, the water froze instantly into ice, taking the jagged, crystalline form of a tiny, crude dragon.
+
+Kragor then whispered the arcane syllables for _Mage Hand_, tracing a quick sigil in the air. A spectral, translucent limb materialized beneath the ice toy. It gripped the frozen sculpture gently.
+
+“_Zes_,” Kragor said, flicking his fingers to command the spectral hand. It lifted the ice-dragon, guiding it in a soaring arc toward the cavern roof. “_Zes_.”
+
+Flake’s eyes tracked the floating ice-dragon, mesmerized. The affinity for the cold was in his blood; the magic sang to him. He snapped at the toy, not out of anger, but out of playful instinct, missing it as Kragor banked it high near a hanging spear of ice.
+
+“_Zes_,” Kragor repeated.
+
+Flake crouched, his haunches bunching, imaginary wings twitching at his sides.
+
+“_Austrat_!” the wyrmling cried out, leaping into the air, snapping the ice-toy out of the spectral grip with a triumphant crunch.
+
+_«Sky-claiming»_. Or: Fly.
+
+Kragor watched the wyrmling chew contentedly on the magical ice. “_Ghik_ teaches _darastrix_,” he murmured to himself with satisfaction, leaning back against the freezing wall of the cave.
