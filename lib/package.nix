@@ -17,7 +17,7 @@
 }:
 let
   pname = "dungeons-and-gardens";
-  version = "12.0";
+  version = "13.0";
   scripts =
     pkgs.runCommand "dng-scripts"
       {
