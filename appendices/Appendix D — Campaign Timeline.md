@@ -2,9 +2,15 @@
 
 The adventure began in 835 Post-Divergence (PD). This timeline refers to the day the party arrived in Palebank Village as “Day 1”.
 
+### Unndilar 835 PD
+
+- **5 Unndilar,** _Day 34_. The cure is delivered to The Buyer, and the family of Irven Liel is saved.
+- **4 Unndilar,** _Day 33_. The party reaches Syrinlya.
+
 ### Thunsheer 835 PD
 
-- **24 Thunsheer,** _Day 22_. Ferol Sal is destroyed.
+- **31 Thunsheer,** _Day 29_. The party encounters wormkin and are pursued.
+- **24 Thunsheer,** _Day 22_. Ferol Sal is destroyed. The antidote for the Frigid Woe is discovered.
 - **23 Thunsheer,** _Day 21_. The party enters the south wing of Salsvault and defeats several constructs: flying swords and a flesh golem.
 - **22 Thunsheer,** _Day 20_. A blizzard strands the party in the elemental’s cavern.
 - **21 Thunsheer,** _Day 19_. Continued exploration of Salsvault. Defeated many zombies and a giant octopus. Received message from the Buyer: “Tulgi has passed away.”
