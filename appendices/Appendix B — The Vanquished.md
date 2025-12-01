@@ -107,3 +107,13 @@
 54. **Third Animated Armor (Salsvault, Laboratory)** — Destroyed when *Halite* drove his trident deep into its chest, collapsing the construct into a heap of scrap. The armor had previously been damaged by a heavy blow from *Kragor’s* longsword and primal flames from *Scarlet*.
 
 55. **Fourth Animated Armor (Salsvault, Laboratory)** — Cloven from shoulder to hip by a final, sorrowful swing of *Kragor’s* dirge-blade, after it was damaged by arrows from *Elara* and a solid blow from *Halite*.
+
+56. **Giant Crab Behemoth (Salsvault, Crab Pool)** — Felled by a crossbow bolt between the eyes from *Doctor Pepe*, after grappling *Kragor* and taking blows from his longsword, encouraged to slumber by *Elara’s* magic, awakened by trident thrusts from *Halite*, struck by *Gerhard’s* arrows, and taking a critical blow from *Whisper’s* javelin.
+
+57. **First Giant Crab (Salsvault, Crab Pool)** — Dispatched by a javelin from *Whisper* after being incapacitated by *Elara’s* *Sleep* spell, and blasted with eldritch energy by *Kragor*.
+
+58. **Second Giant Crab (Salsvault, Crab Pool)** — Pierced by an arrow from *Elara* before being run through and killed by *Halite's* trident.
+
+59. **Third Giant Crab (Salsvault, Crab Pool)** — Killed by a final slash of *Whisper's* claws after being wounded by *Scarlet* (in crab form).
+
+60. **Zombie Smith (Salsvault, Forge)** — Destroyed by a radiant blow from *Kragor’s* longsword after taking damage from his icy *Armor of Agathys* and *Gerhard’s* scimitar.
