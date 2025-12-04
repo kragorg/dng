@@ -1,5 +1,5 @@
 {
-  description = "for working on Dungeons & Gardens";
+  description = "Grimstride.org web site";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
@@ -15,27 +15,16 @@
     flake-utils-plus.lib.eachDefaultSystem (
       system:
       let
-        src = ./.;
-        callPackage = nixpkgs.legacyPackages.${system}.callPackage;
-        dndbook = callPackage ./lib/dndbook.nix { };
-        dndtex = callPackage ./lib/dndtex.nix {
-          inherit dndbook;
-        };
-        dungeons-and-gardens = callPackage ./lib/package.nix {
-          inherit dndtex src;
-        };
-        dngshell = callPackage ./lib/shell.nix {
-          inherit dungeons-and-gardens src;
-        };
+        inherit (nixpkgs.legacyPackages.${system}) callPackage;
+        website = callPackage ./package.nix {};
       in
       rec {
         packages = {
-          inherit dndbook dndtex dungeons-and-gardens;
-          default = dungeons-and-gardens;
+          default = website;
         };
-        devShells = {
-          default = dngshell;
-        };
+        #devShells = {
+        #  default = devShell;
+        #};
       }
     );
 }

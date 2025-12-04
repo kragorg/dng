@@ -1,5 +1,6 @@
 @import url("reset.css");
 @import url("variables.css");
+@import url("nav.css");
 @import url("fonts.css");
 html {
   background-color: var(--HB_Color_Background);
@@ -46,7 +47,7 @@ a:hover {
     text-decoration: underline;
 }
 
-header + ul {
+h1 + ul {
     justify-content: center;
     margin: 0;
     padding: 0;
@@ -88,4 +89,7 @@ h2 + ul {
       border-radius: 0.25rem;
       cursor: pointer;
     }
+}
+.invisible {
+  display: none
 }

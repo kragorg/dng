@@ -6,29 +6,6 @@ html {
   margin-left: 5vw;
   margin-right: 5vw;
 }
-header {
-  margin: 0.5rem 0px;
-  font-size: 0.5rem;
-  float: right;
-  ul.buttons {
-    margin: 0;
-    padding: 0;
-    gap: 0.25rem;
-    list-style: none;
-    display: flex;
-    flex-wrap: wrap;
-    li a, li a:visited {
-      display: inline-block;
-      padding: 0.25rem 0.5rem;
-      background-color: var(--HB_Color_HeaderText);
-      color: var(--HB_Color_Background);
-      text-decoration: none;
-      border: medium;
-      border-radius: 0.25rem;
-      cursor: pointer;
-    }
-  }
-}
 p {
   line-height: 1.25em;
 }
@@ -55,6 +32,9 @@ ol + p {
 }
 img {
   z-index: -1;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 strong {
   font-weight: bold;
@@ -73,7 +53,7 @@ h1 {
   margin-bottom: 1.8rem;
   line-height: 1em;
 }
-h1 + p::first-letter {
+h1:not(.plain) + p::first-letter {
   font-family: var(--font-family-dropcaps);
   font-style: italic;
   font-weight: 1000;
@@ -90,7 +70,7 @@ h1 + p::first-letter {
   -webkit-background-clip: text;
   background-clip: text;
 }
-h1 + p::first-line {
+h1:not(.plain) + p::first-line {
   font-variant: small-caps;
 }
 h2 {
@@ -233,4 +213,7 @@ body::after {
   text-align: center;
   font-size: 2rem;
   margin: 20px 0;
+}
+.invisible {
+  display: none;
 }

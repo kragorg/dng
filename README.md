@@ -1,16 +1,5 @@
-# Dungeons & Gardens
+# Kragor Grimstride website
 
-Recaps of the Dungeons & Gardens sessions plus ancillary material.
+The adventures of Kragor Grimstride, and friends.
 
-Build with:
-
-```
-nix build
-```
-
-or
-
-```
-nix develop
-build
-```
+Build with `nix build`.
