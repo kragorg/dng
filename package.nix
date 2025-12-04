@@ -15,6 +15,7 @@ uiop.buildSite {
       title = "Kragor Grimstride";
       name = "index";
       css = "index.css";
+      homelink = false;
     }
     rec {
       source = ./dragons.md;

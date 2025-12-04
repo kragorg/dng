@@ -12,17 +12,6 @@ let
   title-identity = _: title: title;
   title-chapter-prefix =
     i: title: if i > 0 then "Chapter ${builtins.toString i}: ${title}" else title;
-  basicNav = pkgs.writeText "header" ''
-    <nav class="nav">
-      <a class="home" data-tooltip="Home" href="index.html"></a>
-    </nav>
-  '';
-  indexedNav = pkgs.writeText "header" ''
-    <nav class="nav">
-      <a class="up" data-tooltip="Up" href="dungeons-and-gardens.html"></a>
-      <a class="home" data-tooltip="Home" href="index.html"></a>
-    </nav>
-  '';
   site = "Dungeons & Gardens";
   prefix = "dng-";
   collectDirectory =
@@ -34,7 +23,7 @@ let
           inherit prefix site source;
           title = title-xform i (uiop.readTitle source);
           name = uiop.title2name title;
-          include = indexedNav;
+          uplink = "dungeons-and-gardens.html";
         }
       ))
     ];
@@ -66,17 +55,16 @@ in
 lists.flatten [
   {
     css = "index.css";
-    include = basicNav;
     name = "dungeons-and-gardens";
     source = index;
     title = "Dungeons & Gardens";
   }
   {
     inherit prefix site;
-    include = indexedNav;
     name = "synopsis";
     source = ./dng/synopsis.md;
     title = "Synopsis";
+    uplink = "dungeons-and-gardens.html";
   }
   indexedPages
 ]

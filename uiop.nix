@@ -2,7 +2,12 @@
   pkgs,
 }:
 let
-  inherit (pkgs.lib) lists sort strings pipe;
+  inherit (pkgs.lib)
+    lists
+    sort
+    strings
+    pipe
+    ;
   src = ./.;
   env = pkgs.symlinkJoin {
     name = "grimstride-buildpage-env";
@@ -56,15 +61,36 @@ rec {
   buildPage =
     {
       css ? "main.css",
-      include ? "",
+      homelink ? true,
       name,
       prefix ? "",
       site ? "",
       source,
       title,
+      uplink ? false,
     }:
     let
       prefixedName = "${prefix}${name}";
+      include = pkgs.writeText "header" ''
+        <nav class="nav">
+          ${
+            if (strings.isStringLike uplink) then
+              ''
+                <a class="up" data-tooltip="Up" href="${uplink}"></a>
+              ''
+            else
+              ""
+          }
+          ${
+            if homelink then
+              ''
+                <a class="home" data-tooltip="Home" href="index.html"></a>
+              ''
+            else
+              ""
+          }
+        </nav>
+      '';
     in
     derivation {
       inherit
