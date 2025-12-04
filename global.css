@@ -1,0 +1,219 @@
+html {
+  font-family: var(--font-family);
+  background-color: var(--HB_Color_Background);
+  background-image: var(--background-image);
+  font-size: clamp(1rem, 3vw, 5rem);
+  margin-left: 5vw;
+  margin-right: 5vw;
+}
+p {
+  line-height: 1.25em;
+}
+p + * {
+  margin-top: 3.25rem;
+}
+p + p {
+  margin-top: 0;
+}
+ul {
+  padding-left: 1.4em;
+  margin-bottom: 0.8em;
+  line-height: 1.25em;
+}
+ol {
+  padding-left: 1.4em;
+  margin-bottom: 0.8em;
+  line-height: 1.25em;
+}
+p + p,
+ul + p,
+ol + p {
+  text-indent: 1em;
+}
+img {
+  z-index: -1;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+strong {
+  font-weight: bold;
+  letter-spacing: -0.02em;
+}
+h1,
+h2,
+h3,
+h4,
+table caption,
+table thead {
+  font-family: var(--font-family-headers);
+  color: var(--HB_Color_HeaderText);
+}
+h1 {
+  margin-bottom: 1.8rem;
+  line-height: 1em;
+}
+h1:not(.plain) + p::first-letter {
+  font-family: var(--font-family-dropcaps);
+  font-style: italic;
+  font-weight: 1000;
+  float: left;
+  padding-bottom: 2px;
+  padding-left: 40px;
+  margin-top: -1rem;
+  margin-bottom: -20px;
+  margin-left: -40px;
+  font-size: clamp(4rem, 20vw, 40rem);
+  line-height: 1em;
+  color: rgba(0, 0, 0, 0);
+  background-image: linear-gradient(-45deg, #322814, #998250, #322814);
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+h1:not(.plain) + p::first-line {
+  font-variant: small-caps;
+}
+h2 {
+  line-height: 0.988em;
+}
+h2 + * {
+  margin-top: 0.5rem;
+}
+h3 {
+  line-height: 0.995em;
+  border-bottom: 2px solid var(--HB_Color_HeaderUnderline);
+}
+h3 + * {
+  margin-top: 0.7rem;
+}
+* + h3 {
+  margin-top: 1.5rem;
+}
+.item + * {
+  margin-top: 0.25rem;
+  margin-bottom: 0.5rem;
+}
+.item + p {
+  + p {
+    text-indent: 0;
+  }
+}
+h4 {
+  line-height: 0.971em;
+}
+h4 + * {
+  margin-top: 0.9rem;
+}
+* + h4 {
+  margin-top: 2.35rem;
+}
+h5 {
+  line-height: 0.951em;
+}
+h5 + * {
+  margin-top: 2rem;
+}
+table caption {
+  font-weight: 600;
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+table {
+  line-height: 1.1rem;
+}
+table p,
+table dl,
+table ul,
+table ol {
+  line-height: 1.2em;
+}
+table ul,
+table ol {
+  padding-left: 1em;
+}
+table em {
+  font-style: italic;
+}
+table strong {
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+table h5 + * {
+  margin-top: 1rem;
+}
+table + * {
+  margin-top: 3.25rem;
+}
+table thead {
+  display: table-row-group;
+  font-weight: 800;
+}
+table thead th {
+  padding: 0.15rem 1rem;
+  vertical-align: bottom;
+}
+table tbody tr td {
+  padding: 0.15rem 1rem;
+}
+table tbody tr:nth-child(odd) {
+  background-color: var(--HB_Color_Accent);
+}
+hr {
+  visibility: hidden;
+  margin: 0px;
+}
+table + p {
+  text-indent: 1em;
+}
+ul ul,
+ol ol,
+ul ol,
+ol ul {
+  margin-bottom: 0px;
+  margin-left: 1.5em;
+}
+dl {
+  line-height: 1.25em;
+}
+dl + * {
+  margin-top: 1.7rem;
+}
+p + dl {
+  margin-top: 1.7rem;
+}
+dt {
+  margin-right: 5px;
+  margin-left: -1em;
+}
+h1 + * {
+  margin-top: 0;
+}
+h4.spell + * {
+  margin-top: 0.35rem;
+    & + * {
+        text-indent: 0;
+        & + * {
+            text-indent: 0;
+            margin-top: 0.35rem;
+            & + * {
+                margin-top: 0.35rem;
+                text-indent: 0;
+            }
+        }
+    }
+}
+blockquote {
+  background-color: var(--HB_Color_Accent);
+  padding: 1em;
+}
+body::after {
+  font-family: var(--font-family-ornamental);
+  content: "❊";
+  display: block;
+  text-align: center;
+  font-size: 2rem;
+  margin: 20px 0;
+}
+.invisible {
+  display: none;
+}
