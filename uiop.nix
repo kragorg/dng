@@ -2,7 +2,17 @@
   pkgs,
 }:
 let
-  inherit (pkgs.lib) lists sort strings pipe;
+  inherit (pkgs.lib)
+    concatMapStrings
+    imap0
+    isString
+    optionalString
+    pipe
+    sort
+    toLower
+    trim
+    ;
+  inherit (pkgs.lib.strings) sanitizeDerivationName;
   src = ./.;
   env = pkgs.symlinkJoin {
     name = "grimstride-buildpage-env";
@@ -28,14 +38,22 @@ rec {
           "${path}" > "$out"
       '';
     in
-    strings.trim (builtins.readFile result);
+    trim (builtins.readFile result);
 
   title2name =
     title:
     pipe title [
-      strings.toLower
-      strings.sanitizeDerivationName
+      toLower
+      sanitizeDerivationName
     ];
+
+  replaceExtension =
+    filename: ext:
+    let
+      m = builtins.match "(.*)\\..*" filename;
+      base = if m == null then filename else builtins.head m;
+    in
+    "${base}.${ext}";
 
   listFiles =
     dir:
@@ -53,18 +71,85 @@ rec {
       (builtins.filter (fname: builtins.match ".*\\.md$" fname != null))
     ];
 
+  skipIndexMarkdown = builtins.filter (fname: builtins.baseNameOf fname != "index.md");
+
+  sources2pages =
+    {
+      prefix,
+      site,
+      uplink,
+      ...
+    }:
+    map (source: rec {
+      inherit
+        prefix
+        site
+        source
+        uplink
+        ;
+    });
+
+  readTitles = map (page: page // { title = readTitle page.source; });
+
+  xformTitles = xform: imap0 (i: page: page // { title = xform i page.title; });
+
+  titles2names = map (page: page // { name = title2name page.title; });
+
+  titleCondPrefix =
+    fn: i: title:
+    if i > 0 then "${fn i}${title}" else title;
+
+  titleIdentity = _: title: title;
+
+  mkPages =
+    title-xform: attrs: directory:
+    let
+      retitle = i: page: page // { title = title-xform i page.title; };
+    in
+    pipe directory [
+      listMarkdown
+      skipIndexMarkdown
+      (sources2pages attrs)
+      readTitles
+      (imap0 retitle)
+      titles2names
+    ];
+
+  mkIndexEntries = concatMapStrings (page: "- [${page.title}](${page.prefix}${page.name}.html)\n");
+
   buildPage =
     {
       css ? "main.css",
-      include ? "",
+      homelink ? true,
       name,
       prefix ? "",
       site ? "",
       source,
       title,
+      uplink ? false,
     }:
     let
       prefixedName = "${prefix}${name}";
+      include = pkgs.writeText "header" ''
+        <nav class="nav">
+          ${
+            if (isString uplink) then
+              ''
+                <a class="up" data-tooltip="Up" href="${uplink}"></a>
+              ''
+            else
+              ""
+          }
+          ${
+            if homelink then
+              ''
+                <a class="home" data-tooltip="Home" href="index.html"></a>
+              ''
+            else
+              ""
+          }
+        </nav>
+      '';
     in
     derivation {
       inherit

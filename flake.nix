@@ -3,28 +3,24 @@
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
-    flake-utils-plus.url = "github:gytis-ivaskevicius/flake-utils-plus/master";
+    flake-utils.url = "github:numtide/flake-utils";
   };
 
   outputs =
     inputs@{
       self,
       nixpkgs,
-      flake-utils-plus,
+      flake-utils,
     }:
-    flake-utils-plus.lib.eachDefaultSystem (
+    flake-utils.lib.eachDefaultSystem (
       system:
       let
         inherit (nixpkgs.legacyPackages.${system}) callPackage;
-        website = callPackage ./package.nix {};
       in
-      rec {
+      {
         packages = {
-          default = website;
+          default = callPackage ./package.nix { };
         };
-        #devShells = {
-        #  default = devShell;
-        #};
       }
     );
 }
