@@ -47,47 +47,39 @@ a:hover {
     text-decoration: underline;
 }
 
+h1 + ul, h2 + ul {
+  padding: 0;
+  justify-content: center;
+  list-style: none;
+  gap: 0.25rem;
+}
+
+h1 + ul li a, h1 + ul li a:visited,
+h2 + ul li a, h2 + ul li a:visited {
+  margin-top: 0.25rem;
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  background-color: var(--HB_Color_HeaderText);
+  color: var(--HB_Color_Background);
+  text-decoration: none;
+  border: medium;
+  border-radius: 0.25rem;
+  cursor: pointer;
+}
+
 h1 + ul {
-    justify-content: center;
     margin: 0;
-    padding: 0;
-    gap: 0.25rem;
     display: flex;
-    list-style: none;
-    li a, li a:visited {
-      margin-top: 0.25rem;
-      display: inline-block;
-      padding: 0.25rem 0.5rem;
-      background-color: var(--HB_Color_HeaderText);
-      color: var(--HB_Color_Background);
-      text-decoration: none;
-      border: medium;
-      border-radius: 0.25rem;
-      cursor: pointer;
-    }
   }
 
 h2 + ul {
-    padding: 0;
-    justify-content: center;
-    list-style: none;
-    gap: 0.25rem;
     column-width: 25rem;
     column-gap: 2rem;
     li {
       break-inside: avoid-column;
     }
     li a, li a:visited {
-      margin-top: 0.25rem;
       width: 20rem;
-      display: inline-block;
-      padding: 0.25rem 0.5rem;
-      background-color: var(--HB_Color_HeaderText);
-      color: var(--HB_Color_Background);
-      text-decoration: none;
-      border: medium;
-      border-radius: 0.25rem;
-      cursor: pointer;
     }
 }
 .invisible {
