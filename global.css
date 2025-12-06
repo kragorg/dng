@@ -49,7 +49,7 @@ table thead {
   color: var(--HB_Color_HeaderText);
 }
 h1 {
-  margin-bottom: calc(1.8rem + 64px);
+  margin-bottom: 1.8rem;
   line-height: 1em;
 }
 h1:not(.plain) + p::first-letter {
