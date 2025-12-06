@@ -9,12 +9,12 @@ let
     site = "Wyrmlings";
     uplink = "wyrmlings.html";
   };
-  pages = uiop.mkPages uiop.titleIdentity config ./.;
+  referencePages = uiop.mkPages uiop.titleIdentity config ./ref;
   header = builtins.readFile ./index.md;
   index = pkgs.writeText (uiop.replaceExtension config.uplink "md") ''
     ${header}
 
-    ${uiop.mkIndexEntries pages}
+    ${uiop.mkIndexEntries referencePages}
   '';
 in
 flatten [
@@ -24,5 +24,23 @@ flatten [
     title = uiop.readTitle source;
     css = "index.css";
   }
-  pages
+  rec {
+    inherit (config) prefix site uplink;
+    name = "kragor-and-rime-flake";
+    source = builtins.path {
+      path = ./. + "/Kragor and Rime-flake.md";
+      name = "${name}.md";
+    };
+    title = uiop.readTitle source;
+  }
+  rec {
+    inherit (config) prefix site uplink;
+    name = "the-tutoring-plan";
+    source = builtins.path {
+      path = ./. + "/The Tutoring Plan.md";
+      name = "${name}.md";
+    };
+    title = uiop.readTitle source;
+  }
+  referencePages
 ]
