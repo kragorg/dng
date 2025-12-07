@@ -27,6 +27,7 @@ cmd=(
     --include-before-body=${^include}
     --metadata pagetitle=${title}
     --output=${out}/${filename}
+    --section-divs
     --standalone
     --title-prefix=${^site}
     --to=html
