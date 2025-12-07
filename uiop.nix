@@ -191,7 +191,7 @@ rec {
       mkdir -p $out
       cp -RH ${env}/* $out
       cd ${src}
-      ${pkgs.fd}/bin/fd -e css -e jpg -e png -e woff2 -X cp {} $out
+      ${pkgs.fd}/bin/fd -e css -e jpg -e png -e woff2 -e zip -X cp {} $out
     '';
 
 }

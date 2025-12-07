@@ -6,4 +6,5 @@
 
 - [Dungeons & Gardens](dungeons-and-gardens.html)
 - [Adventurers League](https://www.icloud.com/numbers/043vvzI4GBlPf5W0ifQOJiIHw)
+- [Model in STL](kragor-stl.zip)
 - [Wyrmlings](wyrmlings.html)
