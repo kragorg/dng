@@ -14,5 +14,5 @@ let
 in
 uiop.buildSite {
   name = "${pname}-${version}";
-  pages = pkgs.lib.lists.flatten (map subsite subsites);
+  pages = map subsite subsites;
 }

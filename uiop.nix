@@ -3,10 +3,10 @@
 }:
 let
   inherit (pkgs.lib)
-    concatMapStrings
+    concatMapStringsSep
+    flatten
     imap0
     isString
-    optionalString
     pipe
     sort
     toLower
@@ -115,7 +115,11 @@ rec {
       titles2names
     ];
 
-  mkIndexEntries = concatMapStrings (page: "- [${page.title}](${page.prefix}${page.name}.html)\n");
+  mkIndexEntries =
+    pages:
+    concatMapStringsSep "\n" (page: "- [${page.title}](${page.prefix}${page.name}.html)") (
+      flatten pages
+    );
 
   buildPage =
     {
@@ -184,7 +188,7 @@ rec {
     let
       env = pkgs.symlinkJoin {
         name = "${name}-env";
-        paths = map buildPage pages;
+        paths = map buildPage (flatten pages);
       };
     in
     pkgs.runCommand name { } ''

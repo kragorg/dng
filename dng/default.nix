@@ -3,7 +3,6 @@
   uiop,
 }:
 let
-  inherit (pkgs.lib) flatten;
   config = {
     prefix = "dng-";
     site = "Dungeons & Gardens";
@@ -13,7 +12,7 @@ let
   chapters = uiop.mkPages chapterPrefix config ./chapters;
   appendices = uiop.mkPages uiop.titleIdentity config ./appendices;
   characters = uiop.mkPages uiop.titleIdentity config ./characters;
-  indexedPages = flatten [
+  indexedPages = [
     chapters
     appendices
     characters
@@ -28,7 +27,7 @@ let
     ${uiop.mkIndexEntries indexedPages}
   '';
 in
-flatten [
+[
   {
     css = "index.css";
     name = "dungeons-and-gardens";
