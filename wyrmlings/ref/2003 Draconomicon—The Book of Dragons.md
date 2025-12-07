@@ -38,6 +38,11 @@ Being an adoptive parent to a dragon is no easy task. Even good-aligned dragons 
 
 Older and wiser dragons eventually learn to respect non-dragons for their abilities and accomplishments, but a newly hatched wyrmling tends to regard a nondragon foster parent as a captor—or at best as a well-meaning fool. Still, it is possible for a nondragon character to forge a bond with a newly hatched wyrmling.
 
+## Dragons and Languages
+
+All dragons speak Draconic. With their high degree of intelligence, most dragons have an affinity for language and speak additional languages as well. Many even study the science of
+language, developing a wide range of tongues.
+
 ## About White Dragons
 
 The smallest, least intelligent, and most animalistic of the true dragons, white dragons prefer frigid climes—usually arctic areas, but sometimes very high mountains, especially in winter. Mountain-dwelling white dragons sometimes have conflicts with red dragons living nearby, but the whites are wise enough to avoid the more powerful red dragons. Red dragons tend to consider white dragons unworthy opponents and usually are content to let a white dragon neighbor skulk out of sight (and out of mind).

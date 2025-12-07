@@ -1,5 +1,6 @@
 # White Dragon Wyrmlings
 
+- [Can a hatchling speak?](wyr-can-a-hatchling-speak.html)
 - [The Tutoring Plan](wyr-the-tutoring-plan.html)
 - [Kragor and Rime-flake](wyr-kragor-and-rime-flake.html)
 

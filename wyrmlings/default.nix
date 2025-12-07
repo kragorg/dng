@@ -35,6 +35,15 @@ flatten [
   }
   rec {
     inherit (config) prefix site uplink;
+    name = "can-a-hatchling-speak";
+    source = builtins.path {
+      path = ./. + "/Can a hatchling speak?.md";
+      name = "${name}.md";
+    };
+    title = uiop.readTitle source;
+  }
+  rec {
+    inherit (config) prefix site uplink;
     name = "the-tutoring-plan";
     source = builtins.path {
       path = ./. + "/The Tutoring Plan.md";
